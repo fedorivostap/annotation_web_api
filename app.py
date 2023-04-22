@@ -28,7 +28,7 @@ def submit():
     doc = nlp(name)
     html = displacy.render(doc, style="ent", page=True)
     return html
-    #return f'Hello, {doc.ents}!'
+
 
 if __name__ == '__main__':
     app.run()
