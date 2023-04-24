@@ -28,6 +28,16 @@ def home():
     return render_template("index.html")
 
 
+@app.route("/train")
+def train_model():
+    return render_template("train.html")
+
+
+@app.route("/annotate_test", methods=['GET', 'POST'])
+def annotate():
+    return render_template("annotate_test.html")
+
+
 @app.route("/annotated", methods=["POST", "GET"])
 def annotated():
     if request.method == "POST":
@@ -35,7 +45,7 @@ def annotated():
         return text
     else:
         # for GET request
-        return render_template("annotated.html")
+        return render_template("annotate.html")
 
 
 @app.route('/submit', methods=['GET', 'POST'])
@@ -47,6 +57,11 @@ def submit():
     logger.info('Annotating text')
     html = displacy.render(doc, style="ent", page=True)
     return html
+
+
+@app.route('/description', methods=['GET', 'POST'])
+def description():
+    return render_template("description.html")
 
 
 if __name__ == '__main__':
