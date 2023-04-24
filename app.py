@@ -1,5 +1,6 @@
 import flask.logging
 from flask import Flask, request, render_template, redirect, url_for
+from markupsafe import Markup
 import logging
 import spacy
 from spacy import displacy
@@ -35,7 +36,14 @@ def train_model():
 
 @app.route("/annotate_test", methods=['GET', 'POST'])
 def annotate():
-    return render_template("annotate_test.html")
+    html = None
+    if request.method == 'POST':
+        text = request.form['text']
+        logger.info("Getting input text for processing...")
+        doc = nlp(text)
+        logger.info("Annotating input text...")
+        html = Markup(displacy.render(doc, style="ent", page=True))
+    return render_template("annotate_test.html", result=html)
 
 
 @app.route("/annotated", methods=["POST", "GET"])

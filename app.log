@@ -16,3 +16,174 @@
 2023-04-24 19:17:39,418 - app - INFO - Annotating text
 2023-04-24 19:17:52,880 - app - INFO - Getting input text
 2023-04-24 19:17:52,933 - app - INFO - Annotating text
+2023-04-24 19:23:17,955 - app - INFO - Getting input text
+2023-04-24 19:23:18,002 - app - INFO - Annotating text
+2023-04-24 21:43:29,076 - app - INFO - Getting input text
+2023-04-24 21:43:29,104 - app - INFO - Annotating text
+2023-04-24 21:43:40,017 - app - INFO - Getting input text
+2023-04-24 21:43:40,037 - app - INFO - Annotating text
+2023-04-24 21:45:02,054 - app - INFO - Getting input text
+2023-04-24 21:45:02,082 - app - INFO - Annotating text
+2023-04-24 21:48:43,480 - app - INFO - Getting input text
+2023-04-24 21:48:43,501 - app - INFO - Annotating text
+2023-04-24 22:50:00,853 - app - INFO - Getting input text for processing...
+2023-04-24 22:50:00,874 - app - INFO - Annotating input text...
+2023-04-24 22:55:14,646 - app - INFO - Getting input text for processing...
+2023-04-24 22:55:14,667 - app - INFO - Annotating input text...
+2023-04-24 22:55:14,669 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 45, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 37, in top-level template code
+    {% set active = 'annotate' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 31, in block 'content'
+    <p>{{ Markup(result) }}</p>
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'Markup' is undefined
+2023-04-24 22:55:40,340 - app - INFO - Getting input text for processing...
+2023-04-24 22:55:40,355 - app - INFO - Annotating input text...
+2023-04-24 22:55:40,356 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 45, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 37, in top-level template code
+    {% set active = 'annotate' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 31, in block 'content'
+    <p>{{ Markup(result) }}</p>
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'Markup' is undefined
+2023-04-24 22:57:40,852 - app - INFO - Getting input text for processing...
+2023-04-24 22:57:40,872 - app - INFO - Annotating input text...
+2023-04-24 22:57:40,873 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 45, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 37, in top-level template code
+    {% set active = 'annotate' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 31, in block 'content'
+    <p>{{ Markup(result) }}</p>
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'Markup' is undefined
+2023-04-24 23:06:48,439 - app - INFO - Getting input text for processing...
+2023-04-24 23:06:48,459 - app - INFO - Annotating input text...
+2023-04-24 23:06:48,461 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 46, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 37, in top-level template code
+    {% set active = 'annotate' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 31, in block 'content'
+    <p>{{ markupsafe.Markup(result) }}</p>
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'markupsafe' is undefined
+2023-04-24 23:07:59,121 - app - INFO - Getting input text for processing...
+2023-04-24 23:07:59,140 - app - INFO - Annotating input text...
+2023-04-24 23:07:59,142 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 46, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 37, in top-level template code
+    {% set active = 'annotate' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 31, in block 'content'
+    <p>{{ Markup(result) }}</p>
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'Markup' is undefined
+2023-04-24 23:12:47,736 - app - INFO - Getting input text for processing...
+2023-04-24 23:12:47,755 - app - INFO - Annotating input text...
+2023-04-24 23:13:13,278 - app - INFO - Getting input text for processing...
+2023-04-24 23:13:13,292 - app - INFO - Annotating input text...

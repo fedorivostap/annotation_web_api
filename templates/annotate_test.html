@@ -5,11 +5,33 @@
 {% endblock %}
 
 {% block content %}
-    <form method="POST" action="/submit">
-      <label for="text-for-annotation">Input your text here for annotation:</label>
-      <textarea id="text-for-annotation" name="text"></textarea>
-      <input type="submit" value="Submit"/>
-    </form>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card">
+                    <div class="card-header">
+                        Text Processing
+                    </div>
+                    <div class="card-body">
+                        <form method="POST" action="/annotate_test">
+                            <div class="form-floating mb-3">
+                                <textarea class="form-control" id="text-input" name="text" rows="10"></textarea>
+                                <label for="text-input">Enter your text here</label>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Process</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% if result %}
+    <h2>Result:</h2>
+    <p>{{ result }}</p>
+    {% endif %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/js/bootstrap.min.js"></script>
+</body>
 {% endblock %}
 
 {% set active = 'annotate' %}
