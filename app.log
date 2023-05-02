@@ -187,3 +187,392 @@ jinja2.exceptions.UndefinedError: 'Markup' is undefined
 2023-04-24 23:12:47,755 - app - INFO - Annotating input text...
 2023-04-24 23:13:13,278 - app - INFO - Getting input text for processing...
 2023-04-24 23:13:13,292 - app - INFO - Annotating input text...
+2023-04-24 23:14:11,581 - app - INFO - Getting input text for processing...
+2023-04-24 23:14:11,600 - app - INFO - Annotating input text...
+2023-04-25 09:06:49,258 - app - INFO - Getting input text for processing...
+2023-04-25 09:06:49,282 - app - INFO - Annotating input text...
+2023-04-25 12:25:47,465 - app - INFO - Getting input text
+2023-04-25 12:25:47,497 - app - INFO - Annotating text
+2023-04-25 12:26:09,732 - app - INFO - Getting input text for processing...
+2023-04-25 12:26:09,752 - app - INFO - Annotating input text...
+2023-04-25 12:26:26,498 - app - INFO - Getting input text for processing...
+2023-04-25 12:26:26,513 - app - INFO - Annotating input text...
+2023-04-25 12:29:46,521 - app - INFO - Getting input text for processing...
+2023-04-25 12:29:46,563 - app - INFO - Annotating input text...
+2023-04-25 14:44:19,790 - app - INFO - Getting input text for processing...
+2023-04-25 14:44:19,801 - app - INFO - Annotating input text...
+2023-04-25 14:44:38,305 - app - INFO - Getting input text for processing...
+2023-04-25 14:44:38,318 - app - INFO - Annotating input text...
+2023-04-26 13:58:33,804 - app - INFO - Getting input text for processing...
+2023-04-26 13:58:33,906 - app - INFO - Annotating input text...
+2023-04-26 13:58:52,966 - app - INFO - Getting input text for processing...
+2023-04-26 13:58:52,998 - app - INFO - Annotating input text...
+2023-04-26 14:00:26,101 - app - INFO - Getting input text for processing...
+2023-04-26 14:00:26,123 - app - INFO - Annotating input text...
+2023-04-26 14:12:59,718 - app - INFO - Getting input text for processing...
+2023-04-26 14:12:59,735 - app - INFO - Annotating input text...
+2023-04-26 14:20:08,135 - app - INFO - Getting input text for processing...
+2023-04-26 14:20:08,154 - app - INFO - Annotating input text...
+2023-04-26 14:29:32,662 - app - INFO - Getting input text for processing...
+2023-04-26 14:29:32,676 - app - INFO - Annotating input text...
+2023-04-26 14:37:35,451 - app - INFO - Getting input text for processing...
+2023-04-26 14:37:35,462 - app - INFO - Annotating input text...
+2023-04-26 14:37:35,464 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 49, in annotate
+    del body['padding']
+TypeError: 'NoneType' object does not support item deletion
+2023-04-26 14:39:31,327 - app - INFO - Getting input text for processing...
+2023-04-26 14:39:31,339 - app - INFO - Annotating input text...
+2023-04-26 14:41:29,961 - app - INFO - Getting input text for processing...
+2023-04-26 14:41:29,971 - app - INFO - Annotating input text...
+2023-04-26 14:41:29,974 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 49, in annotate
+    del body['style']
+TypeError: 'NoneType' object does not support item deletion
+2023-04-26 14:48:05,277 - app - INFO - Getting input text for processing...
+2023-04-26 14:48:05,291 - app - INFO - Annotating input text...
+2023-04-26 14:49:26,027 - app - INFO - Getting input text for processing...
+2023-04-26 14:49:26,041 - app - INFO - Annotating input text...
+2023-04-26 14:52:25,405 - app - INFO - Getting input text for processing...
+2023-04-26 14:52:25,419 - app - INFO - Annotating input text...
+2023-04-26 14:52:32,396 - app - INFO - Getting input text for processing...
+2023-04-26 14:52:32,407 - app - INFO - Annotating input text...
+2023-04-26 14:52:38,274 - app - INFO - Getting input text for processing...
+2023-04-26 14:52:38,284 - app - INFO - Annotating input text...
+2023-04-26 14:55:47,214 - app - ERROR - Exception on /annotate_test [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 52, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 35, in template
+    {% endblock %}
+jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endblock'.
+2023-04-26 14:56:42,752 - app - ERROR - Exception on /annotate_test [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 52, in annotate
+    return render_template("annotate_test.html", result=html)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\annotate_test.html", line 7, in template
+    {{% if result %}
+jinja2.exceptions.TemplateSyntaxError: unexpected '%'
+2023-04-26 14:57:44,406 - app - INFO - Getting input text for processing...
+2023-04-26 14:57:44,420 - app - INFO - Annotating input text...
+2023-04-26 14:58:40,315 - app - INFO - Getting input text for processing...
+2023-04-26 14:58:40,326 - app - INFO - Annotating input text...
+2023-04-26 15:00:32,259 - app - INFO - Getting input text for processing...
+2023-04-26 15:00:32,266 - app - INFO - Annotating input text...
+2023-04-26 15:01:31,583 - app - INFO - Getting input text for processing...
+2023-04-26 15:01:31,590 - app - INFO - Annotating input text...
+2023-04-26 15:02:07,043 - app - INFO - Getting input text for processing...
+2023-04-26 15:02:07,053 - app - INFO - Annotating input text...
+2023-04-26 15:03:48,552 - app - INFO - Getting input text for processing...
+2023-04-26 15:03:48,566 - app - INFO - Annotating input text...
+2023-04-27 21:28:45,396 - app - INFO - Getting input text for processing...
+2023-04-27 21:28:45,578 - app - INFO - Annotating input text...
+2023-04-27 22:00:48,147 - app - INFO - Getting input text for processing...
+2023-04-27 22:00:48,185 - app - INFO - Annotating input text...
+2023-04-28 23:21:32,070 - app - INFO - Getting input text for processing...
+2023-04-28 23:21:32,090 - app - INFO - Annotating input text...
+2023-04-28 23:24:35,831 - app - INFO - Getting input text for processing...
+2023-04-28 23:24:35,859 - app - INFO - Annotating input text...
+2023-04-28 23:24:43,949 - app - INFO - Getting input text for processing...
+2023-04-28 23:24:44,025 - app - INFO - Annotating input text...
+2023-04-28 23:25:26,970 - app - INFO - Getting input text for processing...
+2023-04-28 23:25:26,988 - app - INFO - Annotating input text...
+2023-05-02 00:24:18,096 - app - INFO - Getting input text for processing...
+2023-05-02 00:24:18,127 - app - INFO - Annotating input text...
+2023-05-02 00:35:49,173 - app - INFO - Getting input text for processing...
+2023-05-02 00:35:49,197 - app - INFO - Annotating input text...
+2023-05-02 00:36:10,377 - app - INFO - Getting input text for processing...
+2023-05-02 00:36:10,386 - app - INFO - Annotating input text...
+2023-05-02 00:36:16,348 - app - INFO - Getting input text for processing...
+2023-05-02 00:36:16,355 - app - INFO - Annotating input text...
+2023-05-02 00:36:47,051 - app - INFO - Getting input text for processing...
+2023-05-02 00:36:47,061 - app - INFO - Annotating input text...
+2023-05-02 00:37:56,230 - app - INFO - Getting input text for processing...
+2023-05-02 00:37:56,240 - app - INFO - Annotating input text...
+2023-05-02 00:38:16,937 - app - INFO - Getting input text for processing...
+2023-05-02 00:38:16,945 - app - INFO - Annotating input text...
+2023-05-02 13:38:25,003 - app - INFO - Getting input text for processing...
+2023-05-02 13:38:25,023 - app - INFO - Annotating input text...
+2023-05-02 13:44:43,351 - app - INFO - Getting input text for processing...
+2023-05-02 13:44:43,361 - app - INFO - Annotating input text...
+2023-05-02 13:45:26,488 - app - INFO - Getting input text for processing...
+2023-05-02 13:45:26,495 - app - INFO - Annotating input text...
+2023-05-02 13:47:55,421 - app - INFO - Getting input text for processing...
+2023-05-02 13:47:55,429 - app - INFO - Annotating input text...
+2023-05-02 13:48:00,081 - app - INFO - Getting input text for processing...
+2023-05-02 13:48:00,082 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 59, in annotate
+    doc = nlp(text)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1016, in __call__
+    error_handler(name, proc, [doc], e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\util.py", line 1689, in raise_error
+    raise e
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1011, in __call__
+    doc = proc(doc, **component_cfg.get(name, {}))  # type: ignore[call-arg]
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\crf_extractor.py", line 592, in __call__
+    self.spacy_tokenizer.tokenize(example, attribute="doc")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\tokenizer.py", line 87, in tokenize
+    idx = tokens[-1].end + 1
+IndexError: list index out of range
+2023-05-02 13:48:05,558 - app - INFO - Getting input text for processing...
+2023-05-02 13:48:05,559 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 59, in annotate
+    doc = nlp(text)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1016, in __call__
+    error_handler(name, proc, [doc], e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\util.py", line 1689, in raise_error
+    raise e
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1011, in __call__
+    doc = proc(doc, **component_cfg.get(name, {}))  # type: ignore[call-arg]
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\crf_extractor.py", line 592, in __call__
+    self.spacy_tokenizer.tokenize(example, attribute="doc")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\tokenizer.py", line 87, in tokenize
+    idx = tokens[-1].end + 1
+IndexError: list index out of range
+2023-05-02 13:48:20,767 - app - INFO - Getting input text for processing...
+2023-05-02 13:48:20,776 - app - INFO - Annotating input text...
+2023-05-02 13:48:27,933 - app - INFO - Getting input text for processing...
+2023-05-02 13:48:27,934 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 59, in annotate
+    doc = nlp(text)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1016, in __call__
+    error_handler(name, proc, [doc], e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\util.py", line 1689, in raise_error
+    raise e
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1011, in __call__
+    doc = proc(doc, **component_cfg.get(name, {}))  # type: ignore[call-arg]
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\crf_extractor.py", line 592, in __call__
+    self.spacy_tokenizer.tokenize(example, attribute="doc")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\tokenizer.py", line 87, in tokenize
+    idx = tokens[-1].end + 1
+IndexError: list index out of range
+2023-05-02 18:09:37,777 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 40, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 24, in annotate
+    doc = nlp(text)
+TypeError: 'NoneType' object is not callable
+2023-05-02 18:09:50,286 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 40, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 27, in annotate
+    nlp.disable_pipe("ner")
+AttributeError: 'NoneType' object has no attribute 'disable_pipe'
+2023-05-02 18:10:23,277 - app - ERROR - Exception on /annotate_test [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 41, in annotate
+    return render_template("annotate_test.html", result=html)
+UnboundLocalError: local variable 'html' referenced before assignment
+2023-05-02 18:10:53,979 - app - ERROR - Exception on /annotate_test [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 41, in annotate
+    return render_template("annotate_test.html", result=html)
+UnboundLocalError: local variable 'html' referenced before assignment
+2023-05-02 18:14:09,895 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 40, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 24, in annotate
+    doc = nlp(text)
+TypeError: 'NoneType' object is not callable
+2023-05-02 19:01:28,269 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 46, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 31, in annotate
+    doc = self.nlp(text)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1016, in __call__
+    error_handler(name, proc, [doc], e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\util.py", line 1689, in raise_error
+    raise e
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 1011, in __call__
+    doc = proc(doc, **component_cfg.get(name, {}))  # type: ignore[call-arg]
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\crf_extractor.py", line 592, in __call__
+    self.spacy_tokenizer.tokenize(example, attribute="doc")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\tokenizer.py", line 87, in tokenize
+    idx = tokens[-1].end + 1
+IndexError: list index out of range
+2023-05-02 19:06:50,695 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 46, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 23, in annotate
+    raise ValueError("You must provide text for annotation and specify the model you want to use!")
+ValueError: You must provide text for annotation and specify the model you want to use!
+2023-05-02 19:07:04,763 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 46, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 23, in annotate
+    raise ValueError("You must provide text for annotation and specify the model you want to use!")
+ValueError: You must provide text for annotation and specify the model you want to use!
+2023-05-02 19:07:28,578 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 46, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 23, in annotate
+    raise ValueError("You must provide text for annotation and specify the model you want to use!")
+ValueError: You must provide text for annotation and specify the model you want to use!

@@ -19,6 +19,9 @@
                                 <textarea class="form-control" id="text-input" name="text" rows="10"></textarea>
                                 <label for="text-input">Enter your text here</label>
                             </div>
+                            <input type="radio", name="model", value="standard">Standard pl_core_news<br>
+                            <input type="radio", name="model", value="custom">Model with custom CRF NER<br>
+                            <br>
                             <button type="submit" class="btn btn-primary">Process</button>
                         </form>
                     </div>
@@ -26,12 +29,15 @@
             </div>
         </div>
     </div>
-    {% if result %}
-    <h2>Result:</h2>
-    <p>{{ result }}</p>
-    {% endif %}
+    <div class="result">
+      {% if result %}
+        <h2>Result:</h2>
+        {{ result|safe }}
+      {% endif %}
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/js/bootstrap.min.js"></script>
 </body>
 {% endblock %}
+
 
 {% set active = 'annotate' %}

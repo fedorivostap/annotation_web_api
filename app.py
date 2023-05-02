@@ -1,12 +1,16 @@
 import flask.logging
 from flask import Flask, request, render_template, redirect, url_for
+from text_annotation.text_annotation_blueprint.views import text_annotation_blueprint
 from markupsafe import Markup
+from bs4 import BeautifulSoup
+import re
 import logging
 import spacy
 from spacy import displacy
+import spacy
 
-nlp = spacy.load("en_core_web_sm")
 app = Flask(__name__)
+app.register_blueprint(text_annotation_blueprint)
 
 
 # configuring flask logging
@@ -34,18 +38,6 @@ def train_model():
     return render_template("train.html")
 
 
-@app.route("/annotate_test", methods=['GET', 'POST'])
-def annotate():
-    html = None
-    if request.method == 'POST':
-        text = request.form['text']
-        logger.info("Getting input text for processing...")
-        doc = nlp(text)
-        logger.info("Annotating input text...")
-        html = Markup(displacy.render(doc, style="ent", page=True))
-    return render_template("annotate_test.html", result=html)
-
-
 @app.route("/annotated", methods=["POST", "GET"])
 def annotated():
     if request.method == "POST":
@@ -61,10 +53,11 @@ def submit():
     text = request.form['text']
     logger.info('Getting input text')
     # Annotating text
-    doc = nlp(text)
+    # doc = nlp(text)
     logger.info('Annotating text')
-    html = displacy.render(doc, style="ent", page=True)
-    return html
+    #html = displacy.render(doc, style="ent", page=True)
+    #return html
+    return 1
 
 
 @app.route('/description', methods=['GET', 'POST'])
