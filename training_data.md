@@ -1,0 +1,59 @@
+- Umierają ostatni świadkowie wojny.
+- Dziś grozi nam banalizacja historii.
+- Widzę to w rozmaitej postaci.
+- Chociażby popularność "historii alternatywnej", która jest albo oszustwem, albo zabawą.
+- Grozi nam wreszcie odejście od historii politycznej na rzecz społecznej, czy tej opowiadającej o tzw. zwykłych ludziach.
+- To powoduje, że właściwie znika pytanie o to, kto był sprawcą, a kto ofiarą - mówi prof.
+- Marek Kornat, badacz dyplomacji II wojny światowej. Prof. [Marek Kornat](per) (UKSW): Zdając sobie sprawę, że pytanie pańskie zachęca do szerszych rozważań, ograniczę się do stwierdzenia, że jednak nie.
+- Ogromne straty w ludności, zrujnowana stolica, utrata części terytorium, przesunięte granice, podporządkowanie Sowietom na blisko pół wieku – to wszystko prawda.
+- Jednak [Teheran](loc), [Jałta](loc) i [Poczdam](loc) nie oznaczały dla [Polski](loc) tego, co przyniósł Węgrom pokój w Trianon.
+- Decydują o tym postanowienia terytorialne.
+- Byliśmy jedynym narodem, który wychodził z II wojny światowej w roli pokrzywdzonego, ale i beneficjenta.
+- Utraciliśmy terytoria na wschodzie, otrzymując ziemie na zachodzie i niepomiernie szerszy dostęp do morza niż ten, który przyznał Polsce Traktat Wersalski.
+- [Polska](loc) bez Ziem Zachodnich, ale z granicą na [Linii Curzona](loc) na wschodzie byłaby organizmem zdegradowanym do roli małego państewka.
+- Rząd (nawet narzucony) zawsze łatwiej usunąć niż zmienić na korzyść granice.
+- Możemy sobie wyobrazić wiele gorszych scenariuszy.
+- Wspomnę tylko o jednym.
+- Sojusz Berlin-Moskwa, który ustanowiono paktami Ribbentrop-Mołotow z [23 sierpnia](date) i [28 września 1939 r](date)., mógł trwać dłużej.
+- Przetrwał on tylko niecałe dwa lata.
+- Trwając dłużej mógł przynieść choćby większe straty ludzkie pod panowaniem sowieckim.
+- Wojna niemiecko-sowiecka [22 czerwca 1941](loc) była dla Polaków wybawieniem.
+- Powie to z pewnością każdy, kto wówczas żył.
+- Mówię to jako historyk, jakkolwiek to nie zabrzmi.
+- Możemy sobie też wyobrazić sytuację, w której nie doszedł do skutku układ Sikorski-Majski.
+- Mogło tak się stać, gdyby generał-premier pryncypialnie domagał się przywrócenia [Polsce](loc) granicy ryskiej na wschodzie (expressis verbis).
+- Nie udałoby się wówczas wydostać z [ZSRR](loc) tych ponad stu tysięcy Polaków skazanych tam na zagładę.
+- [Jałta](loc) jest symbolem naszego losu.
+- Ma on szczególne miejsce w naszej pamięci.
+- Ale też jesteśmy narodem – pod tym względem – wyjątkowo silnie przeżywającym to doświadczenie.
+- Pamięć [Jałty](loc) nie działa już w taki sposób w świadomości innych narodów naszego regionu [Europy](loc), doświadczających – podobnie jak my – sowieckiej dominacji.
+- One nie biły się po stronie Niemiec.
+- Albo skapitulowały, albo związały swój los z Niemcami jak [Słowacja](loc), która skorzystała z rozbicia [Czechosłowacji](loc), by powołać do życia własne, chociaż zależne od [Berlina](loc) państwo.
+- Negatywna percepcja [Jałty](loc) działa również we Francji, ale to z innego powodu.
+- Albowiem nie zaproszono jej rządu do rozmów o kształcie powojennej [Europy](loc).
+- Tak powstał syndrom "zdegradowanego mocarstwa".
+- Różne interpretacje są tu możliwe.- Podczas spotkania na temat Ustawy o Zachowaniu Praw UE, brytyjska sekretarz ds. biznesu Kemi Badenoch zapowiedziała, że do końca roku rząd wyrzuci do śmieci tylko 800 z mniej więcej 3200 unijnych przepisów, które automatycznie trafiły do brytyjskiego prawa po brexicie.
+- Projekt ustawy wprowadza również kontrowersyjną "klauzulę wygaśnięcia", która automatycznie likwiduje przepisy UE, które zostały w prawie brytyjskim, jeśli nie zostaną zmienione lub uchylone do końca tego roku.
+- Zwolennicy postrzegają tę wycinkę jako kluczową korzyść z brexitu, ponieważ Wielka Brytania będzie mogła wtedy obrać własną drogę niezależną od wspólnoty.
+- Klauzula została jednak skrytykowana przez grupy biznesowe za tworzenie niepewności regulacyjnej.
+- Badenoch wprowadzenie klauzuli argumentowała tym, że nie jest możliwe szybkie usunięcie tysięcy praw europejskich.
+- Rzecznik rządu nie zaprzeczył tym doniesieniom i powiedział, że administracja obecnie rozważa swoje podejście do poprawek do ustawy, która wciąż czeka na analizę w Izbie Lordów zaplanowaną na połowę maja.
+- Dalsza część artykułu znajduje się pod materiałem wideo: — Pozostajemy zaangażowani w zapewnienie, że Ustawa o Zachowaniu Praw UE otrzyma królewską zgodę, a nadrzędność prawa unijnego zakończy się wraz z usunięciem niepotrzebnych i uciążliwych przepisów UE do końca tego roku — powiedział rzecznik.
+- — Ustawa umożliwi państwu dalsze wykorzystanie możliwości brexitu poprzez zapewnienie, że przepisy będą odpowiadać potrzebom Wielkiej Brytanii, pomagając rozwijać naszą gospodarkę i napędzać innowacje — dodał.
+- Jednak ustawa zirytowała torysowskich brexitowców.
+- Jacob Rees-Mogg, były sekretarz ds. biznesu, który zainicjował plan odejścia od prawa UE w czasie, gdy był w rządzie, powiedział, że Badenoch jest "dynamiczną minister" i jeśli nie będzie w stanie spełnić obietnicy, to może to sugerować opór ze strony służby cywilnej, którzy są opłacani, aby służyć obywatelom.
+- — Pytanie brzmi, czy zamiast pieczonej wołowiny pełnego brexitu z pieczonymi ziemniakami i puddingiem Yorkshire i odrobiną sosu, na które liczyliśmy, dostaniemy teraz jedynie cienki kleik.
+- Inni dostrzegli w tym pragmatyczny kompromis, który może przynieść kontynuację poprawy relacji Wielkiej Brytanii z Unią Europejską.
+- David Davis, były sekretarz ds. brexitu, powiedział POLITICO, że najważniejszym celem powinno być uzyskanie szczegółowej kontroli nad konkretnymi ustawami.
+- Wzmocnienie więzi z Brukselą jest "drugorzędne, szczerze mówiąc".
+- — Prawda jest taka, że całkiem spora część prawa unijnego ma niewielkie znaczenie z różnych powodów.
+- Jednym z nich jest to, że są to drobne przepisy, często zgodne z innymi międzynarodowymi przepisami, które bylibyśmy i tak skłonni przestrzegać, jak np. przepisy ONZ w sektorze motoryzacyjnym.
+- Z drugiej strony, są takie, które robią dużą różnicę i mają znaczenie dla naszego kraju i to na nich powinniśmy się skupić — powiedział Davis.
+- Davis, który wcześniej wyraził zaniepokojenie skutkami zbyt szybkiego znoszenia praw unijnych, powiedział, że niektórzy eurosceptyczni posłowie obawiają się, że jeśli konserwatyści przegrają następne wybory powszechne, Partia Pracy nie dokończy procesu eliminowania przepisów UE.
+- Podkreślił, że ważne jest, aby dać Izbie Gmin wystarczająco dużo czasu na przegląd tysięcy ustaw, które wciąż wymagają, by się nimi zająć.
+- — Hasłem kampanii brexitu było "odzyskać kontrolę".
+- Jeśli spróbujesz przyspieszyć wszystko naraz, Izba Gmin nie będzie miała czasu, aby odpowiednio to przeanalizować.
+- Uważam, że powinniśmy kontynuować ich przegląd w dłuższej perspektywie — zauważył Davis.
+- Anand Menon, brytyjski profesor polityki europejskiej, powiedział, że nowy plan rządu jest "znacznie bardziej rozsądny".
+- — Nikt nigdy nie twierdził, że nie ma unijnych regulacji, których nie powinniśmy się pozbyć lub które moglibyśmy zmienić.
+- Jednak pomysł wyrzucenia ich wszystkich naraz, aby coś udowodnić, jest po prostu lekkomyślny — powiedział Menon.
