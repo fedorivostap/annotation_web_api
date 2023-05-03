@@ -576,3 +576,34 @@ Traceback (most recent call last):
   File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 23, in annotate
     raise ValueError("You must provide text for annotation and specify the model you want to use!")
 ValueError: You must provide text for annotation and specify the model you want to use!
+2023-05-03 00:09:29,803 - app - ERROR - Exception on /annotate_test [POST]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 53, in annotate
+    html = annotator.annotate(text, model)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 31, in annotate
+    self.nlp.add_pipe("ner_crf")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 791, in add_pipe
+    validate=validate,
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy\language.py", line 679, in create_pipe
+    resolved = registry.resolve(cfg, validate=validate)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\confection\__init__.py", line 729, in resolve
+    config, schema=schema, overrides=overrides, validate=validate, resolve=True
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\confection\__init__.py", line 778, in _make
+    config, schema, validate=validate, overrides=overrides, resolve=resolve
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\confection\__init__.py", line 849, in _fill
+    getter_result = getter(*args, **kwargs)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\text_annotation\text_annotation_blueprint\views.py", line 14, in create_component
+    crf_extractor = CRFExtractor().from_disk("/model.pkl")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\spacy_crfsuite\crf_extractor.py", line 108, in from_disk
+    state_dict = joblib.load(path)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\joblib\numpy_pickle.py", line 650, in load
+    with open(filename, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/model.pkl'

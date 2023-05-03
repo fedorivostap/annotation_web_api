@@ -11,7 +11,7 @@ text_annotation_blueprint = Blueprint('text_annotation', __name__)
 
 @Language.factory("ner_crf")
 def create_component(nlp, name):
-    crf_extractor = CRFExtractor().from_disk("E:\\gmb_dataset\\spacy_crfsuite\\spacy_crfsuite\\model.pkl")
+    crf_extractor = CRFExtractor().from_disk("C:\\Users\\Ostap\\PycharmProjects\\annotation_web_service\\model.pkl")
     return CRFEntityExtractor(nlp, crf_extractor=crf_extractor)
 
 
