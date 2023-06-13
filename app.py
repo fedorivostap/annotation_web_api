@@ -1,13 +1,6 @@
-import flask.logging
 from flask import Flask, request, render_template, redirect, url_for
 from text_annotation.text_annotation_blueprint.views import text_annotation_blueprint
-from markupsafe import Markup
-from bs4 import BeautifulSoup
-import re
 import logging
-import spacy
-from spacy import displacy
-import spacy
 
 app = Flask(__name__)
 app.register_blueprint(text_annotation_blueprint)
