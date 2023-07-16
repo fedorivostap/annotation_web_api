@@ -37,18 +37,18 @@
 - Marsz odbędzie się [4 czerwca](time) w 34. rocznicę pierwszych — od czasów wybuchu II wojny światowej — częściowo wolnych wyborów do [Sejmu](org) i [Senatu](org).
 - Kwestia czerwcowego marszu wzbudziła już sporo emocji.
 - Głównie za sprawą [Szymona Hołowni](per), który zapowiedział, że nie pojawi się na tym wydarzeniu.
-- Zdaniem lidera [Polski 2050](org) "marszami w Warszawie wyborów się nie wygrywa".
+- Zdaniem lidera [Polski 2050](org) "marszami w [Warszawie](loc) wyborów się nie wygrywa".
 - Zaznaczył jednak, że niektórzy działacze jego partii mogą się pojawić na wydarzeniu organizowanym przez [KO](org).
 - [Hołownia](per) na jednym ze spotkań z wyborcami przekazał, że "[4 czerwca](time) to data specjalna w kalendarzu Polaków" i [Polska 2050](org) od dawna ma zaplanowane wydarzenia w całej [Polsce](loc).
 - Ja uważam, że musimy być wszędzie, nie tylko w [Warszawie](loc), jeżeli chcemy na jesieni te wybory wygrać — dodał.
 - Po słowach [Hołowni](per) wybuchła burza, w środę po południu opublikował na [Twitterze](org) oświadczenie.
-- "Dziś, [2 maja 2023 roku](time) o godzinie [13.30](time), zmarł nasz najukochańszy człowiek, [Paweł Smoleński](per), najcudowniejszy mąż i przyjaciel, najlepszy ojciec, świetny teść, najwspanialszy dziadek" — przekazała [Maria Fredro-Smoleńska](per).
+- "Dziś, [2 maja 2023](time) roku o godzinie [13.30](time), zmarł nasz najukochańszy człowiek, [Paweł Smoleński](per), najcudowniejszy mąż i przyjaciel, najlepszy ojciec, świetny teść, najwspanialszy dziadek" — przekazała [Maria Fredro-Smoleńska](per).
 - Po oficjalnym komunikacie rodziny, informację o śmierci [Smoleńskiego](per) podała ["Gazeta Wyborcza"](org), z którą dziennikarz był związany od samego początku, czyli [1989](time) r. "Przedwczesna śmierć [Pawła Smoleńskiego](per) oznacza nie tylko wielką stratę dla polskiego dziennikarstwa.
 - W polskim społeczeństwie obywatelskim, w grupie wyznawców wolności, demokracji, tolerancji i [Europy](loc) powstała wyrwa, której nie da się zapełnić" — żegna kolegę z redakcji wicenaczelny dziennika [Bartosz T. Wieliński](per).
 - "[Paweł](per) w historii [Polski](loc) zapisał piękną kartę.
 - Współtworzył ["Gazetę Wyborczą"](org), był autorem wielu fundamentalnych tekstów i kilkunastu reporterskich książek.
 - [Paweł Smoleński](per) urodził się [7 lipca 1959 r.](per) W czasach [PRL-u](loc) współpracował z pismami drugiego obiegu, pisał też do paryskiej ["Kultury"](org).
-- [W 1989](time) r. został dziennikarzem ["Gazety Wyborczej"](org).
+- W [1989](time) r. został dziennikarzem ["Gazety Wyborczej"](org).
 - Pod koniec [grudnia 2002](time) roku w [GW](org) ukazał się jego artykuł "Ustawa za łapówkę, czyli przychodzi [Rywin](per) do [Michnika](per)", opisując aferę [Rywina](per).
 - Był autorem kilku książek, a także reportaży i esejów, dotyczących między innymi [Izraela](loc).
 - Dzień Flagi został ustanowiony przez [Sejm](org) na mocy ustawy z [20 lutego 2004](time) r To święto, które ma wyrażać szacunek do flagi i propagować wiedzę o polskiej tożsamości oraz symbolach narodowych.
@@ -792,7 +792,7 @@
 - Jeżeli nasza starszyzna wezwie nas do dżihadu, zajmiemy cały [Iran](loc) w 24 godziny - mówił wysoko postawiony dowódca sił [Talibanu](org), [Abdul Hamid Khorasani](per).
 - Zajmiemy [Teheran](loc) w ciągu kilku godzin, jeżeli tylko pozwoli na to najwyższy przywódca [Talibanu](org) – dodał.
 - Nie ma precyzyjnych informacji co do przyczyny weekendowych starć, przypuszcza się jednak, że głównym ich powodem mogą być napięcia związane z konfliktem o wodę, które narastają już od dwóch lat.
-- [Afganistan](loc) zobowiązał się w [latach 70](time). do umożliwienia [Iranowi](loc) poboru wody z rzeki [Helmand](loc), mającej źródła w afgańskim [Hindukuszu](loc), jednak - podkreśla portal - ostatnio [Teheran](loc) uzyskiwał zaledwie cztery procent obiecanej wody.
+- [Afganistan](loc) zobowiązał się w latach 70 do umożliwienia [Iranowi](loc) poboru wody z rzeki [Helmand](loc), mającej źródła w afgańskim [Hindukuszu](loc), jednak - podkreśla portal - ostatnio [Teheran](loc) uzyskiwał zaledwie cztery procent obiecanej wody.
 - W [Iranie](loc) susza panuje od trzech dekad.
 - W [Afganistanie](loc) - od trzech lat.
 - Portal [Arab News](org) zwraca uwagę, że brak wody nasilił się w ostatniej dekadzie.
@@ -978,13 +978,13 @@
 - Do zainwestowania w swój startup udało jej się namówić wielu znanych i bogatych ludzi.
 - Wśród nich byli m.in. potentant medialny [Ruper Murdoch](per) czy założyciel [Oracle](org) [Larry Ellison](per).
 - Doradzał jej były sekretarz stanu [Henry Kissinger](per).
-- Startup upadł w [2018] roku(time) po tym, jak dochodzenie wykazało, że technologia oferowana przez [Holmes](per) nie działa.
+- Startup upadł w [2018](time) roku po tym, jak dochodzenie wykazało, że technologia oferowana przez [Holmes](per) nie działa.
 # Super Express
 - Tegoroczny weekend z okazji Memorial Day zamienił się w krwawy koszmar.
 - W kilku miejscach w całym kraju – w tym [Nowym Jorku](loc), [Chicago](loc), [Florydzie](loc) i [Arizonie](loc) – doszło do makabrycznych strzelanin, w wyniku których dziesiątki osób zostało rannych, a kilkanaście innych straciło życie.
 - Krwawa seria rozpoczęła się już w [piątek](time).
 - W [Phoenix](loc), [AZ](loc), prawdopodobnie z rąk jednego sprawcy zginęły cztery osoby.
-- Około godz. [10.30] pm(time) śledczy znaleźli ciało 41-latka, a chwilę później 36-latkę z ranami postrzałowymi.
+- Około godz. [10.30](time) pm śledczy znaleźli ciało 41-latka, a chwilę później 36-latkę z ranami postrzałowymi.
 - W [niedzielę](time) nad ranem w trzech innych lokalizacjach policjanci natknęli się na ciała trzech kolejnych mężczyzn.
 - Domniemanym sprawcą morderstw jest [Iren Byers](per), który miał przyznać się do winy.
 - Horror trwał również w [Chicago](loc), gdzie podczas świątecznego weekendu zginęło dziewięć osób, a co najmniej 43 zostały ranne.
@@ -1290,7 +1290,7 @@
 - Z kolei przedstawiciel władz stanowych przekazał, że do wycieku doszło prawdopodobnie w okolicznej fabryce.
 - Nie podał jednak żadnych szczegółów.
 - Agencje zwracają uwagę, że ze względu na stan infrastruktury oraz niskie standardy bezpieczeństwa w [Indiach](loc) często dochodzi do wycieków gazu.
-- W [sierpniu](time) [2022](time) r. 112 kobiet trafiło do szpitala po wycieku gazu w zakładzie produkującym odzież w południowym stanie [Andhra Pradeś](loc).
+- W [sierpniu 2022](time) r. 112 kobiet trafiło do szpitala po wycieku gazu w zakładzie produkującym odzież w południowym stanie [Andhra Pradeś](loc).
 - W podobnym incydencie w tej samej okolicy w [czerwcu](time) ubiegłego roku około 200 kobiet straciło przytomność.
 - Z kolei w [2020](time) r. co najmniej 15 osób zginęło, a ok. 1 tys. doznało obrażeń i dolegliwości w wyniku wycieku gazu w zakładach chemicznych w [Wiśakhapatnam](loc) w stanie [Andhra Pradeś](loc).
 - Do jednego z najtragiczniejszych wypadków tego typu doszło w [Indiach](loc) w [1984](time) r., gdy wyciek toksycznego gazu z fabryki [Union Carbide](org) znajdującej się w mieście [Bhopal](loc) spowodował wielką katastrofę przemysłową.
@@ -1528,7 +1528,7 @@
 - Pisano, że lustracja byłaby „pośmiertnym zwycięstwem esbecji” lub kompromitacją [Polski](loc) na arenie międzynarodowej.
 - Po stronie [Olszewskiego](per) opowiadała się prasa związana z prawicą.
 - „[Olszewski](per) odchodzi – agenci pozostają” – zwrócono uwagę w dzienniku [„Nowy Świat”](org), podsumowując wydarzenia z „nocy teczek”.
-- [Czerwiec](time) [1992](time) r. nie przerwał jednak gry teczkami toczonej przez tych, którzy dokonali „prywatyzacji” materiałów bezpieki.
+- [Czerwiec 1992](time) r. nie przerwał jednak gry teczkami toczonej przez tych, którzy dokonali „prywatyzacji” materiałów bezpieki.
 - Wielu myśli, że kupili sobie milczenie i że ich tajemnice spoczywają w archiwach [MSW](org).
 - Ale być może nie wszystko znajduje się na [Rakowieckiej](loc) – mówił w wywiadzie dla [„Trybuny”](org) jeden z liderów [SdRP](org), [Leszek Miller](per).
 - Zdaniem prof. [Antoniego Dudka](per) sprawa lustracji była jednak głównie przedmiotem sporu politycznego, a nie społecznego.
@@ -1540,7 +1540,7 @@
 - Był pierwszym po [1989](time) r. członkiem formacji postkomunistycznej na czele [Rady Ministrów](org).
 - Trzeba docenić odwagę prezydenta [Lecha Wałęsy](per), który zgłaszając kandydaturę [Pawlaka](per), dokonał kroku rzeczywiście historycznego – argumentował lider [SdRP](org) [Aleksander Kwaśniewski](per).
 - Po nieskutecznej próbie powołania rządu [Pawlak](per) podał się do dymisji.
-- Obóz ugrupowań postsolidarnościowych w [lipcu](time) [1992](time) r. stworzył nową większość, która wyłoniła gabinet [Hanny Suchockiej](per).
+- Obóz ugrupowań postsolidarnościowych w [lipcu 1992](time) r. stworzył nową większość, która wyłoniła gabinet [Hanny Suchockiej](per).
 - [Latem](time) [1992](time) r. w [Sejmie](org) przedstawiono kilka projektów ustaw lustracyjnych, ale nie zostały one rozpatrzone.
 - „Musiało upłynąć kilka lat, aby [Sejm](org) uchwalił ustawę lustracyjną” – przypomniał w rozmowie z [PAP](org) prof. [Dudek](per).
 - Dyrektor [Biura Lustracyjnego IPN](org), prokurator [Jarosława Skrok](per), ocenił, że fakt, iż [Polska](loc) była jednym z ostatnich krajów bloku komunistycznego, który przyjął procedury lustracyjne, negatywnie wpłynął na funkcjonowanie państwa.
@@ -1551,7 +1551,7 @@
 - Taki sam efekt prewencyjny obserwujemy w związku z aktualnie obowiązującą ustawą lustracyjna z [2006](time) r. – zauważył.
 - Wydarzenia, które do historii przeszły jako „nocna zmiana”, wciąż są przedmiotem licznych dyskusji historyków i publicystów.
 - Większość z nich niezależnie od poglądów politycznych podkreśla, że działania [Jana Olszewskiego](per) w tamtych dniach nie miały na celu utrzymania władzy, lecz realizację jego wizji oczyszczenia życia publicznego w [Polsce](loc).
-- W wywiadzie rzece opublikowanym przez dziennikarzy [„Tygodnika Solidarność”](org) trzy miesiące po wydarzeniach [czerwca](time) [1992](time) r. były premier bronił swojej decyzji o ujawnieniu listy agentów [SB](org) oraz wyjaśniał, jakie czynniki zdecydowały o jego odwołaniu.
+- W wywiadzie rzece opublikowanym przez dziennikarzy [„Tygodnika Solidarność”](org) trzy miesiące po wydarzeniach [czerwca 1992](time) r. były premier bronił swojej decyzji o ujawnieniu listy agentów [SB](org) oraz wyjaśniał, jakie czynniki zdecydowały o jego odwołaniu.
 - Jego zdaniem o upadku rządu przesądził wspólny interes całej sfery nomenklaturowej i okrągłostołowej, który przez ujawnienie teczek i proces lustracji zostałby zburzony.
 - Bo po rzetelnym przeprowadzeniu lustracji układ ten poniósłby tak olbrzymie straty personalne, że nie dałoby się go utrzymać.
 - W opinii prof. [Antoniego Dudka](per) ówczesne podziały polityczne mają swoją kontynuację na dzisiejszej scenie politycznej.
@@ -1612,7 +1612,7 @@
 - Brak jakiejkolwiek kolaboracji między chadekami a [Alternatywą](org) wczoraj potwierdził lider [CDU](org) [Friedrich Merz](per).
 - Niemniej jednak takie wykluczenie polityczne po przyszłorocznych wyborach regionalnych na pewno będzie głośnym i nośnym tematem, na którym prawica może zyskać.
 - Wybory parlamentarne odbędą się w [Niemczech](loc) planowo jesienią [2025](time) r.
-- W [przyszłym roku](time) [Niemcy](loc) wyślą dwa okręty wojenne w rejon [Indo-Pacyfiku](loc) – zapowiedział w niedzielę przebywający w [Singapurze](loc) szef niemieckiego resortu obrony [Boris Pistorius](per).
+- W przyszłym roku [Niemcy](loc) wyślą dwa okręty wojenne w rejon [Indo-Pacyfiku](loc) – zapowiedział w niedzielę przebywający w [Singapurze](loc) szef niemieckiego resortu obrony [Boris Pistorius](per).
 - Przemawiając w trakcie forum bezpieczeństwa Shangri-La w [Singapurze](loc), [Pistorius](per) stwierdził, że należy stanąć w obronie międzynarodowego porządku opartego na zasadach, oraz ochrony głównych szlaków morskich – "czy to na [Morzu Śródziemnym](loc), w [Zatoce Bengalskiej](loc), czy na [Morzu Południowochińskim](loc)".
 - W tym celu niemiecki rząd federalny wysłał w [2021](time) roku fregatę na [Indo-Pacyfik](loc), i ponownie w [2024 roku](loc) rozmieści tam fregatę i statek zaopatrzeniowy" – poinformował niemiecki minister.
 - Jak dodał, krok ten "nie jest skierowany przeciwko żadnemu narodowi".
@@ -1878,7 +1878,7 @@
 - W [1959](time) roku ukończyła studia na Wydziale Organizacji Produkcji Filmowej w [Szkole Filmowej](org) w [Łodzi](loc).
 - W [2002](time) roku otrzymała statuetkę Gwiazda [Telewizji Polskiej](org).
 - [Barbara Borys-Damięcka](per) zmarła w wieku 85 lat.
-- [Sąd najwyższy](org) w [Hongkongu](loc) uchylił w [poniedziałek](time) wyrok skazujący dziennikarkę [Bao Choy](per) za składanie fałszywych oświadczeń w celu uzyskania dostępu do rejestrów pojazdów na potrzeby filmu dokumentalnego, dotyczącego brutalnego ataku na prodemokratycznych demonstrantów w [2019]()time roku.
+- [Sąd najwyższy](org) w [Hongkongu](loc) uchylił w [poniedziałek](time) wyrok skazujący dziennikarkę [Bao Choy](per) za składanie fałszywych oświadczeń w celu uzyskania dostępu do rejestrów pojazdów na potrzeby filmu dokumentalnego, dotyczącego brutalnego ataku na prodemokratycznych demonstrantów w [2019](time) roku.
 - [Choy](per), wcześniej związana z publicznym hongkońskim nadawcą [RTHK](org), została w [kwietniu 2021](time) r. ukarana grzywną w wysokości 6 tys. dolarów hongkońskich (3,2 tys. PLN) po oskarżeniu o świadome składanie fałszywych oświadczeń w celu uzyskania dostępu do rejestrów pojazdów na potrzeby filmu dokumentalnego.
 - Odcinek programu Hong Kong Connect, którego [Choy](per) była producentką, dotyczył brutalnej napaści na prodemokratycznych demonstrantów na stacji metra [Yuen Long](loc) z [21 lipca](time) [2019](time) roku.
 - Atak, w którym rannych zostało kilkadziesiąt osób, uznawany jest za jedno z najbardziej kontrowersyjnych wydarzeń serii protestów z [2019](time) roku.
@@ -2024,7 +2024,7 @@
 - Ataki mają być wymierzone w pozycje wojsk reżimu prezydenta [Baszara el-Asada](per) oraz oraz sojuszniczych ugrupowań związanych z [Iranem](loc), w tym libańskiego [Hezbollahu](org).
 - Na [Filipinach](loc) rozpoczęła się ewakuacja tysięcy mieszkańców północnych regionów kraju, gdzie zamknięto szkoły i biura oraz zakazano wypływania w morze.
 - Do wybrzeża zbliża się tajfun Mawar.
-- W [ubiegłym tygodniu](time) Mawar uderzył w będącą pod jurysdykcją [USA](loc) wyspę [Guam](loc) w [Mikronezji](loc), przewracając samochody, zrywając dachy domów i odcinając prąd.
+- W ubiegłym tygodniu Mawar uderzył w będącą pod jurysdykcją [USA](loc) wyspę [Guam](loc) w [Mikronezji](loc), przewracając samochody, zrywając dachy domów i odcinając prąd.
 - Obecne prognozy przewidują, że tajfun może oszczędzić północne [Filipiny](loc) i przesunąć się w kierunku [Tajwanu](loc) lub na południe [Japonii](loc).
 - Mimo to władze ostrzegają przed niebezpiecznymi falami, gwałtownymi powodziami i osuwaniem się ziemi.
 - Filipińscy meteorolodzy oceniają, że kurs tajfunu może nagle się zmienić, więc należy pozostać ostrożnym.
