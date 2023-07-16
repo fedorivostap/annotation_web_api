@@ -4,7 +4,7 @@
 - Wszystkie groźby ze strony [Rosji](per) należy brać poważnie, ale nie dać się zastraszyć.
 - I podobnie jak nasz ambasador pozostał w [Kijowie](loc), w trakcie pierwszych kilku tygodniu wojny, tak nasz ambasador w [Moskwie](loc) trwa w bardzo trudnych realiach, ale też nie daje się zastraszyć.
 - Kolejnym tematem były nowe doniesienia o tajemniczym obiekcie, który rozbił się pod [Bydgoszczą](loc).
-- Czekamy na ostateczne wyniki badań, które łączą te wydarzenia z [grudnia](date) z tymi ostatnimi znaleziskami.
+- Czekamy na ostateczne wyniki badań, które łączą te wydarzenia z [grudnia](time) z tymi ostatnimi znaleziskami.
 - Kiedy te wyniki będą potwierdzone, to przekażemy je opinii publicznej — zapewnił.
 - Premier odniósł się też do sprawy ze zbożem ukraińskim.
 - Strona ukraińska przekazała ostatnio notę o "kategorycznej niedopuszczalności sytuacji związanej z ograniczeniami handlowymi dotyczącymi importu produktów rolnych [Ukrainy](loc)".
@@ -26,45 +26,45 @@
 - Trzeba pokazywać dzisiaj zdolność do współpracy pomimo różnic".
 - Dzisiaj potrzebne są wspólne inicjatywy, wspólne stanowiska w bieżącej polityce, unikanie wzajemnych złośliwości.
 - Ponadto wydaje się, że samo wymachiwanie sztandarem jedności zaczyna już wyborców opozycji irytować, a wyborców [PiS](org) śmieszyć — stwierdził [Bronisław Komorowski](per).
-- Nawiązując do trudnych rozmów koalicyjnych, [Bronisław Komorowski](per) został zapytany o marsz [4 czerwca](date), na który zaprasza lider [PO](org) [Donald Tusk](per).
+- Nawiązując do trudnych rozmów koalicyjnych, [Bronisław Komorowski](per) został zapytany o marsz [4 czerwca](time), na który zaprasza lider [PO](org) [Donald Tusk](per).
 - Ubolewam nad tym, że taka piękna rocznica pokonania komunizmu przy użyciu kartki wyborczej staje się źródłem konfrontacji i przedmiotem rywalizacji sił demokratycznych, a nie sygnałem świadczącym o sile wspólnoty demokratycznej w naszym kraju.
 - Chyba nie pomyślano w porę, jak uczcić wspólną inicjatywą, budującą taką właśnie wspólnotę — stwierdził były prezydent.
 - W wywiadzie przyznaje wymijająco, że na marsz się nie wybiera.
-- Jeśli chodzi o moje plany na [4 czerwca](date), to jedno jest pewne, mam w tym dniu urodziny.
-- Chciałbym wtedy odwiedzić moją 101-letnią mamę i podziękować za to, że przyszedłem [72 lata temu](date) na świat.
-- Oczywiście chętnie wziąłbym też udział w ponadpartyjnym wydarzeniu z okazji rocznicy [4 czerwca 1989 r.](date) i nie tracę nadziei, że będzie to możliwe — zaznaczył [Komorowski](per).
-- Przewodniczący [Koalicji Obywatelskiej](org) [Donald Tusk](per) opublikował [15 kwietnia](date) na [Twitterze](org) wpis, w którym wezwał swoich zwolenników do marszu "przeciw drożyźnie, złodziejstwu i kłamstwu, za wolnymi wyborami".
-- Marsz odbędzie się [4 czerwca](date) w 34. rocznicę pierwszych — od czasów wybuchu II wojny światowej — częściowo wolnych wyborów do [Sejmu](org) i [Senatu](org).
+- Jeśli chodzi o moje plany na [4 czerwca](time), to jedno jest pewne, mam w tym dniu urodziny.
+- Chciałbym wtedy odwiedzić moją 101-letnią mamę i podziękować za to, że przyszedłem 72 lata temu na świat.
+- Oczywiście chętnie wziąłbym też udział w ponadpartyjnym wydarzeniu z okazji rocznicy [4 czerwca 1989](time) r. i nie tracę nadziei, że będzie to możliwe — zaznaczył [Komorowski](per).
+- Przewodniczący [Koalicji Obywatelskiej](org) [Donald Tusk](per) opublikował [15 kwietnia](time) na [Twitterze](org) wpis, w którym wezwał swoich zwolenników do marszu "przeciw drożyźnie, złodziejstwu i kłamstwu, za wolnymi wyborami".
+- Marsz odbędzie się [4 czerwca](time) w 34. rocznicę pierwszych — od czasów wybuchu II wojny światowej — częściowo wolnych wyborów do [Sejmu](org) i [Senatu](org).
 - Kwestia czerwcowego marszu wzbudziła już sporo emocji.
 - Głównie za sprawą [Szymona Hołowni](per), który zapowiedział, że nie pojawi się na tym wydarzeniu.
 - Zdaniem lidera [Polski 2050](org) "marszami w Warszawie wyborów się nie wygrywa".
 - Zaznaczył jednak, że niektórzy działacze jego partii mogą się pojawić na wydarzeniu organizowanym przez [KO](org).
-- [Hołownia](per) na jednym ze spotkań z wyborcami przekazał, że "[4 czerwca](date) to data specjalna w kalendarzu Polaków" i [Polska 2050](org) od dawna ma zaplanowane wydarzenia w całej [Polsce](loc).
+- [Hołownia](per) na jednym ze spotkań z wyborcami przekazał, że "[4 czerwca](time) to data specjalna w kalendarzu Polaków" i [Polska 2050](org) od dawna ma zaplanowane wydarzenia w całej [Polsce](loc).
 - Ja uważam, że musimy być wszędzie, nie tylko w [Warszawie](loc), jeżeli chcemy na jesieni te wybory wygrać — dodał.
 - Po słowach [Hołowni](per) wybuchła burza, w środę po południu opublikował na [Twitterze](org) oświadczenie.
-- "Dziś, [2 maja 2023 roku](date) o godzinie [13.30](date), zmarł nasz najukochańszy człowiek, [Paweł Smoleński](per), najcudowniejszy mąż i przyjaciel, najlepszy ojciec, świetny teść, najwspanialszy dziadek" — przekazała [Maria Fredro-Smoleńska](per).
-- Po oficjalnym komunikacie rodziny, informację o śmierci [Smoleńskiego](per) podała ["Gazeta Wyborcza"](org), z którą dziennikarz był związany od samego początku, czyli [1989 r.](date) "Przedwczesna śmierć [Pawła Smoleńskiego](per) oznacza nie tylko wielką stratę dla polskiego dziennikarstwa.
+- "Dziś, [2 maja 2023 roku](time) o godzinie [13.30](time), zmarł nasz najukochańszy człowiek, [Paweł Smoleński](per), najcudowniejszy mąż i przyjaciel, najlepszy ojciec, świetny teść, najwspanialszy dziadek" — przekazała [Maria Fredro-Smoleńska](per).
+- Po oficjalnym komunikacie rodziny, informację o śmierci [Smoleńskiego](per) podała ["Gazeta Wyborcza"](org), z którą dziennikarz był związany od samego początku, czyli [1989](time) r. "Przedwczesna śmierć [Pawła Smoleńskiego](per) oznacza nie tylko wielką stratę dla polskiego dziennikarstwa.
 - W polskim społeczeństwie obywatelskim, w grupie wyznawców wolności, demokracji, tolerancji i [Europy](loc) powstała wyrwa, której nie da się zapełnić" — żegna kolegę z redakcji wicenaczelny dziennika [Bartosz T. Wieliński](per).
 - "[Paweł](per) w historii [Polski](loc) zapisał piękną kartę.
 - Współtworzył ["Gazetę Wyborczą"](org), był autorem wielu fundamentalnych tekstów i kilkunastu reporterskich książek.
 - [Paweł Smoleński](per) urodził się [7 lipca 1959 r.](per) W czasach [PRL-u](loc) współpracował z pismami drugiego obiegu, pisał też do paryskiej ["Kultury"](org).
-- [W 1989 r.](date) został dziennikarzem ["Gazety Wyborczej"](org).
-- [Pod koniec grudnia 2002 roku](date) w [GW](org) ukazał się jego artykuł "Ustawa za łapówkę, czyli przychodzi [Rywin](per) do [Michnika](per)", opisując aferę [Rywina](per).
+- [W 1989](time) r. został dziennikarzem ["Gazety Wyborczej"](org).
+- Pod koniec [grudnia 2002](time) roku w [GW](org) ukazał się jego artykuł "Ustawa za łapówkę, czyli przychodzi [Rywin](per) do [Michnika](per)", opisując aferę [Rywina](per).
 - Był autorem kilku książek, a także reportaży i esejów, dotyczących między innymi [Izraela](loc).
-- Dzień Flagi został ustanowiony przez [Sejm](org) na mocy ustawy z [20 lutego 2004 r.](date) To święto, które ma wyrażać szacunek do flagi i propagować wiedzę o polskiej tożsamości oraz symbolach narodowych.
-- W związku z tym w wielu miejscach [Polski](loc) dzień [2 maja](date) jest obchodzony poprzez organizowanie różnego rodzaju wydarzeń czy manifestacji patriotycznych, podczas których eksponowane są oczywiście nasze barwy narodowe.
+- Dzień Flagi został ustanowiony przez [Sejm](org) na mocy ustawy z [20 lutego 2004](time) r To święto, które ma wyrażać szacunek do flagi i propagować wiedzę o polskiej tożsamości oraz symbolach narodowych.
+- W związku z tym w wielu miejscach [Polski](loc) dzień [2 maja](time) jest obchodzony poprzez organizowanie różnego rodzaju wydarzeń czy manifestacji patriotycznych, podczas których eksponowane są oczywiście nasze barwy narodowe.
 - Ponadto tego dnia wielu Polaków decyduje się na wywieszanie na swoich domach biało-czerwonej flagi.
 - Obecnie popularnym zwyczajem jest noszenie w tym dniu kokardy narodowej.
 - Jest to zwyczaj zapoczątkowany jeszcze przez świętej pamięci prezydenta [Lecha Kaczyńskiego](per).
 - Był on później kontynuowany zarówno przez [Bronisława Komorowskiego](per), jak i obecnego prezydenta [Andrzeja Dudę](per).
-- Dzień Flagi nie jest świętem ruchomym i zawsze wypada [2 maja](date). 
-- Ciekawostką jest to, że [2 maja](date) obchodzony jest także Dzień Polonii i Polaków za granicą.
-- Został on ustanowiony na mocy ustawy z [20 marca 2002 r.](date) w dowód uznania wielowiekowego dorobku i wkładu Polonii i Polaków za granicą w odzyskanie przez [Polskę](loc) niepodległości, wierność i przywiązanie do polskości oraz pomoc Krajowi w najtrudniejszych momentach.
-- Flagą Polski w obecnym kształcie, według ustawy z dnia [31 stycznia 1980 r.](date) o godle, barwach i hymnie [Rzeczypospolitej Polskiej](loc) oraz o pieczęciach państwowych, jest prostokątny płat tkaniny o barwach [Rzeczypospolitej Polskiej](loc) i proporcji 5:8, umieszczony na maszcie.
+- Dzień Flagi nie jest świętem ruchomym i zawsze wypada [2 maja](time). 
+- Ciekawostką jest to, że [2 maja](time) obchodzony jest także Dzień Polonii i Polaków za granicą.
+- Został on ustanowiony na mocy ustawy z [20 marca 2002](time) r. w dowód uznania wielowiekowego dorobku i wkładu Polonii i Polaków za granicą w odzyskanie przez [Polskę](loc) niepodległości, wierność i przywiązanie do polskości oraz pomoc Krajowi w najtrudniejszych momentach.
+- Flagą Polski w obecnym kształcie, według ustawy z dnia [31 stycznia 1980](time) r. o godle, barwach i hymnie [Rzeczypospolitej Polskiej](loc) oraz o pieczęciach państwowych, jest prostokątny płat tkaniny o barwach [Rzeczypospolitej Polskiej](loc) i proporcji 5:8, umieszczony na maszcie.
 - Kwestią sporną jest niezależność sądownictwa, która według urzędników [UE](org) jest ograniczana przez rząd premiera [Viktora Orbána](per).
 - Proponowana reforma ma na celu wzmocnienie niezależności sądów na kilka sposobów, np. poprzez zapewnienie, że [Krajowa Rada Sądownictwa](org), organ nadzorujący sądownictwo podobnie jak w [Polsce](loc), pozostanie niezależna, a także poprzez zreformowanie [Sądu Najwyższego i Trybunału Konstytucyjnego](org), by chronić je przed wpływami politycznymi i umożliwić kierowanie pytań do [Europejskiego Trybunału Sprawiedliwości](org) w trybie prejudycjalnym.
 - Jeśli sprawa niezależności sądów zostanie rozstrzygnięta, to odblokuje się większość programów spójności — powiedział dziennikarzom w zeszłym tygodniu [Johannes Hahn](per), komisarz [UE](org) ds. budżetu.
-- Zmagania [Budapesztu](loc) z [Brukselą](loc) w kwestii praworządności sprawiły, że w tym roku unijne środki finansowe przestały płynąć na [Węgry](loc) — i to w sytuacji gospodarki i inflacji, która w [kwietniu](date) osiągnęła najwyższy poziom 25,4 proc. rok do roku.
+- Zmagania [Budapesztu](loc) z [Brukselą](loc) w kwestii praworządności sprawiły, że w tym roku unijne środki finansowe przestały płynąć na [Węgry](loc) — i to w sytuacji gospodarki i inflacji, która w [kwietniu](time) osiągnęła najwyższy poziom 25,4 proc. rok do roku.
 - To zmusiło rząd [Orbána](per) do zintensyfikowania negocjacji z [Brukselą](loc) w celu wznowienia płatności unijnych.
 - Reforma sądownictwa jest częścią tych starań.
 - Trzech urzędników [UE](org) powiedziało [POLITICO](org), że Komisja dała wstępne zielone światło dla proponowanych reform w ub. tygodniu.
@@ -74,13 +74,13 @@
 - [Budapeszt](loc) już teraz wstrzymuje np. starania [Szwecji](loc) o przystąpienie do [NATO](org).
 - Jeśli reforma zostanie przyjęta, będzie to zwycięstwo rządu [Orbána](per) i rozczarowanie dla jego krytyków, z których niektórzy są niezadowoleni ze sposobu, w jaki proponowane reformy zostały wprowadzone.
 - Techniczne porozumienie między [KE](org) a rządem węgierskim w sprawie reformy sądownictwa zawiera pozytywne środki wzmacniające niezależne sądownictwo, ale proces, w którym są one forsowane w [węgierskim parlamencie](org) w ciągu dwóch dni, narusza zasady stanowienia prawa i kluczowe kamienie milowe [UE](org) w zakresie przejrzystości stanowienia prawa — powiedziała nam dziś [Marta Pardavi](per), współprzewodnicząca [Węgierskiego Komitetu Helsińskiego](org).
-- [W grudniu](date) Komisja zatrzymała całą pulę funduszy spójności dla [Węgier](loc), wynoszącą 22 mld euro, po tym, jak stwierdziła, że kraj ten nie przestrzega Karty Praw Podstawowych [UE](org) i jej postanowień dotyczących niezależności sądów.
+- W [grudniu](time) Komisja zatrzymała całą pulę funduszy spójności dla [Węgier](loc), wynoszącą 22 mld euro, po tym, jak stwierdziła, że kraj ten nie przestrzega Karty Praw Podstawowych [UE](org) i jej postanowień dotyczących niezależności sądów.
 - Dzięki reformie sądownictwa [Węgry](loc) będą mogły ubiegać się o 13,2 mld euro.
 - Reszta funduszy spójności pozostaje zablokowana z innych powodów.
-- Większość krajów [UE](org) i [Komisja Europejska](org) zdecydowały o zamrożeniu 6,3 mld euro funduszy dla [Węgier](loc) [w grudniu](date) ub.r. w ramach tzw. mechanizmu warunkowości, nowego narzędzia prawnego, które pozwala [Brukseli](loc) na wstrzymanie finansowania [UE](org), jeśli dany kraj wycofuje się z norm demokratycznych.
+- Większość krajów [UE](org) i [Komisja Europejska](org) zdecydowały o zamrożeniu 6,3 mld euro funduszy dla [Węgier](loc) w [grudniu](time) ub.r. w ramach tzw. mechanizmu warunkowości, nowego narzędzia prawnego, które pozwala [Brukseli](loc) na wstrzymanie finansowania [UE](org), jeśli dany kraj wycofuje się z norm demokratycznych.
 - W tym przypadku fundusze zostaną odblokowane tylko wtedy, gdy [Węgry](loc) podejmą 17 działań związanych z walką z korupcją.
 - Kolejne 2,5 mld euro jest związane z trzema innymi sporami pomiędzy Komisją a [Orbanem](per): ustawą o ochronie dzieci, która jest powszechnie uznawana za homofobiczną, traktowaniem przez [Węgry](loc) osób ubiegających się o azyl oraz niezależnością naukową węgierskich uniwersytetów.
-- "Oddziały i okręty są teraz w ruchu, bo zgodnie z planem — [na przełomie kwietnia i maja](date) — odbywają się manewry Aurora 23" – cytuje ["Iltalehti"](org) komunikat f[ińskiej marynarki wojennej](org).
+- "Oddziały i okręty są teraz w ruchu, bo zgodnie z planem — na przełomie [kwietnia](time) i [maja](time) — odbywają się manewry Aurora 23" – cytuje ["Iltalehti"](org) komunikat f[ińskiej marynarki wojennej](org).
 - Doprecyzowała ona, że interpretowanie działań sił zbrojnych z użyciem terminologii z nadzwyczajnych przepisów "o stanie gotowości" jest "błędne".
 - Nasze środowisko bezpieczeństwa jest stale obserwowane, a "nasza gotowość regulowana elastycznie" – zakomunikowała [fińska marynarka wojenna](org), dementując weekendowe doniesienia ["Iltalehti"](org) o przejściu w "stan podwyższonej gotowości" w związku z ryzykiem sabotażowego ataku ze strony [Rosji](loc) na fińsko-szwedzką infrastrukturę energetyczną.
 - Wcześniej gazeta przytoczyła wypowiedź kontradmirał [Ewy Skoog Haslum](per), dowódcy [szwedzkiej marynarki wojennej](org), która zwróciła uwagę, że w pobliżu farm wiatrowych na [Bałtyku](loc) i tam, gdzie przebiegają podmorske kable energetyczne, były widziane rosyjskie okręty.
@@ -99,7 +99,7 @@
 - W umowie zapisano także, że po wyborach powstaną dwa kluby parlamentarne, ugrupowania nie stworzą wspólnej partii i każda z nich zachowa swoją podmiotowość.
 - Dzisiaj chcemy ogłosić, że po długich rozmowach podjęliśmy z [PSL](org) decyzję o wspólnych starcie w nadchodzących wyborach parlamentarnych — przekazał [Hołownia](per).
 - Umowa, która dziś została zatwierdzona, mówi wprost, że powołamy wspólny komitet wyborczy — dodał.
-- Ta trzecia droga, nowa i wspólna, to dla mnie wielka radość, bo to wprost kontynuacja drogi, którą rozpocząłem w [2019 r.](date) To kompletnie nowa propozycja, która mówi w jasny sposób "nie" starej polityce posługującej się często nienawiścią, agresją, szczuciem jednych na drugich.
+- Ta trzecia droga, nowa i wspólna, to dla mnie wielka radość, bo to wprost kontynuacja drogi, którą rozpocząłem w [2019](time) r.
 - My tej agresji w ostatnich dniach sporo doświadczamy, ale jasno mówimy, że nie tędy droga — mówił [Szymon Hołownia](per).
 - Umówiliśmy się, że razem zrobimy dobre rzeczy dla [Polski](loc), że jest nadzieja.
 - Mam nadzieję, że dzisiejszy dzień jest początkiem odwrócenia dwóch ważnych rzeczy.
@@ -137,8 +137,8 @@
 - Jedną z przyczyn takiej sytuacji była przedłużająca się dyskusja na temat formuły ewentualnej współpracy partii opozycyjnych.
 - [Szymon Hołownia](per) w ciągu ostatnich miesięcy nie zmienił zdania i nie chce już słyszeć o wspólnej liście opozycji w nadchodzących wyborach parlamentarnych.
 - Oskarżał polityków [Platformy](org) o wywieranie presji, za którą ma stać chęć dominacji [Donalda Tuska](per) nad resztą partii opozycyjnych.
-- Krytycznie wypowiada się również na temat marszu, który [4 czerwca](date) organizuje [Platforma Obywatelska](org), a na który osobiście wezwał [Donald Tusk](per).
-- [Wirtualna Polska](org) ustaliła, że [Rafińska](per) w [KZN](org) pracuje od [marca](date).
+- Krytycznie wypowiada się również na temat marszu, który [4 czerwca](time) organizuje [Platforma Obywatelska](org), a na który osobiście wezwał [Donald Tusk](per).
+- [Wirtualna Polska](org) ustaliła, że [Rafińska](per) w [KZN](org) pracuje od [marca](time).
 - Nie wiadomo, jakie dokładnie zajmuje stanowisko, jednak ma ono być związane z promocją działań instytucji.
 - Jej nazwiskiem są podpisane wszystkie wpisy na stronie internetowej.
 - Krajowy [Zasób Nieruchomości](org) jest państwową instytucją utworzoną przez rząd [PiS](org).
@@ -146,7 +146,7 @@
 - Na jej czele stoi wiceprezes [Partii Republikańskiej](org) [Arkadiusz Urban](per).
 - Prywatnie [Marcelina Rafińska](per) jest partnerką [Franciszka Przybyły](per), współpracownika [Mejzy](per), który dostał pracę w [PKO BP](org).
 - Po tym, jak zrobiło się o nim głośno, zrezygnował z posady.
-- Dalsza część tekstu znajduje się pod wideo [W czerwcu 2022 r.](date) agenci [Centralnego Biura Antykorupcyjnego](org) przeszukali mieszkanie [Rafińskiej](per) w [Zielonej Górze](loc) i zabezpieczyli dokumenty firmy ["Good Solutions"](org) — informuje [Wirtualna Polska](org).
+- Dalsza część tekstu znajduje się pod wideo W [czerwcu 2022](time) r. agenci [Centralnego Biura Antykorupcyjnego](org) przeszukali mieszkanie [Rafińskiej](per) w [Zielonej Górze](loc) i zabezpieczyli dokumenty firmy ["Good Solutions"](org) — informuje [Wirtualna Polska](org).
 - W tym samym czasie podobne czynności przeprowadzono również w domu rodzinnym [Łukasza Mejzy](per).
 - Sprawa miała związek ze śledztwem dotyczącym podejrzenia oszustw przy rozliczaniu pieniędzy z programu "Lubuskie Bony Rozwojowe".
 - [Rafińska](per) miała własną działalność gospodarczą pod nazwą ["Good Solutions"](org) i podobnie jak firma [Łukasza Mejzy](per) [(Future Wolves)](org) prowadziła szkolenia.
@@ -160,22 +160,22 @@
 - Fotografie z uzdrawiających zabiegów prezydenta stały się hitem wśród internautów.
 - Pod kolejnymi zdjęciami użytkownicy [Facebooka](org) piszą: "Pan Prezydent wygląda jak jakiś anioł ze skrzydłami!", "właśnie to chciałam zobaczyć w sobotę rano", "nasz [Posejdon](per) z [Bałtyku](loc)", "władca mórz i oceanów", "jak [Syren](per) wyłaniający się z piany".
 - Przypomnijmy, [Lech Wałęsa](per) od lat choruje na cukrzycę.
-- [W sierpniu 2021 r.](date) były prezydent trafił do szpitala w związku z tzw. stopą cukrzycową.
-- Z kolei [w marcu 2021](date) [Wałęsa](per) przeszedł zabieg kardiochirurgiczny, związany z funkcjonowaniem rozrusznika serca.
-- W szpitalu przebywał także [w sierpniu 2022 r.](date) i przechodził wówczas rutynowe badania.
+- W [sierpniu 2021](time) r. były prezydent trafił do szpitala w związku z tzw. stopą cukrzycową.
+- Z kolei w [marcu 2021](time) [Wałęsa](per) przeszedł zabieg kardiochirurgiczny, związany z funkcjonowaniem rozrusznika serca.
+- W szpitalu przebywał także w [sierpniu 2022](time) r. i przechodził wówczas rutynowe badania.
 - Były prezydent od dłuższego czasu narzeka też na swoje finanse.
 - Jakiś czas temu zdradził, ile obecnie wynosi jego emerytura.
 - Mimo iż kwota ta znacznie wzrosła przez ostatnich kilka lat, były prezydent nie jest z niej zadowolony, dlatego zdecydował się dorabiać za granicą, prowadząc różne wykłady.
 - Żona zabiera mi wszystko i wydaje na swoje potrzeby — tłumaczył [Wałęsa](per).
-- [Pod koniec 2020 r.](date) [Wałęsa](per) żalił się w rozmowie z ["Rzeczpospolitą"](org), że jest bankrutem, ponieważ "rozdawał pieniądze, a nie gromadził".
-- [W lutym 2021 r.](date) mówił zaś, że szuka dodatkowej pracy, bowiem pandemia koronawirusa mocno uderzyła w jego budżet.
+- Pod koniec [2020](time) r. [Wałęsa](per) żalił się w rozmowie z ["Rzeczpospolitą"](org), że jest bankrutem, ponieważ "rozdawał pieniądze, a nie gromadził".
+- W [lutym 2021](time) r. mówił zaś, że szuka dodatkowej pracy, bowiem pandemia koronawirusa mocno uderzyła w jego budżet.
 - Przyznał wówczas, że emerytura wynosząca 6 tys. zł nie starcza mu na życie.
 # Gazeta.pl
 - Prezydent [Francji](loc) [Emmanuel Macron](per) wyruszył poza [Paryż](loc).
 - Od czasu podpisania reformy emerytalnej nie cieszy się on dobrą opinią w swoim kraju.
 - Podczas licznych protestów, które trwały miesiącami [Macron](per) przebywał w pałacu prezydenckim.
 - Sojusznicy zachęcali go, aby mimo niesprzyjających nastrojów, spotkał się z wyborcami.
-- Jak informuje [Insider Paper](org) prezydent w [środę](date) [19 kwietnia](time) postanowił udać się do [Selestat](loc) w regionie [Alzacji](loc).
+- Jak informuje [Insider Paper](org) prezydent w [środę](time) [19 kwietnia](time) postanowił udać się do [Selestat](loc) w regionie [Alzacji](loc).
 - Mieszkańcy na jego widok zaczęli skandować hasła takie jak: "Dymisja [Macrona](per)" czy "Wkrótce upadniesz, zobaczysz".
 - Jeden z demonstrantów oskarżył prezydenta [Francji](loc) o "skorumpowany rząd, na skalę jakiej nigdy wcześniej nie było".
 - W tle krzykom towarzyszyły gwizdy miejscowych.
@@ -185,15 +185,15 @@
 - "Pracując więcej, wzbogacimy [Francję](loc)" Powodem niezadowolenia narodu jest reforma emerytalna, która podniesie wiek emerytalny z 62 do 64 lat.
 - [Macron](per) poinformował dziennikarzy, że spodziewał się takiej reakcji, ale incydenty nie powstrzymają go przed spacerami i podróżowaniem po [Francji](loc).
 - Ten gniew musi zostać wysłuchany i nie jestem na niego głuchy - stwierdził [Macron](per).
-- Były premier [Francois Fillon](per) zostanie przesłuchany przez relacje z [Rosją](loc) [Macron](per) ma w [czwartek](date) odwiedzić szkołę w południowym regionie [Herault](loc).
+- Były premier [Francois Fillon](per) zostanie przesłuchany przez relacje z [Rosją](loc) [Macron](per) ma w [czwartek](time) odwiedzić szkołę w południowym regionie [Herault](loc).
 - Sondaże pokazują, że prezydent ma najniższe poparcie w historii.
-- Następne wybory we [Francji](loc) odbędą się w [2027 roku](date).
+- Następne wybory we [Francji](loc) odbędą się w [2027](time) roku.
 - Zgodnie z prawem [Macron](per) nie będzie mógł kandydować trzeci raz.
 - Amerykańska telewizja [CNN](org) jako pierwsza opublikowała nieznane dotąd zdjęcia, przedstawiające nowoczesny chiński sterowiec.
 - Pojazd został opracowany przez [chińskie wojsko](org) i znajduje się w odległej bazie na pustyni, w północno-zachodnich [Chinach](loc).
-- Fotografie wykonano na trzy miesiące przed zestrzeleniem chińskiego balonu szpiegowskiego u wybrzeży [Południowej Karoliny](loc) - [4 lutego](date) władze [USA](loc) na rozkaz prezydenta [Joe Bidena](per) zestrzeliły balon, po tym jak spędził tydzień w przestrzeni powietrznej [Stanów Zjednoczonych](loc) i [Kanady](loc).
+- Fotografie wykonano na trzy miesiące przed zestrzeleniem chińskiego balonu szpiegowskiego u wybrzeży [Południowej Karoliny](loc) - [4 lutego](time) władze [USA](loc) na rozkaz prezydenta [Joe Bidena](per) zestrzeliły balon, po tym jak spędził tydzień w przestrzeni powietrznej [Stanów Zjednoczonych](loc) i [Kanady](loc).
 - Według ekspertów do spraw lotnictwa, zdjęcia "mogą sygnalizować znaczący postęp w chińskim programie sterowców, demonstrując bardziej wszechstronny i zwrotny pojazd niż wcześniej widziany lub znany" - informuje [CNN](org).
-- Zdjęcia sterowca zostały wykonane w [listopadzie 2022 r.](date) przez amerykańską firmę [BlackSky](org), która zajmuje się obrazowaniem satelitarnym.
+- Zdjęcia sterowca zostały wykonane w [listopadzie 2022](time) r. przez amerykańską firmę [BlackSky](org), która zajmuje się obrazowaniem satelitarnym.
 - Fotografie przedstawiają ok. 100-metrowy statek powietrzny, który znajduje się na środku niemal kilometrowego pasa startowego, w wojskowym kompleksie w północno-zachodnich [Chinach](loc), na pustyni.
 - Amerykańskie media poprosiły o komentarz w tej sprawie organy zajmujące się bezpieczeństwem [USA](loc).
 - Starszy urzędnik [Departamentu Obrony](org) [Stanów Zjednoczonych](loc) miał odmówić komentarza na temat zagrożeń, jakie może stanowić chiński sterowiec, jednak tłumaczył, że skoro jest widoczny, to [Pentagon](org) ma świadomość jego istnienia.
@@ -221,12 +221,12 @@
 - Biskup diecezji londyńskiej w [Kościele Anglii](org) [Sarah Mullally](per) stwierdziła, że "to chwila nadziei dla [Kościoła](org)".
 - "Wiem, że to, co zaproponowaliśmy jako drogę naprzód, dla wielu jest niewystarczającym krokiem, a dla innych zbyt daleko idącym" - oceniła.
 - Krok nie jest jednoznaczny z udzielaniem ślubów parom jednopłciowym przez duchownych, co wyraźnie podkreślono w stanowisku [Kościoła Anglii](org).
-- W zeszłą środę [Ministerstwo Zdrowia](org) poinformowało, że "za okres [od 1.09.2022-7.09.2022](date) mamy 21 337 (w tym 3 905 ponownych zakażeń) potwierdzonych przypadków zakażenia".
+- W zeszłą środę [Ministerstwo Zdrowia](org) poinformowało, że "za okres od [1.09.2022](time) - [7.09.2022](time) mamy 21 337 (w tym 3 905 ponownych zakażeń) potwierdzonych przypadków zakażenia".
 - Do wzrostu zachorowań na COVID-19 odniósł się minister zdrowia.
 - "Ostatnie dobowe wzrosty zakażeń to wynik powakacyjnego powrotu do aktywności społecznej, w tym do szkół" - podkreślił [Adam Niedzielski](per), dodając, że podobne wzrosty mogą się jeszcze przez pewien czas utrzymywać.
 - "Nie jest to jednak nowa fala.
 - Co istotne, utrzymuje się niski poziom hospitalizacji covidowej - ok. 2-3 tys." - zaznaczył szef resortu zdrowia.
-- W [poniedziałek](date) [Komisja Europejska](org) ostatecznie zatwierdziła szczepionkę przeciw COVID uwzględniającą podwarianty mutacji Omikron BA.4 i BA.5 koncernu [BioNTech](org) i [Pfizer](org).
+- W [poniedziałek](time) [Komisja Europejska](org) ostatecznie zatwierdziła szczepionkę przeciw COVID uwzględniającą podwarianty mutacji Omikron BA.4 i BA.5 koncernu [BioNTech](org) i [Pfizer](org).
 - To oznacza dopuszczenie preparatu na unijny rynek.
 - Kilka godzin wcześniej zielone światło dla autoryzacji dodała [Europejska Agencja Leków](org).
 - O decyzji [Komisji Europejskiej](org) poinformowała jej przewodnicząca [Ursula von der Leyen](per).
@@ -235,8 +235,8 @@
 - Nowy preparat, celowany w podwarianty mutacji Omikron BA.4 i BA.5 może być podawany osobom od 12 roku życia, które otrzymały co najmniej podstawowe szczepienia.
 - [Kaczyński](per) straszy na [Podkarpaciu](loc): Bez [PiS](org) zatrzyma się rozwój regionów
 - W zeszłym miesiącu w wieku 50 lat zmarła nagle zastępczyni ambasadora [Czech](loc) w [Izraelu](loc) [Monika Studená](per).
-- W [lutym](date) w wieku 46 lat zmarł [Jakub Dürr](per), czeski ambasador w [Polsce](loc) i były stały przedstawiciel przy [UE](org).
-- W [listopadzie](date) [2022 roku](date) w wieku 55 lat zmarła ambasadorka [Czech](loc) w [Szwajcarii](loc) i [Liechtensteinie](loc) [Katerina Fialková](per).
+- W [lutym](time) w wieku 46 lat zmarł [Jakub Dürr](per), czeski ambasador w [Polsce](loc) i były stały przedstawiciel przy [UE](org).
+- W [listopadzie 2022](time) roku w wieku 55 lat zmarła ambasadorka [Czech](loc) w [Szwajcarii](loc) i [Liechtensteinie](loc) [Katerina Fialková](per).
 - Śmierć trojga dyplomatów zaniepokoiła rząd.
 - Po śmierci trojga dyplomatów szef czeskiego [MSZ](org) wysłał list do pracowników swojego resortu.
 - Do pisma dotarło [POLITICO](org).
@@ -257,7 +257,7 @@
 - "[Szwecja](loc) wezwała ambasadora [Rosji](loc) i poinformowała go, że pięć osób zatrudnionych w ambasadzie zostało poproszonych o opuszczenie kraju w wyniku działań niezgodnych z konwencją wiedeńską o stosunkach dyplomatycznych" - czytamy.
 - Impreza urodzinowa współpracownika [Czarnka](org) w operze.
 - Są wyniki kontroli [Reuters](org) przypomina, że już wcześniej [Szwecja](loc) wydaliła trzech rosyjskich dyplomatów.
-- Miało to miejsce w [kwietniu](date) ubiegłego roku.
+- Miało to miejsce w [kwietniu](time) ubiegłego roku.
 - Z kolei na początku [kwietnia](loc) bieżącego roku [Norwegia](loc) wydaliła 15 rosyjskich przedstawicieli dyplomacji.
 - Wydalenia dotyczyły jednej czwartej rosyjskich dyplomatów akredytowanych wówczas w [Oslo](loc).
 - Ich działalność stanowiła zagrożenie dla [Norwegii](loc).
@@ -288,7 +288,7 @@
 - [MSZ](org) potępia słowa o dopuszczalnym zabójstwie ambasadora [RP](loc) Niemiecki [MSZ](org) uznał obecnie za priorytet nawiązanie kontaktów z Republikanami.
 - Niemieccy politycy mają podczas pobytów w [USA](loc) spotykać się z Republikanami, także na szczeblu lokalnym.
 - Nowy niemiecki ambasador w [Waszyngtonie](loc), [Andreas Michaelis](per) otrzymał zadanie podjęcia dialogu z obozem [Trumpa](per).
-- Niemiecka dyplomacja wyciągnęła wnioski z błędów popełnionych w [2016 roku](date).
+- Niemiecka dyplomacja wyciągnęła wnioski z błędów popełnionych w [2016](time) roku.
 - Wtedy [Berlin](loc) stawiał na zwycięstwo [Hillary Clinton](per) i zbyt późno zaczął szukać kontaktów z ekipą [Trumpa](per).
 - Należą do nich e-samochody oraz polityka wobec [Chin](loc).
 - [Berlin](loc) chce udowodnić [Amerykanom](loc), że może być wiarygodnym sojusznikiem.
@@ -297,7 +297,7 @@
 - Kanclerz [Olaf Scholz](per) i jego ludzie mają nadzieję, że dobre relacje zostaną utrzymane.
 - Artykuł pochodzi z serwisu [Deutsche Welle](org).
 - Prokuratura we [Wrocławiu](loc) postawiła [Marcie Lempart](per) pięć zarzutów - wszystkie dotyczą sprawozdań finansowych i firmy, którą działaczka w przeszłości prowadziła.
-- ["Gazeta Wocławska"](org) doprecyzowała, że [28 marca](date) br. do [Sądu Rejonowego](loc) dla [Wrocławia Śródmieście](loc) skierowany został akt oskarżenia wobec [Marty Lempart](per).
+- ["Gazeta Wocławska"](org) doprecyzowała, że [28 marca](time) br. do [Sądu Rejonowego](loc) dla [Wrocławia Śródmieście](loc) skierowany został akt oskarżenia wobec [Marty Lempart](per).
 - Została ona oskarżona o złamanie przepisów dotyczących ustawy o rachunkowości i naruszenie kodeksu spółek handlowych.
 - Według prokuratury chodzi o niezłożenie wniosku o upadłość spółki oraz o niesporządzenie właściwych sprawozdań finansowych.
 - Czyny są zagrożone grzywną lub karą do dwóch lat więzienia.
@@ -305,7 +305,7 @@
 - Dziś stałam się bohaterką kolejnej głośnej sprawy pani prokurator [Justyny Pilarczyk](per), którą znamy z tego, że umorzyła sprawę [Justyny Helcyk](per), szefowej dolnośląskiego [ONR](org).
 - Jako rzeczniczka prokuratury, broniła przed dostępem dziennikarzy do informacji o toczącym się śledztwie w sprawie oszustw w dolnośląskim [PCK](org), w które zamieszani są politycy [PiS](org)" - skomentowała sprawę [Marta Lempart](per) w przesłanym naszej redakcji oświadczeniu.
 - Liderka Ogólnopolskiego Strajku Kobiet oceniła też, że "pani [Pilarczyk](per) nieźle idzie w ziobrowskiej prokuraturze".
-- "Z szeregowej prokuratorki rejonowej w [2017](date) na szefową prokuratury okręgowej w [2020](date), ale rozumiem, że apetyt rośnie w miarę jedzenia" - dodała.
+- "Z szeregowej prokuratorki rejonowej w [2017](time) na szefową prokuratury okręgowej w [2020](time), ale rozumiem, że apetyt rośnie w miarę jedzenia" - dodała.
 - Do sądu trafił ponowny akt oskarżenia przeciwko liderkom Strajku Kobiet Aktywistka zapewniła, że spółka nie istnieje od lat i była "prawidłowo zlikwidowana".
 - "No ale skoro doniesienie na mnie złożył neofaszysta [Jacek Międlar](per), który publicznie dziękował ministrowi [Ziobrze](per) za wypuszczenie z więzienia drugiego neofaszysty - [Piotra Rybaka](per), no to nie ma się co dziwić, że pani prokurator [Pilarczyk](per) mocno się sprawą przejmuje.
 - I że 4 razy ściągała mnie z [Warszawy](loc) do [Wrocławia](loc), żeby się dopytać do protokołu, czy aby na pewno się nie przyznaję" - wskazała.
@@ -318,11 +318,11 @@
 - Zapytanie do koordynatora wywiadu [USA](loc) początkowo pozostało bez odpowiedzi.
 - Według informacji ["Kontraste"](org) i "[Die Zeit"](org) sprawa rzekomego szpiegostwa zajmuje obecnie niemieckie organy bezpieczeństwa.
 - "Sensacyjna jest nie tyle treść dokumentu, co fakt, że [USA](loc) najwyraźniej nadal szpiegują niemiecki rząd.
-- Już w [2013](date) roku w kontekście ‘afery NSA’ stało się wiadome, że [USA](loc) podsłuchiwały i podsłuchują na dużą skalę w [Niemczech](loc)" – czytamy w [tagesschau.de](org).
+- Już w [2013](time) roku w kontekście ‘afery NSA’ stało się wiadome, że [USA](loc) podsłuchiwały i podsłuchują na dużą skalę w [Niemczech](loc)" – czytamy w [tagesschau.de](org).
 - Była powierniczka [Orbana](per) zdradza, za kogo premier [Węgier](loc) uważa [Putina](per).
 - Jako źródło podaje się ["SI"](org) – ["signal intelligence"](org).
 - Tak więc do szpiegostwa mogło dojść poprzez przechwycenie wiadomości e-mail lub poprzez włamanie do systemów informatycznych [Ministerstwa Obrony](org).
-- W swoim raporcie przedstawiciele amerykańskiego wywiadu informują o spotkaniu [20 lutego](date) w [Berlinie](loc): przedstawiciele [Federalnego Ministerstwa Obrony](org) dyskutowali z delegacją chińskich sił zbrojnych.
+- W swoim raporcie przedstawiciele amerykańskiego wywiadu informują o spotkaniu [20 lutego](time) w [Berlinie](loc): przedstawiciele [Federalnego Ministerstwa Obrony](org) dyskutowali z delegacją chińskich sił zbrojnych.
 - Data ta została potwierdzona w kręgach rządowych.
 - Według raportu spotkanie odbyło się w ramach zwykłej dyplomacji wojskowej i w koordynacji z innymi resortami rządu federalnego.
 - Ze strony niemieckiej wziął w nim udział m.in. szef podwydziału [Polityka II](org).
@@ -349,7 +349,7 @@
 - Należy podkreślić, że w sprawie zachodzi konieczność przeprowadzenia dodatkowych badań pozwalających na ocenę stanu zdrowia psychicznego podejrzanej - zaznaczył prokurator.
 - Kobieta wciąż przebywa w szpitalu, sąd zatwierdził wniosek prokuratury o trzymiesięczny areszt.
 - [Krystynie K.](per) grozi dożywocie.
-- Przypomnijmy: w [czwartek 20 kwietnia](date) ojciec dziewczynek - [Jan K.](per) - wrócił do domu w [Kobylej Górze](loc).
+- Przypomnijmy: w [czwartek](time) [20 kwietnia](time) ojciec dziewczynek - [Jan K.](per) - wrócił do domu w [Kobylej Górze](loc).
 - Nie mógł dostać się do budynku, dlatego wybił szybę.
 - W środku znajdowały się ciała dwóch jego córek - dziewięcioletniej [Jadzi](per) i trzynastoletniej [Magdy](per).
 - Niedaleko znajdowała się ich nieprzytomna matka, 47-letnia [Krystyna K.](per)
@@ -359,7 +359,7 @@
 - Przyczyną śmierci było wykrwawienie.
 - U 9-latki stwierdzono natomiast nieznaczne otarcia na szyi.
 - Według biegłych zmarła ona wskutek gwałtownego uduszenia.
-- [Polska](loc) medalistka olimpijska podejrzana o oszustwo.
+- Polska medalistka olimpijska podejrzana o oszustwo.
 # Wirtualna Polska
 - Największym wyzwaniem [Polski](loc) jest obrona suwerenności - stwierdził [Patryk Jaki](per) w rozmowie z [Wirtualną Polską](org).
 - Europoseł wyjaśnił przy okazji, kto dokładnie, zdaniem [Solidarnej Polski](org), jest zagrożeniem dla wolności i niezależności [Polski](loc) w [Europie](loc).
@@ -386,30 +386,30 @@
 - We wtorkowym losowaniu [Eurojackpot](org) padła główna wygrana.
 - Ogromną pulę zgarnął gracz z [Polski](loc).
 - Posiadacz szczęśliwego losu wygrał ponad 62,6 mln złotych.
-- [Totalizator Sportowy](org) w [środę](date) ujawnił, w jakim mieście zawarto zwycięski zakład.
+- [Totalizator Sportowy](org) w [środę](time) ujawnił, w jakim mieście zawarto zwycięski zakład.
 - Jedną z największych gier liczbowych na świecie jest [Eurojackpot](org), w której udział biorą gracze z 18 europejskich państw.
-- We [wtorek](date) [2 maja](date) podczas losowania w [Helsinkach](loc) padły następujące liczby: 11, 12, 13, 23, 26, oraz 11 i 12.
+- We [wtorek](time) [2 maja](time) podczas losowania w [Helsinkach](loc) padły następujące liczby: 11, 12, 13, 23, 26, oraz 11 i 12.
 - Szczęśliwy kupon (trafione liczby 5+2) skreślił tylko jeden gracz.
 - O zwycięzcy niewiele wiadomo.
 - Jak informuje [Totalizator Sportowy](org), do postawienia zakładu doszło w [Bielsku-Białej](loc), a właściciel zgarnie ponad 13,6 mln euro, co w przeliczeniu daje ponad 62,6 mln złotych.
 - Zgodnie z polskimi przepisami od tej kwoty zostanie potrącony jeszcze 10-proc. podatek.
 - Jest on pobierany w momencie wypłaty wygranej i odprowadzany przez [Totalizator Sportowy](org) do urzędu skarbowego.
-- [Eurojackpot](org) to gra liczbowa o europejskim zasięgu, która została uruchomiona w [marcu 2012](date).
-- Od [września 2017](date) w grze mogą uczestniczyć także gracze z [Polski](loc).
+- [Eurojackpot](org) to gra liczbowa o europejskim zasięgu, która została uruchomiona w [marcu 2012](time).
+- Od [września 2017](time) w grze mogą uczestniczyć także gracze z [Polski](loc).
 - Na polski rynek wprowadził ją [Totalizator Sportowy](org), właściciel marki [Lotto](org).
 - Opłata za jeden zakład wynosi 12,50 złotych.
 - Gracz typuje 5 z 50 liczb oraz 2 z 12 liczb.
-- Losowania odbywają się we [wtorki](date) i [piątki](date).
+- Losowania odbywają się we [wtorki](time) i [piątki](time).
 - Prawdopodobieństwo trafienia głównej wygranej (5+2) wynosi 1:139 838 159.
 - Przed wtorkowym losowaniem główną nagrodę zdobyło łącznie pięciu graczy z [Polski](loc).
-- Pierwszy był mieszkaniec powiatu piotrkowskiego, który w [maju 2019](date) wygrał ponad 193 mln złotych.
+- Pierwszy był mieszkaniec powiatu piotrkowskiego, który w [maju 2019](time) wygrał ponad 193 mln złotych.
 - Jego historię na łamach [WP](org) opisał dziennikarz [Mateusz Ratajczak](per).
-- Rekord kwotowy padł w [sierpniu 2022](date), kiedy gracz z [powiatu krotoszyńskiego](loc) wygrał ponad 213,5 mln złotych.
-- [12 maja 1926](date) roku [Józef Piłsudski](per) zdecydował się przekreślić demokratyczną drogę [Polski](loc).
+- Rekord kwotowy padł w [sierpniu 2022](time), kiedy gracz z [powiatu krotoszyńskiego](loc) wygrał ponad 213,5 mln złotych.
+- [12 maja 1926](time) roku [Józef Piłsudski](per) zdecydował się przekreślić demokratyczną drogę [Polski](loc).
 - Zwolennicy tego rozwiązania powiedzieliby, że ratował kraj przed endecką dyktaturą.
 - Przeciwnicy, że napędzało go głównie własne ego.
 - To nie miał być zamach stanu.
-- Rankiem [12 maja 1926 roku](date) [Józef Piłsudski](per) wyruszył wraz z żołnierzami zgrupowanymi na wschód od [Warszawy](loc), w kierunku stolicy, ale mimo wszystko swojej żonie przekazał, że jak zwykle wróci na obiad.
+- Rankiem [12 maja 1926](time) roku [Józef Piłsudski](per) wyruszył wraz z żołnierzami zgrupowanymi na wschód od [Warszawy](loc), w kierunku stolicy, ale mimo wszystko swojej żonie przekazał, że jak zwykle wróci na obiad.
 - Teoretycznie nadrzędnym celem Marszałka miało być wymuszenie dymisji rządu [Witosa](per).
 - Na pewno nie zależało mu na rozlewie krwi.
 - O tym, że ta się jednak poleje, zadecydowało dopiero spotkanie na moście.
@@ -430,14 +430,14 @@
 - Po trzech dniach [Piłsudski](per) miał to, co chciał.
 - Mimo że nagle w jego ręku skupiła się pełnia władzy, to z początku nie zachował się jak rasowy dyktator.
 - Owszem ustanowił nową, wybraną przez siebie władzę, ale została ona zalegalizowana przez – teoretycznie – znienawidzony przez niego [Sejm](org).
-- I choć obóz marszałka z miesiąca na miesiąc zagarniał kolejne obszary życia publicznego dla siebie, to aż do wyborów w [1930 roku](date) życie polityczne w [Polsce](loc) toczyło się względnie normalnie.
+- I choć obóz marszałka z miesiąca na miesiąc zagarniał kolejne obszary życia publicznego dla siebie, to aż do wyborów w [1930](time) roku życie polityczne w [Polsce](loc) toczyło się względnie normalnie.
 - Dziwny to zamach stanu, po którym nie likwiduje się przeciwników, nie rozwiązuje parlamentu i pozwala funkcjonować państwu we względnej harmonii.
 - Patrząc na działania [Piłsudskiego](per) po przewrocie, można dojść do wniosku, że albo sam do końca nie wiedział, czego chce, albo podświadomie stosował coś na kształt "taktyki salami", a więc przejmowania władzy po kawałku.
 - Na pewno między bajki można włożyć opowieść o tym, że chodziło wyłącznie o dymisje [Witosa](per).
 - [Piłsudski](per) udzielił licznych wypowiedzi, z których wynikało, że nie tyle chodzi o ten konkretny rząd, ile o stan państwa w ogóle.
 - Skarżył się na gadatliwych polityków, korupcję i niską jakość klasy politycznej.
 - Do żywego dotykał go fakt, że nikt nie poniósł politycznej odpowiedzialności za zamach na prezydenta [Gabriela Narutowicza](per).
-- Czym innym jednak jest wskazanie wad konstytucji marcowej z [1921 roku](date) (nadmierna władza [Sejmu](org) i brak kontroli sądów nad jego poczynaniami), a czym innym atakowanie moralnego zepsucia przeciwników politycznych.
+- Czym innym jednak jest wskazanie wad konstytucji marcowej z [1921](time) roku (nadmierna władza [Sejmu](org) i brak kontroli sądów nad jego poczynaniami), a czym innym atakowanie moralnego zepsucia przeciwników politycznych.
 - [Piłsudski](per) zarzucał [Sejmowi](org), że ten ma zbyt duże uprawnienia, ale sam szybko pozwolił prezydentowi na wydawanie rozporządzeń z mocą uchwały.
 - Istnieje hipoteza mówiąca, że [Piłsudski](per) miał świadomość, jak wątła jest nadwiślańska demokracja i postanowił wykonać ruch wyprzedzający wobec endeków.
 - Patrząc na mapę [Europy](loc), widział, jak wokół [Polski](loc) wyrastają kolejne rządy autorytarne.
@@ -446,13 +446,13 @@
 - Trzeba dodać, że idea zamachu stanu nie zrodziła się w jedną noc.
 - Zgromadzeni wokół [Piłsudskiego](per) wojskowi sugerowali mu przez kilka lat, że nadszedł czas, aby przejąć władzę siłą.
 - Żeby zrozumieć motywacje tego środowiska, musimy pamiętać, że byli to ludzie żyjący w wiecznej konspiracji, niektórzy z nich mieli wręcz kilkadziesiąt lat doświadczenia bojowego.
-- Przeszli szlak od rewolucji [1905 roku](date), przez [Organizację Bojową PPS](org), aż po fronty I Wojny Światowej.
+- Przeszli szlak od rewolucji [1905](time) roku, przez [Organizację Bojową PPS](org), aż po fronty I Wojny Światowej.
 - Zawsze starali się być w centrum wydarzeń i nie odpowiadało im zepchnięcie do koszar.
 - Bezpośrednia przyczyna zamachu mogła być błaha.
 - Wiele wskazuje na to, że [Piłsudskiego](per) ostatecznie sprowokowała wymiana zdań, jaką stoczył na łamach "Nowego Kuriera Polskiego" z [Witosem](per).
-- Najpierw – [9 maja](date) – na dzień przed zaprzysiężeniem rządu, nowy premier odniósł się do pogłosek o szykowanym przewrocie.
+- Najpierw – [9 maja](time) – na dzień przed zaprzysiężeniem rządu, nowy premier odniósł się do pogłosek o szykowanym przewrocie.
 - Mówił, że jeśli [Piłsudskiemu](per) naprawdę zależy na [Polsce](loc), to powinien "wyjść z ukrycia, stworzyć rząd, wziąć do współpracy wszystkie czynniki twórcze, którym dobro państwa leży na sercu".
-- Odpowiedź [Piłsudskiego](per), na łamach tej samej gazety miała ukazać się [11 maja](date).
+- Odpowiedź [Piłsudskiego](per), na łamach tej samej gazety miała ukazać się [11 maja](time).
 - Nakład został skonfiskowany przez komisariat rządu w [Warszawie](loc).
 - W ramach prowokacji intelektualnej zestawmy ze sobą dwie liczby.
 - Około stu śmiertelnych ofiar stanu wjennego i 379 osób zabitych podczas przewrotu majowego (nie licząc rannych).
@@ -462,7 +462,7 @@
 - Dodawał, że [Piłsudskiemu](per) "nie groziła interwencja ze strony [ZSRR](loc)", a całą sprawę przewrotu nazywał "zamiecioną pod dywan".
 - Oba zdarzenia są do siebie podobne w tym sensie, że politycy zdecydowali się wyprowadzić wojsko na ulice i użyć przemocy, jeden w celu uzyskania władzy, a drugi jej utrzymania.
 - Poza tym różni je bardzo wiele.
-- [Piłsudski](per) u wielu miał opinię męża opatrznościowego, który uratował [Polskę](loc) przed klęską w [1920 roku](date) (abstrahuję teraz od tego, w jakim stopniu faktycznie zwycięstwo w Bitwie Warszawskiej było jego zasługą), [Jaruzelski](per) uosabiał władzę sterowaną z zewnątrz.
+- [Piłsudski](per) u wielu miał opinię męża opatrznościowego, który uratował [Polskę](loc) przed klęską w [1920](time) roku (abstrahuję teraz od tego, w jakim stopniu faktycznie zwycięstwo w Bitwie Warszawskiej było jego zasługą), [Jaruzelski](per) uosabiał władzę sterowaną z zewnątrz.
 - [Piłsudski](per) przeciwstawiał się niespecjalnie lubianej opcji politycznej, [Jaruzelski](per) wyprowadzał czołgi przeciwko cywilom.
 - Wreszcie, działania [Piłsudskiego](per) wpisywały się w bogatą w [Polsce](loc) tradycję szlacheckiego rokoszu (wypowiedzenia posłuszeństwa konstytucyjnie wybranemu władcy), a stan wojenny mógł się łatwo kojarzyć z represjami, jakie zaborcy stosowali, by ukarać naród po kolejnych zrywach niepodległościowych.
 - W opracowywaniu bilansów historycznych czysta arytmetyka nie działa.
@@ -475,13 +475,13 @@
 - Ostatecznie zbudowane po zamachu państwo okazało się słabe.
 - Zdeptało demokrację w [Polsce](loc) (odmawiano rejestracji list wyborczych, tysiące ludzi aresztowano bez wyroku sądowego), nie rozwiązało najbardziej palących problemów epoki (reforma rolna), jego innowacyjność była rozczarowująca ([Centralny Okręg Przemysłowy](loc)), a kariery robiło się w nim raczej przez znajomości i układy niż dzięki kompetencjom.
 - W momencie próby przetrwało ledwie 17 dni.
-- Inna władza też pewnie nie dałaby rady wobec agresji z [września 1939 roku](date), ale to już gdybanie i historia alternatywna.
+- Inna władza też pewnie nie dałaby rady wobec agresji z [września 1939](time) roku, ale to już gdybanie i historia alternatywna.
 - [Rząd USA](org) może nie być w stanie spłacać wszystkich swoich zobowiązań już od początku czerwca, jeśli [Kongres](org) nie podniesie limitu zadłużenia - ostrzegła w poniedziałek szefowa resortu finansów [Janet Yellen](per).
 - Oświadczyła, że będzie to miało "ogromnie negatywne konsekwencje dla państwa".
 - W liście do [Kongresu](org) [Yellen](per) przekazała, że jeśli limit zadłużenia nie zostanie podniesiony, to narazi to Amerykanów "na poważne trudności", zaszkodzi pozycji "globalnego przywództwa" [Stanów Zjednoczonych](loc), a także podda w wątpliwość "zdolność [USA](loc) do obrony interesów bezpieczeństwa narodowego".
 - To nie pierwszy niepokojący sygnał dotyczący sytuacji finansowej [Stanów Zjednoczonych](loc).
-- Już w [styczniu](date) [Yellen](per) mówiła, że [USA](loc) "dobiły do ustalonego limitu", jednak [Departament Skarbu](org) zdecydował wówczas o podjęciu "nadzwyczajnych środków", które miały pozwolić na dalsze spłacanie długów przez rząd przez kolejne kilka miesięcy.
-- Większość ekonomistów spodziewała się, że data graniczna nadejdzie w [sierpniu](date), jednak szacunki te zmieniły się z powodu słabszych niż oczekiwano wpływów podatkowych.
+- Już w [styczniu](time) [Yellen](per) mówiła, że [USA](loc) "dobiły do ustalonego limitu", jednak [Departament Skarbu](org) zdecydował wówczas o podjęciu "nadzwyczajnych środków", które miały pozwolić na dalsze spłacanie długów przez rząd przez kolejne kilka miesięcy.
+- Większość ekonomistów spodziewała się, że data graniczna nadejdzie w [sierpniu](time), jednak szacunki te zmieniły się z powodu słabszych niż oczekiwano wpływów podatkowych.
 - Mimo ostrzeżeń ze strony [Yellen](per) i ekonomistów o potencjalnie katastrofalnych skutkach bankructwa [USA](loc), [Biały Dom](org) i Republikanie kontrolujący [Izbę Reprezentantów](org) tkwią w impasie co do podniesienia limitu zadłużenia.
 - Obecnie wynosi on 31,4 bln dolarów.
 - W ubiegłym tygodniu [Izba Reprezentantów](org) minimalną większością przegłosowała ustawę zwiększającą limit, ale jednocześnie zawierającą ostre cięcia wydatków socjalnych.
@@ -501,7 +501,7 @@
 - Posłanka Partii Pracy [Diana Johnson](per), która przewodniczy [Komisji Spraw Wewnętrznych Izby Gmin](org), skomentowała: "To niezły spektakl!"
 - W związku z trudną sytuacją za wschodnią granicą, polska policja we współpracy z amerykańskim [FBI](org) rozpocznie kilkudniowe ćwiczenia "Wolf-Ram-23".
 - Manewry rozpoczną się w [Warszawie](loc), możliwe będą utrudnienia w komunikacji.
-- Jak poinformowała policja, w dniach [17-19 kwietnia](date) na terenie całej [Polski](loc) w odbędą się ćwiczenia pod kryptonimem "Wolf-Ram-23".
+- Jak poinformowała policja, w dniach [17-19 kwietnia](time) na terenie całej [Polski](loc) w odbędą się ćwiczenia pod kryptonimem "Wolf-Ram-23".
 - Ich organizatorem jest [Komenda Główna Policji](org) we współpracy z amerykańskim [Federalnym Biurem Śledczym (FBI)](org).
 - "Głównym celem ćwiczeń jest reagowanie Policji w przypadku wystąpienia sytuacji kryzysowej w postaci ataku terrorystycznego związanego z zagrożeniem chemicznym, biologicznym, radiacyjnym lub nuklearnym" - podkreślono.
 - "Trudna sytuacja za wschodnią granicą, wymaga od wielu służb ciągłej gotowości oraz podnoszenia umiejętności w zakresie radzenia sobie w sytuacjach kryzysowych.
@@ -509,9 +509,9 @@
 - Zaznaczono, że ćwiczenia będą odbywać się "w warunkach zbliżonych do realnych", co ma pozwolić m.in. wypracować zasady współpracy z innymi podmiotami.
 - Ćwiczenia rozpoczną się w [Warszawie](loc).
 - [Rządowe Centrum Bezpieczeństwa](org) rozesłało w związku z tym alert do mieszkańców stolicy.
-- Dziś wieczorem [17.04](date) w [Warszawie](loc) ćwiczenia antyterrorystyczne Policji.
+- Dziś wieczorem [17.04](time) w [Warszawie](loc) ćwiczenia antyterrorystyczne Policji.
 - Policja precyzuje, że utrudnienia obejmą m.in. warszawskie metro.
-- Odbędą się one z [poniedziałku](date) na [wtorek](date) między godz. [19:00](date) i [4:00](date) na stacjach [Stare Bielany](loc) i [Stadion Narodowy](loc).
+- Odbędą się one z [poniedziałku](time) na [wtorek](time) między godz. [19:00](time) i [4:00](time) na stacjach [Stare Bielany](loc) i [Stadion Narodowy](loc).
 - Jak to możliwe, że amerykański żołnierz [Gwardii Narodowej](org) miał dostęp do tajnych dokumentów i najprawdopodobniej był autorem wycieku danych?
 - Kontrowersje budzi nie tylko sama sprawa, ale także okoliczności jego zatrzymania.
 - Pomyślałem, że to jakiś absurd i fake news – mówi [WP](org) [Marcin Faliński](per), były oficer wywiadu.
@@ -524,7 +524,7 @@
 - Wówczas cały świat obiegła wiadomość o opublikowaniu w mediach społecznościowych ściśle tajnych dokumentów m.in. z [Pentagonu](org).
 - Wiele z nich zawierało informacje nt. wojny w [Ukrainie](loc).
 - Amerykańskie służby oceniły wyciek jako "bardzo poważny".
-- W [czwartek](date) uzbrojeni agenci [FBI](org) aresztowali 21-letniego [Jacka Teixeirę](per), żołnierza jednostki wywiadowczej [Sił Powietrznych Gwardii Narodowej](org).
+- W [czwartek](time) uzbrojeni agenci [FBI](org) aresztowali 21-letniego [Jacka Teixeirę](per), żołnierza jednostki wywiadowczej [Sił Powietrznych Gwardii Narodowej](org).
 - Na filmie z aresztowania widać prowadzonego przez dwóch funkcjonariuszy młodego mężczyznę z krótkimi, ciemnymi włosami, ubranego w oliwkowy T-shirt i czerwone szorty. "
 - Według ["Washington Post"](org), 21-latek miał się chwalić pracą w [bazie wojskowej Otwis](loc), gdzie część dnia spędzał w pomieszczeniach z tajnymi danymi.
 - Był odpowiedzialny za sieci internetowe swojej jednostki.
@@ -585,14 +585,14 @@
 - Jeszcze kilka dekad temu nikt za odrodzenie się pałacu [Marianny Orańskiej](per) nie dałby złamanego grosza.
 - Na pałacu ponownie pojawi się wspaniały lew wraz z [Herkulesem](per) i koroną wieńczącą fasadę.
 - [Gmina Kamieniec Ząbkowicki](loc) na remont piątego co do wielkości pałacu w [Polsce](loc), który zbudowała królewna niderlandzka [Marianna Orańska](per), zdobyła rekordowe dotacje.
-- Obiekt w bardzo złym stanie został własnością lokalnego samorządu w [2012 roku](date).
-- Od [2013 roku](date) obiekt odradza się systematycznie dzięki pieniądzom gminy, środkom pozabudżetowym z [Ministerstwa Kultury i Dziedzictwa Narodowego](org) i ogromnym dotacjom z [Unii Europejskiej](org).
+- Obiekt w bardzo złym stanie został własnością lokalnego samorządu w [2012](time) roku.
+- Od [2013](time) roku obiekt odradza się systematycznie dzięki pieniądzom gminy, środkom pozabudżetowym z [Ministerstwa Kultury i Dziedzictwa Narodowego](org) i ogromnym dotacjom z [Unii Europejskiej](org).
 - Pałac w [Kamieńcu Ząbkowickim](loc) jest jednym z najpiękniejszych obiektów tego typu nie tylko na [Dolnym Śląsku](loc), ale i w [Polsce](loc).
-- W [styczniu 1946 roku](date) pałac płonie.
+- W [styczniu 1946](time) roku pałac płonie.
 - Mimo tego zdarzenia wciąż jeszcze w rezydencji jest coś do pozyskania.
 - W panującej powszechnie powojennej biedzie i ubóstwie osadników, którzy niemal dosłownie przybyli z gołymi rękoma i przetrwać im udawało się tylko dzięki bezcennym dla nich skarbom niemieckich gospodarzy, wartościowe było wszystko.
 - Do rangi nieocenionej zdobyczy urastał nawet kupon materiału lub weki zostawione w poniemieckiej piwnicy.
-- Nic więc dziwnego, że gdy [9 lutego 1946 roku](date) [Kamieniec Ząbkowicki](loc) opuszczają Rosjanie, kolej na następnych eksploratorów.
+- Nic więc dziwnego, że gdy [9 lutego 1946](time) roku [Kamieniec Ząbkowicki](loc) opuszczają Rosjanie, kolej na następnych eksploratorów.
 - Drewno przyda się na opał, każda wyrwana cegła, fragment stolarki to dobro materialne, darmowy materiał budowlany po Niemcu.
 - Najlepsze zastosowanie znajdą ocalałe jeszcze płyty marmurowe.
 - Dziś podziwiać je można w Sali Kongresowej [Pałacu Kultury i Nauki](loc).
@@ -600,22 +600,22 @@
 - W wielu wypadkach te zjawiska nie nastaną nigdy.
 - Ale wiele lat później zdarzać się zacznie coś, co wydawało się już niemożliwe.
 - W światowych muzeach i na aukcjach sztuki pojawiać się zaczną obrazy, które widniały na liście [Grundmanna](per).
-- Z tych zdeponowanych w Kamieńcu znajdzie się więc w [2008 roku](date), w londyńskim domu aukcyjnym, olejny siedemnastowieczny szkic flamandzkiego malarza [Jacoba Jardaensa](per) "Święty Iwo, patron prawników".
-- W [2014](date) w domu aukcyjnym w Kolonii wystawiony został obraz [Oswalda Achenbacha](per) "Via Cassia koło Rzymu", a na internetowej aukcji w [USA](loc) antykwariat z [Pensylwanii](loc) zaoferował na sprzedaż "Ulicę wraz z ruiną zamku" [Roberta Śliwińskiego](per).
+- Z tych zdeponowanych w Kamieńcu znajdzie się więc w [2008](time) roku, w londyńskim domu aukcyjnym, olejny siedemnastowieczny szkic flamandzkiego malarza [Jacoba Jardaensa](per) "Święty Iwo, patron prawników".
+- W [2014](time) w domu aukcyjnym w Kolonii wystawiony został obraz [Oswalda Achenbacha](per) "Via Cassia koło Rzymu", a na internetowej aukcji w [USA](loc) antykwariat z [Pensylwanii](loc) zaoferował na sprzedaż "Ulicę wraz z ruiną zamku" [Roberta Śliwińskiego](per).
 - Najcenniejsze odzyskane dzieło z kamienieckiego magazynu to "Opłakiwanie Chrystusa", obraz z warsztatu niemieckiego malarza [Lucasa Cranacha](per) starszego.
-- Odnaleziony w [2020 roku](per) w zbiorach Nationalmuseeum w [Sztokholmie], w [styczniu 2022 roku](date) wrócił do domu - znów jest we wrocławskich zbiorach i oglądać go można w [Muzeum Narodowym](org).
-- [XVI wieku](date), przedstawiajace ciało [Jezusa](per) zawinięte w białe płótno, w otoczeniu ludzkiej gromady, której twarze zaoferowała rodzina fundatorów, stanowiło ozdobę w klasztorze cysterskim w [Lubiążu](loc).
-- Przeniesiono je do [Breslau](loc) w [1880 roku](date), gdy klasztor został poddany sekularyzacji.
+- Odnaleziony w [2020 roku](per) w zbiorach Nationalmuseeum w [Sztokholmie], w [styczniu 2022](time) roku wrócił do domu - znów jest we wrocławskich zbiorach i oglądać go można w [Muzeum Narodowym](org).
+- [XVI](time) wieku, przedstawiajace ciało [Jezusa](per) zawinięte w białe płótno, w otoczeniu ludzkiej gromady, której twarze zaoferowała rodzina fundatorów, stanowiło ozdobę w klasztorze cysterskim w [Lubiążu](loc).
+- Przeniesiono je do [Breslau](loc) w [1880](time) roku, gdy klasztor został poddany sekularyzacji.
 - Nikt już nie dowie się, jaka była droga z [Kamieńca Ząbkowickiego](loc) tego arcydzieła o ogromnej wartości.
 - To fascynująca tajemnica, bo znany jest tylko szwedzki trop, a odnalezienie obiektu to efekt pracy wrocławskich muzealników.
 - W szwedzkim muzeum odkrył obraz [Piotr Oszczanowski](per), dyrektor Muzeum Narodowego we [Wrocławiu](loc), i zidentyfikował jako stratę wojenne.
-- Okazało się, że na muzealnej ekspozycji w [Szwecji](loc) to szesnastowieczne malarstwo znalazło się z woli spadkobierców [Siegfrieda Häggberga](per), którzy w [1970 roku](date) sprzedali go.
+- Okazało się, że na muzealnej ekspozycji w [Szwecji](loc) to szesnastowieczne malarstwo znalazło się z woli spadkobierców [Siegfrieda Häggberga](per), którzy w [1970](time) roku sprzedali go.
 - Twierdzili, że zmarły krewny dostał obraz na przechowanie, jednak nigdy nikt po niego się nie zgłosił.
 - [Häggberg](per) nie był jakimś tam przypadkowym Szwedem, lecz pracującym już w przedwojennej [Warszawie](loc) przedstawicielem [Ericssona](per).
 - Współpracował z polskim ruchem oporu w czasie II wojny światowej, przemycał do [Szwecji](loc) dokumenty polskiego ruchu oporu, dokumentujące zbrodnie popełnione przez niemieckich nazistów na Polakach i Żydach.
 - Niemcy oskarżyli go o szpiegostwo, został skazany na śmierć, ale po interwencji króla [Szwecji](loc) [Gustawa V](per) wyrok został cofnięty.
-- Po wojnie mężczyzna mieszkał w [Warszawie](loc), zmarł tu w [1963 roku](date).
-- Mogło to stać się w [Polsce](loc) po [1945](date), bo zapewne dla niego przemycenie do [Szwecji](loc) przez komunistyczną granicę dzieła Cranacha było ułką z masłem.
+- Po wojnie mężczyzna mieszkał w [Warszawie](loc), zmarł tu w [1963](time) roku.
+- Mogło to stać się w [Polsce](loc) po [1945](time), bo zapewne dla niego przemycenie do [Szwecji](loc) przez komunistyczną granicę dzieła Cranacha było ułką z masłem.
 - W środę papież [Franciszek](per) przebywał w [Nur-Sułtanie](loc), stolicy [Kazachstanu](loc).
 - Tego dnia w mieście pojawiła się także delegacja chińskiego prezydenta [Xi Jinpinga](per).
 - W związku z tym strona watykańska zaproponowała, by obaj liderzy się spotkali.
@@ -627,12 +627,12 @@
 - Spotkanie papieża z chińskim przywódcą byłoby spektakularnym wydarzeniem na bardzo delikatnej, trudnej drodze ku normalizacji stosunków między [Stolicą Apostolską](loc) a [Pekinem](loc).
 - Dialog ten trwa od lat i, jak przyznał w czwartek papież podczas konferencji prasowej w samolocie - lecącym do [Rzymu](loc) z [Nur-Sułtanu](loc), przebiega powoli.
 - [Franciszek](per) zastrzegł zarazem, że dialog ten wymaga "dużej cierpliwości", ale odnotowuje się w nim "kroki naprzód".
-- We wtorek podczas lotu z [Rzymu](loc) do [Kazachstanu](loc) dziennikarze pytali papieża, czy spotka się z prezydentem [Chin](loc), gdy w [środę](date) przybędzie on do stolicy na rozmowy z prezydentem [Kasymem-Żomartem Tokajewem](per).
+- We wtorek podczas lotu z [Rzymu](loc) do [Kazachstanu](loc) dziennikarze pytali papieża, czy spotka się z prezydentem [Chin](loc), gdy w [środę](time) przybędzie on do stolicy na rozmowy z prezydentem [Kasymem-Żomartem Tokajewem](per).
 - [Franciszek](per) odpowiedział wtedy, że nie ma wiadomości na ten temat, ale zadeklarował zarazem, że gotów jest udać się do [Chin](loc).
 - Pani [Anna](per) mieszka pod [Dęblinem](loc).
 - Pracuje w szpitalu i dodatkowo w prywatnej przychodni w [Lublinie](loc), a jej mama mieszka w [Łukowie](loc).
 - Swoje regularne podróże po [województwie lubelskim](loc), które odbywa od czasów studiów, opisuje krótko: "Kiedyś gehenna, teraz luksus".
-- W [XXI wiek](date) przeniosły mnie elektryczne pociągi, żałuję że nie było ich wcześniej, bo tyle zdrowia i nerwów straciłam na tych dojazdach – mówi 38-letnia lekarka.
+- W [XXI](time) wiek przeniosły mnie elektryczne pociągi, żałuję że nie było ich wcześniej, bo tyle zdrowia i nerwów straciłam na tych dojazdach – mówi 38-letnia lekarka.
 - [Anna](per) przez lata przetestowała różne metody transportu.
 - Mam wiedzę z własnego doświadczenia i z czystym sercem potwierdzam, że wyłącznie nowoczesny pociąg jest rozwiązaniem bez wad – uśmiecha się kobieta.
 - Kiedyś trasę [Dęblin-Lublin](loc) [Anna](per) pokonywała własnym samochodem.
@@ -664,18 +664,18 @@
 - Atak [Rosji](loc) na podmorskie kable?
 - [NATO](loc) ściśle monitoruje sytuację - Mamy wzmożone obawy, że Rosjanie mogą próbować zaatakować podmorskie kable lub inne elementy kluczowej dla [Zachodu](loc) infrastruktury, by zakłócić tym samym życie [Zachodu](loc) i zbudować sobie przewagę nad krajami pomagającymi [Ukrainie](loc) w wojnie - przekazał mediom zastępca sekretarza generalnego [NATO](org) ds. wywiadu [David Cattler](per).
 - [Reuters](org) donosi, powołując się na słowa [Cattlera](per), że Rosjanie są w tym obszarze najbardziej aktywni od lat - intensywniej patrolują [Atlantyk](loc), swoje działania zintensyfikowali też na morzach [Bałtyckim](loc) i [Północnym](loc).
-- Zastępca sekretarza generalnego [NATO](org) ds. wywiadu zaznaczył, że stopień zagrożenia dla podmorskiej infrastruktury wzrósł po tym, jak we [wrześniu 2022 roku](date) niewyjaśnione dotąd eksplozje uszkodziły rurociągi Nord Stream 1 i 2.
+- Zastępca sekretarza generalnego [NATO](org) ds. wywiadu zaznaczył, że stopień zagrożenia dla podmorskiej infrastruktury wzrósł po tym, jak we [wrześniu 2022](time) roku niewyjaśnione dotąd eksplozje uszkodziły rurociągi Nord Stream 1 i 2.
 - Zbierają dane do sabotażu [NATO](org) koncentruje się na ścisłym monitorowaniu aktywności rosyjskich statków, które są wyposażone w czujniki zbierające informacje z dna morskiego.
 - [Cattler](per) zaznaczył, że sojusz istotnie zwiększył liczbę patroli na morzach [Północnym](loc) i [Bałtyckim](loc) oraz powołał specjalną [Komórkę Ochrony Krytycznej Infrastruktury Podwodnej](org).
 - Zagrożenie jest realne, a [NATO](org) intensyfikuje działania - powiedział agencji [Reutera](org) niemiecki generał porucznik [Hans Werner Wiermann](per), który stoi na czele wspomnianej wyżej komórki.
 - "[Rosja](loc) aktywnie mapuje krytyczną infrastrukturę sojuszu w ramach programu podwodnego rozpoznania, który prowadzi jedna z komórek rosyjskiego ministerstwa" - cytuje słowa [Cattlera](per) agencja [Reutera](org).
-- Singapurczyk, którego uznano za winnego udziału w przemycie kilograma marihuany, został stracony w azjatyckim mieście-państwie w [środę](date) rano.
+- Singapurczyk, którego uznano za winnego udziału w przemycie kilograma marihuany, został stracony w azjatyckim mieście-państwie w [środę](time) rano.
 - Stosowanie kary śmierci skrytykowała [ONZ](org) oraz międzynarodowi aktywiści.
-- 46-letni [Tangaraju Suppiah](per) trafił na szubienicę w singapurskim więzieniu [Changi](loc) w [środę](date), we wczesnych godzinach porannych lokalnego czasu.
+- 46-letni [Tangaraju Suppiah](per) trafił na szubienicę w singapurskim więzieniu [Changi](loc) w [środę](time), we wczesnych godzinach porannych lokalnego czasu.
 - Według sądu mężczyzna przed 10 laty koordynował przemyt kilograma marihuany z sąsiedniej [Malezji](loc).
 - Jego rodzina złożyła wniosek o ułaskawienie do prezydent kraju [Halimy Yacob](per).
 - Prezydent, która pełni głównie rolę reprezentacyjną, nie przychyliła się jednak do prośby.
-- Do wstrzymania wykonania wyroku i ponownego rozpatrzenia sprawy we [wtorek](date) wzywała [ONZ](org) oraz miejscowi i międzynarodowi aktywiści, w tym brytyjski miliarder [Richard Branson](per).
+- Do wstrzymania wykonania wyroku i ponownego rozpatrzenia sprawy we [wtorek](time) wzywała [ONZ](org) oraz miejscowi i międzynarodowi aktywiści, w tym brytyjski miliarder [Richard Branson](per).
 - Zwrócili oni uwagę na wątpliwości co do procedury skazania [Tangaraju](per), który w czasie składania zeznań nie miał dostępu do prawnika ani tłumacza.
 - [Singapurskie ministerstwo spraw wewnętrznych](org) zarzuciło krytykom "brak szacunku" do tamtejszego systemu wymiaru sprawiedliwości.
 - Środowa egzekucja jest pierwszą w [Singapurze](loc) od ubiegłego roku.
@@ -684,15 +684,15 @@
 - Władze azjatyckiego kraju skrytykował także brytyjski miliarder [Richard Branson](per), który wcześniej wielokrotnie wypowiadał się przeciwko stosowaniu najwyższego wymiaru kary.
 - Jego zdaniem nie jest wykluczone, że [Singapur](loc) zabija niewinną osobę.
 - W odpowiedzi [singapurskie ministerstwo spraw wewnętrznych](org) stwierdziło, że wina 46-latka została dowiedziona ponad wszelką wątpliwość, a [Branson](per) okazał brak szacunku tamtejszym sędziom i wymiarowi sprawiedliwości.
-- We [wtorek](date) biuro wysokiego komisarza [Narodów Zjednoczonych](org) do spraw praw człowieka wezwało władze [Singapuru](loc) do wstrzymania planowanej egzekucji.
+- We [wtorek](time) biuro wysokiego komisarza [Narodów Zjednoczonych](org) do spraw praw człowieka wezwało władze [Singapuru](loc) do wstrzymania planowanej egzekucji.
 - Jak podkreśliło, stosowanie kary śmierci jest niezgodnie z międzynarodowymi normami i standardami.
 - "Kara śmierci jest ciągle stosowana w niewielkiej liczbie państw, w dużej mierze z powodu mitu, jakoby odstraszała ona od przestępstw" - oceniło oenzetowskie biuro.
 - Według [ONZ](org) nie ma jednak żadnych dowodów na to, by stosowanie kary głównej efektywnie przeciwdziałało przestępczości.
 - W ubiegłym roku w [Singapurze](loc) wykonano 11 wyroków śmierci, wszystkie w sprawach narkotykowych.
-- Według danych miejscowej służby więziennej od [2007](date) do [2022 roku](date) w majestacie prawa życie odebrano 64 osobom.
+- Według danych miejscowej służby więziennej od [2007](time) do [2022](time) roku w majestacie prawa życie odebrano 64 osobom.
 - Zdecydowaną większość skazano za posiadanie lub przemyt zakazanych substancji.
 - W tym samym okresie 13 osób powieszono za morderstwa.
-- Według sondażu z [2021 roku](date) 80 proc. Singapurczyków popiera stosowanie kary śmierci, jednak poparcie to systematycznie spada.
+- Według sondażu z [2021](time) roku 80 proc. Singapurczyków popiera stosowanie kary śmierci, jednak poparcie to systematycznie spada.
 - Niespełna sześciomilionowe azjatyckie państwo ma jedne z najbardziej restrykcyjnych przepisów antynarkotykowych na świecie.
 - Bezwzględna kara śmierci grozi nie tylko za posiadanie tzw. twardych narkotyków, ale także 500 gramów marihuany.
 - Produkty z konopii indyjskich, w tym marihuana, zostały tymczasem zalegalizowane w wielu krajach, także w pobliskiej [Tajlandii](loc).
@@ -711,39 +711,39 @@
 - Naukowcy przy okazji odnotowali nieudokumentowane wcześniej zachowania żyraf, m.in. żucie kości (osteofagię), kilkudniowe procesje do ciała osobnika zabitego przez lwy, a także głośne warczenie samców.
 - W [Daytona Beach](per) na [Florydzie](loc) odkryto wrak statku, który jest znacznie większy niż początkowo przypuszczano.
 - Archeolog zaznaczył, że odsłonięto 22,86 metrów obiektu, który może mierzyć nawet 30 metrów.
-- Statek pochodzi najprawdopodobniej z [połowy XIX w](date).
-- Chociaż obiekt zauważono [20 kwietnia](date), to dopiero teraz archeolodzy morscy określili, że może być on znacznie większy niż zakładano.
+- Statek pochodzi najprawdopodobniej z połowy [XIX](time) w.
+- Chociaż obiekt zauważono [20 kwietnia](time), to dopiero teraz archeolodzy morscy określili, że może być on znacznie większy niż zakładano.
 - [Augustine Lighthouse](per) & [Maritime Museum](per) doszli do takiego wniosku po tym, jak na miejsce wysłano zespół odpowiedzialny za zbadanie statku.
 - Chociaż urzędnicy z hrabstwa [Volusia](org) oszacowali, że wrak może mieć długość od 7,6 metrów do ponad 9 m, to archeolodzy są zdania, że pod piaskiem może znajdować się znacznie więcej - podaje serwis [Knews Media](org).
-- Mamy prawie 22,86 metrów odsłoniętego wraku, więc prawdopodobnie bliżej mu do 30 metrów długości - powiedział archeolog [Lighthouse Archaeological Maritime Program](org) [Chuck Meide](per) w komunikacie z [28 kwietnia](date).
-- [Meide](per) dodał, że statek ma żelazne podpory pokładowe, które wprowadzono do drewnianych statków w [latach 30 XIX wieku](date).
-- Prawdopodobnie stały się one bardziej powszechne w [drugiej połowie XIX w](date).
+- Mamy prawie 22,86 metrów odsłoniętego wraku, więc prawdopodobnie bliżej mu do 30 metrów długości - powiedział archeolog [Lighthouse Archaeological Maritime Program](org) [Chuck Meide](per) w komunikacie z [28 kwietnia](time).
+- [Meide](per) dodał, że statek ma żelazne podpory pokładowe, które wprowadzono do drewnianych statków w latach 30 [XIX](time) wieku.
+- Prawdopodobnie stały się one bardziej powszechne w drugiej połowie [XIX](time) w.
 - Drewno jest bardzo dobrze zachowane, a najniższa część kadłuba wydaje się być zakopana pod piaskiem - przekazał.
 - Urzędnicy z [Daytona Beach](loc) na [Florydzie](loc) zaznaczyli w rozmowie z portalem [WESH](org), że od dawna wiedzieli, że w miejscu, w którym odkryto wrak było - jak określono - gruzowisko.
 - Nie wiedzieli jednak, co było jego przyczyną.
-- To drugi wrak, który wyłonił się u wybrzeży od [grudnia ubiegłego roku](date).
-- Inny obiekt został zbadany i uznany za statek towarowy z [1800 roku](date).
-- Archeolodzy są zdania, że "rozległa erozja huraganowa z [września](date) i [listopada](date)" spowodowała, że udało się odnaleźć jego szczątki.
-- Białoruski sąd w [Mińsku](loc) ogłosił w [środę](date) wyroki dla redaktorów opozycyjnego kanału [Nexta](org).
+- To drugi wrak, który wyłonił się u wybrzeży od [grudnia](time) ubiegłego roku.
+- Inny obiekt został zbadany i uznany za statek towarowy z [1800](time) roku.
+- Archeolodzy są zdania, że "rozległa erozja huraganowa z [września](time) i [listopada](time)" spowodowała, że udało się odnaleźć jego szczątki.
+- Białoruski sąd w [Mińsku](loc) ogłosił w [środę](time) wyroki dla redaktorów opozycyjnego kanału [Nexta](org).
 - [Ramana Pratasiewicza](per) skazano na osiem lat więzienia.
 - [Ściapan Puciła](per) i [Jan Rudzik](per) zostali skazani zaocznie na kary 20 i 19 lat więzienia.
 - Dziennikarze zostali oskarżeni m.in. o wzniecanie nienawiści, organizację protestów, wzywanie do przejęcia władzy czy znieważanie prezydenta [Łukaszenki](per).
-- Sam kanał białoruskie władze wpisały w [2022 roku](date) na listę "organizacji terrorystycznych".
+- Sam kanał białoruskie władze wpisały w [2022](time) roku na listę "organizacji terrorystycznych".
 - Sąd w [Mińsku](per), stolicy [Białorusi](per), ogłosił w środę wyroki w głośnej sprawie redaktorów opozycyjnego kanału [Nexta](org).
-- Proces redaktorów [Nexty](org) rozpoczął się przed sądem obwodowym w [Mińsku](loc) [16 lutego](date).
+- Proces redaktorów [Nexty](org) rozpoczął się przed sądem obwodowym w [Mińsku](loc) [16 lutego](time).
 - Fizycznie uczestniczył w nim tylko jeden z oskarżonych - [Pratasiewicz](per).
 - Dwaj pozostali przebywają poza [Białorusią](loc) i byli sądzeni zaocznie, w ramach tzw. "postępowania nadzwyczajnego".
-- [21 kwietnia](date) prokuratorka zażądał kary 20 i 19 lat więzienia dla [Puciły](per) i [Rudzika](per).
+- [21 kwietnia](time) prokuratorka zażądał kary 20 i 19 lat więzienia dla [Puciły](per) i [Rudzika](per).
 - Oskarżenie wnioskowało też o 10 lat dla przebywającego na [Białorusi](loc) [Pratasiewicza](per).
 - Założyciel kanału [Nexta](org) [Sciapan Puciła](per) został zaocznie skazany w [Białorusi](loc) na 20 lat więzienia.
 - "Przebywa teraz w [Polsce](loc)" - napisano na [Twitterze](org).
 - [Pucile](per) i [Rudzikowi](loc) zarzucono m.in. zmowę w celu nielegalnego przejęcia władzy, finansowanie działalności ekstremistycznej i dyskredytację [Białorusi](loc).
-- [Raman Pratasiewicz](per), którzy w przeszłości był jednym z redaktorów [Nexty](org), został zatrzymany w [Mińsku](loc) w [maju 2021 roku](date) po przymusowym lądowaniu samolotu, którym leciał z [Aten](loc) do [Wilna](loc).
-- W [2022] roku(date) władze [Białorusi](loc) zaliczyły serwis [Nexta](org) do "organizacji terrorystycznych".
+- [Raman Pratasiewicz](per), którzy w przeszłości był jednym z redaktorów [Nexty](org), został zatrzymany w [Mińsku](loc) w [maju 2021](time) roku po przymusowym lądowaniu samolotu, którym leciał z [Aten](loc) do [Wilna](loc).
+- W [2022](time) roku władze [Białorusi](loc) zaliczyły serwis [Nexta](org) do "organizacji terrorystycznych".
 - Już wcześniej określały też [Pratasiewicza](per) jako "terrorystę".
 - Po aresztowaniu bloger wystąpił kilkukrotnie w mediach państwowych, przyznając się do winy i błędów, a także krytykując dawnych współpracowników z kręgów opozycyjnych.
 - Przed procesem powiedział mediom państwowym, że "przyznaje się do winy w pełnym zakresie".
-- Wraz z [Pratasiewiczem](per) w [2021 roku](date) zatrzymana została obywatelka [Rosji](loc), [Sofija Sapiega](per), jego ówczesna partnerka.
+- Wraz z [Pratasiewiczem](per) w [2021](time) roku zatrzymana została obywatelka [Rosji](loc), [Sofija Sapiega](per), jego ówczesna partnerka.
 - [Sapiega](per) została skazana przez białoruski sąd na sześć lat pozbawienia wolności.
 - Władze wydały zgodę na jej ekstradycję do [Rosji](loc), gdzie ma kontynuować odbywanie kary.
 # TVN 24
