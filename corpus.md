@@ -1,0 +1,2033 @@
+#Onet
+- [Mateusz Morawiecki](per) przebywa w [Wilnie](loc), gdzie spotyka się z premier [Litwy](loc) [Ingridą Szimonyte](per) i prezydentem [Gitanasem Nausedą](per).
+- W trakcie konferencji prasowej szef rządu był pytany m.in. o groźby strony rosyjskiej wobec polskiego ambasadora w [Moskwie](per).
+- Wszystkie groźby ze strony [Rosji](per) należy brać poważnie, ale nie dać się zastraszyć.
+- I podobnie jak nasz ambasador pozostał w [Kijowie](loc), w trakcie pierwszych kilku tygodniu wojny, tak nasz ambasador w [Moskwie](loc) trwa w bardzo trudnych realiach, ale też nie daje się zastraszyć.
+- Kolejnym tematem były nowe doniesienia o tajemniczym obiekcie, który rozbił się pod [Bydgoszczą](loc).
+- Czekamy na ostateczne wyniki badań, które łączą te wydarzenia z [grudnia](date) z tymi ostatnimi znaleziskami.
+- Kiedy te wyniki będą potwierdzone, to przekażemy je opinii publicznej — zapewnił.
+- Premier odniósł się też do sprawy ze zbożem ukraińskim.
+- Strona ukraińska przekazała ostatnio notę o "kategorycznej niedopuszczalności sytuacji związanej z ograniczeniami handlowymi dotyczącymi importu produktów rolnych [Ukrainy](loc)".
+- W polityce międzynarodowej trzeba starać się wypracowywać rozwiązania, które są możliwe do realizacji, a jednocześnie zabezpieczają nasze interesy.
+- Z ministrem [Kowalczykiem](per) już parę miesięcy temu wysyłaliśmy odpowiednie sygnały do [Komisji Europejskiej](org), aby podjąć działania związane z destabilizacją rynku rolnego w [Polsce](loc).
+- Zdawaliśmy sobie sprawę, że ta destabilizacja będzie służyć głównie [Rosji](loc) do siania propagandy i zamętu.
+- Trudno winić podmioty indywidualne za ich działania.
+- One wykorzystały na swoją korzyść sytuację, która powstała na skutek blokady [Morza Czarnego](loc) — odpowiedział [Morawiecki](per).
+- Zadaniem [polskiego rządu](org) jest ochrona polskiego rolnika i dlatego podjęliśmy działania wraz z kilkoma innymi państwami, aby posłać mocny sygnał: po pierwsze chronimy polskiego rolnika, a po drugie zaprosiliśmy [KE](org) do przyspieszonych działań w tym zakresie.
+- I to zostało zrealizowane.
+- Odbyły się negocjacje, zarówno ze stroną ukraińską, jak i z [KE](org).
+- Regulacje, które są przyjmowane przez [KE](org), odpowiadają naszym oczekiwaniom — stwierdził.
+- Jak dodał, "to część rozwiązania problemu".
+- Drugą część przyjęliśmy na swoje barki.
+- Przewodniczę sztabowi kryzysowemu i tam wraz w ministrem [Telusem](per) uzgadniamy odpowiednie działania łagodzące napięcia na rynku rolnym.
+- Dotyczy to skupu zbóż, aby opróżnić magazyny zboża — kontynuował.
+- Były prezydent [Polski](loc) w wywiadzie dla tygodnika ["Wprost"](org) został zapytany m.in. o wspólną listę opozycji.
+- Jego zdaniem "nie wystarczy głosić potrzebę jedności opozycji.
+- Trzeba pokazywać dzisiaj zdolność do współpracy pomimo różnic".
+- Dzisiaj potrzebne są wspólne inicjatywy, wspólne stanowiska w bieżącej polityce, unikanie wzajemnych złośliwości.
+- Ponadto wydaje się, że samo wymachiwanie sztandarem jedności zaczyna już wyborców opozycji irytować, a wyborców [PiS](org) śmieszyć — stwierdził [Bronisław Komorowski](per).
+- Nawiązując do trudnych rozmów koalicyjnych, [Bronisław Komorowski](per) został zapytany o marsz [4 czerwca](date), na który zaprasza lider [PO](org) [Donald Tusk](per).
+- Ubolewam nad tym, że taka piękna rocznica pokonania komunizmu przy użyciu kartki wyborczej staje się źródłem konfrontacji i przedmiotem rywalizacji sił demokratycznych, a nie sygnałem świadczącym o sile wspólnoty demokratycznej w naszym kraju.
+- Chyba nie pomyślano w porę, jak uczcić wspólną inicjatywą, budującą taką właśnie wspólnotę — stwierdził były prezydent.
+- W wywiadzie przyznaje wymijająco, że na marsz się nie wybiera.
+- Jeśli chodzi o moje plany na [4 czerwca](date), to jedno jest pewne, mam w tym dniu urodziny.
+- Chciałbym wtedy odwiedzić moją 101-letnią mamę i podziękować za to, że przyszedłem [72 lata temu](date) na świat.
+- Oczywiście chętnie wziąłbym też udział w ponadpartyjnym wydarzeniu z okazji rocznicy [4 czerwca 1989 r.](date) i nie tracę nadziei, że będzie to możliwe — zaznaczył [Komorowski](per).
+- Przewodniczący [Koalicji Obywatelskiej](org) [Donald Tusk](per) opublikował [15 kwietnia](date) na [Twitterze](org) wpis, w którym wezwał swoich zwolenników do marszu "przeciw drożyźnie, złodziejstwu i kłamstwu, za wolnymi wyborami".
+- Marsz odbędzie się [4 czerwca](date) w 34. rocznicę pierwszych — od czasów wybuchu II wojny światowej — częściowo wolnych wyborów do [Sejmu](org) i [Senatu](org).
+- Kwestia czerwcowego marszu wzbudziła już sporo emocji.
+- Głównie za sprawą [Szymona Hołowni](per), który zapowiedział, że nie pojawi się na tym wydarzeniu.
+- Zdaniem lidera [Polski 2050](org) "marszami w Warszawie wyborów się nie wygrywa".
+- Zaznaczył jednak, że niektórzy działacze jego partii mogą się pojawić na wydarzeniu organizowanym przez [KO](org).
+- [Hołownia](per) na jednym ze spotkań z wyborcami przekazał, że "[4 czerwca](date) to data specjalna w kalendarzu Polaków" i [Polska 2050](org) od dawna ma zaplanowane wydarzenia w całej [Polsce](loc).
+- Ja uważam, że musimy być wszędzie, nie tylko w [Warszawie](loc), jeżeli chcemy na jesieni te wybory wygrać — dodał.
+- Po słowach [Hołowni](per) wybuchła burza, w środę po południu opublikował na [Twitterze](org) oświadczenie.
+- "Dziś, [2 maja 2023 roku](date) o godzinie [13.30](date), zmarł nasz najukochańszy człowiek, [Paweł Smoleński](per), najcudowniejszy mąż i przyjaciel, najlepszy ojciec, świetny teść, najwspanialszy dziadek" — przekazała [Maria Fredro-Smoleńska](per).
+- Po oficjalnym komunikacie rodziny, informację o śmierci [Smoleńskiego](per) podała ["Gazeta Wyborcza"](org), z którą dziennikarz był związany od samego początku, czyli [1989 r.](date) "Przedwczesna śmierć [Pawła Smoleńskiego](per) oznacza nie tylko wielką stratę dla polskiego dziennikarstwa.
+- W polskim społeczeństwie obywatelskim, w grupie wyznawców wolności, demokracji, tolerancji i [Europy](loc) powstała wyrwa, której nie da się zapełnić" — żegna kolegę z redakcji wicenaczelny dziennika [Bartosz T. Wieliński](per).
+- "[Paweł](per) w historii [Polski](loc) zapisał piękną kartę.
+- Współtworzył ["Gazetę Wyborczą"](org), był autorem wielu fundamentalnych tekstów i kilkunastu reporterskich książek.
+- [Paweł Smoleński](per) urodził się [7 lipca 1959 r.](per) W czasach [PRL-u](loc) współpracował z pismami drugiego obiegu, pisał też do paryskiej ["Kultury"](org).
+- [W 1989 r.](date) został dziennikarzem ["Gazety Wyborczej"](org).
+- [Pod koniec grudnia 2002 roku](date) w [GW](org) ukazał się jego artykuł "Ustawa za łapówkę, czyli przychodzi [Rywin](per) do [Michnika](per)", opisując aferę [Rywina](per).
+- Był autorem kilku książek, a także reportaży i esejów, dotyczących między innymi [Izraela](loc).
+- Dzień Flagi został ustanowiony przez [Sejm](org) na mocy ustawy z [20 lutego 2004 r.](date) To święto, które ma wyrażać szacunek do flagi i propagować wiedzę o polskiej tożsamości oraz symbolach narodowych.
+- W związku z tym w wielu miejscach [Polski](loc) dzień [2 maja](date) jest obchodzony poprzez organizowanie różnego rodzaju wydarzeń czy manifestacji patriotycznych, podczas których eksponowane są oczywiście nasze barwy narodowe.
+- Ponadto tego dnia wielu Polaków decyduje się na wywieszanie na swoich domach biało-czerwonej flagi.
+- Obecnie popularnym zwyczajem jest noszenie w tym dniu kokardy narodowej.
+- Jest to zwyczaj zapoczątkowany jeszcze przez świętej pamięci prezydenta [Lecha Kaczyńskiego](per).
+- Był on później kontynuowany zarówno przez [Bronisława Komorowskiego](per), jak i obecnego prezydenta [Andrzeja Dudę](per).
+- Dzień Flagi nie jest świętem ruchomym i zawsze wypada [2 maja](date). 
+- Ciekawostką jest to, że [2 maja](date) obchodzony jest także Dzień Polonii i Polaków za granicą.
+- Został on ustanowiony na mocy ustawy z [20 marca 2002 r.](date) w dowód uznania wielowiekowego dorobku i wkładu Polonii i Polaków za granicą w odzyskanie przez [Polskę](loc) niepodległości, wierność i przywiązanie do polskości oraz pomoc Krajowi w najtrudniejszych momentach.
+- Flagą Polski w obecnym kształcie, według ustawy z dnia [31 stycznia 1980 r.](date) o godle, barwach i hymnie [Rzeczypospolitej Polskiej](loc) oraz o pieczęciach państwowych, jest prostokątny płat tkaniny o barwach [Rzeczypospolitej Polskiej](loc) i proporcji 5:8, umieszczony na maszcie.
+- Kwestią sporną jest niezależność sądownictwa, która według urzędników [UE](org) jest ograniczana przez rząd premiera [Viktora Orbána](per).
+- Proponowana reforma ma na celu wzmocnienie niezależności sądów na kilka sposobów, np. poprzez zapewnienie, że [Krajowa Rada Sądownictwa](org), organ nadzorujący sądownictwo podobnie jak w [Polsce](loc), pozostanie niezależna, a także poprzez zreformowanie [Sądu Najwyższego i Trybunału Konstytucyjnego](org), by chronić je przed wpływami politycznymi i umożliwić kierowanie pytań do [Europejskiego Trybunału Sprawiedliwości](org) w trybie prejudycjalnym.
+- Jeśli sprawa niezależności sądów zostanie rozstrzygnięta, to odblokuje się większość programów spójności — powiedział dziennikarzom w zeszłym tygodniu [Johannes Hahn](per), komisarz [UE](org) ds. budżetu.
+- Zmagania [Budapesztu](loc) z [Brukselą](loc) w kwestii praworządności sprawiły, że w tym roku unijne środki finansowe przestały płynąć na [Węgry](loc) — i to w sytuacji gospodarki i inflacji, która w [kwietniu](date) osiągnęła najwyższy poziom 25,4 proc. rok do roku.
+- To zmusiło rząd [Orbána](per) do zintensyfikowania negocjacji z [Brukselą](loc) w celu wznowienia płatności unijnych.
+- Reforma sądownictwa jest częścią tych starań.
+- Trzech urzędników [UE](org) powiedziało [POLITICO](org), że Komisja dała wstępne zielone światło dla proponowanych reform w ub. tygodniu.
+- Minister sprawiedliwości [Węgier](loc) [Judit Varga](per) ogłosiła to na swoim profilu na [Facebooku](org).
+- Pomimo tych postępów, polityczna aprobata ze strony Komisji jest wciąż odległa o kilka miesięcy i prawdopodobnie będzie uzależniona od postępu w negocjacjach dotyczących innych kwestii, w tym działań antykorupcyjnych.
+- [Orbán](org) może również zwiększyć presję poprzez zawetowanie kluczowych decyzji, taktykę obstrukcji, którą z powodzeniem stosował w przeszłości.
+- [Budapeszt](loc) już teraz wstrzymuje np. starania [Szwecji](loc) o przystąpienie do [NATO](org).
+- Jeśli reforma zostanie przyjęta, będzie to zwycięstwo rządu [Orbána](per) i rozczarowanie dla jego krytyków, z których niektórzy są niezadowoleni ze sposobu, w jaki proponowane reformy zostały wprowadzone.
+- Techniczne porozumienie między [KE](org) a rządem węgierskim w sprawie reformy sądownictwa zawiera pozytywne środki wzmacniające niezależne sądownictwo, ale proces, w którym są one forsowane w [węgierskim parlamencie](org) w ciągu dwóch dni, narusza zasady stanowienia prawa i kluczowe kamienie milowe [UE](org) w zakresie przejrzystości stanowienia prawa — powiedziała nam dziś [Marta Pardavi](per), współprzewodnicząca [Węgierskiego Komitetu Helsińskiego](org).
+- [W grudniu](date) Komisja zatrzymała całą pulę funduszy spójności dla [Węgier](loc), wynoszącą 22 mld euro, po tym, jak stwierdziła, że kraj ten nie przestrzega Karty Praw Podstawowych [UE](org) i jej postanowień dotyczących niezależności sądów.
+- Dzięki reformie sądownictwa [Węgry](loc) będą mogły ubiegać się o 13,2 mld euro.
+- Reszta funduszy spójności pozostaje zablokowana z innych powodów.
+- Większość krajów [UE](org) i [Komisja Europejska](org) zdecydowały o zamrożeniu 6,3 mld euro funduszy dla [Węgier](loc) [w grudniu](date) ub.r. w ramach tzw. mechanizmu warunkowości, nowego narzędzia prawnego, które pozwala [Brukseli](loc) na wstrzymanie finansowania [UE](org), jeśli dany kraj wycofuje się z norm demokratycznych.
+- W tym przypadku fundusze zostaną odblokowane tylko wtedy, gdy [Węgry](loc) podejmą 17 działań związanych z walką z korupcją.
+- Kolejne 2,5 mld euro jest związane z trzema innymi sporami pomiędzy Komisją a [Orbanem](per): ustawą o ochronie dzieci, która jest powszechnie uznawana za homofobiczną, traktowaniem przez [Węgry](loc) osób ubiegających się o azyl oraz niezależnością naukową węgierskich uniwersytetów.
+- "Oddziały i okręty są teraz w ruchu, bo zgodnie z planem — [na przełomie kwietnia i maja](date) — odbywają się manewry Aurora 23" – cytuje ["Iltalehti"](org) komunikat f[ińskiej marynarki wojennej](org).
+- Doprecyzowała ona, że interpretowanie działań sił zbrojnych z użyciem terminologii z nadzwyczajnych przepisów "o stanie gotowości" jest "błędne".
+- Nasze środowisko bezpieczeństwa jest stale obserwowane, a "nasza gotowość regulowana elastycznie" – zakomunikowała [fińska marynarka wojenna](org), dementując weekendowe doniesienia ["Iltalehti"](org) o przejściu w "stan podwyższonej gotowości" w związku z ryzykiem sabotażowego ataku ze strony [Rosji](loc) na fińsko-szwedzką infrastrukturę energetyczną.
+- Wcześniej gazeta przytoczyła wypowiedź kontradmirał [Ewy Skoog Haslum](per), dowódcy [szwedzkiej marynarki wojennej](org), która zwróciła uwagę, że w pobliżu farm wiatrowych na [Bałtyku](loc) i tam, gdzie przebiegają podmorske kable energetyczne, były widziane rosyjskie okręty.
+- W tym kontekście ["Iltalehti"](org) podała, że siły morskie [Szwecji](loc) i [Finlandii](loc) "podniosły gotowość" w związku z możliwym atakiem na instalacje energetyczne.
+- W podobnym tonie, jak [marynarka fińska](org), doniesienia prasowe skomentowała [marynarka szwedzka](org).
+- Nasza flota patroluje sytuację na morzu przez cały rok i przez całą dobę.
+- Nie komentujemy naszych informacji wywiadowczych, ale w ostatnim czasie nic się nie zmieniło, jak przedstawiono to w mediach – przekazał [Jimmy Adamson](per), rzecznik [szwedzkiej marynarki wojennej](org).
+- W ćwiczeniach Aurora 23 udział bierze ok. 26 tys. żołnierzy z ponad 15 krajów, w tym [Polski](loc).
+- To największe manewry pod przewodnictwem [Szwedzkich Sił Zbrojnych](org) od ponad trzech dekad.
+- Spośród zagranicznych oddziałów najliczniej reprezentowane są siły [Finlandii](loc), [USA](loc) i [Wielkiej Brytanii](loc).
+- Ugrupowania zawarły porozumienie, że do wyborów pójdą wspólnie jako koalicja.
+- Oznacza, że będą musieli przekroczyć ośmioprocentowy próg wyborczy.
+- [Polska 2050](org) i [PSL](org) będą dzieliły się finansami "pół na pół".
+- Dotyczyć to ma zarówno kosztów kampanii, jak i subwencji.
+- Kształt list wyborczych zgłaszanych do [PKW](org) będzie wymagał zgodnej decyzji obu liderów formacji, a po wyborach deklarują się zawiązać rząd z ugrupowaniami opozycji demokratycznej — to część zapisów umowy dotyczącej wspólnego startu w wyborach.
+- W umowie zapisano także, że po wyborach powstaną dwa kluby parlamentarne, ugrupowania nie stworzą wspólnej partii i każda z nich zachowa swoją podmiotowość.
+- Dzisiaj chcemy ogłosić, że po długich rozmowach podjęliśmy z [PSL](org) decyzję o wspólnych starcie w nadchodzących wyborach parlamentarnych — przekazał [Hołownia](per).
+- Umowa, która dziś została zatwierdzona, mówi wprost, że powołamy wspólny komitet wyborczy — dodał.
+- Ta trzecia droga, nowa i wspólna, to dla mnie wielka radość, bo to wprost kontynuacja drogi, którą rozpocząłem w [2019 r.](date) To kompletnie nowa propozycja, która mówi w jasny sposób "nie" starej polityce posługującej się często nienawiścią, agresją, szczuciem jednych na drugich.
+- My tej agresji w ostatnich dniach sporo doświadczamy, ale jasno mówimy, że nie tędy droga — mówił [Szymon Hołownia](per).
+- Umówiliśmy się, że razem zrobimy dobre rzeczy dla [Polski](loc), że jest nadzieja.
+- Mam nadzieję, że dzisiejszy dzień jest początkiem odwrócenia dwóch ważnych rzeczy.
+- Odwrócenia tej tendencji, myślenia "a co to będzie jesienią, czy my wygramy".
+- Stajemy tutaj po to, żeby powiedzieć, że my wygramy i dlatego robimy to porozumienie.
+- Innej opcji nie zakładamy — mówił [Hołownia](per).
+- Druga rzecz, to dość już tej polityki, która zwraca się ku politykom, ku ich sporom, problemom i układankom.
+- Ale zwraca się dziś ku wyborcom — dodał [Hołownia](loc).
+- Lepsza [Polska](loc) jest możliwa.
+- Wykonaliśmy zobowiązanie, które stawiają wyborcy wobec partii demokratycznych — powiedział lider [PSL](org) [Władysław Kosiniak-Kamysz](per).
+- Dziękujemy za to, że cierpliwe czekaliście na efekt naszych rozmów — dodał.
+- My dziś mamy plan dla [Polski](loc), dla lepszej i uczciwej [Polski](loc).
+- Docenienia ludzi ciężkiej pracy, docenienia tych wszystkich, którzy marzą o zmianie w nadchodzących wyborach.
+- Połączenie dwóch środowisk politycznych: młodego ruchu i bardzo doświadczonej formacji politycznej.
+- Ugrupowań, które wyrastają z różnych korzeni, ale mają wspólne ideały i chcą razem iść do przodu nie po to, żeby budować własną pozycję.
+- To byłoby miałkie i nie byłby wspólny mianownik, który daje dobry efekt.
+- Chcemy wygrać wybory i zrobimy wszystko, żeby to zrobić — zadeklarował [Kosiniak-Kamysz](per).
+- Wspólny rząd jest możliwy z partiami demokratycznymi i to wyraźnie deklarujemy — mówił lider [PSL](org).
+- Naszym obowiązkiem jako liderów politycznych było to, aby zmniejszyć liczbę komitetów startujących w tych wyborach.
+- Bo pełne rozdrobnienie to jest podanie zwycięstwa na tacy partii dziś rządzącej.
+- My to zobowiązanie wykonaliśmy — dodał.
+- Lider [PSL](org) zadeklarował otwartość na różne środowiska społeczne i polityczne, które chciałaby dołączyć do koalicyjnego komitetu wyborczego.
+- Ta trzecia droga jest wyborem większego dobra, a nie mniejszego zła.
+- Trzecia droga jest alternatywą nie dla już skłóconych plemion, ale do rozdartej na pół [Polski](loc).
+- Nie stawiamy znaku równości pomiędzy partiami, które rywalizują od lat ze sobą, bo wiemy, że [PO](org), [Lewica](org), [Agrounia](org), wszyscy ci, którzy są po stronie opozycji demokratycznej, chcą lepszej, innej [Polski](loc).
+- Nie ma znaku równości między nimi i obecnie rządzącymi.
+- Oczekujemy lojalności i współpracy z waszej strony.
+- Nie będziemy wam podkładać nóg, nie będziemy dawać kuksańców, bo walczymy o wspólną sprawę.
+- Drogi dojścia do zwycięstwa mogą być różne, ale później trzeba stworzyć wspólny rząd — mówił [Kosiniak-Kamysz](per).
+- W czwartek pisaliśmy w [Onecie](org), że negocjacje w sprawie wspólnego startu przyspieszyły w ostatnich dniach.
+- Wcześniej utknęły na etapie wyboru pełnomocników finansowych.
+- Pierwotnie [Ludowcy](org) i [Polska 2050](org) mieli ogłosić dobicie targu w sprawie wspólnych list jeszcze przed Wielkanocą.
+- Wtedy wzmogła się presja na obydwa ugrupowania.
+- Z sondaży wynikało wówczas, że opozycja jako całość traci na rzecz ewentualnej koalicji [PiS-Konfederacja](org).
+- Jedną z przyczyn takiej sytuacji była przedłużająca się dyskusja na temat formuły ewentualnej współpracy partii opozycyjnych.
+- [Szymon Hołownia](per) w ciągu ostatnich miesięcy nie zmienił zdania i nie chce już słyszeć o wspólnej liście opozycji w nadchodzących wyborach parlamentarnych.
+- Oskarżał polityków [Platformy](org) o wywieranie presji, za którą ma stać chęć dominacji [Donalda Tuska](per) nad resztą partii opozycyjnych.
+- Krytycznie wypowiada się również na temat marszu, który [4 czerwca](date) organizuje [Platforma Obywatelska](org), a na który osobiście wezwał [Donald Tusk](per).
+- [Wirtualna Polska](org) ustaliła, że [Rafińska](per) w [KZN](org) pracuje od [marca](date).
+- Nie wiadomo, jakie dokładnie zajmuje stanowisko, jednak ma ono być związane z promocją działań instytucji.
+- Jej nazwiskiem są podpisane wszystkie wpisy na stronie internetowej.
+- Krajowy [Zasób Nieruchomości](org) jest państwową instytucją utworzoną przez rząd [PiS](org).
+- Ma za zadanie wspierać rozwój budownictwa mieszkaniowego.
+- Na jej czele stoi wiceprezes [Partii Republikańskiej](org) [Arkadiusz Urban](per).
+- Prywatnie [Marcelina Rafińska](per) jest partnerką [Franciszka Przybyły](per), współpracownika [Mejzy](per), który dostał pracę w [PKO BP](org).
+- Po tym, jak zrobiło się o nim głośno, zrezygnował z posady.
+- Dalsza część tekstu znajduje się pod wideo [W czerwcu 2022 r.](date) agenci [Centralnego Biura Antykorupcyjnego](org) przeszukali mieszkanie [Rafińskiej](per) w [Zielonej Górze](loc) i zabezpieczyli dokumenty firmy ["Good Solutions"](org) — informuje [Wirtualna Polska](org).
+- W tym samym czasie podobne czynności przeprowadzono również w domu rodzinnym [Łukasza Mejzy](per).
+- Sprawa miała związek ze śledztwem dotyczącym podejrzenia oszustw przy rozliczaniu pieniędzy z programu "Lubuskie Bony Rozwojowe".
+- [Rafińska](per) miała własną działalność gospodarczą pod nazwą ["Good Solutions"](org) i podobnie jak firma [Łukasza Mejzy](per) [(Future Wolves)](org) prowadziła szkolenia.
+- Urzędnicy, którzy skontrolowali ich działalność, ocenili, że "wydatki poniesione na szkolenia e-learningowe przeprowadzone przez firmy [Future Wolves](org) [Łukasz Mejza](per) oraz [Good Solutions](org) [Marcelina Rafińska](per) zostały dokonane w sposób nieracjonalny, nieprzejrzysty i nieefektywny".
+- Podejrzewali, że szkolenia były fikcją i nigdy się nie odbyły.
+- Urzędnicy zakwestionowali 100 proc. środków na szkolenia, które prowadzili [Mejza](per) i jego asystentka oraz złożyli zawiadomienie do prokuratury.
+- Były przywódca [Solidarności](org) i prezydent [Lech Wałęsa](per) pozostaje bardzo aktywny w mediach społecznościowych.
+- Na jego koncie na [Facebooku](org) często pojawiają się zdjęcia z jego prywatnego życia i różnego rodzaju spotkań i wyjazdów.
+- Tym razem polityk poinformował, że kuruje się w [Lądku-Zdroju](loc).
+- Zamieścił też kilka zdjęć z uzdrawiających zabiegów.
+- Fotografie z uzdrawiających zabiegów prezydenta stały się hitem wśród internautów.
+- Pod kolejnymi zdjęciami użytkownicy [Facebooka](org) piszą: "Pan Prezydent wygląda jak jakiś anioł ze skrzydłami!", "właśnie to chciałam zobaczyć w sobotę rano", "nasz [Posejdon](per) z [Bałtyku](loc)", "władca mórz i oceanów", "jak [Syren](per) wyłaniający się z piany".
+- Przypomnijmy, [Lech Wałęsa](per) od lat choruje na cukrzycę.
+- [W sierpniu 2021 r.](date) były prezydent trafił do szpitala w związku z tzw. stopą cukrzycową.
+- Z kolei [w marcu 2021](date) [Wałęsa](per) przeszedł zabieg kardiochirurgiczny, związany z funkcjonowaniem rozrusznika serca.
+- W szpitalu przebywał także [w sierpniu 2022 r.](date) i przechodził wówczas rutynowe badania.
+- Były prezydent od dłuższego czasu narzeka też na swoje finanse.
+- Jakiś czas temu zdradził, ile obecnie wynosi jego emerytura.
+- Mimo iż kwota ta znacznie wzrosła przez ostatnich kilka lat, były prezydent nie jest z niej zadowolony, dlatego zdecydował się dorabiać za granicą, prowadząc różne wykłady.
+- Żona zabiera mi wszystko i wydaje na swoje potrzeby — tłumaczył [Wałęsa](per).
+- [Pod koniec 2020 r.](date) [Wałęsa](per) żalił się w rozmowie z ["Rzeczpospolitą"](org), że jest bankrutem, ponieważ "rozdawał pieniądze, a nie gromadził".
+- [W lutym 2021 r.](date) mówił zaś, że szuka dodatkowej pracy, bowiem pandemia koronawirusa mocno uderzyła w jego budżet.
+- Przyznał wówczas, że emerytura wynosząca 6 tys. zł nie starcza mu na życie.
+# Gazeta.pl
+- Prezydent [Francji](loc) [Emmanuel Macron](per) wyruszył poza [Paryż](loc).
+- Od czasu podpisania reformy emerytalnej nie cieszy się on dobrą opinią w swoim kraju.
+- Podczas licznych protestów, które trwały miesiącami [Macron](per) przebywał w pałacu prezydenckim.
+- Sojusznicy zachęcali go, aby mimo niesprzyjających nastrojów, spotkał się z wyborcami.
+- Jak informuje [Insider Paper](org) prezydent w [środę](date) [19 kwietnia](time) postanowił udać się do [Selestat](loc) w regionie [Alzacji](loc).
+- Mieszkańcy na jego widok zaczęli skandować hasła takie jak: "Dymisja [Macrona](per)" czy "Wkrótce upadniesz, zobaczysz".
+- Jeden z demonstrantów oskarżył prezydenta [Francji](loc) o "skorumpowany rząd, na skalę jakiej nigdy wcześniej nie było".
+- W tle krzykom towarzyszyły gwizdy miejscowych.
+- Kiedy dziennikarka zapytała polityka o jego odczucia względem negatywnego nastawienia tłumu, odpowiedział: "Miałem gorzej".
+- Wśród zebranych znajdowały się osoby, które chciały wysłuchać, co ma do powiedzenia prezydent.
+- [Macron](per) o reformie emerytalnej.
+- "Pracując więcej, wzbogacimy [Francję](loc)" Powodem niezadowolenia narodu jest reforma emerytalna, która podniesie wiek emerytalny z 62 do 64 lat.
+- [Macron](per) poinformował dziennikarzy, że spodziewał się takiej reakcji, ale incydenty nie powstrzymają go przed spacerami i podróżowaniem po [Francji](loc).
+- Ten gniew musi zostać wysłuchany i nie jestem na niego głuchy - stwierdził [Macron](per).
+- Były premier [Francois Fillon](per) zostanie przesłuchany przez relacje z [Rosją](loc) [Macron](per) ma w [czwartek](date) odwiedzić szkołę w południowym regionie [Herault](loc).
+- Sondaże pokazują, że prezydent ma najniższe poparcie w historii.
+- Następne wybory we [Francji](loc) odbędą się w [2027 roku](date).
+- Zgodnie z prawem [Macron](per) nie będzie mógł kandydować trzeci raz.
+- Amerykańska telewizja [CNN](org) jako pierwsza opublikowała nieznane dotąd zdjęcia, przedstawiające nowoczesny chiński sterowiec.
+- Pojazd został opracowany przez [chińskie wojsko](org) i znajduje się w odległej bazie na pustyni, w północno-zachodnich [Chinach](loc).
+- Fotografie wykonano na trzy miesiące przed zestrzeleniem chińskiego balonu szpiegowskiego u wybrzeży [Południowej Karoliny](loc) - [4 lutego](date) władze [USA](loc) na rozkaz prezydenta [Joe Bidena](per) zestrzeliły balon, po tym jak spędził tydzień w przestrzeni powietrznej [Stanów Zjednoczonych](loc) i [Kanady](loc).
+- Według ekspertów do spraw lotnictwa, zdjęcia "mogą sygnalizować znaczący postęp w chińskim programie sterowców, demonstrując bardziej wszechstronny i zwrotny pojazd niż wcześniej widziany lub znany" - informuje [CNN](org).
+- Zdjęcia sterowca zostały wykonane w [listopadzie 2022 r.](date) przez amerykańską firmę [BlackSky](org), która zajmuje się obrazowaniem satelitarnym.
+- Fotografie przedstawiają ok. 100-metrowy statek powietrzny, który znajduje się na środku niemal kilometrowego pasa startowego, w wojskowym kompleksie w północno-zachodnich [Chinach](loc), na pustyni.
+- Amerykańskie media poprosiły o komentarz w tej sprawie organy zajmujące się bezpieczeństwem [USA](loc).
+- Starszy urzędnik [Departamentu Obrony](org) [Stanów Zjednoczonych](loc) miał odmówić komentarza na temat zagrożeń, jakie może stanowić chiński sterowiec, jednak tłumaczył, że skoro jest widoczny, to [Pentagon](org) ma świadomość jego istnienia.
+- "Można się spodziewać, że dzięki zdjęciom satelitarnym śledzimy obiekt" - mówił urzędnik.
+- O wypowiedź została również poproszona [Centralna Agencja Wywiadowcza](org), jednak odmówiła komentarza, z kolei [Rada Bezpieczeństwa Narodowego](org) nie odpowiedziała na prośbę [CNN](org).
+- [4 lutego](time) [Stany Zjednoczone](loc) postanowiły zestrzelić chiński balon szpiegowski, który latał w przestrzeni powietrznej [USA](loc).
+- Decyzja Amerykanów oburzyła chińskie władze.
+- [MSZ](org) opublikowało oświadczenie, w którym podkreślono, że strona chińska wielokrotnie informowała Amerykanów, że jest przeznaczony wyłącznie do użytku cywilnego.
+- [Chiny](loc) niezadowolone z zestrzelenia balonu przez [Stany Zjednoczone](loc) "[Chiny](loc) wyrażają zdecydowane niezadowolenie i protest przeciwko użyciu siły przez [USA](loc) do ataków na cywilne bezzałogowe statki powietrzne.
+- Strona chińska wielokrotnie po weryfikacji informowała stronę amerykańską, że sterowiec jest przeznaczony do użytku cywilnego i wleciał do [USA](loc) z powodu działania siły wyższej, co było całkowicie przypadkowe" - czytamy w oświadczeniu zamieszczonym na stronie chińskiego [Ministerstwa Spraw Zagranicznych](org).
+- [Chiny](loc) zapowiadają także, że w podobnych sytuacjach postąpią tak jak [USA](loc).
+- [Stany Zjednoczone](loc) odrzuciły jednak tłumaczenia [Chin](loc), wskazując, że zestrzelony balon, był balonem obserwacyjnym i celowo przeleciał przez [Stany Zjednoczone](loc) i [Kanadę](loc).
+- Jesteśmy przekonani, że miał na celu monitorowanie wrażliwych obiektów wojskowych - powiedział wysoki rangą urzędnik administracji [USA](loc).
+- Pojawienie się balonu spowodowało wzrost napięcia na linii [Waszyngton-Pekin](loc).
+- Sekretarz stanu [Antony Blinken](per) odwołał planowaną wtedy wizytę w [Chinach](loc).
+- [Biały Dom](org) uznał obecność chińskiego balonu szpiegowskiego w amerykańskiej przestrzeni powietrznej za naruszenie suwerenności [USA](loc) i złamanie prawa międzynarodowego.
+- "[Synod Generalny Kościoła](org) [Anglii](loc) z zadowoleniem przyjął propozycje, które umożliwiłyby parom tej samej płci przychodzenie do kościoła po zawarciu ślubu cywilnego lub związku partnerskiego, aby podziękować, poświęcić swój związek Bogu i otrzymać Boże błogosławieństwo" - czytamy w komunikacie kościelnych władz.
+- Zmiany poparło 250 członków synodu, 181 było przeciwnych.
+- Jak dodano, członkowie synodu potępili też niepowodzenia [Kościoła](org) w przyjmowaniu do siebie osób [LGBTQI+](org) oraz krzywdy, jakich doświadczają osoby [LGBTQI+](org) w relacjach z [Kościołem](org).
+- Opracowane przez członków synodu komentarze do tekstów przykładowych modlitw mają być wskazówką dla biskupów.
+- Ci z kolei mają dopracować modlitwy i przygotować w nadchodzących miesiącach nowe wytyczne.
+- Następnie zatwierdzone teksty zostaną opublikowane do powszechnego użytku w trakcie nabożeństw.
+- Arcybiskup [Canterbury](loc) [Justin Welby](per) i arcybiskup [Yorku](loc) [Stephen Cottrell](per) stwierdzili we wspólnym oświadczeniu, że "po raz pierwszy [Kościół Anglii](org) publicznie, bez zastrzeżeń i z radością powita pary tej samej płci".
+- Zaznaczyli jednocześnie, że w Kościele wciąż istnieją różnice zdań w kwestii stosunku do osób nieheteroseksualnych.
+- Biskup diecezji londyńskiej w [Kościele Anglii](org) [Sarah Mullally](per) stwierdziła, że "to chwila nadziei dla [Kościoła](org)".
+- "Wiem, że to, co zaproponowaliśmy jako drogę naprzód, dla wielu jest niewystarczającym krokiem, a dla innych zbyt daleko idącym" - oceniła.
+- Krok nie jest jednoznaczny z udzielaniem ślubów parom jednopłciowym przez duchownych, co wyraźnie podkreślono w stanowisku [Kościoła Anglii](org).
+- W zeszłą środę [Ministerstwo Zdrowia](org) poinformowało, że "za okres [od 1.09.2022-7.09.2022](date) mamy 21 337 (w tym 3 905 ponownych zakażeń) potwierdzonych przypadków zakażenia".
+- Do wzrostu zachorowań na COVID-19 odniósł się minister zdrowia.
+- "Ostatnie dobowe wzrosty zakażeń to wynik powakacyjnego powrotu do aktywności społecznej, w tym do szkół" - podkreślił [Adam Niedzielski](per), dodając, że podobne wzrosty mogą się jeszcze przez pewien czas utrzymywać.
+- "Nie jest to jednak nowa fala.
+- Co istotne, utrzymuje się niski poziom hospitalizacji covidowej - ok. 2-3 tys." - zaznaczył szef resortu zdrowia.
+- W [poniedziałek](date) [Komisja Europejska](org) ostatecznie zatwierdziła szczepionkę przeciw COVID uwzględniającą podwarianty mutacji Omikron BA.4 i BA.5 koncernu [BioNTech](org) i [Pfizer](org).
+- To oznacza dopuszczenie preparatu na unijny rynek.
+- Kilka godzin wcześniej zielone światło dla autoryzacji dodała [Europejska Agencja Leków](org).
+- O decyzji [Komisji Europejskiej](org) poinformowała jej przewodnicząca [Ursula von der Leyen](per).
+- Na [Twitterze](org) napisała, że koronawirus wciąż stanowi zagrożenie i że ta decyzja pomoże zapewnić bezpieczeństwo tej jesieni.
+- "Szczepienia są nadal najlepszym sposobem ochrony przed COVID-19" - dodała szefowa [KE](org).
+- Nowy preparat, celowany w podwarianty mutacji Omikron BA.4 i BA.5 może być podawany osobom od 12 roku życia, które otrzymały co najmniej podstawowe szczepienia.
+- [Kaczyński](per) straszy na [Podkarpaciu](loc): Bez [PiS](org) zatrzyma się rozwój regionów
+- W zeszłym miesiącu w wieku 50 lat zmarła nagle zastępczyni ambasadora [Czech](loc) w [Izraelu](loc) [Monika Studená](per).
+- W [lutym](date) w wieku 46 lat zmarł [Jakub Dürr](per), czeski ambasador w [Polsce](loc) i były stały przedstawiciel przy [UE](org).
+- W [listopadzie](date) [2022 roku](date) w wieku 55 lat zmarła ambasadorka [Czech](loc) w [Szwajcarii](loc) i [Liechtensteinie](loc) [Katerina Fialková](per).
+- Śmierć trojga dyplomatów zaniepokoiła rząd.
+- Po śmierci trojga dyplomatów szef czeskiego [MSZ](org) wysłał list do pracowników swojego resortu.
+- Do pisma dotarło [POLITICO](org).
+- [Jan Lipavský](per) poprosił w nim, aby dbali o swoje zdrowie fizyczne i psychiczne.
+- "Nie zapominajcie, że każda praca, włącznie z naszą, ma swoje wartości i aspiracje, ale także zdrowe granice" - podkreślił i zaapelował, aby znaleźli równowagę między życiem zawodowym a prywatnym.
+- Czeski minister zaznaczył, że dyplomaci zmarli z przyczyn naturalnych, jednak ich śmierć pokazuje, że funkcja ta wiąże się "z pracą w niezwykle trudnych warunkach i często z dala od rodzin".
+- "Nasi koledzy wykonują tę pracę nawet w strefach działań wojennych przy zachowaniu ścisłych środków bezpieczeństwa.
+- Dyplomaci narażeni są nie tylko na dużą presję w życiu zawodowym i osobistym, ale często także na trudne warunki klimatyczne" - napisał [Lipavský](per).
+- Polityk zapewnił, że jego resort jest gotowy, aby wprowadzić zmiany, które pomogą dyplomatom radzić sobie z presją ich pracy.
+- Ma to być m.in. zwiększenia wsparcia psychologicznego dla pracowników i ich rodzin.
+- Ambasadorka [Czech](loc) przy [Unii Europejskiej](org) [Edita Hrdá](per) podkreśliła, że przed objęciem prezydencji w [UE](loc) (kraj ten sprawował ją do końca zeszłego roku) czeski rząd zastanawiał się, jak uniknąć przepracowania i wypalenia.
+- Przestrzegamy zasady wolnych weekendów.
+- W okresie prezydentury, kiedy było to możliwe, przynajmniej jeden dzień w tygodniu był zupełnie wolny - dodała.
+- O decyzji poinformował w rozmowie z publiczną telewizją [SVT](org) minister spraw zagranicznych [Tobias Billstrom](per).
+- Jak przekazał, w tej sprawie do ministerstwa został wezwany rosyjski ambasador w [Szwecji](loc).
+- Podkreślił, że powodem takiego kroku jest działalność Rosjan, która jest niezgodna z konwencją wiedeńską o stosunkach dyplomatycznych.
+- [Reuters](org) przywołuje oświadczenie szwedzkiego resortu spraw zagranicznych w tej sprawie.
+- "[Szwecja](loc) wezwała ambasadora [Rosji](loc) i poinformowała go, że pięć osób zatrudnionych w ambasadzie zostało poproszonych o opuszczenie kraju w wyniku działań niezgodnych z konwencją wiedeńską o stosunkach dyplomatycznych" - czytamy.
+- Impreza urodzinowa współpracownika [Czarnka](org) w operze.
+- Są wyniki kontroli [Reuters](org) przypomina, że już wcześniej [Szwecja](loc) wydaliła trzech rosyjskich dyplomatów.
+- Miało to miejsce w [kwietniu](date) ubiegłego roku.
+- Z kolei na początku [kwietnia](loc) bieżącego roku [Norwegia](loc) wydaliła 15 rosyjskich przedstawicieli dyplomacji.
+- Wydalenia dotyczyły jednej czwartej rosyjskich dyplomatów akredytowanych wówczas w [Oslo](loc).
+- Ich działalność stanowiła zagrożenie dla [Norwegii](loc).
+- Śledziliśmy ich działania na przestrzeni czasu i aktywność szpiegów wzrosła od czasu inwazji na [Ukrainę](loc) - powiedziała minister spraw zagranicznych [Norwegii](loc) [Anniken Huitfeldt](loc).
+- Wydalone osoby muszą wkrótce opuścić [Norwegię](loc).
+- "Następnym prezydentem [USA](loc) może być [Donald Trump](loc).
+- [Berlin](loc) i [Bruksela](loc) już teraz przygotowują się na ten czarny scenariusz.
+- Druga kadencja tego polityka oznaczałaby zagrożenie dla [NATO](org) i [Ukrainy](loc) oraz ochrony klimatu.
+- Pomimo tego, politycy niemieccy zabiegają intensywnie o kontakty z otoczeniem [Trumpa](per)" - czytamy w analizie opublikowanej w najnowszym wydaniu tygodnika ["Der Spiegel"](org).
+- Autorzy przypominają, że za swojej pierwszej kadencji [Trump](per) traktował Niemcy jak wroga numer jeden, a równocześnie doskonale się rozumiał z dyktatorem [Korei Północnej](loc) [Kim Jong Unem](per).
+- Republikanin nazywał [Niemcy](loc) "pasożytami" i krajem "całkowicie kontrolowanym przez [Rosję](loc)".
+- ["Der Spiegel"](org) przyznaje, że [Trump](per) nie zawsze się jednak mylił i czasami zwracał uwagę na niemieckie błędy, zanim oni sami je dostrzegali i korygowali.
+- Druga kadencja [Trumpa](per) jest zdaniem ["Spiegla"](org) "realistyczną opcją".
+- Przewidujący politycy w [Berlinie](loc) i [Brukseli](loc) analizują możliwe konsekwencje zwycięstwa [Trumpa](per) i zastanawiają się nad tym, jak na nie reagować.
+- W przypadku drugiej kadencji, [Trump](per) byłby jeszcze większym wyzwaniem dla [Niemiec](loc), [Europy](loc) i świata - uważa koordynator rządu [RFN](org) do współpracy transatlantyckiej [Michael Link](per).
+- Jego zdaniem [Trump](per) byłby jeszcze bardziej nieobliczalny, niepohamowany i konfrontacyjny niż podczas pierwszej kadencji.
+- [Link](per) planuje częstsze podróże do [Ameryki](per).
+- Liczą się bezpośrednie kontakty z aparatem wykonawczym i ustawodawczym obozu rządowego - tłumaczy polityk [FDP](org).
+- Zdaniem ["Spiegla"](org) powrót [Trumpa](per) do [Białego Domu](org) byłby "horrorem" dla polityki klimatycznej i groziłby nową wojną handlową [Europy](loc) z [Ameryką](loc).
+- Z katastrofalnymi skutkami musiałaby się liczyć przede wszystkim [Ukraina](loc).
+- W minionych tygodniach [Trump](per) w licznych wywiadach potwierdził, że nie jest wstrząśnięty złamaniem przez [Rosję](loc) prawa międzynarodowego.
+- Nie okazał też empatii dla cierpień Ukraińców.
+- Zapowiedział, że w przypadku ponownego wyboru na prezydenta, zakończy wojnę w ciągu 24 godzin.
+- Powiedział, że nie ma nic przeciwko temu, aby [Rosja](loc) przejęła część [Ukrainy](loc).
+- "[Trump](per) zawsze podziwiał [Putina](per), prawdopodobnie jeszcze bardziej niż [Kim Jong Una](per)" - czytamy w ["Spieglu"](org).
+- Autorzy przypominają, że [Trump](per) jest zwolennikiem izolacjonizmu.
+- Jedenastu senatorów popierających [Trumpa](per) opracowało niedawno projekt rezolucji, w której domagają się zakończenia pomocy wojskowej i finansowej dla [Ukrainy](loc).
+- [MSZ](org) potępia słowa o dopuszczalnym zabójstwie ambasadora [RP](loc) Niemiecki [MSZ](org) uznał obecnie za priorytet nawiązanie kontaktów z Republikanami.
+- Niemieccy politycy mają podczas pobytów w [USA](loc) spotykać się z Republikanami, także na szczeblu lokalnym.
+- Nowy niemiecki ambasador w [Waszyngtonie](loc), [Andreas Michaelis](per) otrzymał zadanie podjęcia dialogu z obozem [Trumpa](per).
+- Niemiecka dyplomacja wyciągnęła wnioski z błędów popełnionych w [2016 roku](date).
+- Wtedy [Berlin](loc) stawiał na zwycięstwo [Hillary Clinton](per) i zbyt późno zaczął szukać kontaktów z ekipą [Trumpa](per).
+- Należą do nich e-samochody oraz polityka wobec [Chin](loc).
+- [Berlin](loc) chce udowodnić [Amerykanom](loc), że może być wiarygodnym sojusznikiem.
+- Niemcy od dawna nie miały tak dobrych kontaktów z [Ameryką](loc), jak obecnie.
+- Ze wszystkimi istotnymi przedstawicielami administracji [Bidena](per) strona niemiecka ma stałe łącza telefoniczne.
+- Kanclerz [Olaf Scholz](per) i jego ludzie mają nadzieję, że dobre relacje zostaną utrzymane.
+- Artykuł pochodzi z serwisu [Deutsche Welle](org).
+- Prokuratura we [Wrocławiu](loc) postawiła [Marcie Lempart](per) pięć zarzutów - wszystkie dotyczą sprawozdań finansowych i firmy, którą działaczka w przeszłości prowadziła.
+- ["Gazeta Wocławska"](org) doprecyzowała, że [28 marca](date) br. do [Sądu Rejonowego](loc) dla [Wrocławia Śródmieście](loc) skierowany został akt oskarżenia wobec [Marty Lempart](per).
+- Została ona oskarżona o złamanie przepisów dotyczących ustawy o rachunkowości i naruszenie kodeksu spółek handlowych.
+- Według prokuratury chodzi o niezłożenie wniosku o upadłość spółki oraz o niesporządzenie właściwych sprawozdań finansowych.
+- Czyny są zagrożone grzywną lub karą do dwóch lat więzienia.
+- "Dzień jak co dzień w państwie [PiS](org).
+- Dziś stałam się bohaterką kolejnej głośnej sprawy pani prokurator [Justyny Pilarczyk](per), którą znamy z tego, że umorzyła sprawę [Justyny Helcyk](per), szefowej dolnośląskiego [ONR](org).
+- Jako rzeczniczka prokuratury, broniła przed dostępem dziennikarzy do informacji o toczącym się śledztwie w sprawie oszustw w dolnośląskim [PCK](org), w które zamieszani są politycy [PiS](org)" - skomentowała sprawę [Marta Lempart](per) w przesłanym naszej redakcji oświadczeniu.
+- Liderka Ogólnopolskiego Strajku Kobiet oceniła też, że "pani [Pilarczyk](per) nieźle idzie w ziobrowskiej prokuraturze".
+- "Z szeregowej prokuratorki rejonowej w [2017](date) na szefową prokuratury okręgowej w [2020](date), ale rozumiem, że apetyt rośnie w miarę jedzenia" - dodała.
+- Do sądu trafił ponowny akt oskarżenia przeciwko liderkom Strajku Kobiet Aktywistka zapewniła, że spółka nie istnieje od lat i była "prawidłowo zlikwidowana".
+- "No ale skoro doniesienie na mnie złożył neofaszysta [Jacek Międlar](per), który publicznie dziękował ministrowi [Ziobrze](per) za wypuszczenie z więzienia drugiego neofaszysty - [Piotra Rybaka](per), no to nie ma się co dziwić, że pani prokurator [Pilarczyk](per) mocno się sprawą przejmuje.
+- I że 4 razy ściągała mnie z [Warszawy](loc) do [Wrocławia](loc), żeby się dopytać do protokołu, czy aby na pewno się nie przyznaję" - wskazała.
+- W ocenie [Lempart](per) "ta sprawa jest ostrzeżeniem dla wszystkich aktywistek i aktywistów, że służby [PiS](org) przeszukują wszystkie państwowe rejestry, wszystkie państwowe bazy danych, żeby znaleźć, co się da - opóźnienia, niedopatrzenia, zaległe sprawy bez znaczenia."
+- Niepozorna żółta kartka papieru wydaje się dowodzić szpiegostwa [USA](loc) przeciwko [Federalnemu Ministerstwu Obrony](org) – pisze [Georg Heil](per) z [RBB](org) ([Rundfunk Berlin Brandenburg](org), część [ARD](org)) na portalu [tagesschau.de](org).
+- Dokument, który znalazł się w posiadaniu tygodnika ["Die Zeit"](org) i magazynu politycznego [ARD "Kontraste"](org), pochodzi z tak zwanych "Pentagon Leaks", zestawu raportów amerykańskiego wywiadu krążących w internecie i opublikowanych przypuszczalnie przez 21-letniego członka [Gwardii Narodowej](org) [USA](loc).
+- "[Niemieckie Ministerstwo Obrony](org) odrzuca głębszą współpracę z [Chińską Republiką Ludową](loc), dopóki [Chiny](loc) nie staną się bardziej przejrzyste" – to tłumaczenie angielskiego nagłówka krótkiego raportu, który najprawdopodobniej pochodzi z amerykańskiej agencji wywiadowczej.
+- Raport ten po krótkim czasie zniknął z sieci.
+- ["Kontraste"](org) i ["Die Zeit"](org) przeanalizowały dokument i uznają go za autentyczny, ale ostateczne potwierdzenie autentyczności mogłoby przyjść tylko od amerykańskich agencji rządowych.
+- Zapytanie do koordynatora wywiadu [USA](loc) początkowo pozostało bez odpowiedzi.
+- Według informacji ["Kontraste"](org) i "[Die Zeit"](org) sprawa rzekomego szpiegostwa zajmuje obecnie niemieckie organy bezpieczeństwa.
+- "Sensacyjna jest nie tyle treść dokumentu, co fakt, że [USA](loc) najwyraźniej nadal szpiegują niemiecki rząd.
+- Już w [2013](date) roku w kontekście ‘afery NSA’ stało się wiadome, że [USA](loc) podsłuchiwały i podsłuchują na dużą skalę w [Niemczech](loc)" – czytamy w [tagesschau.de](org).
+- Była powierniczka [Orbana](per) zdradza, za kogo premier [Węgier](loc) uważa [Putina](per).
+- Jako źródło podaje się ["SI"](org) – ["signal intelligence"](org).
+- Tak więc do szpiegostwa mogło dojść poprzez przechwycenie wiadomości e-mail lub poprzez włamanie do systemów informatycznych [Ministerstwa Obrony](org).
+- W swoim raporcie przedstawiciele amerykańskiego wywiadu informują o spotkaniu [20 lutego](date) w [Berlinie](loc): przedstawiciele [Federalnego Ministerstwa Obrony](org) dyskutowali z delegacją chińskich sił zbrojnych.
+- Data ta została potwierdzona w kręgach rządowych.
+- Według raportu spotkanie odbyło się w ramach zwykłej dyplomacji wojskowej i w koordynacji z innymi resortami rządu federalnego.
+- Ze strony niemieckiej wziął w nim udział m.in. szef podwydziału [Polityka II](org).
+- Wśród poruszanych tematów znalazły się m.in. wojna w [Ukrainie](loc), napięcia w sprawie [Tajwanu](loc) oraz wsparcie militarne dla [Organizacji Narodów Zjednoczonych](org).
+- Strona niemiecka dała podobno do zrozumienia, że Chińczycy musieliby stać się bardziej transparentni, zanim mogłoby dojść do głębszej współpracy.
+- Niemiecki dziennik o śledztwie w sprawie [Tuska](per): Jego wynik może być groźny Według dokumentu, który niemieccy dziennikarze uznali za raport amerykańskiego wywiadu, Niemcy byli świadomi, że Chińczycy, w obliczu zwiększonej presji politycznej ze strony [USA](loc), prowadzą "ofensywę wdzięku".
+- Dalej czytamy, że Niemcy postrzegają swoje stanowisko jako potwierdzenie niemieckiej soldarności z [USA](loc).
+- W przypuszczalnym szpiegostwie [USA](loc) autor [RBB](org) [Georg Heil](per) widzi absurdalność: Według badań ["Kontraste"](org) i ["Die Zeit"](org) ambasada [USA](loc) została oficjalnie poinformowana przez stronę niemiecką o spotkaniu z Chińczykami.
+- Według informacji ["Die Zeit"](org) i ["Kontraste"](org) amerykański dokument jest również dostępny dla niemieckiego rządu.
+- Jak jednak zareaguje on na rzekome szpiegostwo swojego sojusznika, wciąż wydaje się niejasne.
+- Zdaniem dziennikarzy obu niemieckich mediów, będzie to zależało od tego, jak na ten incydent zareaguje rząd [USA](loc).
+- "Niemiecki rząd zdaje sobie sprawę z tego, że Niemcy są zależne od amerykańskiego wywiadu, a w obliczu wojny na [Ukrainie](loc) stara się w miarę możliwości nie nadwyrężać stosunków z [USA](loc)" – komentuje [Heil](loc).
+- Sfałszowane dzienniki [Hitlera](loc) wywołały skandal.
+- Teraz trafiły do sieci "To jest istona sprawa i obowiązuje wypowiedź pani [Merkel](per): podsłuchiwanie między przyjaciółmi jest niedopuszczalne" – powiedział [Konstantin von Notz](per), członek grupy [Zielonych](org) ds. polityki wewnętrznej.
+- [Von Notz](per) podkreśla jednak, że najpierw trzeba porozmawiać z Amerykanami i wyjaśnić, jak mogło dojść do rzekomego szpiegostwa.
+- [Gustav Gressel](per) z [Europejskiej Rady Stosunków Zagranicznych](org) [(ECFR)](org) uważa, że rzekome szpiegostwo [USA](loc) przeciwko [Republice Federalnej Niemiec](loc) nie jest zaskakujące, a wręcz jest tradycją.
+- [Sam Gressel](per) spotkał się z przypuszczalnie tą samą chińską delegacją dzień po spotkaniu w [Federalnym Ministerstwie Obrony](org).
+- "Tutaj Amerykanie klasyfikują jako 'ściśle tajne' informacje, które można było równie dobrze uzyskać, dzwoniąc do [Fundacji Nauka i Polityka](org) lub gdyby bardzo ładnie poprosić w [Ministerstwie Obrony](org)" – stwierdził [Gressel](per) w rozmowie z ["Kontraste"](org) i ["Die Zeit"](org).
+- Redaktor naczelna zwolniona za "niesmaczny wywiad" z [Schumacherem Gressel](per) uważa jednak za problematyczne to, że Niemcy, które jego zdaniem "nie mają płynności w obszarze wywiadu", nie potrafią się lepiej chronić.
+- Informacje, które mogą wyszpiegować Amerykanie, są również potencjalnie dostępne dla mniej przyjaznych narodów, takich jak [Rosja](loc) czy [Chiny](loc) – zauważa.
+- Ekspert postuluje zmianę podejścia do pracy wywiadowczej.
+- Podkreśla, że w obecnej debacie brakuje świadomości, że "niemieckie społeczeństwo naprawdę ufa własnym władzom, na przykład jeśli chodzi o uprawnienia własnych służb wywiadowczych, do poprawy zdolności obronnych także w Niemczech".
+- Rzecznik [Prokuratury Okręgowej](org) w [Ostrowie Wielkopolskim](loc) prok. [Maciej Meler](per) przekazał w rozmowie z portalem [wlkp24.info](org), że 47-letnia mieszkanka [Kobylej Góry](loc) usłyszała "dwa zarzuty dotyczące zabójstwa małoletnich pokrzywdzonych".
+- Należy podkreślić, że w sprawie zachodzi konieczność przeprowadzenia dodatkowych badań pozwalających na ocenę stanu zdrowia psychicznego podejrzanej - zaznaczył prokurator.
+- Kobieta wciąż przebywa w szpitalu, sąd zatwierdził wniosek prokuratury o trzymiesięczny areszt.
+- [Krystynie K.](per) grozi dożywocie.
+- Przypomnijmy: w [czwartek 20 kwietnia](date) ojciec dziewczynek - [Jan K.](per) - wrócił do domu w [Kobylej Górze](loc).
+- Nie mógł dostać się do budynku, dlatego wybił szybę.
+- W środku znajdowały się ciała dwóch jego córek - dziewięcioletniej [Jadzi](per) i trzynastoletniej [Magdy](per).
+- Niedaleko znajdowała się ich nieprzytomna matka, 47-letnia [Krystyna K.](per)
+- W trakcie zbrodni w domu nieobecna była najstarsza córka pary.
+- 19-latka, osoba z niepełnosprawnością, przebywała wówczas w specjalistycznym ośrodku.
+- U 13-latki stwierdzono kilkadziesiąt ran kłutych, głównie w okolicach szyi i głowy.
+- Przyczyną śmierci było wykrwawienie.
+- U 9-latki stwierdzono natomiast nieznaczne otarcia na szyi.
+- Według biegłych zmarła ona wskutek gwałtownego uduszenia.
+- [Polska](loc) medalistka olimpijska podejrzana o oszustwo.
+# Wirtualna Polska
+- Największym wyzwaniem [Polski](loc) jest obrona suwerenności - stwierdził [Patryk Jaki](per) w rozmowie z [Wirtualną Polską](org).
+- Europoseł wyjaśnił przy okazji, kto dokładnie, zdaniem [Solidarnej Polski](org), jest zagrożeniem dla wolności i niezależności [Polski](loc) w [Europie](loc).
+- Moim głównym celem działalności politycznej jest to, aby [Polska](loc) była coraz silniejsza.
+- I tylko z tej perspektywy musimy patrzeć na udział w organizacjach międzynarodowych - tymi słowami europoseł [Patryk Jaki](per) z [Solidarnej Polski](org) rozpoczął swoją rozmowę z [Wirtualną Polską](org), opowiadając dalej, z jakimi zagrożeniami suwerenności, według niego, mierzy się nasz kraj.
+- [Jaki](per) podkreślił, że jest zwolennikiem naszego członkostwa w [Unii Europejskiej](org), jednak nie ma jego zgody na utratę suwerenności, co, jego zdaniem, wciąż się dzieje.
+- Jednocześnie stwierdził, że choć [UE](org) dała nam wiele korzyści, zwłaszcza "wolny przepływ usług, towarów, ludzi", to nie wiadomo, jak wyglądałaby nasza aktualna sytuacja, gdybyśmy nigdy nie weszli w szeregi [UE](org).
+- Nigdy nie będziemy w stanie powiedzieć, co by było, gdybyśmy mieli status na przykład [Norwegii](loc) - zaznaczył [Jaki](per).
+- Polityk zaznacza, że od setek lat istnieją na mapie świata dwa kraje, które stale próbują odebrać nam wolność - [Rosja](loc) oraz [Niemcy](loc).
+- Jego zdaniem, to się dzieje także teraz.
+- [Polskę](loc) chciałaby zmiażdżyć militarnie [Rosja](loc), a na podbicie [Polski](loc) w sensie kolonizacji gospodarczej, pewnie taką chrapkę mają ciągle Niemcy - tłumaczył europoseł.
+- Potwierdzeniem zamiarów [Rosji](loc) ma być wojna w [Ukrainie](loc).
+- Z kolei jednym z dowodów na to, że Niemcy działają na naszą niekorzyść, było Nord Stream wybudowane z pominięciem [Polski](loc).
+- Ta inflacja, z którą mamy teraz do czynienia, z czegoś wynika.
+- Przede wszystkim z wysokich cen energii.
+- Właśnie z dogadywania się [Rosji](loc) i [Niemiec](loc) - twierdzi europoseł.
+- Nord Stream został zbudowany nad głowami [Polski](loc), sześć razy drożej, niż jakby rura szła po terenie naszego kraju.
+- Właśnie dlatego, żeby Polacy więcej płacili za ten gaz - dodał później.
+- Przykładem odbierania [Polsce](loc) suwerenności przez [Unię Europejską](org), ma być zdaniem europosła, kwestia sądownictwa i wymiaru sprawiedliwości.
+- Nigdy nie przekazaliśmy [Unii Europejskiej](org) prawa do zajmowania się organizacją sądów - powiedział [Jaki](per), dodając, że [UE](org) przywłaszczyła sobie to prawo, "szantażując nas pieniędzmi europejskimi".
+- Eurodeputowany dodał, że [Unia Europejska](org) nie poprzestanie na tym, co już osiągnęła w kwestii odbierania nam suwerenności w kwestii sądownictwa.
+- Co więcej, mimo pewnych ustępstw naszego kraju, podjętych pod wpływem wspomnianego wyżej "szantażu", pieniądze dla [Warszawy](loc) nadal nie zostały odblokowane.
+- Za każdym razem jest tak, że jak dajesz [UE](org) palec, to ciągną ci rękę - wyjaśnił gość [Wirtualnej Polski](org).
+- We wtorkowym losowaniu [Eurojackpot](org) padła główna wygrana.
+- Ogromną pulę zgarnął gracz z [Polski](loc).
+- Posiadacz szczęśliwego losu wygrał ponad 62,6 mln złotych.
+- [Totalizator Sportowy](org) w [środę](date) ujawnił, w jakim mieście zawarto zwycięski zakład.
+- Jedną z największych gier liczbowych na świecie jest [Eurojackpot](org), w której udział biorą gracze z 18 europejskich państw.
+- We [wtorek](date) [2 maja](date) podczas losowania w [Helsinkach](loc) padły następujące liczby: 11, 12, 13, 23, 26, oraz 11 i 12.
+- Szczęśliwy kupon (trafione liczby 5+2) skreślił tylko jeden gracz.
+- O zwycięzcy niewiele wiadomo.
+- Jak informuje [Totalizator Sportowy](org), do postawienia zakładu doszło w [Bielsku-Białej](loc), a właściciel zgarnie ponad 13,6 mln euro, co w przeliczeniu daje ponad 62,6 mln złotych.
+- Zgodnie z polskimi przepisami od tej kwoty zostanie potrącony jeszcze 10-proc. podatek.
+- Jest on pobierany w momencie wypłaty wygranej i odprowadzany przez [Totalizator Sportowy](org) do urzędu skarbowego.
+- [Eurojackpot](org) to gra liczbowa o europejskim zasięgu, która została uruchomiona w [marcu 2012](date).
+- Od [września 2017](date) w grze mogą uczestniczyć także gracze z [Polski](loc).
+- Na polski rynek wprowadził ją [Totalizator Sportowy](org), właściciel marki [Lotto](org).
+- Opłata za jeden zakład wynosi 12,50 złotych.
+- Gracz typuje 5 z 50 liczb oraz 2 z 12 liczb.
+- Losowania odbywają się we [wtorki](date) i [piątki](date).
+- Prawdopodobieństwo trafienia głównej wygranej (5+2) wynosi 1:139 838 159.
+- Przed wtorkowym losowaniem główną nagrodę zdobyło łącznie pięciu graczy z [Polski](loc).
+- Pierwszy był mieszkaniec powiatu piotrkowskiego, który w [maju 2019](date) wygrał ponad 193 mln złotych.
+- Jego historię na łamach [WP](org) opisał dziennikarz [Mateusz Ratajczak](per).
+- Rekord kwotowy padł w [sierpniu 2022](date), kiedy gracz z [powiatu krotoszyńskiego](loc) wygrał ponad 213,5 mln złotych.
+- [12 maja 1926](date) roku [Józef Piłsudski](per) zdecydował się przekreślić demokratyczną drogę [Polski](loc).
+- Zwolennicy tego rozwiązania powiedzieliby, że ratował kraj przed endecką dyktaturą.
+- Przeciwnicy, że napędzało go głównie własne ego.
+- To nie miał być zamach stanu.
+- Rankiem [12 maja 1926 roku](date) [Józef Piłsudski](per) wyruszył wraz z żołnierzami zgrupowanymi na wschód od [Warszawy](loc), w kierunku stolicy, ale mimo wszystko swojej żonie przekazał, że jak zwykle wróci na obiad.
+- Teoretycznie nadrzędnym celem Marszałka miało być wymuszenie dymisji rządu [Witosa](per).
+- Na pewno nie zależało mu na rozlewie krwi.
+- O tym, że ta się jednak poleje, zadecydowało dopiero spotkanie na moście.
+- Niezależnie czy dostrzega się więcej zalet, czy wad w postaci [Józefa Piłsudskiego](per), trudno nie zauważyć, że na jego biografii ciąży potężna zadra narcystyczna, która często kierowała jego poczynaniami.
+- Tak było też tym razem.
+- Uznający siebie za wcielenie króla-ducha z dramatu [Słowackiego](per), marszałek był przekonany, że wystarczy siła jego nazwiska i oddziały zgrupowane na [Pradze](loc), a rząd w obliczu szturmu na lewy brzeg [Wisły](loc) sam poda się do dymisji.
+- Zderzenie z rzeczywistością miało być dla niego szokiem.
+- Podczas spotkania na [moście Poniatowskiego](loc) prezydent [Stanisław Wojciechowski](per) oznajmił mu, że to on reprezentuje wojsko polskie.
+- Następnie niedowierzający [Piłsudski](per) zapytał młodego oficera, czy ten "będzie do niego strzelać".
+- Młody odpowiedział, że jeśli dostanie odpowiedni rozkaz, to się nie zawaha.
+- Starcia na ulicach [Warszawy](loc) potrwały trzy dni.
+- Zginęło w nich 379 osób, choć mogło znacznie więcej.
+- Bieg wydarzeń przyspieszył z dwóch powodów.
+- Z jednej strony poparcie dla [Piłsudskiego](per) wyraziła [PPS](org), która była gotowa sparaliżować cały kraj (w tym strategiczny węzeł kolejowy) strajkiem.
+- Z drugiej, rząd zachował się odpowiedzialnie i skapitulował, uniknąwszy wojny domowej.
+- Gdyby [Witos](per) myślał tylko o władzy, mógłby wycofać się do [Poznania](loc), gdzie stacjonowało przychylniejsze mu wojsko.
+- Do podjęcia takiego kroku namawiał go generał [Tadeusz Rozwadowski](per).
+- Po trzech dniach [Piłsudski](per) miał to, co chciał.
+- Mimo że nagle w jego ręku skupiła się pełnia władzy, to z początku nie zachował się jak rasowy dyktator.
+- Owszem ustanowił nową, wybraną przez siebie władzę, ale została ona zalegalizowana przez – teoretycznie – znienawidzony przez niego [Sejm](org).
+- I choć obóz marszałka z miesiąca na miesiąc zagarniał kolejne obszary życia publicznego dla siebie, to aż do wyborów w [1930 roku](date) życie polityczne w [Polsce](loc) toczyło się względnie normalnie.
+- Dziwny to zamach stanu, po którym nie likwiduje się przeciwników, nie rozwiązuje parlamentu i pozwala funkcjonować państwu we względnej harmonii.
+- Patrząc na działania [Piłsudskiego](per) po przewrocie, można dojść do wniosku, że albo sam do końca nie wiedział, czego chce, albo podświadomie stosował coś na kształt "taktyki salami", a więc przejmowania władzy po kawałku.
+- Na pewno między bajki można włożyć opowieść o tym, że chodziło wyłącznie o dymisje [Witosa](per).
+- [Piłsudski](per) udzielił licznych wypowiedzi, z których wynikało, że nie tyle chodzi o ten konkretny rząd, ile o stan państwa w ogóle.
+- Skarżył się na gadatliwych polityków, korupcję i niską jakość klasy politycznej.
+- Do żywego dotykał go fakt, że nikt nie poniósł politycznej odpowiedzialności za zamach na prezydenta [Gabriela Narutowicza](per).
+- Czym innym jednak jest wskazanie wad konstytucji marcowej z [1921 roku](date) (nadmierna władza [Sejmu](org) i brak kontroli sądów nad jego poczynaniami), a czym innym atakowanie moralnego zepsucia przeciwników politycznych.
+- [Piłsudski](per) zarzucał [Sejmowi](org), że ten ma zbyt duże uprawnienia, ale sam szybko pozwolił prezydentowi na wydawanie rozporządzeń z mocą uchwały.
+- Istnieje hipoteza mówiąca, że [Piłsudski](per) miał świadomość, jak wątła jest nadwiślańska demokracja i postanowił wykonać ruch wyprzedzający wobec endeków.
+- Patrząc na mapę [Europy](loc), widział, jak wokół [Polski](loc) wyrastają kolejne rządy autorytarne.
+- Czytał gazety, na których łamach prawicowcy wzdychali do [Benito Mussoliniego](per) i wiedział, że to właśnie narodowa demokracja stanowi siłę mogącą najlepiej wyjść na zwrocie antydemokratycznym.
+- Tyle że w [Polsce](loc) – w przeciwieństwie do [Włoch](loc) – taki zamach stanu napotkałby opór wojska i trudno powiedzieć, kto miałby wcielić się w rolę dyktatora, bo [Roman Dmowski](per) był raczej typem starego belfra niż rzutkiego przywódcy.
+- Trzeba dodać, że idea zamachu stanu nie zrodziła się w jedną noc.
+- Zgromadzeni wokół [Piłsudskiego](per) wojskowi sugerowali mu przez kilka lat, że nadszedł czas, aby przejąć władzę siłą.
+- Żeby zrozumieć motywacje tego środowiska, musimy pamiętać, że byli to ludzie żyjący w wiecznej konspiracji, niektórzy z nich mieli wręcz kilkadziesiąt lat doświadczenia bojowego.
+- Przeszli szlak od rewolucji [1905 roku](date), przez [Organizację Bojową PPS](org), aż po fronty I Wojny Światowej.
+- Zawsze starali się być w centrum wydarzeń i nie odpowiadało im zepchnięcie do koszar.
+- Bezpośrednia przyczyna zamachu mogła być błaha.
+- Wiele wskazuje na to, że [Piłsudskiego](per) ostatecznie sprowokowała wymiana zdań, jaką stoczył na łamach "Nowego Kuriera Polskiego" z [Witosem](per).
+- Najpierw – [9 maja](date) – na dzień przed zaprzysiężeniem rządu, nowy premier odniósł się do pogłosek o szykowanym przewrocie.
+- Mówił, że jeśli [Piłsudskiemu](per) naprawdę zależy na [Polsce](loc), to powinien "wyjść z ukrycia, stworzyć rząd, wziąć do współpracy wszystkie czynniki twórcze, którym dobro państwa leży na sercu".
+- Odpowiedź [Piłsudskiego](per), na łamach tej samej gazety miała ukazać się [11 maja](date).
+- Nakład został skonfiskowany przez komisariat rządu w [Warszawie](loc).
+- W ramach prowokacji intelektualnej zestawmy ze sobą dwie liczby.
+- Około stu śmiertelnych ofiar stanu wjennego i 379 osób zabitych podczas przewrotu majowego (nie licząc rannych).
+- Co to mówi o osobie marszałka?
+- Czy łatwiej przychodziło mu szafować ludzkim życiem niż generałowi [Jaruzelskiemu](per)?
+- Właśnie zestawienie tych dwóch liczb stanowiło jedną z medialnych linii obrony generała.
+- Dodawał, że [Piłsudskiemu](per) "nie groziła interwencja ze strony [ZSRR](loc)", a całą sprawę przewrotu nazywał "zamiecioną pod dywan".
+- Oba zdarzenia są do siebie podobne w tym sensie, że politycy zdecydowali się wyprowadzić wojsko na ulice i użyć przemocy, jeden w celu uzyskania władzy, a drugi jej utrzymania.
+- Poza tym różni je bardzo wiele.
+- [Piłsudski](per) u wielu miał opinię męża opatrznościowego, który uratował [Polskę](loc) przed klęską w [1920 roku](date) (abstrahuję teraz od tego, w jakim stopniu faktycznie zwycięstwo w Bitwie Warszawskiej było jego zasługą), [Jaruzelski](per) uosabiał władzę sterowaną z zewnątrz.
+- [Piłsudski](per) przeciwstawiał się niespecjalnie lubianej opcji politycznej, [Jaruzelski](per) wyprowadzał czołgi przeciwko cywilom.
+- Wreszcie, działania [Piłsudskiego](per) wpisywały się w bogatą w [Polsce](loc) tradycję szlacheckiego rokoszu (wypowiedzenia posłuszeństwa konstytucyjnie wybranemu władcy), a stan wojenny mógł się łatwo kojarzyć z represjami, jakie zaborcy stosowali, by ukarać naród po kolejnych zrywach niepodległościowych.
+- W opracowywaniu bilansów historycznych czysta arytmetyka nie działa.
+- Ważna jest też pamięć i to, do jakiej tradycji się nawiązuje.
+- Nie mówię tego, żeby [Piłsudskiego](per) wybielić, a raczej zrozumieć, dlaczego jego czyn nie budził (i nie budzi) powszechnego oburzenia.
+- Z punktu widzenia wierzącego demokraty każdy zamach wobec legalnie wybranej i niełamiącej zasad umowy społecznej władzy jest złem.
+- Rząd, przeciwko któremu wystąpił [Piłsudski](per), funkcjonował przez dwa dni.
+- Trudno, żeby w tym czasie zasłużył sobie na taki los.
+- Marszałek występował więc raczej przeciwko historycznym zaszłościom, własnym lękom i fobiom.
+- Ostatecznie zbudowane po zamachu państwo okazało się słabe.
+- Zdeptało demokrację w [Polsce](loc) (odmawiano rejestracji list wyborczych, tysiące ludzi aresztowano bez wyroku sądowego), nie rozwiązało najbardziej palących problemów epoki (reforma rolna), jego innowacyjność była rozczarowująca ([Centralny Okręg Przemysłowy](loc)), a kariery robiło się w nim raczej przez znajomości i układy niż dzięki kompetencjom.
+- W momencie próby przetrwało ledwie 17 dni.
+- Inna władza też pewnie nie dałaby rady wobec agresji z [września 1939 roku](date), ale to już gdybanie i historia alternatywna.
+- [Rząd USA](org) może nie być w stanie spłacać wszystkich swoich zobowiązań już od początku czerwca, jeśli [Kongres](org) nie podniesie limitu zadłużenia - ostrzegła w poniedziałek szefowa resortu finansów [Janet Yellen](per).
+- Oświadczyła, że będzie to miało "ogromnie negatywne konsekwencje dla państwa".
+- W liście do [Kongresu](org) [Yellen](per) przekazała, że jeśli limit zadłużenia nie zostanie podniesiony, to narazi to Amerykanów "na poważne trudności", zaszkodzi pozycji "globalnego przywództwa" [Stanów Zjednoczonych](loc), a także podda w wątpliwość "zdolność [USA](loc) do obrony interesów bezpieczeństwa narodowego".
+- To nie pierwszy niepokojący sygnał dotyczący sytuacji finansowej [Stanów Zjednoczonych](loc).
+- Już w [styczniu](date) [Yellen](per) mówiła, że [USA](loc) "dobiły do ustalonego limitu", jednak [Departament Skarbu](org) zdecydował wówczas o podjęciu "nadzwyczajnych środków", które miały pozwolić na dalsze spłacanie długów przez rząd przez kolejne kilka miesięcy.
+- Większość ekonomistów spodziewała się, że data graniczna nadejdzie w [sierpniu](date), jednak szacunki te zmieniły się z powodu słabszych niż oczekiwano wpływów podatkowych.
+- Mimo ostrzeżeń ze strony [Yellen](per) i ekonomistów o potencjalnie katastrofalnych skutkach bankructwa [USA](loc), [Biały Dom](org) i Republikanie kontrolujący [Izbę Reprezentantów](org) tkwią w impasie co do podniesienia limitu zadłużenia.
+- Obecnie wynosi on 31,4 bln dolarów.
+- W ubiegłym tygodniu [Izba Reprezentantów](org) minimalną większością przegłosowała ustawę zwiększającą limit, ale jednocześnie zawierającą ostre cięcia wydatków socjalnych.
+- Ustawa nie ma większych szans na przejście w tym kształcie w [Senacie](org), który jest kontrolowany przez Demokratów.
+- Dodatkowo sam [Joe Biden](per) już zapowiedział jej weto.
+- Premier [Sunak](per) został wyśmiany przez internatów i porównany do koreańskiego przywódcy [Kim Dzong Una](per).
+- W mediach społecznościowych użytkownicy opublikowali wideo, na którym widać policjantów jeżdżących na rowerze lub biegających obok jego samochodu.
+- Premier [Wielkiej Brytanii](loc) [Rishi Sunak](per) został porównany do koreańskiego przywódcy [Kim Dzong Una](per).
+- W mediach społecznościowych internauci opublikowali wideo, na którym widać przejeżdżającego przez [Londyn](loc) [Sunaka](per) z policjantami, którzy jadą na rowerze lub biegną obok jego samochodu.
+- Użytkownicy zauważyli w tym podobieństwo do ochrony, jaką zapewnia sobie dyktator [Korei Północnej](loc).
+- Premier [Wielkiej Brytanii](loc) porównany do [Kim Jong Una](per).
+- Nagranie, które zostało opublikowane na [Twitterze](org), pokazuje duży konwój policjantów, którzy jadą na rowerze lub biegną wokół limuzyny, w której znajduje się premier [Wielkiej Brytanii](loc).
+- Akcja rozgrywała się w centrum [Londynu](loc) na [Downing Street](loc).
+- Na zamieszczonym filmiku widać jak jeden z mundurowych zepchnął obserwatora wydarzenia z drogi, krzycząc: "Z drogi!
+- "Czy [Kim Jong Un](per) jest w mieście?" - zażartował jeden z internautów.
+- Inny użytkownik podkreślił "[Rishi Sunak](per) i ochrona robią najlepsze wrażenie dla [Korei Północnej](loc)".
+- Posłanka Partii Pracy [Diana Johnson](per), która przewodniczy [Komisji Spraw Wewnętrznych Izby Gmin](org), skomentowała: "To niezły spektakl!"
+- W związku z trudną sytuacją za wschodnią granicą, polska policja we współpracy z amerykańskim [FBI](org) rozpocznie kilkudniowe ćwiczenia "Wolf-Ram-23".
+- Manewry rozpoczną się w [Warszawie](loc), możliwe będą utrudnienia w komunikacji.
+- Jak poinformowała policja, w dniach [17-19 kwietnia](date) na terenie całej [Polski](loc) w odbędą się ćwiczenia pod kryptonimem "Wolf-Ram-23".
+- Ich organizatorem jest [Komenda Główna Policji](org) we współpracy z amerykańskim [Federalnym Biurem Śledczym (FBI)](org).
+- "Głównym celem ćwiczeń jest reagowanie Policji w przypadku wystąpienia sytuacji kryzysowej w postaci ataku terrorystycznego związanego z zagrożeniem chemicznym, biologicznym, radiacyjnym lub nuklearnym" - podkreślono.
+- "Trudna sytuacja za wschodnią granicą, wymaga od wielu służb ciągłej gotowości oraz podnoszenia umiejętności w zakresie radzenia sobie w sytuacjach kryzysowych.
+- Organizacja tego typu ćwiczeń ma na celu koordynowanie i współpracę służb stojących na straży bezpieczeństwa, a także sprawdzenie funkcjonujących procedur w przypadku wystąpienia zagrożenia" - przekazano w komunikacie.
+- Zaznaczono, że ćwiczenia będą odbywać się "w warunkach zbliżonych do realnych", co ma pozwolić m.in. wypracować zasady współpracy z innymi podmiotami.
+- Ćwiczenia rozpoczną się w [Warszawie](loc).
+- [Rządowe Centrum Bezpieczeństwa](org) rozesłało w związku z tym alert do mieszkańców stolicy.
+- Dziś wieczorem [17.04](date) w [Warszawie](loc) ćwiczenia antyterrorystyczne Policji.
+- Policja precyzuje, że utrudnienia obejmą m.in. warszawskie metro.
+- Odbędą się one z [poniedziałku](date) na [wtorek](date) między godz. [19:00](date) i [4:00](date) na stacjach [Stare Bielany](loc) i [Stadion Narodowy](loc).
+- Jak to możliwe, że amerykański żołnierz [Gwardii Narodowej](org) miał dostęp do tajnych dokumentów i najprawdopodobniej był autorem wycieku danych?
+- Kontrowersje budzi nie tylko sama sprawa, ale także okoliczności jego zatrzymania.
+- Pomyślałem, że to jakiś absurd i fake news – mówi [WP](org) [Marcin Faliński](per), były oficer wywiadu.
+- Pierwsze moje skojarzenie było takie, że to jakieś kuriozum.
+- Do ściśle tajnych informacji na tym poziomie taka osoba nie powinna mieć w ogóle dostępu.
+- A w tej wojskowej formacji: [Gwardii Narodowej](org) tym bardziej.
+- Wystarczy to przełożyć na jakąkolwiek inną armię na świecie.
+- To tak jakby w [Polsce](loc) żołnierz Wojsk Obrony Terytorialnej miał stać za wyciekiem tajnych danych…. -komentuje płk [Marcin Faliński](per), były oficer [Agencji Wywiadu](org) i autor książek szpiegowskich.
+- Afera z wyciekiem danych wybuchła w ubiegłym tygodniu.
+- Wówczas cały świat obiegła wiadomość o opublikowaniu w mediach społecznościowych ściśle tajnych dokumentów m.in. z [Pentagonu](org).
+- Wiele z nich zawierało informacje nt. wojny w [Ukrainie](loc).
+- Amerykańskie służby oceniły wyciek jako "bardzo poważny".
+- W [czwartek](date) uzbrojeni agenci [FBI](org) aresztowali 21-letniego [Jacka Teixeirę](per), żołnierza jednostki wywiadowczej [Sił Powietrznych Gwardii Narodowej](org).
+- Na filmie z aresztowania widać prowadzonego przez dwóch funkcjonariuszy młodego mężczyznę z krótkimi, ciemnymi włosami, ubranego w oliwkowy T-shirt i czerwone szorty. "
+- Według ["Washington Post"](org), 21-latek miał się chwalić pracą w [bazie wojskowej Otwis](loc), gdzie część dnia spędzał w pomieszczeniach z tajnymi danymi.
+- Był odpowiedzialny za sieci internetowe swojej jednostki.
+- 21-latek ma stanąć w piątek przed sądem, już usłyszał zarzuty.
+- Grozi mu wieloletnie więzienie.
+- W jaki sposób niepozorny żołnierz miał tak szeroki dostęp do tajnych informacji o wojnie w [Ukrainie](loc), raportów wywiadowczych [CIA](org) czy dokumentów wywiadu elektronicznego [NSA](org) i biura dyrektora [Wywiadu Narodowego](org)?
+- [Pentagon](loc) dopiero bada sprawę i rozpoczął przegląd uprawnień.
+- Jeśli ten żołnierz faktycznie coś wyniósł, to musiały być informacje ogólnej natury.
+- Być może miał dostęp do informacji poufnych, ale nie dysponował dostępem do ściśle tajnych danych.
+- Jeśli amerykański wywiad namierzył go wcześniej, to mógł podrzucać spreparowane informacje.
+- Tak, żeby wprowadzić w błąd [Rosję](loc) – mówi [WP](org) płk [Marcin Faliński](per).
+- Jego zdaniem, "cała sytuacja jest grubymi nićmi szyta" i nadal bardzo niejasna.
+- Przykładem niech będą informacje, które wyciekły, mówiące o tym, że [Ukraina](loc) nie dysponuje amunicją przeciwlotniczą.
+- To "najlepsza" informacja, gdybyśmy chcieli Rosjanom strącić dużo samolotów.
+- Mogło to wywołać reakcję Kremla, który pomyślał, że [Ukraina](loc) nie ma już czym strzelać, więc wyśle na front myśliwce – ocenia były oficer wywiadu.
+- Z kolei płk [Grzegorz Małecki](per), były szef [Agencji Wywiadu](org) uważa, że cała sprawa to "ogromny cios w reputację Amerykanów".
+- Dopiero po tej wpadce Amerykanie doszli do wniosku, że zasięg osób z klauzulą jest za duży.
+- Jeśli rzesza ludzi ma dostęp do tajnych dokumentów i poświadczenie bezpieczeństwa, to prawdopodobieństwo, że któraś z osób zachowa się niezgodnie z procedurami jest duże.
+- To poważny sygnał do twórców systemu zabezpieczeń i jego administratorów.
+- Ponad wszelką wątpliwość okazuje się, że system jest nieszczelny i niedoskonały – mówi [Wirtualnej Polsce](org) były szef [AW](org).
+- I podobnie – jak [Marcin Faliński](per) – podkreśla, że nadal nie mamy pełnej jasności sytuacji.
+- Nie wiemy do końca, na ile dokumenty, które opublikowano, były prawdziwe.
+- W sieci ukazały się ich zdjęcia, a nie - oryginały.
+- Ten żołnierz nie miał możliwości ekstrakcji danych w wersji oryginalnej.
+- Miał do nich dostęp, ale nie wiemy w jakim stopniu.
+- Możliwe, że na jakimś etapie nastąpiła ingerencja w ich treść – uważa płk [Grzegorz Małecki](per).
+- Byli oficerowie wywiadu zwracają uwagę też na powszechnie dostępne informacje, które były zawarte w ujawnionych danych.
+- W sumie w sieci ukazało się ok. 100 stron dokumentów.
+- [Teixeira](per) miał je najpierw udostępniać w ramach grupy nastolatków na popularnej platformie gier komputerowych [Discord](org).
+- Kiedy jeden z uczestników grupy umieścił ją na innych kontach m.in. na rosyjskim [Telegramie](org), sprawa trafiła na biurko [Pentagonu](org).
+- Według ["Washington Post"](org), wśród członków grupy byli obcokrajowcy, w tym z [Rosji](loc) i [Ukrainy](loc), co rodzi pytania o penetrację obcych wywiadów.
+- Wygląda na to, że zanim dokumenty ujrzały światło dzienne, poszczególne wywiady mogły coś do informacji "dołożyć".
+- Nie zapominajmy też informacjach o planowanej ukraińskiej kontrofensywie, które zaczęły krążyć wraz z wyciekiem danych.
+- I choć nie było w nich dat, miejsc i szczegółów, to podnoszą one alert po stronie Kremla – zauważa [Marcin Faliński](per), były oficer [Agencji Wywiadu](org).
+- Jego zdaniem, wszystko jest przy tym wycieku danych możliwe.
+- Może to być też wieloźródłowa informacja.
+- Można sobie wyobrazić, że za rozpowszechnianiem danych Rosjanie przykryli jeszcze jedno źródło.
+- Można mnożyć kombinacje jak w książce szpiegowskiej.
+- Równie dobrze 21-letni gwardzista mógł zostać wystawiony na wabika przez rosyjskie służby, a oni chronią poważnego agenta.
+- W [Ukrainie](loc) mamy wojnę, wojna dezinformacyjna jest jednym z jej kluczowych elementów – przypomina rozmówca [WP](org).
+- Według [Falińskiego](per), dużych strat z "działalności" 21-letniego gwardzisty nie było.
+- Z kolei były szef [Agencji Wywiadu](org) płk [Grzegorz Małecki](per) ocenia, że opublikowane dokumenty nie mają takiej siły rażenia jak te, które zostały ujawnione przez [Edwarda Snowdena](per) (byłego pracownika [CIA](org), który ujawnił m.in. skalę inwigilacji, jakiej dopuszczają się [Stany Zjednoczone](loc) wobec swoich obywateli.
+- Dane, które zdobył [Texeira](per) miały charakter briefów, komunikatów, cytatów prezentujących różne stanowiska.
+- To nie były oryginalne, źródłowe dokumenty, a dane przetworzone, ocenno-analityczne.
+- Wygląda to na robotę insidera, który mógł mieć kontakty z osobami z rosyjskich kręgów.
+- Mówiąc kolokwialnie: 21-latek doprowadził do rozhermetyzowania obiegu dokumentów wrażliwych – uważa były szef [Agencji Wywiadu](org).
+- W jego ocenie, amerykański wywiad popełnił w rzeczywistości bardzo duży błąd, za który wizerunkowo przyjdzie mu zapłacić wysoką cenę.
+- Teoria spiskowa, że Amerykanie specjalnie "podprowadzali" żołnierza, by ten wypuszczał dokumenty, jest oderwana od rzeczywistości.
+- Dezinformacja może być punktowa i dotyczyć jednego wydarzenia, ale nie być przeprowadzana kosztem rzucania na kolana całego systemu i szkód, które zostały wyrządzone sojusznikom – mówi płk [Grzegorz Małecki](per).
+- I jak dodaje, korzyści w tej sytuacji dla Amerykanów nie byłyby współmierne do strat.
+- A straty są dla [USA](loc) ogromne.
+- Już mamy zamieszanie w ramach [Sojuszu Północnoatlantyckiego](org) i ogromny cios w reputację Amerykanów.
+- Tylko dlatego, że ktoś dopuścił się zaniedbania i nie wychwycił tego w porę – podsumowuje były szef [Agencji Wywiadu](org).
+- Miał rozsypać się w pył jak wiele poniemieckich perełek [Dolnego Śląska](loc).
+- Czerwonoarmiści, choć na pewno i ich zachwycił widok tego zjawiskowego, bajkowego pałacu, szybko zaczęli kompleksową dekonstrukcję.
+- Władze w [PRL](loc) przyglądały się biernie, jak z roku na rok w ruinę popadał jeden z najpiękniejszych obiektów dolnośląskiej krainy sekretów.
+- Trzeba było ponad siedemdziesięciu lat, by odwrócić zły los.
+- Jeszcze kilka dekad temu nikt za odrodzenie się pałacu [Marianny Orańskiej](per) nie dałby złamanego grosza.
+- Na pałacu ponownie pojawi się wspaniały lew wraz z [Herkulesem](per) i koroną wieńczącą fasadę.
+- [Gmina Kamieniec Ząbkowicki](loc) na remont piątego co do wielkości pałacu w [Polsce](loc), który zbudowała królewna niderlandzka [Marianna Orańska](per), zdobyła rekordowe dotacje.
+- Obiekt w bardzo złym stanie został własnością lokalnego samorządu w [2012 roku](date).
+- Od [2013 roku](date) obiekt odradza się systematycznie dzięki pieniądzom gminy, środkom pozabudżetowym z [Ministerstwa Kultury i Dziedzictwa Narodowego](org) i ogromnym dotacjom z [Unii Europejskiej](org).
+- Pałac w [Kamieńcu Ząbkowickim](loc) jest jednym z najpiękniejszych obiektów tego typu nie tylko na [Dolnym Śląsku](loc), ale i w [Polsce](loc).
+- W [styczniu 1946 roku](date) pałac płonie.
+- Mimo tego zdarzenia wciąż jeszcze w rezydencji jest coś do pozyskania.
+- W panującej powszechnie powojennej biedzie i ubóstwie osadników, którzy niemal dosłownie przybyli z gołymi rękoma i przetrwać im udawało się tylko dzięki bezcennym dla nich skarbom niemieckich gospodarzy, wartościowe było wszystko.
+- Do rangi nieocenionej zdobyczy urastał nawet kupon materiału lub weki zostawione w poniemieckiej piwnicy.
+- Nic więc dziwnego, że gdy [9 lutego 1946 roku](date) [Kamieniec Ząbkowicki](loc) opuszczają Rosjanie, kolej na następnych eksploratorów.
+- Drewno przyda się na opał, każda wyrwana cegła, fragment stolarki to dobro materialne, darmowy materiał budowlany po Niemcu.
+- Najlepsze zastosowanie znajdą ocalałe jeszcze płyty marmurowe.
+- Dziś podziwiać je można w Sali Kongresowej [Pałacu Kultury i Nauki](loc).
+- Zanim narodzi się świadomość, odpowiedzialność za wspólne dobro i poszanowanie dla dziedzictwa wieków, a także przekonanie, że [Dolny Śląsk](loc) będzie na trwałe miejscem życia kolejnych pokoleń Polaków, miną całe dekady.
+- W wielu wypadkach te zjawiska nie nastaną nigdy.
+- Ale wiele lat później zdarzać się zacznie coś, co wydawało się już niemożliwe.
+- W światowych muzeach i na aukcjach sztuki pojawiać się zaczną obrazy, które widniały na liście [Grundmanna](per).
+- Z tych zdeponowanych w Kamieńcu znajdzie się więc w [2008 roku](date), w londyńskim domu aukcyjnym, olejny siedemnastowieczny szkic flamandzkiego malarza [Jacoba Jardaensa](per) "Święty Iwo, patron prawników".
+- W [2014](date) w domu aukcyjnym w Kolonii wystawiony został obraz [Oswalda Achenbacha](per) "Via Cassia koło Rzymu", a na internetowej aukcji w [USA](loc) antykwariat z [Pensylwanii](loc) zaoferował na sprzedaż "Ulicę wraz z ruiną zamku" [Roberta Śliwińskiego](per).
+- Najcenniejsze odzyskane dzieło z kamienieckiego magazynu to "Opłakiwanie Chrystusa", obraz z warsztatu niemieckiego malarza [Lucasa Cranacha](per) starszego.
+- Odnaleziony w [2020 roku](per) w zbiorach Nationalmuseeum w [Sztokholmie], w [styczniu 2022 roku](date) wrócił do domu - znów jest we wrocławskich zbiorach i oglądać go można w [Muzeum Narodowym](org).
+- [XVI wieku](date), przedstawiajace ciało [Jezusa](per) zawinięte w białe płótno, w otoczeniu ludzkiej gromady, której twarze zaoferowała rodzina fundatorów, stanowiło ozdobę w klasztorze cysterskim w [Lubiążu](loc).
+- Przeniesiono je do [Breslau](loc) w [1880 roku](date), gdy klasztor został poddany sekularyzacji.
+- Nikt już nie dowie się, jaka była droga z [Kamieńca Ząbkowickiego](loc) tego arcydzieła o ogromnej wartości.
+- To fascynująca tajemnica, bo znany jest tylko szwedzki trop, a odnalezienie obiektu to efekt pracy wrocławskich muzealników.
+- W szwedzkim muzeum odkrył obraz [Piotr Oszczanowski](per), dyrektor Muzeum Narodowego we [Wrocławiu](loc), i zidentyfikował jako stratę wojenne.
+- Okazało się, że na muzealnej ekspozycji w [Szwecji](loc) to szesnastowieczne malarstwo znalazło się z woli spadkobierców [Siegfrieda Häggberga](per), którzy w [1970 roku](date) sprzedali go.
+- Twierdzili, że zmarły krewny dostał obraz na przechowanie, jednak nigdy nikt po niego się nie zgłosił.
+- [Häggberg](per) nie był jakimś tam przypadkowym Szwedem, lecz pracującym już w przedwojennej [Warszawie](loc) przedstawicielem [Ericssona](per).
+- Współpracował z polskim ruchem oporu w czasie II wojny światowej, przemycał do [Szwecji](loc) dokumenty polskiego ruchu oporu, dokumentujące zbrodnie popełnione przez niemieckich nazistów na Polakach i Żydach.
+- Niemcy oskarżyli go o szpiegostwo, został skazany na śmierć, ale po interwencji króla [Szwecji](loc) [Gustawa V](per) wyrok został cofnięty.
+- Po wojnie mężczyzna mieszkał w [Warszawie](loc), zmarł tu w [1963 roku](date).
+- Mogło to stać się w [Polsce](loc) po [1945](date), bo zapewne dla niego przemycenie do [Szwecji](loc) przez komunistyczną granicę dzieła Cranacha było ułką z masłem.
+- W środę papież [Franciszek](per) przebywał w [Nur-Sułtanie](loc), stolicy [Kazachstanu](loc).
+- Tego dnia w mieście pojawiła się także delegacja chińskiego prezydenta [Xi Jinpinga](per).
+- W związku z tym strona watykańska zaproponowała, by obaj liderzy się spotkali.
+- Jednak tę ofertę grzecznie odrzucono - podaje agencja [Reuters](org), powołując się na swoje źródła.
+- Według agencji strona chińska odpowiedziała watykańskiej, że docenia ten gest "gotowości" spotkania, ale "obecnie brak jest na nie czasu".
+- Z [Nur-Sułtanu](loc) [Xi Jinping](per) poleciał do [Uzbekistanu](loc), gdzie w [Samarkandzie](loc) spotkał się z [Putinem](per).
+- To pierwsza zagraniczna podróż chińskiego przywódcy od początku pandemii.
+- Gdy papież i [Xi Jinping](per) byli jednocześnie w [Nur-Sułtanie](loc) można było zobaczyć tam i watykańskie, i chińskie flagi.
+- Spotkanie papieża z chińskim przywódcą byłoby spektakularnym wydarzeniem na bardzo delikatnej, trudnej drodze ku normalizacji stosunków między [Stolicą Apostolską](loc) a [Pekinem](loc).
+- Dialog ten trwa od lat i, jak przyznał w czwartek papież podczas konferencji prasowej w samolocie - lecącym do [Rzymu](loc) z [Nur-Sułtanu](loc), przebiega powoli.
+- [Franciszek](per) zastrzegł zarazem, że dialog ten wymaga "dużej cierpliwości", ale odnotowuje się w nim "kroki naprzód".
+- We wtorek podczas lotu z [Rzymu](loc) do [Kazachstanu](loc) dziennikarze pytali papieża, czy spotka się z prezydentem [Chin](loc), gdy w [środę](date) przybędzie on do stolicy na rozmowy z prezydentem [Kasymem-Żomartem Tokajewem](per).
+- [Franciszek](per) odpowiedział wtedy, że nie ma wiadomości na ten temat, ale zadeklarował zarazem, że gotów jest udać się do [Chin](loc).
+- Pani [Anna](per) mieszka pod [Dęblinem](loc).
+- Pracuje w szpitalu i dodatkowo w prywatnej przychodni w [Lublinie](loc), a jej mama mieszka w [Łukowie](loc).
+- Swoje regularne podróże po [województwie lubelskim](loc), które odbywa od czasów studiów, opisuje krótko: "Kiedyś gehenna, teraz luksus".
+- W [XXI wiek](date) przeniosły mnie elektryczne pociągi, żałuję że nie było ich wcześniej, bo tyle zdrowia i nerwów straciłam na tych dojazdach – mówi 38-letnia lekarka.
+- [Anna](per) przez lata przetestowała różne metody transportu.
+- Mam wiedzę z własnego doświadczenia i z czystym sercem potwierdzam, że wyłącznie nowoczesny pociąg jest rozwiązaniem bez wad – uśmiecha się kobieta.
+- Kiedyś trasę [Dęblin-Lublin](loc) [Anna](per) pokonywała własnym samochodem.
+- Można było zrobić przy okazji zakupy, jechało się w cieple, ale do zmęczenia pracą dochodziło zmęczenie przejazdem.
+- Zawsze towarzyszył mi za kółkiem stres, czy zdążę na dyżur, bo a to korek, a to wypadek, a to droga śliska.
+- Po dobowych dyżurach i dojazdach w dwie strony czułam się jakbym przepracowała dodatkowe 5 godzin – ocenia.
+- Kobieta zaznacza, że gdyby nie to, że bardzo lubi swój zespół i szpital, pewnie dawno szukałaby pracy bliżej domu.
+- [Anna](per) z czasem zaczęła umawiać się na przejazdy ze znajomymi medykami z [Dęblina](loc).
+- Zebraliśmy taką koleżeńską grupę transportową i każdy prowadził raz na cztery wyjazdy, a kosztami się dzieliliśmy.
+- Ten sposób nie był jednak idealny, bo szybko zaczęło się przesuwanie "dyżurów" przez kierowców z ich grupy.
+- To jednak odpowiedzialność, nie być zawodowym kierowcą, a wozić kilka osób.
+- Cała logistyka, kto może prowadzić następnym razem, kto ile komu jest winien za przejazd coraz bardziej mnie męczyła.
+- Dlatego po sugestiach znajomego, że powinniśmy partycypować też w kosztach napraw jego wozu dałam sobie spokój – wspomina [Anna](per).
+- Dziś w czasie podróży do pracy planuję sobie różne działania, których nie zrobiłabym jadąc własnym samochodem – mówi [Anna](per).
+- Wygodę dały [Annie](per) nowe elektryczne pociągi, które kursują na trasie nie tylko do [Lublina](loc), ale i do rodzinnego domu, do [Łukowa](loc).
+- Ciche i szybkie, jeżdżą blisko 160 km na godzinę, więc czas przejazdu znacznie się skrócił.
+- Oczywiście są czyściutkie, pachną nowością, i z przyjemnością się do nich wsiada.
+- Co najważniejsze, [Anna](per) w czasie podróży może korzystając z laptopa wykonać część zawodowych obowiązków.
+- Gniazdka USB do ładowania laptopa i otwarta sieć wifi bez przerw i zakłóceń, pozwalają mi pracować w pociągu, jak przy własnym biurku.
+- [Annie](per) podoba się też to, że pociągi posiadają udogodnienia dla osób słabosłyszących, z niepełnosprawnościami, a nawet chociażby dla matek z dziećmi w wózkach.
+- Obniżana podłoga, rampy wjazdowe ułatwiają podróżowanie.
+- Na wyposażeniu są także pętle indukcyjne, które przesyłają sygnał mowy i inne sygnały audio bezpośrednio do aparatów słuchowych odbiorców.
+- Informacje o mijanych stacjach oraz inne komunikaty pasażerowie widzą na wysokiej jakości wyświetlaczach i monitorach.
+# Interia
+- Mamy wzmożone obawy, że Rosjanie mogą próbować zaatakować podmorskie kable lub inne elementy kluczowej dla [Zachodu](loc) infrastruktury - powiedział w środę zastępca sekretarza generalnego [NATO](org) ds. wywiadu [David Cattler](per).
+- Z wywiadowczych danych wynika, że Rosjanie aktywnie mapują krytyczną infrastrukturę sojuszu i mogą planować sabotaż, by zyskać przewagę nad [Zachodem](loc) i zemścić się na krajach pomagających [Ukrainie](loc).
+- Zagrożenie określa się jako "realne".
+- [NATO](org) twierdzi, że istnieje prawdopodobieństwo, iż Rosjanie spróbują przeprowadzić sabotaż wycelowany w podmorskie kable, by ukarać tym samym Zachód za wspieranie ukraińskich działań wojennych - donosi agencja [Reutera](org).
+- Atak [Rosji](loc) na podmorskie kable?
+- [NATO](loc) ściśle monitoruje sytuację - Mamy wzmożone obawy, że Rosjanie mogą próbować zaatakować podmorskie kable lub inne elementy kluczowej dla [Zachodu](loc) infrastruktury, by zakłócić tym samym życie [Zachodu](loc) i zbudować sobie przewagę nad krajami pomagającymi [Ukrainie](loc) w wojnie - przekazał mediom zastępca sekretarza generalnego [NATO](org) ds. wywiadu [David Cattler](per).
+- [Reuters](org) donosi, powołując się na słowa [Cattlera](per), że Rosjanie są w tym obszarze najbardziej aktywni od lat - intensywniej patrolują [Atlantyk](loc), swoje działania zintensyfikowali też na morzach [Bałtyckim](loc) i [Północnym](loc).
+- Zastępca sekretarza generalnego [NATO](org) ds. wywiadu zaznaczył, że stopień zagrożenia dla podmorskiej infrastruktury wzrósł po tym, jak we [wrześniu 2022 roku](date) niewyjaśnione dotąd eksplozje uszkodziły rurociągi Nord Stream 1 i 2.
+- Zbierają dane do sabotażu [NATO](org) koncentruje się na ścisłym monitorowaniu aktywności rosyjskich statków, które są wyposażone w czujniki zbierające informacje z dna morskiego.
+- [Cattler](per) zaznaczył, że sojusz istotnie zwiększył liczbę patroli na morzach [Północnym](loc) i [Bałtyckim](loc) oraz powołał specjalną [Komórkę Ochrony Krytycznej Infrastruktury Podwodnej](org).
+- Zagrożenie jest realne, a [NATO](org) intensyfikuje działania - powiedział agencji [Reutera](org) niemiecki generał porucznik [Hans Werner Wiermann](per), który stoi na czele wspomnianej wyżej komórki.
+- "[Rosja](loc) aktywnie mapuje krytyczną infrastrukturę sojuszu w ramach programu podwodnego rozpoznania, który prowadzi jedna z komórek rosyjskiego ministerstwa" - cytuje słowa [Cattlera](per) agencja [Reutera](org).
+- Singapurczyk, którego uznano za winnego udziału w przemycie kilograma marihuany, został stracony w azjatyckim mieście-państwie w [środę](date) rano.
+- Stosowanie kary śmierci skrytykowała [ONZ](org) oraz międzynarodowi aktywiści.
+- 46-letni [Tangaraju Suppiah](per) trafił na szubienicę w singapurskim więzieniu [Changi](loc) w [środę](date), we wczesnych godzinach porannych lokalnego czasu.
+- Według sądu mężczyzna przed 10 laty koordynował przemyt kilograma marihuany z sąsiedniej [Malezji](loc).
+- Jego rodzina złożyła wniosek o ułaskawienie do prezydent kraju [Halimy Yacob](per).
+- Prezydent, która pełni głównie rolę reprezentacyjną, nie przychyliła się jednak do prośby.
+- Do wstrzymania wykonania wyroku i ponownego rozpatrzenia sprawy we [wtorek](date) wzywała [ONZ](org) oraz miejscowi i międzynarodowi aktywiści, w tym brytyjski miliarder [Richard Branson](per).
+- Zwrócili oni uwagę na wątpliwości co do procedury skazania [Tangaraju](per), który w czasie składania zeznań nie miał dostępu do prawnika ani tłumacza.
+- [Singapurskie ministerstwo spraw wewnętrznych](org) zarzuciło krytykom "brak szacunku" do tamtejszego systemu wymiaru sprawiedliwości.
+- Środowa egzekucja jest pierwszą w [Singapurze](loc) od ubiegłego roku.
+- [ONZ](org): Kara śmierci niezgodna z międzynarodowymi normami "[Tangaraju](per) nie miał dostępu do prawnika, gdy policja spisywała jego zeznania.
+- Poprosił o tłumacza języka tamilskiego, ale mu odmówiono" - napisała na [Twitterze](org) [Kirsten Han](per), miejscowa aktywistka działająca na rzecz zniesienia kary śmierci, która blisko obserwowała sprawę.
+- Władze azjatyckiego kraju skrytykował także brytyjski miliarder [Richard Branson](per), który wcześniej wielokrotnie wypowiadał się przeciwko stosowaniu najwyższego wymiaru kary.
+- Jego zdaniem nie jest wykluczone, że [Singapur](loc) zabija niewinną osobę.
+- W odpowiedzi [singapurskie ministerstwo spraw wewnętrznych](org) stwierdziło, że wina 46-latka została dowiedziona ponad wszelką wątpliwość, a [Branson](per) okazał brak szacunku tamtejszym sędziom i wymiarowi sprawiedliwości.
+- We [wtorek](date) biuro wysokiego komisarza [Narodów Zjednoczonych](org) do spraw praw człowieka wezwało władze [Singapuru](loc) do wstrzymania planowanej egzekucji.
+- Jak podkreśliło, stosowanie kary śmierci jest niezgodnie z międzynarodowymi normami i standardami.
+- "Kara śmierci jest ciągle stosowana w niewielkiej liczbie państw, w dużej mierze z powodu mitu, jakoby odstraszała ona od przestępstw" - oceniło oenzetowskie biuro.
+- Według [ONZ](org) nie ma jednak żadnych dowodów na to, by stosowanie kary głównej efektywnie przeciwdziałało przestępczości.
+- W ubiegłym roku w [Singapurze](loc) wykonano 11 wyroków śmierci, wszystkie w sprawach narkotykowych.
+- Według danych miejscowej służby więziennej od [2007](date) do [2022 roku](date) w majestacie prawa życie odebrano 64 osobom.
+- Zdecydowaną większość skazano za posiadanie lub przemyt zakazanych substancji.
+- W tym samym okresie 13 osób powieszono za morderstwa.
+- Według sondażu z [2021 roku](date) 80 proc. Singapurczyków popiera stosowanie kary śmierci, jednak poparcie to systematycznie spada.
+- Niespełna sześciomilionowe azjatyckie państwo ma jedne z najbardziej restrykcyjnych przepisów antynarkotykowych na świecie.
+- Bezwzględna kara śmierci grozi nie tylko za posiadanie tzw. twardych narkotyków, ale także 500 gramów marihuany.
+- Produkty z konopii indyjskich, w tym marihuana, zostały tymczasem zalegalizowane w wielu krajach, także w pobliskiej [Tajlandii](loc).
+- Karę śmierci zniosła większość państw świata, w tym niemal wszystkie zaliczane do kategorii rozwiniętych.
+- W [Europie](loc) nie stosuje się jej nigdzie poza [Białorusią](loc).
+- Wśród krajów rozwiniętych poza [Singapurem](loc) kara główna obowiązuje w [Azji Wschodniej](loc): w [Japonii](loc), [Korei Południowej](loc) oraz w [Chinach](loc) i na [Tajwanie](loc).
+- Wykonuje się ją także w [Stanach Zjednoczonych](loc).
+- Z [Bangkoku](per) dla [Interii](org) [Tomasz Augustyniak](per).
+- Badanie przeprowadzone przez [Uniwersytet Kalifornijski](org) w [Davis](loc) dostarcza nowych informacji na temat wyjątkowego życia seksualnego żyraf, ich zachowań reprodukcyjnych oraz tego, jak ich anatomia wspiera to zachowanie.
+- Szczegóły opisano w [czasopiśmie naukowym "Animals"](org).
+- Samiec musi nakłonić samicę do współpracy.
+- Jeśli ta odmówi, samiec będzie wiedział, że nie ma dla niego przyszłości - mówi prof. [Lynette Hart](per) z [Uniwersytetu Kalifornijskiego](org), główna autorka badania.
+- [Hart](per) i jej mąż, [Benjamin](per), emerytowany profesor tego samego uniwersytetu, wielokrotnie byli świadkami "rytuału" żyraf podczas wypraw badawczych do [Parku Narodowego Etosha](loc) w [Namibii](loc).
+- Po jego zachodniej stronie znajdowały się duże wodopoje, przy których gromadziły się dziesiątki żyraf.
+- Prof. [Lynette](per) nazwała to "spełnieniem marzeń" w obserwowaniu żyraf.
+- Naukowcy przy okazji odnotowali nieudokumentowane wcześniej zachowania żyraf, m.in. żucie kości (osteofagię), kilkudniowe procesje do ciała osobnika zabitego przez lwy, a także głośne warczenie samców.
+- W [Daytona Beach](per) na [Florydzie](loc) odkryto wrak statku, który jest znacznie większy niż początkowo przypuszczano.
+- Archeolog zaznaczył, że odsłonięto 22,86 metrów obiektu, który może mierzyć nawet 30 metrów.
+- Statek pochodzi najprawdopodobniej z [połowy XIX w](date).
+- Chociaż obiekt zauważono [20 kwietnia](date), to dopiero teraz archeolodzy morscy określili, że może być on znacznie większy niż zakładano.
+- [Augustine Lighthouse](per) & [Maritime Museum](per) doszli do takiego wniosku po tym, jak na miejsce wysłano zespół odpowiedzialny za zbadanie statku.
+- Chociaż urzędnicy z hrabstwa [Volusia](org) oszacowali, że wrak może mieć długość od 7,6 metrów do ponad 9 m, to archeolodzy są zdania, że pod piaskiem może znajdować się znacznie więcej - podaje serwis [Knews Media](org).
+- Mamy prawie 22,86 metrów odsłoniętego wraku, więc prawdopodobnie bliżej mu do 30 metrów długości - powiedział archeolog [Lighthouse Archaeological Maritime Program](org) [Chuck Meide](per) w komunikacie z [28 kwietnia](date).
+- [Meide](per) dodał, że statek ma żelazne podpory pokładowe, które wprowadzono do drewnianych statków w [latach 30 XIX wieku](date).
+- Prawdopodobnie stały się one bardziej powszechne w [drugiej połowie XIX w](date).
+- Drewno jest bardzo dobrze zachowane, a najniższa część kadłuba wydaje się być zakopana pod piaskiem - przekazał.
+- Urzędnicy z [Daytona Beach](loc) na [Florydzie](loc) zaznaczyli w rozmowie z portalem [WESH](org), że od dawna wiedzieli, że w miejscu, w którym odkryto wrak było - jak określono - gruzowisko.
+- Nie wiedzieli jednak, co było jego przyczyną.
+- To drugi wrak, który wyłonił się u wybrzeży od [grudnia ubiegłego roku](date).
+- Inny obiekt został zbadany i uznany za statek towarowy z [1800 roku](date).
+- Archeolodzy są zdania, że "rozległa erozja huraganowa z [września](date) i [listopada](date)" spowodowała, że udało się odnaleźć jego szczątki.
+- Białoruski sąd w [Mińsku](loc) ogłosił w [środę](date) wyroki dla redaktorów opozycyjnego kanału [Nexta](org).
+- [Ramana Pratasiewicza](per) skazano na osiem lat więzienia.
+- [Ściapan Puciła](per) i [Jan Rudzik](per) zostali skazani zaocznie na kary 20 i 19 lat więzienia.
+- Dziennikarze zostali oskarżeni m.in. o wzniecanie nienawiści, organizację protestów, wzywanie do przejęcia władzy czy znieważanie prezydenta [Łukaszenki](per).
+- Sam kanał białoruskie władze wpisały w [2022 roku](date) na listę "organizacji terrorystycznych".
+- Sąd w [Mińsku](per), stolicy [Białorusi](per), ogłosił w środę wyroki w głośnej sprawie redaktorów opozycyjnego kanału [Nexta](org).
+- Proces redaktorów [Nexty](org) rozpoczął się przed sądem obwodowym w [Mińsku](loc) [16 lutego](date).
+- Fizycznie uczestniczył w nim tylko jeden z oskarżonych - [Pratasiewicz](per).
+- Dwaj pozostali przebywają poza [Białorusią](loc) i byli sądzeni zaocznie, w ramach tzw. "postępowania nadzwyczajnego".
+- [21 kwietnia](date) prokuratorka zażądał kary 20 i 19 lat więzienia dla [Puciły](per) i [Rudzika](per).
+- Oskarżenie wnioskowało też o 10 lat dla przebywającego na [Białorusi](loc) [Pratasiewicza](per).
+- Założyciel kanału [Nexta](org) [Sciapan Puciła](per) został zaocznie skazany w [Białorusi](loc) na 20 lat więzienia.
+- "Przebywa teraz w [Polsce](loc)" - napisano na [Twitterze](org).
+- [Pucile](per) i [Rudzikowi](loc) zarzucono m.in. zmowę w celu nielegalnego przejęcia władzy, finansowanie działalności ekstremistycznej i dyskredytację [Białorusi](loc).
+- [Raman Pratasiewicz](per), którzy w przeszłości był jednym z redaktorów [Nexty](org), został zatrzymany w [Mińsku](loc) w [maju 2021 roku](date) po przymusowym lądowaniu samolotu, którym leciał z [Aten](loc) do [Wilna](loc).
+- W [2022] roku(date) władze [Białorusi](loc) zaliczyły serwis [Nexta](org) do "organizacji terrorystycznych".
+- Już wcześniej określały też [Pratasiewicza](per) jako "terrorystę".
+- Po aresztowaniu bloger wystąpił kilkukrotnie w mediach państwowych, przyznając się do winy i błędów, a także krytykując dawnych współpracowników z kręgów opozycyjnych.
+- Przed procesem powiedział mediom państwowym, że "przyznaje się do winy w pełnym zakresie".
+- Wraz z [Pratasiewiczem](per) w [2021 roku](date) zatrzymana została obywatelka [Rosji](loc), [Sofija Sapiega](per), jego ówczesna partnerka.
+- [Sapiega](per) została skazana przez białoruski sąd na sześć lat pozbawienia wolności.
+- Władze wydały zgodę na jej ekstradycję do [Rosji](loc), gdzie ma kontynuować odbywanie kary.
+# TVN 24
+- [Sojusz Północnoatlantycki](org) postanowił rozmieścić dodatkowe siły w [Kosowie](loc) - wynika z wtorkowego oświadczenia amerykańskiego admirała [Stuarta B. Munscha](per), który kieruje dowództwem [NATO](org) w [Neapolu](loc).
+- Decyzja została podjęta w odpowiedzi na starcia z serbskimi demonstrantami w [Kosowie](loc), w wyniku których kilkudziesięciu żołnierzy sił pokojowych [NATO](org) zostało rannych.
+- Rozmieszczenie dodatkowych sił [NATO](org) w [Kosowie](loc) to rozważny środek, który zapewni, że siły pokojowe [KFOR](org) posiadają zdolności potrzebne do utrzymania bezpieczeństwa - podkreślił w oświadczeniu amerykański admirał [Stuart B. Munsch](per), który kieruje dowództwem Sojuszu w [Neapolu](loc).
+- "Chciałbym pochwalić [KFOR](org) za szybkie, powściągliwe i profesjonalne działania i interwencję w celu powstrzymania niepokojów i ratowania życia" - zaznaczył [Munsch](per).
+- Przemoc musi ustać, wszystkie strony muszą powstrzymać się od działań zagrażających pokojowi - dodał.
+- Zapewnił, że [NATO](org) uważnie obserwuje sytuację w kraju.
+- W wyniku poniedziałkowych starć w północnej części [Kosowa](loc) między demonstrantami serbskiego pochodzenia a siłami [NATO](org) z misji [KFOR](org), broniącymi gmachów lokalnych urzędów, zostało rannych 52 Serbów - jak przekazała strona serbska - i kilkudziesięciu żołnierzy [NATO](org).
+- Do zamieszek doszło w miejscowościach [Zveczan](loc), [Leposavić](loc) i [Zubin Potok](loc).
+- W [Zveczanie](loc) kosowska policja użyła gazu pieprzowego, próbując odeprzeć szturm demonstrantów na siedzibę lokalnych władz.
+- Serbscy manifestanci zaatakowali wojskowych z [KFOR](org) gazem łzawiącym i granatami hukowymi, a także namalowali na pojazdach sił [NATO](org) litery "Z", czyli symbol rosyjskiej inwazji na [Ukrainę](loc).
+- W regionie wzrosło napięcie po tym, jak na burmistrzów w kilku miasteczkach na północy [Kosowa](loc) zostały wybrane osoby pochodzenia albańskiego, chociaż są to regiony zamieszkałe głównie przez etnicznych Serbów.
+- Prezydent [Serbii](loc) [Aleksandar Vuczić](per) postawił wojsko [Serbii](loc) w stan najwyższej gotowości bojowej, jednak wezwał Serbów w [Kosowie](loc), aby nie wchodzili w starcia z żołnierzami [NATO](org).
+- Prezydent [Kosowa](loc) [Vjosa Osmani](per) oskarżyła [Vuczicia](per) o destabilizowanie sytuacji w jej kraju.
+- Najnowsze wydarzenia w [Kosowie](loc) wywołały krytykę społeczności międzynarodowej, a w działania mające na celu zapobiegnięcie dalszej eskalacji włączyła się [Unia Europejska](org), [Stany Zjednoczone](loc) i wiele krajów [Europy](loc).
+- [MSZ Chin](org) oświadczyło we wtorek, że wspiera wysiłki [Serbii](loc) w celu "ochrony suwerenności i integralności terytorialnej" kraju.
+- [Rosja](loc) stwierdziła, że [Zachód](loc) musi przestać obwiniać Serbów za incydenty w [Kosowie](loc).
+- Na pokładzie statku, który zatonął w niedzielę na jeziorze [Maggiore](loc), znajdowało się 20 oficerów wywiadu izraelskiego oraz włoskiego - informują włoskie media.
+- Wcześniej przekazywano informacje, że jednostka wynajęta była przez turystów, którzy wyprawiali na niej imprezę urodzinową.
+- W niedzielę wieczorem na jeziorze [Maggiore](loc) w [Lombardii](loc) na północy [Włoch](loc) wywrócił się mały, szesnastometrowy, statek turystyczny.
+- Zginęły cztery osoby, dziewiętnaście innych zdołano uratować.
+- W niedzielę włoskie media informowały, że statek był wynajęty przez grupę brytyjskich turystów, którzy zorganizowali na niej przyjęcie urodzinowe.
+- Gdy nadeszło gwałtowne załamanie pogody, jednostka wywróciła się, a wszyscy znajdujący się na jej pokładzie wpadli do wody.
+- Nowe ustalenia w tej sprawie we wtorek przekazały we wtorek włoskie media, m.in. dzienniki ["La Repubblica"](org) i ["La Stampa"](org).
+- Gazety twierdzą, że trzy z czterech ofiar śmiertelnych oraz osiemnaście z dziewiętnastu ocalałych osób to nie zwykli turyści, ale oficerowie wywiadów: włoskiego oraz izraelskiego.
+- Część oficerów miała być w tym czasie na służbie, część zaś na urlopie.
+- Tożsamość ofiar śmiertelnych została oficjalnie potwierdzona.
+- Jak przekazały lokalne włoskie władze, dwie z nich to oficerowie włoskiej cywilnej służby wywiadowczej [AISE](org) (L'Agenzia informazioni e sicurezza esterna): 62-letni [Claudio Alonzi](per) oraz 53-letnia [Tiziana Barnobi](per).
+- [AISE](org) to jednostka, która prowadzi działania wywiadowcze poza terytorium kraju.
+- Trzecia ofiara to 54-letni [Shimoni Erez](per), emerytowany oficer izraelskiego wywiadu - potwierdziło [MSZ Izraela](org).
+- Według lokalnych mediów czwartą ofiarą śmiertelną była natomiast niezwiązana z wywiadem 50-letnia Rosjanka [Anna Bozkowa](per) z [Rostowa](loc), żona właściciela statku [Claudio Carminatiego](per).
+- Nie żyje kilkadziesiąt osób ["La Repubblica"](org) opisuje także pośpiech w ewakuacji wszystkich ocalałych uczestników rejsu.
+- Zostali przesłuchani w bardzo szybkim trybie w nocy z [28 na 29 maja](time) na komendzie w prowincji [Varese](loc), po czym nagle zniknęli.
+- Według gazety 10 Izraelczyków odleciało już [29 maja](time) rano do [Tel Awiwu](loc) specjalnym, przysłanym po nich, samolotem wojskowym.
+- Zostawili nawet na nabrzeżu bez opieki jeden z dwóch samochodów, który wynajęli wcześniej na mediolańskim lotnisku [Malpensa](loc).
+- Włosi zostali natomiast w pośpiechu ewakuowani z hoteli, a ślady po ich noclegach miały zostać wykasowane.
+- Z pierwszych ustaleń śledztwa wynika, że o [17.30](time) dyżurni portów na jeziorze przekazali zdecydowany nakaz powrotu do marin i jak najszybszego zacumowania.
+- Ostrzeżenie zostało odebrane przez innych żeglarzy, ale nie przez kapitana statku, który zatonął.
+- Według świadków statek ten w końcu zaczął zawracać do portu, zdecydował się na to jednak zbyt późno, by uniknąć burzy.
+- Wysoki talibski dowódca zagroził w niedzielnym nagraniu, że siły [Talibanu](org) mogą zająć stolicę [Iranu](loc), [Teheran](loc), w ciągu kilku godzin, jeżeli tylko zgodzi się na to najwyższy przywódca talibów.
+- W [sobotę](time) na granicy [Iranu](loc) i [Afganistanu](loc) doszło do starć, w których życie straciło kilku pograniczników.
+- Nagranie powstało po starciach, do których doszło w [sobotę](time) na [granicy irańsko-afgańskiej](loc), gdzie w wymianie ognia zginęło po obu stronach przynajmniej trzech pograniczników - zauważa portal [Jerusalem Post](org).
+- Będziemy walczyć z [Iranem](loc) z większą werwą niż walczyliśmy z [USA](loc).
+- Jeżeli nasza starszyzna wezwie nas do dżihadu, zajmiemy cały [Iran](loc) w 24 godziny - mówił wysoko postawiony dowódca sił [Talibanu](org), [Abdul Hamid Khorasani](per).
+- Zajmiemy [Teheran](loc) w ciągu kilku godzin, jeżeli tylko pozwoli na to najwyższy przywódca [Talibanu](org) – dodał.
+- Nie ma precyzyjnych informacji co do przyczyny weekendowych starć, przypuszcza się jednak, że głównym ich powodem mogą być napięcia związane z konfliktem o wodę, które narastają już od dwóch lat.
+- [Afganistan](loc) zobowiązał się w [latach 70](time). do umożliwienia [Iranowi](loc) poboru wody z rzeki [Helmand](loc), mającej źródła w afgańskim [Hindukuszu](loc), jednak - podkreśla portal - ostatnio [Teheran](loc) uzyskiwał zaledwie cztery procent obiecanej wody.
+- W [Iranie](loc) susza panuje od trzech dekad.
+- W [Afganistanie](loc) - od trzech lat.
+- Portal [Arab News](org) zwraca uwagę, że brak wody nasilił się w ostatniej dekadzie.
+- Sytuacja pogorszyła się również w [Afganistanie](loc) - ocenia się, że 79 procent afgańskich gospodarstw domowych nie ma dostępu do wystarczającej ilości wody.
+- "To smutny, bolesny i niedopuszczalny przejaw moralnego i intelektualnego zepsucia debaty publicznej" - podkreśliło w komunikacie [Muzeum Auschwitz](org).
+- Wcześniej na profilach w mediach społecznościowych [Prawa i Sprawiedliwości](org) opublikowany został spot, w którym wykorzystano zdjęcia byłego niemieckiego nazistowskiego obozu koncentracyjnego oraz wpis dziennikarza [Tomasza Lisa](per).
+- Marsz [4 czerwca](time) coraz bliżej.
+- "Czy na pewno chcesz tam być?" - brzmi wpis na [Twitterze](org) partii rządzącej, który został zamieszczony razem z nagraniem.
+- "Instrumentalizacja tragedii ludzi, którzy cierpieli i ginęli w niemieckim nazistowskim obozie [Auschwitz](loc) - po jakiejkolwiek stronie politycznego sporu - uwłacza pamięci ofiar.
+- To smutny, bolesny i niedopuszczalny przejaw moralnego i intelektualnego zepsucia debaty publicznej" - napisano w komunikacie [Muzeum Auschwitz](org) na [Twitterze](org).
+- Wcześniej w mediach społecznościowych [Prawa i Sprawiedliwości](org) opublikowany został klip, w którym wykorzystano nagrania z byłego niemieckiego nazistowskiego obozu koncentracyjnego [Auschwitz-Birkenau](loc).
+- Marsz [4 czerwca](time) coraz bliżej.
+- "Czy na pewno chcesz tam być?" - brzmi pytanie zamieszone razem z nagraniem na [Twitterze](org) [PiS-u](org).
+- Na kilkunastosekundowym materiale, na tle ujęć obozu koncentracyjnego, pojawiają się hasła: "W [Auschwitz](loc) zamordowano ponad 1 mln osób", "6 mln Polaków zamordowano podczas wojny".
+- Następnie na tle napisu "Arbeit macht frei", wieńczącego bramę do [Auschwitz](loc), pojawia się wpis dziennikarza [Tomasza Lisa](per), który [29 maja](time) napisał na [Twitterze](org) "Znajdzie się komora dla [Dudy](per) i [Kaczora](per)".
+- "Czy na pewno chcesz iść pod tym hasłem?" - pyta lektor w spocie.
+- Na koniec materiału wyświetla się napis: "#marsz4czerwca".
+- [30 maja](time) [Tomasz Lis](per) przeprosił za swój wpis, który wykorzystano w środowym klipie partii rządzącej.
+- Bardzo przepraszam za mój wpis o ‘komorze’.
+- To oczywiste, że myślałem o celi, ale powinienem był przewidzieć, że ludzie złej woli przyjmą interpretację absurdalną.
+- "Liczę na to, że panowie [Duda](per) i [Kaczyński](per) zapłacą za swe zbrodnie przeciw demokracji, ale po ludzku życzę im zdrowia i długiego życia" - napisał.
+- Tego samego dnia [Lis](per) napisał też, że "w języku więziennym cela to kajuta, natomiast cela izolatka to +komora+'.
+- Spot [Prawa i Sprawiedliwości](org) był udostępniany przez polityków obozu rządzącego, w tym przez [Bartosza Kownackiego](per), [Annę Milczanowską](per) czy [Monikę Pawłowską](per).
+- "'Für Deutschland'?" - pytała była minister edukacji, a obecnie eurodeputowana [PiS](org) [Anna Zalewska](per), udostępniając materiał swojej partii.
+- W obozie zagłady [Auschwitz](loc) zginęło ponad milion ludzi.
+- Wykorzystywanie tej niewiarygodnej tragedii do politycznych ataków i wzniecania polsko-polskiej wojny jest skandaliczne i dyskwalifikujące.
+- "Spot [PiS](org) jest absolutnie haniebny" - ocenił lider [Polskiego Stronnictwa Ludowego](org) [Władysław Kosiniak-Kamysz](per).
+- To obrzydliwe, co zrobiło [Prawo i Sprawiedliwość](org), aby tylko osiągnąć efekt polityczny.
+- Wykorzystywanie dramatu i tragedii ludzi do tego, aby wygrać wybory, aby przeciągnąć na swoją stronę jakichś nieprzekonanych ludzi, jest niedopuszczalne - mówił z kolei wicemarszałek [Sejmu](org) z ramienia PSL [Piotr Zgorzelski](per).
+- Jego zdaniem "przekroczone zostało kolejne tabu".
+- Coś, co dla nas było świętością, dzisiaj okazuje się, że może być wykorzystane do walki politycznej.
+- Tak się po prostu nie robi - podkreślił.
+- Wicemarszałek [Sejmu](org) [Małgorzata Kidawa-Błońska](per) zaznaczyła, że "[PiS](org) od dawna manipuluje informacją".
+- Stara się odwracać uwagę od drożyzny, od swoich działań, od sprzedaży [Lotosu](org), od tego, że płacimy największe rachunki za energię elektryczną i za gaz.
+- Odwracają od tego uwagę, ale robią to, kierując akty nienawiści do innych grup ludzi.
+- To jest po prostu straszne, dzielą nas w sposób obrzydliwy i na dodatek szargają świętości - powiedziała.
+- Wcześniej na [Twitterze](org) wicemarszałek napisała, że "[PiS](org) sięgnął po pamięć ofiar Holokaustu i wykorzystuje tragedię Auschwitz w swojej brutalnej, politycznej grze, by zniechęcić do udziału w marszu [4 czerwca](time)".
+- I dodała: "Podłość i hańba to zbyt łagodne słowa, by określić ich zachowanie."
+- Holocaust w kampanii to skrajne obrzydlistwo.
+- "Ale nie pierwszy raz PiS wykorzystuje instrumentalnie pamięć o zmarłych i gra na grobach" - komentowała posłanka [Koalicji Obywatelskiej](org) [Kamila Gasiuk-Pihowicz](per).
+- Poseł Lewicy [Andrzej Szejna](per) ocenił, że "[PiS](org), jako tonący, chwyta się nawet brzytwy".
+- [Szejna](per) podkreślił, że "i pan [Duda](per), i pan [Kaczyński](per), i pan [Morawiecki](per) staną przed [Trybunałem Stanu](org) i odpowiedzą za swoje przestępstwa skierowane przeciwko konstytucji, przeciwko Polkom i Polakom, ale już widać, że ich strach jest tak ogromny, że posuną się do najbardziej obrzydliwych porównań, sformułowań i chwytów".
+- Warszawski radny, były polityk [Porozumienia](org) [Jan Strzeżek](per) zapowiedział: "W związku z obrzydliwym spotem [PiS](org), który depcze pamięć o zamordowanych w [Auschwitz](loc), złożę dzisiaj zawiadomienie do prokuratury o popełnieniu przestępstwa".
+- "Nie może być zgody na wykorzystywanie ofiar w bieżącej walce politycznej - ktoś kto to robi na zawsze okrywa się hańbą" - dodał we wpisie na [Twitterze](org).
+- "Tak nie wolno!" - ocenił doktor habilitowany [Sławomir Cenckiewicz](per), historyk, dyrektor [Wojskowego Biura Historycznego](org) imienia generała broni [Kazimierza Sosnkowskiego](per) oraz członek [Kolegium Instytutu Pamięci Narodowej](org).
+- Posłanka [Koalicji Obywatelskiej](org) [Barbara Nowacka](per) podczas konferencji prasowej stwierdziła, że "jeżeli na szkodliwy wpis osoby, która nie jest członkiem żadnej partii, reagują kompletnie znieważając pamięć ofiar Holokaustu, używając dramatu milionów ludzi, używając zagłady do zniechęcania ludzi do pójścia na marsz [4 czerwca](time), to świadczy tylko o ich głębokim zdemoralizowaniu".
+- Takimi działaniami pokazują, że są bandą cyników, której nic nie powstrzyma przed plugawieniem pamięci o największych dramatach - podkreśliła.
+- [Nowacka](per) zaznaczyła, że czeka na działania ministra kultury i dziedzictwa narodowego [Piotra Glińskiego](per), który "ma obowiązek zareagować na ten spot swojej partii, broniąc pamięci ofiar Holokaustu, ofiar zagłady, ofiar Shoah, ofiar Oświęcimia".
+- [Janusz Kowalski](per) z [Suwerennej Polski](org) przyznał, że "ja bym takiego spotu nie wyprodukował i ufam, że po tych reakcjach, również opinii publicznej, przyjdzie pewnego rodzaju refleksja".
+- Dodał jednak, że "rozumie emocje" związane ze wpisem [Tomasza Lisa](per).
+- Jestem przekonany, że ten bezprecedensowy atak [Tomasza Lisa](per) musiał się spotkać z reakcją - podkreślił [Kowalski](per).
+- I dodał: - Szkoda, że [Muzeum Auschwitz](org) nie reagowało na to, jak [Tomasz Lis](per) atakował prezydenta [Rzeczypospolitej Polskiej](loc).
+- Jeszcze w [czerwcu](time) na [Lotnisku Chopina](loc) zacznie działać nowoczesny system umożliwiający wykrywanie i neutralizację bezzałogowych statków powietrznych.
+- Dostawcą jest firma z [Gdyni](loc).
+- Spółka [Polskie Porty Lotnicze S.A.](org) jest w trakcie wdrażania systemu antydronowego na [Lotnisku Chopina](loc).
+- [30 maja](time) poinformowała o podjęciu współpracy z gdyńską firmą [Advanced Protection Systems S.A.](org) (APS), która dostarcza rozwiązania m.in. dla [Sił Zbrojnych RP](org), w tym system o nazwie Sky Control (SKYctrl).
+- Jak wyjaśnia w komunikacie spółka [PPL](org), to rozwiązanie jest obecnie jedynym systemem na świecie, który przeprowadza detekcję tzw. bezzałogowych statków powietrznych jednocześnie za pomocą sensora radarowego, akustycznego, wizyjnego oraz radiowego.
+- System umożliwia skuteczne wykrywanie i neutralizację wszystkich obiektów typu LSS (Low – Slow – Small), czyli dronów komercyjnych, profesjonalnych i przemysłowych.
+- Jak podkreśla [Anna Dermont](per), rzeczniczka prasowa [PPL](org), rozwiązania antydronowe APS są łatwe w użyciu, montażu czy demontażu.
+- Zaawansowane oprogramowanie systemu umożliwia rozpoznanie, czy zbliżający się obiekt to samolot, ptak, czy dron.
+- Oprogramowanie umożliwia też wprowadzenie drona na tzw. białą listę, czyli wykaz urządzeń, które mają zgodę na wykonywanie lotów w określonej strefie - wyjaśnia [Dermont](per).
+- Co ważne, system zaopatrzony jest w tzw. jammer, czyli urządzenie do neutralizacji bezzałogowego statku powietrznego.
+- System APS będzie działał na [Lotnisku Chopina](loc) już w [czerwcu](time) - dodaje.
+- Spółka [PPL](org) podkreśla, że APS jest światowym liderem w obszarze technologii systemów antydronowych, a w szczególności wyspecjalizowanych radarów 3D MIMO do zastosowania w detekcji, śledzeniu i klasyfikacji bezzałogowych statków powietrznych.
+- Tworzone przez firmę systemy są używane m.in. w [Norwegii](loc), [Estonii](loc), [Finlandii](loc), [Czechach](loc), [Ukrainie](loc), [Arabii Saudyjskiej](loc), [Zjednoczonych Emiratach Arabskich](loc), [Korei Południowej](loc), [Singapurze](loc) oraz [Indiach](loc).
+- Odbiorcami tych rozwiązań są służby mundurowe, wojsko oraz zarządzający infrastrukturą krytyczną.
+- W ciągu niecałego miesiąca w okolicy [Lotniska Chopina](loc) dron dwa razy spowodował zagrożenie bezpieczeństwa.
+- Do pierwszej z sytuacji doszło [13 maja](time).
+- Wtedy dron minął o około 30 metrów lądujący samolot [LOT](org).
+- W sprawie przyjęto zawiadomienie dotyczące zagrożenia bezpieczeństwa w ruchu lotniczym.
+- Po dwóch lądowaniach samolotów narodowego przewoźnika na warszawskim lotnisku na 30 minut zostały wstrzymane wszystkie operacje.
+- Drugi incydent wydarzył się w [sobotę](time), [27 maja](time).
+- Piloci samolotu [PLL](org) [LOT](org) zgłosili obecność drona w przestrzeni powietrznej około 40 kilometrów od [Lotniska Chopina](loc).
+- [Polska Agencja Żeglugi Powietrznej](org) od razu uruchomiła odpowiednie procedury - przekazały wówczas we wspólnym oświadczeniu [PAŻP](org), [Polskie Porty Lotnicze](org) oraz [LOT](org).
+- Hiszpańska królowa [Letycja](per) ruszyła na pomoc kobiecie, która potknęła się i upadła, wchodząc na scenę, by odebrać wyróżnienie z rąk małżonki króla [Filipa VI](per).
+- Media piszą o "sprawdzonej profesjonalistce w radzeniu sobie z nieoczekiwanymi sytuacjami" przypominając, że to nie pierwszy raz, gdy królowa wykazała się refleksem.
+- Królowa [Letycja](per) we [wtorek](time) przewodniczyła madryckim uroczystościom związanym z obchodami Światowego Dnia Czerwonego Krzyża i Czerwonego Półksiężyca.
+- Małżonka króla [Filipa VI](per) wręczyła medale naukowcom prowadzącym badania nad rakiem, magazynowi ["Ethic"](org), [Ukraińskiemu Czerwonemu Krzyżowi](org) i [Hiszpańskiemu Towarzystwu Geriatrii i Gerontologii](org) - przekazał magazyn ["People"](org).
+- Uwagę mediów zwróciła szybka reakcja królowej na upadek jednej z laureatek wyróżnienia, która potknęła się wchodząc na scenę.
+- Portal [El Español](org) udostępnił na [Twitterze](org) nagranie, na którym widać, jak królowa rzuca się na pomoc kobiecie, której natychmiast pomaga wstać mężczyzna stojący u jej boku i fotograf.
+- Chwilę później królowa wręczyła medal i zamieniła słowo z laureatką, zidentyfikowaną przez [El Español](org) jako [María de los Ángeles García Antón](per), starsza członkini zarządu [Hiszpańskiego Towarzystwa Geriatrii i Gerontologii](org).
+- "Królowa [Letycja](per) jest sprawdzoną profesjonalistką w radzeniu sobie z nieoczekiwanymi sytuacjami" - odnotowuje ["People"](org), wskazując na inne momenty, kiedy małżonka [Filipa VI](per) wykazała się refleksem i poczuciem humoru, np. kiedy przed rokiem śmiała się ze zbiegu okoliczności, wręczając nagrodę kobiecie ubranej w dokładnie taką samą sukienkę.
+- [Korea Północna](loc) wystrzeli w [czerwcu](time) swojego pierwszego wojskowego satelitę szpiegowskiego, który ma monitorować "niebezpieczne działania wojskowe [Stanów Zjednoczonych](loc)" - podała północnokoreańska agencja prasowa [KCNA](org).
+- Na płynące z [Pjongjangu](loc) zareagowały już władze w [Tokio](loc) i [Seulu](loc).
+- Silnie wzywamy [Koreę Północną](loc) do powstrzymania się od wystrzelenia satelity - oświadczyło biuro premiera [Japonii](loc).
+- Przywódca [Korei Północnej](loc) [Kim Dzong Un](per) już wcześniej zapowiadał rozmieszczenie sieci satelitów szpiegowskich, aby "zwiększyć możliwości wywiadowcze kraju".
+- [W kwietniu](loc), podczas wizyty w agencji badań kosmicznych, [Kim](per) podkreślił, że "podjęcie działań w zakresie wywiadu wojskowego jest ważnym i priorytetowym zadaniem umożliwiającym zwiększenie naszego potencjału militarnego i przeciwstawienie się zagrożeniom ze strony [USA](loc) i [Korei Południowej](loc)." 
+- Zdaniem analityków satelita ma służyć do rozwijania potencjału telemetrycznego i wywiadowczego [Korei Północnej](loc), niezbędnego do precyzyjnego rażenia celów w przypadku konfliktu zbrojnego.
+- Urząd premiera [Japonii](loc) wezwał [Pjongjang](loc) do powstrzymania się od wystrzelenia satelity i zapowiedział ścisłą współpracę z sojusznikami w tej kwestii.
+- Silnie wzywamy [Koreę Północną](loc) do powstrzymania się od wystrzelenia satelity.
+- "Będziemy współpracować z odpowiednimi krajami, takimi jak [USA](loc) i [Korea Południowa](loc), w tym względzie" - głosi opublikowany komunikat.
+- Zapowiedziano też, że podjęte zostaną wszelkie starania, aby zebrać dane i analizy dotyczące startu satelity.
+- W [poniedziałek](time) resort obrony [Japonii](loc) oświadczył też, że [Japonia](loc) zamierza zniszczyć każdy północnokoreański pocisk rakietowy, który naruszy jej terytorium.
+- "Podejmiemy destrukcyjne środki przeciwko rakietom balistycznym i innym pociskom, które wylądują na naszym terytorium" - oświadczyło ministerstwo.
+- Na zapowiedź [Korei Północnej](loc) zareagował też resort spraw zagranicznych [Korei Południowej](loc).
+- Wezwano [Pjongjang](loc) do wycofania się z planu wystrzelenia satelity wojskowego.
+- [Seul](loc) zadeklarował w wydanym oświadczeniu współpracę ze społecznością międzynarodową w celu odpowiedzi na prowokacje [Pjongjangu](loc).
+- [Recep Tayyip Erdogan](per) wygrał wybory prezydenckie w [Turcji](loc) - ogłosił przewodniczący tamtejszej państwowej komisji wyborczej.
+- Sukcesu urzędującemu tureckiemu prezydentowi pogratulowali światowi liderzy, wśród nich prezydent [Andrzej Duda](per).
+- Gratulacje napłynęły także z [Unii Europejskiej](org) i [NATO](org).
+- "Z niecierpliwością czekam na dalszą współpracę jako sojusznicy [NATO](org)" - napisał prezydent [USA](loc) [Joe Biden](per).
+- Szef państwowej komisji wyborczej [Ahmet Yener](per) w niedzielę wieczorem przekazał w oficjalnym komunikacie, że [Erdogan](per) został prezydentem, wygrywając w drugiej turze wyborów z [Kemalem Kilicdaroglu](per).
+- Urzędnik dodał, że zostały przeliczone "niemal wszystkie" głosy, dokładnie 99,43 procenta, a przewaga [Erdogana](per) - 52,14 proc. do 47,84 proc. zdobytych przez rywala - pozwalała jasno stwierdzić, że urzędujący prezydent dalej będzie rządził i nieprzeliczone jeszcze głosy nie mogą wpłynąć na zmianę wynik.
+- Wyborczego zwycięstwa [Erdoganowi](per) pogratulowali światowi liderzy.
+- "Z niecierpliwością czekam na dalszą współpracę jako sojusznicy [NATO](loc) w kwestiach dwustronnych i globalnych wyzwaniach" - napisał na [Twitterze](org) prezydent [USA](loc) [Joe Biden](per).
+- Zdaniem agencji [Reutera](org) położenie nacisku przez [Bidena](per) na sprawie [NATO](org) odzwierciedla priorytetowe traktowanie przez [Waszyngton](loc) przyjęcia do Sojuszu [Szwecji](loc) przed szczytem przywódców państw [NATO](org) w [Wilnie](loc) w połowie [lipca](time).
+- Wniosek [Szwecji](loc) o przyjęcie do Sojuszu jest blokowany przez [Turcję](loc) i [Węgry](loc).
+- [Ankara](loc) uważa, że [Szwecja](loc) udziela schronienia organizacjom uważanym przez nią za terrorystyczne.
+- [Ankarę](loc) i [Waszyngton](loc) dzieli również wiele innych kwestii, w tym polityka wobec [Syrii](loc) i bliskie relacje [Turcji](loc) z [Rosją](loc).
+- [Erdoganowi](per) pogratulował także prezydent [Andrzej Duda](per).
+- "Jesteśmy gotowi współpracować razem w zakresie zapewnienia bezpieczeństwa regionalnego, rozwoju [NATO](org) i pokoju w [Europie](loc)" - napisał na [Twitterze](org).
+- Prezydent przypomniał, że w tym roku obchodzimy stulecie powstania [Republiki Turcji](loc) oraz stulecie podpisania Traktatu o Przyjaźni między [Polską](loc) a [Turcją](loc).
+- Prezydent [Francji](loc) [Emmanuel Macron](per), gratulując [Erdoganowi](per) reelekcji, podkreślił, że [Francję](loc) i [Turcję](loc) czekają "olbrzymie wyzwania".
+- Do tych wyzwań [Macron](per) zaliczył "przywrócenie pokoju w [Europie](loc), przyszłość naszego [euro-atlantyckiego Sojuszu](org) i sprawy [Morza Śródziemnego](loc)".
+- "Razem z prezydentem [Erdoganem](per), któremu gratuluję, będziemy nadal iść do przodu" - napisał na [Twitterze](org) [Macron](per).
+- Gratuluję prezydentowi [Turcji](loc) zwycięstwa w wyborach prezydenckich.
+- "Liczymy na dalsze wzmacnianie partnerstwa strategicznego dla dobra naszych krajów oraz nasilenie współpracy na rzecz bezpieczeństwa i stabilizacji w [Europie](loc)" - podkreślił prezydent [Ukrainy](loc) [Wołodymyr Zełenski](per) na [Twitterze](org).
+- Brytyjski premier [Rishi Sunak](per) najpierw przekazał gratulacje poprzez [Twittera](org), a później zadzwonił to tureckiego prezydenta.
+- Gratulacje dla [Recepa Tayyipa Erdogana](per).
+- "Z niecierpliwością czekam na kontynuację silnej współpracy między naszymi krajami, od rozwoju handlu po zwalczanie zagrożeń w dziedzinie bezpieczeństwa jako sojusznicy [NATO](org)" - napisał [Sunak](per).
+- "Premier [Rishi Sunak](per) rozmawiał dziś wieczorem z prezydentem [Turcji](loc) [Recepem Tayyipem Erdoganem](per), aby pogratulować mu reelekcji.
+- Premier podkreślił silne relacje między [Wielką Brytanią](loc) a [Turcją](loc), jako partnerami gospodarczymi i bliskimi sojusznikami w [NATO](org).
+- Wspomniał o trwającej odbudowie [Turcji](loc) po niszczycielskich trzęsieniach ziemi na początku tego roku i zadeklarował stałą solidarność [Wielkiej Brytanii](loc) z narodem tureckim" - napisano w oświadczeniu wydanym przez [Downing Street](loc) po rozmowie obu polityków.
+- Gratulacje dla prezydenta [Erdogana](per) z okazji ponownego wyboru.
+- "Razem możemy teraz pracować z nową energią na rzecz realizacji naszego wspólnego programu" - napisał kanclerz [Niemiec](loc) [Olaf Scholz](per), podkreślając, że [Niemcy](loc) i [Turcja](loc) "są bliskimi sojusznikami a ich narody i gospodarki są ściśle ze sobą powiązane".
+- "Nasze wspólne bezpieczeństwo jest priorytetem na przyszłość" - oświadczył z kolei premier [Szwecji](loc) [Ulf Kristersson](per).
+- Jak zauważyły szwedzkie media, [Kristersson](per) był jednym z pierwszych zachodnich przywódców, którzy złożyli gratulacje [Erdoganowi](per).
+- Szefowa włoskiego rządu [Giorgia Meloni](per), gratulując [Erdoganowi](per), zwróciła uwagę na ważne obowiązki, jakie spoczywają na obu krajach.
+- "[Włochy](loc) i [Turcja](loc) są sojusznikami i spoczywa na nich ważna odpowiedzialność w basenie [Morza Śródziemnego](loc) i na świecie" - oświadczyła [Meloni](per), cytowana przez [Ansę](org).
+- "Razem możemy zrobić więcej dla naszych narodów i dla wzrostu oraz globalnej stabilności" - dodała.
+- Szef [NATO](org) [Jens Stoltenberg](per) złożył gratulacje [Erdoganowi](per) z okazji reelekcji.
+- "Z niecierpliwością czekam na kontynuację naszej wspólnej pracy i przygotowania do lipcowego szczytu [NATO](org)" - dodał.
+- "Z niecierpliwością czekam na dalsze budowanie relacji między [Unią Europejską](org) a [Turcją](loc)" - oświadczyła szefowa [Komisji Europejskiej](org) [Ursula von der Leyen](per).
+- "Praca nad rozwojem tych stosunków ma strategiczne znaczenie zarówno dla [UE](org), jak i dla [Turcji](loc), z korzyścią dla naszych obywateli" - dodała.
+- "Z niecierpliwością czekam na ponowną współpracę w celu pogłębienia relacji między [Unią Europejską](org) a [Turcją](loc) w nadchodzących latach" - stwierdził z kolei szef [Rady Europejskiej](org) [Charles Michel](per).
+- Rzecznik szefa [ONZ](org) [Stephane Dujarric](per) przekazał gratulacje od sekretarza generalnego [Antonio Guterresa](per).
+- "Sekretarz generalny oczekuje dalszego wzmacniania współpracy między [Turcją](loc) a [ONZ](org)" - brzmi wpis zamieszczony w imieniu [Guterresa](per) w mediach społecznościowych.
+- Prezydent [Izraela](loc) [Izaak Herzog](per) pogratulował [Erdoganowi](per) reelekcji, podkreślając chęć dalszej współpracy na rzecz wzmocnienia więzi między obu krajami.
+- "Jestem przekonany, że będziemy nadal współpracować, aby wzmocnić i rozszerzyć dobre więzi między [Turcją](loc) a [Izraelem](loc)" - napisał na [Twitterze](org).
+- Były minister obrony [Izraela](loc) [Beni Ganc](per) również pogratulował [Erdoganowi](per), tweetując, że oba kraje odgrywają "ważną rolę" w "zapewnianiu stabilności w regionie i zwiększaniu wspólnego dobrobytu gospodarczego".
+- Również, prezydent [Autonomii Palestyńskiej](loc) [Mahmud Abbas](per) wydał oświadczenie, w którym wyraził przekonanie, że [Erdogan](per) "będzie kontynuował ścieżkę rozwoju i zapewni [Turcji](loc) i jej mieszkańcom wielkie osiągnięcia".
+- W ubiegłym roku [Izrael](loc) i [Turcja](loc) ogłosiły pełne przywrócenie relacji międzypaństwowych, po tym, jak oba kraje obniżyły rangę stosunków dyplomatycznych w [2018](time).
+- [Neuralink](org) [Elona Muska](per) otrzymał zgodę amerykańskiej [Agencji do spraw Żywności i Leków](org) (FDA) na pierwsze badanie kliniczne na ludziach.
+- To ważny krok dla startupu zajmującego się implantami mózgu, ponieważ amerykańskie urzędy pod lupę wzięły eksperymenty, które firma przeprowadzała na zwierzętach - poinformował [Reuters](org).
+- Zatwierdzenie przez [FDA](org) "stanowi ważny pierwszy krok, który pewnego dnia pozwoli naszej technologii pomóc wielu ludziom" - stwierdził [Neuralink](org) w tweecie.
+- Firma nie ujawniła szczegółów planowanego badania.
+- Dodała, że nie prowadzi jeszcze rekrutacji do badania i więcej szczegółów będzie dostępnych wkrótce.
+- [FDA](org) przyznała w oświadczeniu, że agencja zezwoliła [Neuralink](org) na używanie implantu mózgu i robota chirurgicznego do badań na pacjentach, ale odmówiła podania dalszych szczegółów.
+- [Neuralink](org) i [Musk](per) nie odpowiedzieli na prośby [Reutera](org) o komentarz.
+- [Neuralink](org) stoi w obliczu federalnej kontroli po doniesieniach [Agencji Reutera](org) dotyczących eksperymentów firmy na zwierzętach.
+- Pracownicy [Neuralink](org) przekazali [Reutersowi](org) w zeszłym roku, że firma spieszyła się i popełniła błędy podczas operacji na małpach, świniach i owcach, powodując więcej zgonów zwierząt niż to było konieczne, a powodem takich działań miały być naciski [Muska](per) na personel, by jak najszybciej uzyskać zgodę [FDA](org).
+- Eksperymenty na zwierzętach dostarczyły danych, które miały wesprzeć wniosek firmy o badania na ludziach - podały źródła [Agencji Reutera](org).
+- W jednym przypadku w [2021](time) r. firma wszczepiła 25 z 60 świń urządzenia o niewłaściwych rozmiarach.
+- Wszystkie świnie zostały następnie zabite - błąd, którego zdaniem pracowników można było łatwo uniknąć przy lepszym przygotowaniu - opisała agencja.
+- W [maju](time) amerykańscy prawodawcy wezwali organy regulacyjne do zbadania, czy skład panelu nadzorującego testy na zwierzętach w [Neuralink](org) przyczynił się do nieudanych i pospiesznych eksperymentów po tym, jak [Reuters](org) poinformował o potencjalnych konfliktach finansowych w panelu.
+- [Departament Transportu](org) osobno bada, czy [Neuralink](org) nielegalnie transportował niebezpieczne patogeny na chipach usuniętych z mózgów małp bez odpowiednich środków bezpieczeństwa.
+- Neuralink jest również przedmiotem dochodzenia prowadzonego przez [Biuro Inspektora Generalnego Departamentu Rolnictwa USA](org) w sprawie potencjalnych naruszeń dobrostanu zwierząt.
+- Śledztwo zostało wszczęte w związku z rosnącymi obawami pracowników, że firma przyspiesza eksperymenty, powodując dodatkowe cierpienie i śmierć świń, owiec i małp.
+- Ani [Musk](per), ani [Neuralink](org) nigdy nie odpowiedzieli na liczne prośby o komentarz do doniesień [Reutera](org).
+- Według danych [FDA](org) i pracownika [Neuralink](org), jeszcze kilka tygodni temu [FDA](org) nie kontrolowała [Neuralink](org) pod kątem praktyk laboratoryjnych - podała [Agencja Reutera](org).
+- [Victor Krauthamer](per), adiunkt, profesor inżynierii biomedycznej, który spędził trzy dekady w [FDA](org), w tym nadzorując biuro, które rozpatruje wnioski o badania na ludziach dotyczące implantów mózgowych, przekazał [Reutersowi](org), że [FDA](org) zazwyczaj nie kontroluje obiektów w ramach przeglądu wniosków o badania kliniczne.
+- Dodał jednak, że byłoby to uzasadnione w tym przypadku, biorąc pod uwagę obawy związane z eksperymentami [Neuralink](org) na zwierzętach.
+- Jeśli testy na zwierzętach są niewiarygodne, to zatwierdzenie (badań na ludziach) może opierać się na błędnych danych dotyczących bezpieczeństwa na zwierzętach.
+- [FDA](org) powinna była zweryfikować swoje zaufanie do wyników badań na zwierzętach - powiedział [Krauthamer](per).
+- [Elizabeth Holmes](per), założycielka nieistniejącego już startupu [Theranos](org), stawiła się w więzieniu we [wtorek](time) - informują zagraniczne media.
+- Kobieta, niegdyś okrzyknięta przez media "najmłodszą miliarderką na świecie", pod koniec ubiegłego roku została skazana na ponad 11 lat pozbawienia wolności za oszukanie inwestorów.
+- [Holmes](per) stawiła się w więzieniu we [wtorek](time).
+- Możemy potwierdzić, że [Elizabeth Holmes](per) przybyła do [federalnego więzienia Bryan](loc) w [Teksasie](loc) - powiedział rzecznik ośrodka w odpowiedzi na pytania [CNN](org).
+- [Elizabeth Holmes](per) została skazana pod koniec [listopada](time) [2022](time) roku na 11 lat i trzy miesiące więzienia za oszukanie inwestorów.
+- Prokuratura zarzucała jej fałszywe przedstawianie technologii i finansów [Theranosu](org).
+- To startup, który miał zmienić system opieki zdrowotnej w [Stanach Zjednoczonych](loc) i pomóc milionom Amerykanów.
+- [Holmes](per) twierdziła, że opracowała metodę, dzięki której do wykonania aż 200 badań laboratoryjnych wystarczy kilka kropli krwi, pobranych z opuszka palca.
+- Przekonywała, że na wyniki testów trzeba czekać niecałą godzinę, czyli o wiele mniej niż w przypadku tradycyjnych metod.
+- Okazało się jednak, że ta metoda nigdy nie działała, a do testów potajemnie wykorzystywano konwencjonalne urządzenia innych firm.
+- [Holmes](per) została wcześniej zobowiązana do poddania się karze i rozpoczęcia odbywania wyroku [27 kwietnia](time).
+- Na kilka dni przed tym terminem 39-latka złożyła apelację, starając się pozostać na wolności, w czasie gdy odwołuje się od wyroku.
+- Sąd jednak odrzucił wniosek [Holmes](per) o zwolnienie za kaucją do czasu rozpatrzenia apelacji.
+- Od [wtorku](time) [Holmes](per) powinna przebywać w więzieniu.
+- Na tym nie kończą się jednak konsekwencje dla byłej "innowatorki".
+- W innym orzeczeniu sędzia [Edward Davila](per) nakazał [Holmes](per) oraz jej byłemu partnerowi [Rameshowi Balwaniemu](per) (były dyrektor operacyjny [Theranosu](org)) wypłatę 452 milionów dolarów odszkodowania ofiarom ich oszustwa.
+- Kilka lat temu [Holmes](per) została okrzyknięta najmłodszą miliarderką świata, która sukces finansowy zawdzięcza samej sobie.
+- Jej majątek był wyceniany na 4,5 mld dolarów.
+- Do zainwestowania w swój startup udało jej się namówić wielu znanych i bogatych ludzi.
+- Wśród nich byli m.in. potentant medialny [Ruper Murdoch](per) czy założyciel [Oracle](org) [Larry Ellison](per).
+- Doradzał jej były sekretarz stanu [Henry Kissinger](per).
+- Startup upadł w [2018] roku(time) po tym, jak dochodzenie wykazało, że technologia oferowana przez [Holmes](per) nie działa.
+# Super Express
+- Tegoroczny weekend z okazji Memorial Day zamienił się w krwawy koszmar.
+- W kilku miejscach w całym kraju – w tym [Nowym Jorku](loc), [Chicago](loc), [Florydzie](loc) i [Arizonie](loc) – doszło do makabrycznych strzelanin, w wyniku których dziesiątki osób zostało rannych, a kilkanaście innych straciło życie.
+- Krwawa seria rozpoczęła się już w [piątek](time).
+- W [Phoenix](loc), [AZ](loc), prawdopodobnie z rąk jednego sprawcy zginęły cztery osoby.
+- Około godz. [10.30] pm(time) śledczy znaleźli ciało 41-latka, a chwilę później 36-latkę z ranami postrzałowymi.
+- W [niedzielę](time) nad ranem w trzech innych lokalizacjach policjanci natknęli się na ciała trzech kolejnych mężczyzn.
+- Domniemanym sprawcą morderstw jest [Iren Byers](per), który miał przyznać się do winy.
+- Horror trwał również w [Chicago](loc), gdzie podczas świątecznego weekendu zginęło dziewięć osób, a co najmniej 43 zostały ranne.
+- Wśród nich była para dwulatków, którzy wedle stacji WGN przypadkowo postrzelili sami siebie.
+- Ofiarami kul byli także 15-latek, 17-latek i 14-latka.
+- W [niedzielę](time) nad ranem w zachodniej części [Wietrznego Miasta](loc) 35-latek został zastrzelony, a 30-latka została ranna, gdy oboje siedzieli w zaparkowanym samochodzie.
+- Na ulicach metropolii zginął m.in. również 26-latek, który został postrzelony przez nieznajomego sprawcę na stacji benzynowej, a także 20-latek i 69-latka.
+- Groza panowała także w [NYC](loc) – tylko w niedzielę w mieście w wyniku paru strzelanin rannych zostało pięć osób, w tym 14-latek i 22-latka, którą zabłąkana kula trafiła na [Clove Road](loc).
+- Do koszmaru doszło również na sobotnim przyjęciu urodzinowym na [Brooklynie](loc).
+- Jak przekazali funkcjonariusze, [Geoliver Tineo](per) zjawił się na imprezie trwającej przy [Drew Street](loc), choć podobno nie był tam mile widziany.
+- 23-latek miał otworzyć ogień i zabić swojego członka rodziny, [Delvina Diaza](per), a także ranić 31-latkę.
+- Sam oddał się w ręce policji.
+- Strzelanina wybuchła również na [Florydzie](loc), wzdłuż promenady [Hollywood Oceanfront Boardwalk](loc) przy [Hollywood Beach](loc).
+- Jak poinformowali śledczy, ok. godz. [7](time) pm w [poniedziałek](time) doszło do sprzeczki między kilkoma młodymi mężczyznami, gdy co najmniej jeden z nich nagle otworzył ogień.
+- Ranna została czwórka dzieci w wieku od 1 do 17 lat oraz pięcioro dorosłych w wieku od 25 do 65 lat.
+- Co najmniej jedna osoba rzekomo odpowiedzialna za tragedię pozostaje w areszcie.
+- W [środę](time), [17 maja](time), [Sąd Apelacyjny](org) w [Paryżu](loc) skazał byłego prezydenta [Nicolasa Sarkozy'ego](per) na 3 lata więzienia, w tym 2 w zawieszeniu, oraz trzyletni zakaz korzystania z praw obywatelskich.
+- Chodzi o korupcję i handel wpływami w aferze podsłuchowej.
+- Co zaskakuje, [Sarkozy](per) nie będzie odbywał kary w więzieniu!
+- [Nicolas Sarkozy](per), który był prezydentem [Francji](loc) w latach [2007-2012](time), w [styczniu](time) [2020](time) roku był sądzony za próbę uzyskania tajnych informacji od sędziego [Sądu Kasacyjnego](org), [Gilberta Aziberta](per).
+- Obecny wyrok oznacza utrzymanie wyroku trybunału karnego.
+- Jak przypomina [PAP](org), afera podsłuchowa, która właśnie zakończyła się wyrokiem, polegała na tym, że [Sarkozy](per) komunikował się w [2014](time) r. ze swoim prawnikiem, [Thierrym Herzogiem](per) za pomocą tajnego telefonu w sprawie pozyskania danych procesowych w swojej sprawie pod fałszywą tożsamością - jako [Paul Bismuth](per).
+- [Herzog](per) i [Sarkozy](per) rozmawiali o "możliwości skorzystania z faktu, że w [Sądzie Kasacyjnym](org) był sędzia, który był im przychylny", zidentyfikowany później jako [Azibert](per).
+- Sędzia w zamian za swoją przychylność miał liczyć na otrzymanie stanowiska w [Monako](loc).
+- Informacje [Aziberta](per) miały dotyczyć wszczętego w [2013](time) r. śledztwa w sprawie rzekomych nielegalnych płatności, które [Sarkozy](per) otrzymywał od miliarderki [Liliane Bettencourt](per), spadkobierczyni koncernu [L'Oreal](org), na finansowanie kampanii wyborczej w [2007](time) r. Francuskie media donoszą w [środę](time), [17 maja](time), że [Sarkozy](per) został skazany na 3 lata więzienia, w tym 2 lata w zawieszeniu.
+- Co ciekawe, [Sarkozy](per) nie będzie odbywał kary w więzieniu, tylko w domu pod nadzorem bransoletki elektronicznej.
+- Komentatorzy nie mają jednak wątpliwości, że to już definitywny i spektakularny koniec jego kariery politycznej.
+- [Nicolas Sarkozy](per) w przeszłości był na pierwszych stronach gazet także z innego powodu.
+- Pod koniec [2007](time) roku gruchnęła informacja o jego związku z 13 lat młodszą supermodelką, [Carlą Bruni](per).
+- Zaledwie parę miesięcy później zakochani pobrali się w [Pałacu Elizejskim](loc).
+- Doczekali się wspólnie córki, [Giulii](per).
+- [Sarkozy](per) był pierwszym w historii [Francji](loc) prezydentem, który wziął ślub w czasie sprawowania tego urzędu.
+- Pasażerowie myśleli, że to będzie krótka podróż.
+- Opóźnienie pociągu, który [15 maja](time) w [poniedziałek](time) miał wyjechać z [Wrocławia](loc) w kierunku [Warszawy](loc) o [19:17](time), wydłużyło się do kilku godzin.
+- [PKP Intercity](org) zaoferowała części podróżnym nietypowe rozwiązanie.
+- Ze względu na awarię, 3. osobom zapewniono przejazd taksówką!
+- Połamanie pantografu lokomotywy zatrzymało przejazd pociągu [IC](org) Asnyk.
+- Opóźnienie składu było gigantyczne, więc [PKP Intercity](org) zaoferowało podróżnym nietypowe i ponadstandardowe rozwiązanie tego problemu.
+- Ze względu na wynikające z awarii opóźnienie 3. osobom zapewniono przejazd taksówką na [Lotnisko Chopina w Warszawie](loc).
+- Natomiast pasażerowi poruszającemu się na wózku inwalidzkim umożliwiono w porozumieniu z [Kolejami Dolnośląskimi](org) przejazd ze stacji [Wrocław Nadodrze](loc) do stacji [Wrocław Główny](loc).
+- W mieście wynajęto pokój hotelowy przystosowany do potrzeb osoby z niepełnosprawnością – poinformowała [„Rynek Kolejowy”](org) [Agnieszka Serbeńska](per) z zespołu prasowego [PKP Intercity](org).
+- Pasażerowie feralnego dnia otrzymali również skromny poczęstunek z wagonu gastronomicznego.
+- Jak się dowiedzieli dziennikarze [„Rynku Kolejowego”](org), część osób zrezygnowała z dalszej podróży wybierając drogę pełnego zwrotu kosztu biletu.
+- W pociągu było 90 osób.
+- Co ciekawe i zarazem szokujące, planowy odjazd pociągu ze stacji zaplanowany był na godzinę [19:17](time).
+- [IC](org) Asnyk ruszył z niej dopiero o… północy!
+- Została zadysponowana lokomotywa zastępcza z [Wrocławia Gł.](loc) i oczekiwała na wymianę, co było możliwe dopiero po załączeniu napięcia w sieci trakcyjnej – dodała w rozmowie z [„Rynkiem Kolejowym”](org) [Agnieszka Serbeńska](per).
+- "Dajemy jasno do zrozumienia, że jesteśmy przygotowani do obrony każdego centymetra kwadratowego terytorium Sojuszu" - powiedział sekretarz generalny [NATO](org) [Jens Stoltenberg](per) w kwaterze głównej [Sojuszu Północnoatlantyckiego](org) w [Brukseli](loc).
+- "Goliat się chwieje, bo Dawid wykazał się wyjątkową odpornością i kunsztem taktycznym" - dodawał Przewodniczący [Komitetu Wojskowego NATO](org).
+- Wojna na [Ukrainie](loc) wywołuje obawy o eskalację.
+- Czy to możliwe, by [Władimir Putin](per) zdecydował się na konfrontację z [NATO](org)?
+- Co by się stało, gdyby naprawdę uderzył w któreś z państw Sojuszu, czy przykładowo [Polska](loc) mogłaby liczyć na wsparcie?
+- "Jasno dajemy do zrozumienia, że jesteśmy gotowi bronić każdego centymetra kwadratowego terytorium Sojuszu; to redukuje ryzyko eskalacji wojny poza [Ukrainę](loc)" - powiedział w [środę](time) sekretarz generalny [NATO](org) [Jens Stoltenberg](per) w kwaterze głównej [Sojuszu Północnoatlantyckiego](org) w [Brukseli](loc).
+- Rozpoczęło się tam posiedzenie szefów sztabów generalnych państw członkowskich.
+- "Od nielegalnej aneksji [Krymu](loc) i zajęcia części wschodniej [Ukrainy](loc) przez [Rosję](loc) w [2014](time) roku wzmocniliśmy gotowość naszych sił i po raz pierwszy w historii rozlokowaliśmy gotowe do walki jednostki na wschodniej flance Sojuszu.
+- Kiedy prezydent Putin(per) rozpoczął agresję na [Ukrainę](loc) w [2022](time) roku byliśmy przygotowani.
+- W ciągu kilku godzin uruchomiliśmy wszystkie nasze plany obrony.
+- 40 tys. żołnierzy, wspieranych przez znaczące siły powietrzne i morskie, stanęło pod dowództwem [NATO](org)" - mówił [Stoltenberg](per).
+- Z kolei Przewodniczący [Komitetu Wojskowego NATO](org), admirał [Rob Bauer](per) powiedział: "[Rosja](loc) jest w 15. miesiącu wojny, która miała potrwać trzy dni.
+- Pełnoskalowa wojna toczy się w [Europie](loc).
+- Globalni rywale, autorytarne reżimy rzucają wyzwanie naszym wartościom, interesom i bezpieczeństwu.
+- Zagrożenia są coraz większe i liczniejsze: od terroryzmu po cyberataki, od proliferacji broni jądrowej po zmiany klimatu.
+- "Musimy się przygotować na tę nową erę strategicznej rywalizacji" - ostrzegał [Stoltenberg](per).
+- Papież [Franciszek](per) przyleciał na [Węgry](loc).
+- Podczas swojego wystąpienia mocno uderza w jego zdaniem pozornie zjednoczoną [Europę](loc).
+- Na rządzących europejskimi krajami, w tym rządzących [Węgrami](loc), nie pozostawia suchej nitki.
+- Myślę więc o [Europie](loc), która nie powinna być zakładnikiem partii, stając się ofiarą zamkniętego w sobie populizmu, ale też nie będzie przekształcać się w byt płynny, a wręcz ulotny, w rodzaj abstrakcyjnej ponadnarodowości, nie zwracając uwagi na życie narodów - mówił.
+- Co jeszcze przekazał papież [Franciszek](per) Europejczykom?
+- Papież [Franciszek](per) przyleciał na [Węgry](loc).
+- W [piątek](time) papież najpierw rozmawiał z prezydent [Katalin Novak](per) i premierem [Viktorem Orbanem](per), a później wygłosił pełne symboli i sugestii przemówienia.
+- Papież swymi słowami mocno uderzał w rządzących europejskimi krajami, którzy jego zdaniem tylko pozornie sprzeciwiają się wojnie na [Ukrainie](loc).
+- Obecna sytuacja geopolityczna pokazuje jak krucha jest [Europa](loc).
+- [Franciszek](per) apelował o "ponowne odkrycie duszy europejskiej", "entuzjazmu i marzeń ojców założycieli, mężów stanu, którzy potrafili wykraczać spojrzeniem poza swoje czasy, poza granice państwowe i doraźne potrzeby, tworząc dyplomację zdolną do odbudowania jedności, a nie pogłębiania rozłamów".
+- Papież [Franciszek](per) podkreślił: - Myślę więc o [Europie](loc), która nie powinna być zakładnikiem partii, stając się ofiarą zamkniętego w sobie populizmu, ale też nie będzie przekształcać się w byt płynny, a wręcz ulotny, w rodzaj abstrakcyjnej ponadnarodowości, nie zwracając uwagi na życie narodów.
+- Papież [Franciszek](per) w [Budapeszcie](loc) mocno zaznaczył, co niepokojącego dzieje się z [Europą](loc): - W świecie, w którym żyjemy, umiłowanie polityki wspólnotowej i multilateralizmu zdaje się odchodzić w przeszłość.
+- Zdaje się, że jesteśmy świadkami smutnego schyłku harmonijnego marzenia o pokoju, ustępującego miejsca solistom wojny.
+- Podróż apostolska papieża [Franciszka](per) na [Węgry](loc) odbywa się w dniach [28–30 kwietnia](time).
+- Przebiega pod hasłem „[Chrystus](per) jest naszą przyszłością”.
+- Rząd krajowy odwrócił się od [Nowego Jorku](loc) – stwierdził burmistrz metropolii [Eric Adams](per), oskarżając [Biały Dom](org) o nieudzielanie pomocy miastu w obliczu kryzysu imigracyjnego.
+- Wezwał administrację [Joe Bidena](per) do zapewnienia środków niezbędnych do uniknięcia katastrofy, a także do usprawnienia procedur zdobywania zezwoleń na pracę dla azylantów.
+- Napływ osób poszukujących azylu do [NYC](loc) trwa już prawie od roku.
+- Począwszy od zeszłej [wiosny](time) miasto przyjęło ponad 55 tys. imigrantów, a średnio codziennie do metropolii przyjeżdża około 200 osób.
+- Liczba ta ma drastycznie wzrosnąć po [11 maja](time), gdy wygasną restrykcyjne przepisy wpuszczenia imigrantów do kraju ustanowione podczas pandemii i znane jako „Title 42”.
+- Miasto jest niszczone przez kryzys imigracyjny – powiedział [Adams](per) w [Waszyngtonie](loc), [DC](loc), w [piątek](time), gdzie wziął udział w spotkaniu [African American Mayors Association](org).
+- W stolicy miał także porozmawiać z przedstawicielami prezydenckiej administracji, którą dwa dni wcześniej oskarżył o doprowadzenie miasta na skraj wytrzymałości finansowej.
+- Prezydent i [Biały Dom](org) zawiedli [NYC](loc) w tej sprawie – stwierdził burmistrz na konferencji prasowej, mówiąc o „jednym z największych kryzysów humanitarnych, jakiegokolwiek doświadczyliśmy”.
+- [Adams](per) przyznał, że „kryzys będzie miał wpływ na każdą usługę w tym mieście”.
+- Między [lipcem](time) ub. r. a [31 marca](time) miasto wydało bowiem już ponad $817 mln na zakwaterowanie i pomoc imigrantom zamieszkującym ponad 100 schronisk finansowanych przez podatników.
+- Wedle administracji [Adamsa](per) do [30 czerwca](time) [2024](time) r. NYC poniesie koszt aż $4,3 mld na ten cel.
+- Miasto podjęło już kroki, zwracając się do agencji o cięcia w swoich planach wydatków o 4 proc., by zyskać pieniądze na pomoc dla azylantów.
+- Jak podaje [„New York Post”](org) ratusz złożył wniosek o $654 mln z dotacji [Federalnej Agencji Zarządzania Kryzysowego](org), jednak decyzja o ewentualnym przyznaniu środków zostanie podjęta najwcześniej pod koniec [maja](time).
+- Wciąż nieznana jest także część kwoty, którą [NYC](loc) ma otrzymać z rządowej puli wartej $800 mln przeznaczonej dla miast pogrążonych w kryzysie imigracyjnym.
+- Stan [Nowy Jork](loc) ma z kolei zapewnić miastu $1 mld w ciągu dwóch lat.
+- Prezydent [Federacyjnej Republiki Brazylii](loc) [Luiz Inácio Lula da Silva](per) spotka się w [Pekinie](loc) [28 marca](time) z [Xi Jinpingiem](per), prezydentem [Chińskiej Republiki Ludowej](loc) i sekretarzem generalnym [Komunistycznej Partii Chin](org).
+- Oczekuje się, że podczas oficjalnej wizyty [Lula](per) spróbuje przekonać [Xi](per) do przyłączenia się do tzw. [Klubu Pokoju](org), którego celem jest wynegocjowanie zakończenia wojny na [Ukrainie](loc).
+- [Brazylia](loc) chciałby w nim odgrywać główną rolę, a jeśli przekona [Chiny](loc), to co najmniej równorzędną.
+- [Lula](per) prezydentem [Brazylii](loc) jest dopiero od [stycznia](time).
+- Urzędowanie rozpoczął w warunkach nieszczególnie korzystnych, bo krajem wstrząsnęły zamieszki wywołane przez zwolenników poprzedniego prezydenta.
+- Sytuacja wewnętrzna już się ustabilizowała i [Lula](per) chciałby zapisać się w historii znacznie większym dokonaniem i daleko wykraczającym za granice [Brazylii](loc).
+- Ogłosił z początkiem lutego chęć założenia tzw. [Klubu Pokoju](org) do którego zaprosił wszystkie państwa niezaangażowane w konflikt, które pełniłyby rolę mediatorów.
+- Chętnie widziałby w tym towarzystwie [Chiny](loc), które (formalnie) również zachowują neutralność wobec wojny rosyjsko-ukraińskiej.
+- [Brazylia](loc) zachowuje (faktyczną) neutralność – nie przyłączyła się do sankcji gospodarczych wobec [Rosji](loc) i nie odmówiła dostarczania uzbrojenia [Ukrainie](loc).
+- [Lulę](per) w dążeniach do tego, by [Brazylia](loc) była inicjatorem zespołowej mediacji pokoju na [Ukrainie](loc) zwiększa to, że obecnie jest niestałym członkiem [Rady Bezpieczeństwa ONZ](org).
+- Notabene w [lutym](time) na forum [Zgromadzenia Narodowego ONZ](org) [Brazylia](loc) głosowała za tym, by [Federacja Rosyjska](loc) wycofała się z [Ukrainy](loc).
+- Wcześniej, bo w [maju](time) [2022](time) r. [Lula](per) głośno krytykował działania prezydenta [Ukrainy](loc) [Wołodymyra Zełenskiego](per), stwierdzając, że [Kijów](loc) jest tak samo odpowiedzialny za wojnę jak [Putin](per).
+- „Chińska propozycja pokojowa daje [Luli](per) doskonałą okazję nie tylko do przekonania [Xi](per) do przyłączenia się do jego alternatywnego forum, ale także do zwiększenia strategicznej obecności [Brazylii](loc) na arenie światowej” – podkreślają komentatorzy brytyjskiego [Royal United Services Institute](org) (RUSI).
+- Uważają jednak, że [Chiny](loc) przystaną do [Klubu Pokoju](org), jeśli tylko będą mogły w nim odgrywać główną rolę, a gdyby doszło do rozpoczęcia rozmów pokojowych, to pełniłby w nich rolę wiodącego mediatora.
+- Prezydent [Brazylii](loc) nie udaje się do [Chin](loc) wyłącznie po to, by przekonać [Xi](per) do swojej koncepcji [Klubu Pokoju](org).
+- Wraz z [Lulą](per) do [Pekinu](loc) uda się prawie ćwierć tysiąc przedsiębiorców.
+- Bo ta wizyta ma także wymiar biznesowy.
+- [Lula](per) ma przetartą chińską drogę, bo za pierwszej prezydentury [2003-2011](time) wypracował sobie dobre stosunki gospodarcze z [Pekinem](loc).
+- Wartość eksportu [Brazylii](loc) do [Chin](loc) wzrosła z 1,9 mld USD w [2001](time) r. do 44,3 mld USD w [2011](time) r., co uczyniło [Chiny](loc) numerem jeden wśród odbiorców brazylijskiego eksportu.
+- Ten skok handlowy był wspomagany przez [Chiny](loc), które wyszły z kryzysu finansowego z [2008](time) r. w dużej mierze bez szwanku, ze wzrostem PKB o 9,4 proc. w [2009](time) r., w porównaniu do spadku gospodarki [USA](loc) o 2,6 proc. w tym samym roku - przypomina [RUSI](org).
+- Ponadto jako lewicowiec (kiedyś skrajny) znajduje wspólny język z komunistą (w chińskim wydaniu).
+- Polityka [Luli](per) względem wojny na [Ukrainie](loc) przypomina nieco działania na rzecz światowego pokoju w wykonaniu (już zapomnianego) [Ruchu Państw Niezaangażowanych](org) z czasów zimnej wojny.
+- [Ron DeSantis](per) twierdzi, że priorytetem rządu [USA](loc) powinno być zabezpieczenie amerykańskich granic i ograniczenie chińskich wpływów, a nie angażowanie się w „spór terytorialny” między [Rosją](loc) a [Ukrainą](loc).
+- Gubernator [Florydy](loc) i potencjalny przeciwnik [Donalda Trumpa](per) w republikańskich prawyborach, dodał, że dalsza pomoc napadniętemu państwu niesie ryzyko bezpośredniego zaangażowania w wojnę.
+- Podczas gdy [Stany Zjednoczone](loc) mają wiele żywotnych interesów narodowych – zabezpieczenie naszych granic, zajęcie się kryzysem gotowości w naszym wojsku, osiągnięcie bezpieczeństwa i niezależności energetycznej, a także ograniczenie gospodarczej, kulturowej i wojskowej potęgi [Chińskiej Partii Komunistycznej](org) – dalsze wplątywanie się w spór terytorialny między [Ukrainą](loc) a [Rosją](loc) nie jest jednym z nich – stwierdził [DeSantis](per) w oświadczeniu dla [Fox News](org) w programie [Tuckera Carlsona](per).
+- Dodał, że jest przeciwny dostarczaniu Ukraińcom samolotów F-16 i rakiet dalekiego zasięgu, co jego zdaniem mogłoby skończyć się bezpośrednim zaangażowaniem [USA](loc) w wojnę.
+- [Carlson](per) wysłał zapytanie do każdego z potencjalnych kandydatów na urząd prezydenta o ich stosunek do rosyjskiej inwazji na [Ukrainę](loc).
+- Już wcześniej [Donald Trump](per) stwierdził, że zakończyłby wojnę „w mniej niż jeden dzień”, a w zeszłotygodniowym wywiadzie radiowym powiedział, że w najgorszym wypadku byłby gotów do negocjacji z [Rosją](loc), pozwalając jej na zajęcie rosyjskojęzycznych terenów [Ukrainy](loc).
+- [Nikki Haley](per), która już rzuciła wyzwanie byłemu prezydentowi, a także [Mike Pence](per), były wiceprezydent, wierzą, że [USA](loc) nie mogą zaprzestać pomocy ofierze agresora.
+- Wiele analiz wskazuje jednak, że to [Trump](per) i [DeSantis](per) cieszą się największą sympatią zwolenników [GOP](org).
+- Z ostatniego sondażu stacji [CNN](org) wynika, że 40 proc. potencjalnych wyborców poparłoby kandydaturę [Trumpa](per) w walce o republikańską nominację, a 36 proc. – gubernatora [Florydy](loc).
+- [Haley](per) i [Pence](per) otrzymali po 6 proc. głosów.
+- Sondaż wykazał także, że dla republikanów ważniejsze jest znalezienie kandydata podzielającego ich poglądy w kluczowych kwestiach, takich jak gospodarka, imigracja i polityka zagraniczna, niż szukanie takiego, który mógłby pokonać [Joe Bidena](per).
+- Pierwszy pogląd podziela 59 proc. badanych, drugi – 41 proc.
+- [Europejskie Śródziemnomorskie Centrum Sejsmologiczne](org) (EMSC) poinformowało we [wtorek](time) [14 lutego](time) po południu, że [Rumunię](loc) nawiedziło trzęsienie ziemi o sile 5,7 stopnia w skali [Richtera](per).
+- Wstrząsy były jednak odczuwalne także w [Serbii](loc), [Bułgarii](loc) i na [Węgrzech](loc), a nawet w odleglejszych krajach, takich jak [Słowacja](loc), [Bośnia i Hercegowina](loc) oraz [Kosowo](loc).
+- Jak informuje agencja [Reutera](org), trzęsienie miało miejsce na głębokości 40 km, a epicentrum znajdowało się 56 km na północny wschód od [Drobeta-Turnu Severin](loc) w [Rumunii](loc).
+- Rumuńskie media podają tymczasem, że służby państwowe zostały zaalarmowane już w [poniedziałek](time), [13 lutego](time), bo wtedy ziemia zatrzęsła się tam z siłą 5,2 w skali [Richtera](per).
+- Epicentrum poniedziałkowych wstrząsów znajdowało się w okręgu [Gorj](loc) na południowym zachodzie kraju.
+- Wtorkowe wstrząsy były odczuwalne nie tylko w [Rumunii](loc), ale także w [Serbii](loc), [Bułgarii](loc) i na [Węgrzech](loc), jak również w odleglejszych krajach, takich jak [Słowacja](loc), [Bośnia i Hercegowina](loc) oraz [Kosowo](loc).
+- [PAP](org) przypomina, że wcześniej w [Rumunii](loc) podobną siłę miało trzęsienie ziemi z [3 listopada](time) [2022](time) r., które zlokalizowano w okręgu [Vrancea](loc) na wschodzie kraju.
+- W obu przypadkach służby nie zanotowały poszkodowanych ani strat materialnych.
+- To wszystko dzieje się nieco ponad tydzień po trzęsieniu ziemi, które zniszczyło [Turcję](loc) i część [Syrii](loc).
+- Sytuacja tam jest bardzo dramatyczna.
+- Do [wtorku](time), [14 lutego](time), liczba ofiar przekroczyła 37,6 tys.
+- W [Turcji](loc) zginęły 31 974 osoby, a w [Syrii](loc) 5814.
+- Z południowej [Turcji](loc) ewakuowano ponad 158 tysięcy osób, które straciły dach nad głową, w kraju zniszczonych zostało ponad 40 tys. budynków.
+- Akcje ratunkowe trwają tam bezustannie - mimo upływu 8 dni, wciąż spod gruzów wyciągane są żywe osoby.
+- Czy w stołecznym urzędzie miasta znajdzie się [Herakles](per), co posprząta stajnię [Augiasza](per)?
+- W związku z kolejną awanturą o opłaty za śmieci w [Warszawie](loc) prezydent [Warszawy](loc) [Rafał Trzaskowski](per) przyznał, że ratusz nie będzie zwracał warszawiakom pieniędzy za nieprawidłowo pobrane opłaty za śmieci.
+- O tym w najnowszym felietonie [Izabeli Kraj](per) z cyklu „Kraj o Warszawie”.
+- Pieniądze mieszkańców [Warszawy](loc) wpłacone za odbiór odpadów, które produkujemy w domach i wyrzucamy do śmietników przy blokach.
+- Stołeczny ratusz w ubiegłym roku pobrał niesłusznie od mieszkańców 180 mln zł za odbiór odpadów.
+- Wytknęła to [Regionalna Izba Obrachunkowa](org).
+- Ta, która od lat bardzo dobrze oceniała budżet stolicy i jego kolejne wykonania.
+- Teraz wskazała w ocenie wykonania przez zarząd [Warszawy](loc) budżetu za [2022](time) rok, że zrealizowane dochody miasta w ramach gospodarowania odpadami komunalnymi opiewały na kwotę 1 mld 80 mln zł, natomiast łączne wydatki związane z odbiorem i zagospodarowaniem śmieci wyniosły 895 mln zł.
+- Zatem nadwyżka dochodów z opłat od mieszkańców wyniosła ponad 180 mln zł!
+- A zgodnie w przepisami pieniądze z opłat za gospodarowanie odpadami komunalnymi, powinny się bilansować z kosztami funkcjonowania systemu gospodarki odpadami i być wydawane wyłącznie za cele związane z gospodarką odpadami.
+- Nigdy oczywiście nie ma tak, że to będzie dokładnie jeden do jednego – złotówka pobrana i złotówka wydana, ale z drugiej strony jeszcze nigdy nie było tak, żeby warszawiacy przepłacili aż 180 mln zł!
+- Pojawiły się więc głosy, by urzędnicy zwrócili kasę mieszkańcom.
+- Po ile by wyszło?
+- Jeśli podzielimy tę kwotę dla równego rachunku przez około 2 mln mieszkańców, wyjdzie po 90 zł na głowę.
+- A niechby i 100 zł.
+- Radni [PiS](org) wyliczają inaczej - że to rocznie ok 1,5 tys. zł na gospodarstwo domowe.
+- Pewnie, że chciałabym mieć tę pieniądze w kieszeni, ale jeśli ich nie będzie, przeżyję.
+- A ich nie będzie, bo [Rada Warszawy](org) już te pieniądze przesunęła na cele związane z inwestycjami w system związany z zagospodarowaniem śmieci.
+- I może tak zrobić.
+- Natomiast ratusz nie może ich oddać.
+- I o ile mogę zrozumieć, że prezydent [Rafał Trzaskowski](per) nie będzie uruchamiać urzędniczej machiny do zwracania ludziom pieniędzy na konta – bo zgodnie z przepisami podatkowymi nie ma możliwości zwrotu tej opłaty, o tyle nie mogę pojąć skąd się ta nadwyżka wzięła.
+- Nagle śmieci staniały?
+- Mniej ich produkujemy i wywozimy?
+- Przecież od początku kadencji [Rafała Trzaskowskiego](per) słyszę, że śmieci drożeją.
+- I od prezydenta [Warszawy](loc) oczekiwałabym wyjaśnienia tego ludziom szczegółowo, ale prosto i logicznie.
+- Bo czyż to nie prezydent [Warszawy](loc) kilka miesięcy temu atakował prezesa [PKN Orlen](org), że zdziera z ludzi za paliwo i źle zarządza spółką, bo wprowadził podwyżkę ceny benzyny, chociaż nie musiał?
+- [Trzaskowski](per) grzmiał, że [Daniel Obajtek](per) „zawyżył marże i dorobił się na Polkach i Polakach".
+- Jakże podobną sytuację mamy dziś w przypadku opłat za śmieci w [Warszawie](loc).
+- Czy to efekt złego zarządzania miastem, czy asekuracyjnego zawyżania opłat za śmieci?
+- Naprawdę prezydent nie ma się co dziwić i oburzać, że radni [Prawa i Sprawiedliwości](org) krzyczą "[Trzaskowski](per) oddaj pieniądze " i apelują, by w ramach zwrotu nadpłat pobranych od mieszkańców obniżyć stawki za odbiór śmieci, na przykład na kolejny rok.
+- Niestety – jak to ostatnio z radnymi [PiS](org) bywa – projekt uchwały który przygotowali na ostatnią sesje [Rady Warszawy](org) – był nie do przyjęcia.
+- Trudno sobie bowiem wyobrazić, by ratusz każdemu indywidualnie odliczał opłaty i ustalał indywidualną stawkę.
+- Ten kolejny problem jednak pokazał, że śmieciowy chaos w [Warszawie](loc) trwa.
+- Po aresztowaniu sekretarza miasta [Włodzimierza Karpińskiego](per), nadzór nad gospodarką odpadami przejął znów wiceprezydent [Michał Olszewski](per), ale z musu i niechętnie.
+- Ponieważ z niewolnika nie ma robotnika, [Trzaskowski](per) powinien znaleźć wreszcie osobę, która ten chaos ogarnie i - nomen omen - posprząta tę miejską stajnię [Augiasza](per).
+- Czy wśród 8 kandydatów, którzy zgłosili się w konkursie na nowego sekretarza miasta, znajdzie się taki [Herakles](per)?
+# Polsat news
+- Prezydent [Meksyku](loc) [Andres Manuel Lopez Obrador](per) zapowiedział, że poprze porozumienie pokojowe z działającymi w kraju kartelami narkotykowymi.
+- To reakcja na apel aktywistów, domagających się zakończenia rozlewu krwi.
+- Nie milkną echa opublikowania przez [Delię Quiroę](per) listu otwartego do dziesięciu największych organizacji przestępczych w [Meksyku](loc).
+- Aktywistka poszukująca od ponad dekady zaginionego brata zaapelowała do karteli narkotykowych, by zaprzestały praktyki porywania obywateli i zacierania po nich wszystkich śladów.
+- Kobieta zasugerowała, że rząd powinien w końcu zatrzymać wojny gangów i wypracować z nimi rozejm.
+- Na apel odpowiedział nieoczekiwanie prezydent [Meksyku](loc) [Andres Manuel Lopez Obrador](per).
+- Zgadzam się i mam nadzieję, że osiągniemy pokój.
+- Wszyscy tego chcemy - podkreślił przywódca na konferencji prasowej.
+- Przemoc jest irracjonalna i będziemy cały czas szukać pokoju.
+- Skoro pojawia się taka inicjatywa, to oczywiście ją popieramy - stwierdził prezydent [Meksyku](loc).
+- Od [1964](time) roku w [Meksyku](loc) zaginęło ponad 100 tys. osób.
+- Większość z nich w ciągu ostatnich 15 lat, odkąd rząd wypowiedział wojnę gangom i wysłał wojsko na ulice.
+- [Andres Manuel Lopez Obrador](per) obiecał w kampanii wyborczej w [2018](time) roku znacznie mniej konfrontacyjne podejście do problemu w ramach polityki "uścisków zamiast kul".
+- Zapowiedział także usunięcie żołnierzy z ulic meksykańskich miast.
+- Zamiast tego utworzona została [Gwardia Narodowa](org), licząca ponad 100 tys. funkcjonariuszy.
+- Działania prezydenta nie przyniosły jednak spektakularnych rezultatów.
+- Od czasu objęcia przez niego urzędu, w [Meksyku](loc) zaginęło 40 tys. osób.
+- "[Meksyk](loc) pogrążył się w spirali przemocy, która pozostawiła głęboką wyrwę w społeczeństwie" - oceniła [Delia Quiroa](per) w liście do karteli narkotykowych.
+- Aktywistka zwróciła się do gangów, apelując o podpisanie "paktu społecznego mającego na celu zatrzymanie porywania obywateli".
+- "Wszystko czego chcemy, to dowiedzieć się, czy nasi krewni żyją albo czy możemy zapewnić im godny pochówek" - podkreśliła.
+- Zapytany o możliwość porozumienia z kartelami [Obrador](per) stwierdził, że poprze wszystko, co oznaczałoby ograniczenie trwającej rzezi w [Meksyku](loc).
+- Aprobuję wszystko, co oznacza odłożenie na bok przemocy - zaznaczył.
+- [Quiroa](per) z aprobatą przyjęła słowa prezydenta.
+- Podkreśliła jednak, że za takimi deklaracjami muszą iść realne działania.
+- Powinien nadzorować swoich ludzi, żeby upewnić się, że rzeczywiście coś z tym robią - podkreśliła.
+- krezydent [Chile](loc) [Gabriel Boric](per) miał utknąć w dziecięcej zjeżdżalni - donosi chilijski portal [BioBioChile](org).
+- Nagraniem z sytuacji pochwaliła się kobieta spacerująca wokół placu zabaw.
+- Sytuacja, o której mowa, miała miejsce w mieście [Punta Arenas](loc) w [Chile](loc).
+- Moment "wypadku" został zarejestrowany przez jedną z mieszkanek, która przechodziła obok placu zabaw.
+- Film opublikowany został m.in. przez chilijski portal [BioBioChile](org).
+- Kobieta zobaczyła, że z jednego z tuneli zjeżdżalni wystają nogi mężczyzny, który nie wyczuł swoich gabarytów i utknął wewnątrz.
+- Całej sytuacji z boku przyglądała się też ewidentnie rozbawiona, pierwsza dama [Irina Karamanos](per).
+- Choć nie widać tego na nagraniu, zdaniem kobiety nagrywającej sytuację, prezydent musiał złamać elementy zjeżdżalni, aby móc wydostać się z pułapki.
+- Po blisko 10 minutach, kiedy utknął w tunelu, rozbił go i wyszedł - komentowała zajście autorka nagrania.
+- Jak relacjonowali naoczni świadkowie, po wyjściu z tunelu prezydent wyglądał na wyjątkowo zakłopotanego i zawstydzonego całą sytuacją.
+- [Gabriel Boric Font](per) wygrał wybory w [Chile](loc) w [2022](time) roku.
+- 37-latek stał się najmłodszym prezydentem w historii kraju i jednym z najmłodszych przywódców politycznych na świecie.
+- Polityk urodził się w miejscowości [Punta Arenas](loc) w rodzinie chorwackich Chilijczyków pochodzących z wyspy [Ugljan](loc).
+- Karierę polityczną rozpoczął w [2014](time) roku, kiedy to został członkiem chilijskiej [Izby Deputowanych](org) reprezentując region [Magallanes](loc).
+- Prezydent [Salwadoru](loc) [Nayib Bukele](per) poinformował, że w kraju, który jest znany z wysokiego poziomu przemocy, w ciągu 365 dni nie było ani jednego morderstwa.
+- Władze nieco ponad roku temu wypowiedziały wojnę gangom i ogłosiły stan wyjątkowy.
+- W trakcie jego trwania zatrzymano ponad 68 tys. podejrzanych.
+- W [lutym](time) świat obiegły zdjęcia z nowo otwartego "mega więzienia" w [Salwadorze](loc).
+- Jak zapowiadano, placówka ma być największym zakładem penitencjarnym obu [Ameryk](loc), mieszczącym docelowo ponad 40 tys. osób.
+- "[10 maja](time) zakończyliśmy z zerową liczbą morderstw na poziomie krajowym.
+- W ten sposób minęło 365 dni bez zabójstw, cały rok" - napisał prezydent [Nayib Bukele](per) na [Twitterze](org).
+- [Agencja AFP](org) wyjaśnia jednak, powołując się na źródło z otoczenia prezydenta, że to "całkowita liczba dni bez morderstw od [2019](time) roku", a nie kolejne dni.
+- Nie ma bowiem niezależnych źródeł potwierdzających dane [Bukele](per).
+- Co ważne, wieści pojawiły się na kilka tygodni przed zakończeniem czwartej z pięcioletniej kadencji prezydenta.
+- [Salwador](loc) miał kiedyś jeden z najwyższych wskaźników morderstw na świecie.
+- Z najbardziej brutalnego kraju na świecie staliśmy się najbezpieczniejszym w [Ameryce Łacińskiej](loc) dzięki polityce [Bukele](per) - powiedział rzecznik prasowy głowy państwa.
+- Bukele objął urząd [1 czerwca](time) [2019](time) roku.
+- Gdy zaczął sprawować funkcję, pod koniec [2019](time) roku było 38 zabójstw na 100 tys. mieszkańców.
+- Liczba ta spadła do mniej niż ośmiu w [2022](time) roku.
+- [Salwador](loc) liczy 6 369 000 obywateli.
+- Został ukarany [AFP](org) zauważa, że nie wszystkich przekonują zapewnienia rządu.
+- [Miguel Montenegro](per), koordynator pozarządowej [Komisji Praw Człowieka](org), powiedział, że "gdyby twierdzenia [Bukele](per) naprawdę były całkowicie wiarygodną wiadomością, byłoby to godne pochwały".
+- Są wątpliwości z powodu braku pełnych informacji o liczbach - zaznaczył.
+- Wojna [Bukele](per) z gangami rozpoczęła się w [marcu](time) [2022](time) roku, po serii morderstw, w wyniku których w ciągu trzech dni zginęło 87 osób.
+- Działania władz znalazły się pod czujnym okiem organizacji praw człowieka, w tym [Human Rights Watch](org) i [Biura Praw Człowieka ONZ](org), które zgodnie twierdzą, że zawieszenie praw konstytucyjnych otworzyło drzwi do powszechnych nadużyć.
+- W największym więzieniu obu [Ameryk](loc) - jak nazwał zakład [Bukele](per) - panują surowe warunki, a placówka jest prawdopodobnie przepełniona.
+- [Josef Fritzl](per) razem ze swoją prawniczką napisał z więzienia książkę.
+- Jak mówi, chce pojednać się z rodziną.
+- Austriak w [2009](time) roku został skazany za morderstwo, zniewolenie, gwałt i kazirodztwo.
+- 88-letni [Josef Fritzl](per) w [2009](time) roku został skazany na dożywocie za morderstwo, zniewolenie, gwałt i kazirodztwo.
+- Książkę napisał wraz ze swoją prawniczką, [Astrid Wagner](per) - pisze ["Guardian"](org).
+- Córka skazanego, [Elisabeth Fritzl](per), zaginęła w [1984](time) roku w wieku 18 lat.
+- Odnaleziono ją dopiero [26 kwietnia](time) [2008](time) roku w tajnej piwnicy, którą ojciec wybudował pod domem rodzinnym w [Amstetten](loc) w [Austrii](loc).
+- W wywiadzie [Wagner](per) powiedziała, że [Fritzl](per) zwrócił się do niej z prośbą o pomoc w napisaniu wspomnień.
+- Następnie wysłał mi rękopis, a ja go zredagowałam.
+- Od tego czasu jestem jego prawniczką - powiedziała tabloidowi ["Bild"](org).
+- Według niej [Fritzl](per), jak wielu przestępców, "nie zdołał rozpoznać wymiaru swojej zbrodni".
+- Musi próbować uporać się ze swoją winą - stwierdziła.
+- [Wagner](per) powiedziała, że rozumie jego książkę jako jego sposób na "wyjaśnienie, dlaczego zbłądził do tego stopnia".
+- W książce zatytułowanej "Otchłanie [Josefa F.](per)" więzień powiedział, że nie mógł zrozumieć, dlaczego jego żona, [Rosemarie](per), zerwała z nim wszelkie kontakty - podaje ["Guardian"](org).
+- W wywiadzie udzielonym w tym tygodniu dziennikowi ["The Sun"](org) [Fritzl](per) powiedział, że ma nadzieję na ponowne zobaczenie swojej rodziny.
+- Zdecydowanie wierzę, że pewnego dnia zobaczę ich ponownie - powiedział.
+- Rozumiem ludzi, którzy chcą, żebym umarł w więzieniu.
+- Ale ja chcę pewnego dnia doświadczyć wolności - dodał.
+- [Josef Fritzl](per) jest przetrzymywany w [Stein](loc), więzieniu psychiatrycznym o wysokim stopniu bezpieczeństwa w [Krems](loc) nad [Dunajem](loc).
+- Uzbecy przegłosowali zmiany w konstytucji.
+- Modyfikacji ulegną 33 dotychczas obowiązujące artykuły, wprowadzonych zostanie również sześć całkiem nowych.
+- Najważniejsze zmiany dotyczą urzędu prezydenta.
+- Przegłosowane przepisy pozwolą [Szawkatowi Mirzijojewowi](per) pozostać na swym stanowisku do [2040](time) roku.
+- [Polsat News](org) był jedyną polską redakcją zaproszoną do obserwacji procesu głosowania.
+- Oficjalne wyniki pojawią się w [poniedziałek](time), ale w zasadzie już przed głosowaniem wiadomo było, że nowy kształt ustawy zasadniczej wejdzie w życie.
+- Niektórzy zewnętrzni obserwatorzy przebiegu referendum zauważali, że powodem tego jest fakt, że sytuacja w [Uzbekistanie](loc) realnie zmienia się na lepsze i kierunek reform jest zgodny z oczekiwaniami społeczeństwa.
+- Te zmiany są bardzo rozległe, objęły przede wszystkim prawa, wolności i obowiązki człowieka i obywatela.
+- Myślę, że te rozwiązania spotykają się z pełną aprobatą obywateli - komentuje doktor [Jerzy Szukalski](per), ekspert ds. systemów konstytucyjnych i politycznych państw obszaru poradzieckiego.
+- "Odwilż" można obserwować w tym kraju od [2016](time) roku, gdy zmarł wieloletni prezydent uzbecki - [Islam Karimow](per).
+- Za jego czasów system władzy był skrajnie autorytarny.
+- Odkąd głową państwa został [Szawkat Mirzijojew](per) nastąpiła liberalizacja systemu politycznego i ekonomicznego.
+- Poprawiła się też jakość życia społeczeństwa.
+- Nowa konstytucja ma być przypieczętowaniem tych zmian.
+- Jednak mimo zmian dążących do liberalizacji i demokratyzacji, wśród zapisów nowej konstytucji znalazły się poprawki, które budzą kontrowersje.
+- Proponowane zmiany przewidują m. in. wydłużenie kadencji prezydenckiej z pięciu do siedmiu lat przy utrzymaniu obecnej zasady limitu sprawowania urzędu do dwóch kadencji.
+- Chociaż prezydent [Mirzijojew](per) sprawuje swój urząd już drugą kadencję, to zmiana jej długości z 5 do 7 lat umożliwi mu ponowne dwukrotne ubieganie się o prezydenturę na nowych warunkach, po upływie obecnej kadencji w roku [2026](time), co przy dwukrotnej 7-letniej kadencji oznacza, że Szawkat Mirzijojew będzie mógł pozostać na swym stanowisku do roku [2040](time).
+- Komentarzy dotyczących tego, konkretnego zapisu konstytucji na miejscu w [Uzbekistanie](loc) nie udało się zebrać.
+- Natomiast o całości zmian Uzbecy wypowiadają się.
+- Zmianą, która jest wyjątkowo ważna dla mnie jest to, że nowa konstytucja ułatwi kobietom możliwość studiowania za granicą - przyznaje młoda mieszkanka [Taszkientu](loc) w rozmowie z naszą reporterką, [Magdaleną Pernet](per).
+- Inny obywatel, który odwiedził wczoraj lokal wyborczy zaznaczył, że to referendum jest kluczowe dla praw człowieka.
+- Jedną ze zmian jest to, że zostanie wprowadzony zakaz kary śmierci.
+- Gdy mowa o prawach człowieka, to jest to elementarny przepis.
+- Dla mnie ważne jest to, że w nowej wersji dokumentu pojawiło się 58 zapisów dotyczących praw kobiet i dziewcząt.
+- Przepisy mówią między innymi o równości płci.
+- Nasz prezydent jasno powiedział, że rolą kobiet jest nie tylko słuchać, ale też działać.
+- Cieszę się, że w naszym kraju pojawią się nowe szanse dla kobiet - dodaje jedna z głosujących osób.
+- Referendum w [Uzbekistanie](loc) rozpoczęło się o [8:00](time) lokalnego czasu i zakończyło się o [20:00](time).
+- Uprawnionych do głosowania było pod 19,7 miliona obywateli, z czego ponad 7 milionów stanowiły osoby w wieku między 18. a 30. rokiem życia.
+- 54 proc. osób, które mogły oddać swój głos to kobiety, a 46 proc. mężczyźni.
+- Zgodnie z zasadami wyniki referendum są ważne, gdy głos oddaje co najmniej połowa obywateli.
+- We wczorajszym referendum wzięło udział ponad 80 proc. osób, uprawnionych do głosowania.
+- Poprawność przebiegu referendum oceniało na miejscu 199 obserwatorów z 45 krajów oraz 184 obserwatorów uzbeckich z ramienia organizacji pozarządowych.
+- Na miejscu byli też przedstawiciele mediów.
+- Władze stanu [Pendżab](loc), [Indie](loc) ustalają przyczynę wycieku gazu, który zabił 11 osób.
+- Tragedia wydarzyła się pod sklepem mleczarskim, gdzie ludzie nagle zaczęli tracić przytomność.
+- Wśród ofiar są dzieci.
+- Na zdjęciach udostępnionych przez [agencję ANI](org) widać pracujący na miejscu zespół ds. katastrof oraz policjantów w maskach na twarzy, którzy patrolują okolice i odsuwają miejscową ludność od otoczonego kordonem obszaru.
+- Eksperci próbują ustalić źródło i przyczynę zdarzenia.
+- Jak na razie nie wiadomo, w jaki sposób doszło do wycieku gazu.
+- Śmierć poniosło 11 osób, w tym dwójka dzieci w wieku 10 i 13 lat oraz pięć kobiet.
+- Przedstawiciel lokalnych władz poinformował, że incydent miał miejsce w pobliżu sklepu z artykułami mleczarskimi oraz przychodni lekarskiej.
+- Dodał, że ofiarami są głównie osoby, które rano przyszły kupić mleko.
+- Miały one stracić przytomność pod sklepem.
+- Z kolei przedstawiciel władz stanowych przekazał, że do wycieku doszło prawdopodobnie w okolicznej fabryce.
+- Nie podał jednak żadnych szczegółów.
+- Agencje zwracają uwagę, że ze względu na stan infrastruktury oraz niskie standardy bezpieczeństwa w [Indiach](loc) często dochodzi do wycieków gazu.
+- W [sierpniu](time) [2022](time) r. 112 kobiet trafiło do szpitala po wycieku gazu w zakładzie produkującym odzież w południowym stanie [Andhra Pradeś](loc).
+- W podobnym incydencie w tej samej okolicy w [czerwcu](time) ubiegłego roku około 200 kobiet straciło przytomność.
+- Z kolei w [2020](time) r. co najmniej 15 osób zginęło, a ok. 1 tys. doznało obrażeń i dolegliwości w wyniku wycieku gazu w zakładach chemicznych w [Wiśakhapatnam](loc) w stanie [Andhra Pradeś](loc).
+- Do jednego z najtragiczniejszych wypadków tego typu doszło w [Indiach](loc) w [1984](time) r., gdy wyciek toksycznego gazu z fabryki [Union Carbide](org) znajdującej się w mieście [Bhopal](loc) spowodował wielką katastrofę przemysłową.
+- [Kraków](loc) jest piękny.
+- Byłem w nim w zeszłym roku.
+- A wcześniej dziesięć lat temu.
+- Byłem w [Muzeum Kantora](loc), które ma fantastycznie ciekawy i uroczy budynek.
+- Jest wspaniałą instytucją - powiedział w rozmowie z [Polsat News](org) słynny amerykański aktor [John Malkovich](per).
+- Przyjechał on do [Krakowa](loc) na festiwal [Mastercard](org) OFF CAMERA.
+- Obraz "Dominion", w którym zagrał jedną z głównych, był filmem otwarcia.
+- Film "Dominion" w reżyserii [Stevena Bernsteina](per) zainaugurował w [piątek](time) 16. edycję Międzynarodowego Festiwalu Kina Niezależnego [Mastercard](org) OFF CAMERA.
+- Jedną z ról w opowieści o ostatnich godzinach życia walijskiego poety [Dylana Thomasa](per) zagrał [John Malkovich](per), który wcielił się w postać doktora [Feltona](per).
+- Ze znanym aktorem i reżyserem rozmawiała dziennikarka [Polsat News](org) [Agnieszka Laskowska](per).
+- Zapytała go, jak czuje się w [Krakowie](loc).
+- Nie mam tu dużo czasu, ale zawsze miło jest wrócić.
+- Byliśmy w [Muzeum Tadeusza Kantora](loc), które ma fantastycznie ciekawy i uroczy budynek.
+- Jest po prostu wspaniałym muzeum.
+- Podziwiam to, czego można się tam nauczyć i jak jest rozplanowane.
+- Pracuje w nim świetny personel, a wystawa jest bardzo, bardzo interesująca - odpowiedział aktor.
+- [Agnieszka Laskowska](per) przyznała, że była pod wielkim wrażeniem filmu "Dominion", który otworzył festiwal OFF Camera.
+- Ma tyle różnych warstw, emocji, z którymi można się utożsamić, jeśli już trochę w życiu się przeżyło.
+- W pewnym sensie obwiniano ją o śmierć [Dylana Thomasa](per) i o swoiste zdystansowanie i brak empatii - odpowiedział [Malkovich](per).
+- Moja postać jest kimś, kto mówił rzeczy, których [Dylan Thomas](per) najwyraźniej nie potrafił udźwignąć i nigdy nie był nawet blisko.
+- Po prostu wydawało się, że jest coraz gorzej.
+- Ale to był bardzo ciekawy film do zrobienia.
+- Bardzo podoba mi się scenariusz i bardzo lubię [Stevena Bernsteina](per).
+- Reżyser jest również bardzo dobrym operatorem i kinematografem.
+- Film podobał mi się wizualnie.
+- Bardzo podobała mi się obsada - uznał.
+- [John Malkovich](per) przyznał, że film, w którym zagrał nową rolę jest czymś w rodzaju teatralnej kreacji, którą można było przedstawić na scenie w stu procentach.
+- [Agnieszka Laskowska](per) zwróciła uwagę, że szczególnie podczas pandemii, silnie widzowie silnie odczuli brak kin.
+- Teraz w jakimś sensie do nich wracamy.
+- To ekscytujący moment dla osób, które kochają kino, ponieważ wielki ekran całkowicie zmienia sposób, w jaki odbieramy film jako dzieło sztuki - powiedziała.
+- Według jej rozmówcy "tego się nie da przewidzieć".
+- Nie chcę być pesymistą, oczywiście zwyczaje są różne na całym świecie.
+- Nie wiem, jaka jest oglądalność w [Ameryce](loc), jeśli chodzi o niszowe kino, dokumenty czy filmy niezależne.
+- Myślę jednak, że pomimo pandemii, nawyki oglądania znacznie się zmieniły na przestrzeni lat - ocenił.
+- Wspominał też licealne lata.
+- W [1972](time) r., albo w [1973](time) r., jeśli chciałem zobaczyć na przykład "Ostatnie tango w [Paryżu](loc)", musiałem jechać 170 mil do kina.
+- Potem pojawił się VHS i to trochę odebrało mi impet, bo wtedy człowiek sobie myśli: "no cóż, kupię VHS, obejrzę to na tym".
+- Później pojawiły się CD, a teraz streaming i to wszystko odbiera impuls do oglądania kina na dużym ekranie.
+- Puryści powiedzieliby, że aparaty cyfrowe zrobiły to samo.
+- Patrzę na to z perspektywy wielu lat - zastrzegł [John Malkovich](per).
+- W jego ocenie to samo dotyczy też seriali.
+- Teraz można zobaczyć dzieła z całego świata.
+- Widziałem wiele fińskich, polskich, duńskich, szwedzkich, południowo-afrykańskich, dosłownie zewsząd.
+- Traci się w pewnych aspektach wizualnych, co może lub mogło być bardzo ważne dla starszego pokolenia, a co być może jest mniej ważne dla osób młodych - powiedział.
+- [Malkovich](per) uzupełnił, iż "z pewnością sposób, w jaki oglądamy filmy, bardzo się zmienił, po pandemii".
+- Czy tłumy wrócą na pokazy filmów artystycznych?
+- Sam w to trochę wątpię, ale nic nie wiem poza tym, że świat ciągle się zmienia - zastanawiał się.
+- Tegoroczna edycja [Mastercard](org) OFF CAMERA rozpoczęła się już [28 kwietnia](time) i potrwa do [7 maja](time).
+- Mieszkaniec [Kanady](loc) przeżył szok podczas nocnej przejażdżki po mieście.
+- Kiedy zatrzymał się na czerwonym świetle, zobaczył na jezdni twarz [Johna Lennona](per), zmarłego muzyka [The Beatles](org).
+- Zdjęcie odbiło się szerokim echem w mediach społecznościowych.
+- "Wygląda na naprawdę wściekłego, prawdopodobnie dlatego, że jest przemoczony" - ocenił jeden z komentujących.
+- Niecodzienny "portret" kierowca ujrzał w kanadyjskim [Ontario](loc).
+- [Tyler Daniel](per), podczas nocnej przejażdżki po mieście, zatrzymał się na czerwonym świetle.
+- Nagle zauważył na mokrej jezdni wpatrującego się w niego [Johna Lennona](per).
+- Mężczyzna opublikował zdjęcie "twarzy" legendarnego muzyka [The Beatles](org) w mediach społecznościowych.
+- Fotografia zamieszczona także przez brytyjski dziennik ["Metro"](org) odbiła się szerokim echem w sieci.
+- Nie zabrakło także komentarzy, że kierowca powinien ostrożnie ominąć "muzyka".
+- "[John Lennon](per) chyba chce powiedzieć, że nie ma tu przejazdu" - stwierdziła następna osoba.
+- "Na pewno zmieniłabym pas" - uznała jeszcze inna internautka.
+- To kolejny w ostatnim czasie przypadek, gdy ktoś widzi podobiznę znanej osoby w "dziwnym" miejscu.
+- W [czwartek](time) media obiegło zdjęcie szynki wykonane przez mieszkankę [Wielkiej Brytanii](loc).
+- 36-letnia [Hattie Osma](per) podzieliła się nietypową podobizną zmarłej 25 lat temu "królowej ludzkich serc" - księżnej [Diany](per) - "uwiecznionej" na jednym z plastrów.
+- To było naprawdę straszne i piękne zarazem.
+- Cieszę się, że nie położyłam tego na swojej kanapce - powiedziała 36-latka w rozmowie ze ["Scottish Daily Express"](org).
+- Jeden z kolegów miał zaproponować kobiecie 30 funtów (ok. 150 zł) za kawałek.
+- Fanka rodziny królewskiej nie przyjęła jednak propozycji i zatrzymała szynkę dla siebie.
+- Obie historie związane są ze zjawiskiem znanym jako pareidolia, czyli dopatrywaniem się znanych kształtów w przypadkowych szczegółach.
+- Towarzyszy temu poczucie nierzeczywistego charakteru owych spostrzeżeń, przeważnie pojawiające się przy pełnej świadomości.
+- Z pareidolią często związane są chmury, które mogą przypominać kształtem postacie ludzi czy zwierząt.
+- Jak dotąd amerykańska straż przybrzeżna nie znalazła żadnych śladów pasażera.
+- Mężczyzna prawdopodobnie wypadł za burtę statku wycieczkowego podróżującego z [Brisbane](loc) na [Hawaje](loc).
+- Australijski pasażer wypadł za burtę podczas rejsu statkiem wycieczkowym z [Australii](loc) na [Hawaje](loc).
+- W oświadczeniu straż przybrzeżna poinformowała, że we wtorek późnym wieczorem otrzymała raport ze statku wycieczkowego Quantum of the Seas o człowieku, który wypadł za burtę na [Pacyfiku](loc), około 900 kilometrów od [Hawajów](loc).
+- Marka linii wycieczkowych [Royal Caribbean](org) wydała oświadczenie potwierdzające zaginięcie pasażera.
+- Pierwszą akcję ratunkową podjęła załoga statku.
+- Za burtę wyrzucono sześć kół ratunkowych.
+- Na pokładzie i wokół statku zapalono wszystkie światła.
+- Wycieczkowiec stał w miejscu ponad dwie godziny.
+- Jak podaje [CNN](org), jedna z pasażerek statku [Georgina Thompson](per) usłyszała wieczorem "Oscar, oscar, oscar", czyli kod linii statku wycieczkowego, oznaczający "człowieka za burtą".
+- Wszędzie, były światła, wielkie światła świecące na oceanie.
+- Rozświetliły cały ocean.
+- Cóż, większość oceanu.
+- Jednak była noc i było bardzo ciemno" - oceniła pasażerka.
+- Po godzinach stania w miejscu zdarzenia wycieczkowiec wznowił rejs.
+- Zaginionego mężczyzny szukała w wodzie straż przybrzeżna.
+- Wysłała zawiadomienie do wszystkich statków w okolicy, które byłyby w stanie pomóc, o przybycie na miejsce wypadku.
+- Wezwano również [Marynarkę Wojenną Stanów Zjednoczonych](org) - podało [The Sydney Morning Herald](org).
+- Wysłany został także samolot, który sprawdzał wodę przy pomocy radiolatarni lokalizacyjnych.
+- Nie był jednak w stanie znaleźć mężczyzny.
+- Samolot Hercules amerykańskiej straży przybrzeżnej szukał mężczyzny przez sześć godzin.
+- Zakończył poszukiwania w [środę](time) o godzinie [15](time) czasu lokalnego.
+- Po tym czasie skończyło mu się paliwo.
+- Powrócił do bazy, jednak poszukiwania miały zostać wznowione następnego dnia z samego rana, również za pomocą ratunkowych patroli powietrznych.
+- [Georgina Thompson](per) powiedziała, że jej mąż myślał, że statek się zatrzymał, ponieważ w coś uderzył, jednak po chwili zdali sobie sprawę, że ktoś jest za burtą.
+- Jak podają świadkowie, następny ranek był "bardzo ponury".
+- Pasażerowie nie dostali żadnych nowych wieści o zaginionym mężczyźnie.
+- Dotychczasowe negocjacje z [Komisję Europejską](org) w sprawie zakazu wwożenia do [Unii](org) produktów spożywczych z [Ukrainy](loc) zakończyły się bez porozumienia - poinformował minister rolnictwa [Robert Telus](per).
+- Szef resortu odniósł się także do rekompensaty proponowanej przez [KE](org).
+- 100 mln euro dla pięciu krajów to za mała kwota.
+- Nasi rolnicy ponieśli dużo większe straty - podkreślił.
+- We [wtorek](time) w [Luksemburgu](loc) miały miejsce rozmowy ministrów rolnictwa [Polski](loc), [Bułgarii](loc), [Rumunii](loc), [Słowacji](loc) i [Węgier](loc) z unijnym komisarzem ds. handlu [Valdisem Dombrovskisem](per) na temat zakazu importu towarów z [Ukrainy](loc).
+- Mieliśmy spotkanie w naszej nieformalnej koalicji pięciu państw przyfrontowych.
+- Utrzymujemy jedność w tej sprawie - podkreślił na konferencji minister rolnictwa [Robert Telus](per).
+- [Unia Europejska](org) wyraziła już zgodę w sprawie pięciu produktów.
+- Trwają negocjacje co do kolejnych - przekazał [Robert Telus](per).
+- [KE](org) miała zgodzić się już na zatrzymanie importu pszenicy, kukurydzy, rzepaku, nasion słonecznika i oleju słonecznikowego.
+- Jak przekazał szef resortu rolnictwa, ministrowie cały czas rozmawiają z [Komisją Europejską](org) na temat wwożenia do [UE](org) z [Ukrainy](loc) mąki, cukru, owoców miękkich, jaj, drobiu, mleka i produktów mlecznych oraz koncentratu z soku jabłkowego.
+- Kością niezgody ma być także termin zniesienia ograniczeń importu.
+- Minister rolnictwa przekazał, że zgodnie z propozycją [KE](org), wstępnym terminem miałby być [5 czerwca](time).
+- My uważamy, że już powinniśmy zapisać w porozumieniu, żeby było to co najmniej do końca roku - powiedział [Robert Telus](per).
+- Oczywiście tranzyt zachowujemy, ale chodzi o to, żeby te produkty nie trafiały do naszych krajów.
+- Mówimy tu głównie o [Polsce](loc), ale jesteśmy w tej sprawie razem z innymi państwami - podkreślił minister.
+- Szef resortu rolnictwa odniósł się także do rekompensaty proponowanej przez [KE](org).
+- 100 mln euro dla pięciu krajów to za mała kwota.
+- Nasi rolnicy ponieśli dużo większe straty - podkreślił [Robert Telus](per).
+- Domagamy się, żeby ta kwota była większa, żeby przynajmniej w jakimś stopniu zwrócić naszym rolnikom straty w związku z wojną na [Ukrainie](loc).
+- Wszyscy mówimy jednym głosem, że winowajcą tej sytuacji jest [Moskwa](loc), czyli [Władimir Putin](per) - wyjaśnił minister.
+- Nie jest jasne, kiedy negocjacje zostaną wznowione.
+- Jak przekazał [Robert Telus](per), komisarz ds. handlu [Valdis Dombrovskis](per) zaproponował, aby zespoły negocjacyjne dokładnie prześledziły, ile poszczególnych produktów wpływa na teren ich kraju.
+- Największym sukcesem jest to, że jesteśmy solidarni, bo to nam daje szansę na dalsze negocjacje - podkreślił [Robert Telus](per).
+- Część analiz już wysłaliśmy, część będziemy jeszcze przygotowywać.
+- Zwróciliśmy uwagę pana komisarza, że niektórych rzeczy nie da się oprzeć na twardych danych - powiedział minister.
+- Na razie nie mamy na przykład wpływu owoców miękkich, ale zaraz zacznie się sezon i pojawi się problem - wyjaśnił.
+- Minister rolnictwa odniósł się także do krytyki wcześniejszej decyzji [Polski](loc) o wstrzymaniu importu produktów spożywczych z [Ukrainy](loc).
+- Wyraził przy tym ubolewanie, że "niektórzy próbują ten kryzys wykorzystać politycznie".
+- Cieszę się, że twarde decyzje, które podjęliśmy, a które były krytykowane i w [Polsce](loc) i w [Europie](loc) - zamknęliśmy granice, stworzyliśmy koalicję pięciu państw - doprowadziły do tego, że [UE](org) zaczęła z nami rozmawiać, zauważyła problem - podkreślił [Robert Telus](per).
+- My mówimy jasno: dla nas interes Polaków, interes polskiego rolnika jest ważniejszy niż opinie, że jest to działanie jednostronne - podsumował.
+# gazetaprawna.pl
+- [Bułgarski parlament](org) wybrał we [wtorek](time) koalicyjny rząd, któremu przewodzić będzie naukowiec [Nikołaj Denkow](per).
+- Członkowie gabinetu pochodzą z dwóch największych klubów: [Kontynuujemy Zmiany-Demokratyczna Bułgaria](org) oraz [GERB](org).
+- Za nowym rządem głosowało 131 deputowanych, przeciw było 69.
+- Wybór rządu ma położyć kres trwającemu od ponad dwóch lat kryzysowi politycznemu, podczas którego w kraju pięć razy odbyły się wybory przedterminowe.
+- Głosowanie na rzecz koalicji, według jej zwolenników, oznacza powrót do parlamentarnej republiki i odstąpienie od prezydenckiej.
+- Koalicja dwóch klubów wywołała wiele kontrowersji.
+- Skrytykował ją obecny na sali plenarnej prezydent [Rumen Radew](per), który podkreślił, że połączenie dwóch sił, których fundamentem kampanii było wzajemne zwalczanie się, "praktycznie pozbawiło sensu wybory, które są podstawą demokracji".
+- Premier [Nikołaj Denkow](per) nakreślił najważniejsze zadania swojego rządu: przyjęcie budżetu za [2023](time) rok z trzyprocentowym deficytem, walka z inflacją, wejście do strefy [Schengen](loc) jeszcze w tym roku i eurolandu w [2025](time) roku, zmiany w ustawodawstwie prawnym, zagwarantowanie przystępnych cen źródeł energii.
+- Opozycyjne siły – populistyczna rusofilska [Wyzrażdane](org), lewicowa [Bułgarska Partia Socjalistyczna](org) (BSP), populistyczna [Jest Taki Naród](org) krytykowały porozumienie koalicyjne, celem którego, według nich, jest ocalenie ściganych przez prokuraturę posłów obu sił, w tym liderów [Bojko Borisowa](per) i [Kiriła Petkowa](per).
+- "To jest koalicja strachu" – podkreśliła liderka [BSP](org) [Kornelia Ninowa](per).
+- [Ukraińskie MSZ](org) wezwało we [wtorek](time) w oświadczeniu do zorganizowania pilnego spotkania [Rady Bezpieczeństwa ONZ](org) w sprawie "rosyjskiego ataku terrorystycznego", w którym zniszczono tamę na [Dnieprze](loc) w [Nowej Kachowce](loc) na południu [Ukrainy](loc), oraz do nałożenia kolejnych dotkliwych sankcji na [Rosję](loc).
+- Ukraiński resort zażądał nałożenia nowych międzynarodowych sankcji w szczególności na rosyjski przemysł rakietowy i atomowy.
+- "Uważamy wysadzenie przez [Federację Rosyjską](loc) tamy [Kachowskiej Elektrowni Wodnej](loc) za akt terroru skierowanego przeciwko infrastrukturze krytycznej [Ukrainy](loc), który ma na celu spowodowanie tak wielu ofiar cywilnych i zniszczeń, jak to tylko możliwe" - napisano.
+- Jak dodał ukraiński resort, "atak terrorystyczny" był wcześniej przedmiotem dyskusji na szczeblu sił okupacyjnych w [obwodzie chersońskim](loc) oraz propagandzistów w rosyjskiej telewizji, co oznacza, że był on zaplanowany z wyprzedzeniem.
+- Eksplozja tamy to "ekologiczny i technologiczny akt terroru, największa katastrofa technologiczna w [Europie](loc) w ostatnich dekadach" - twierdzi [ukraińskie MSZ](org).
+- Jak podkreśla resort, w związku z wysadzeniem tamy w zagrożeniu znalazła się również [Zaporoska Elektrownia Atomowa](loc).
+- "[Rosja](loc) będzie musiała zrekompensować wszystkie swoje zbrodnie: wobec ludzi, infrastruktury i środowiska" - uważa [ukraińskie MSZ](loc).
+- [Ukraina](loc) zaapelowała do państw [G7](org) i [UE](org) o pilne rozważenie nałożenia na [Rosję](loc) nowych, daleko idących sankcji.
+- Do rozmów na temat "rosyjskiego ataku terrorystycznego" wezwano, poza forum [Rady Bezpieczeństwa ONZ](org), na posiedzeniu [Rady Gubernatorów MAEA](org).
+- [MSZ Ukrainy](org) wniosło ponadto o zastosowanie Unijnego Mechanizmu Ochrony Ludności, czyli systemu koordynacji pomocy ratowniczej i humanitarnej na wypadek katastrof naturalnych i wynikających z działalności człowieka.
+- Firma [Microsoft](org) została ukarana grzywną 20 milionów dolarów przez [Federalną Komisję Handlu](org) (FTC) za nielegalne zbieranie danych dzieci, które utworzyły konta w sieci konsoli Xbox, o czym poinformowała ta [główna amerykańska agencja antymonopolowa](org).
+- Wśród naruszeń ze strony [Microsoftu](org) [FTC](org) wymieniła m.in. to, że firma nie poinformowała rodziców dzieci o zasadach zbierania danych.
+- Porozumienie między przedsiębiorstwem a amerykańską agencją osiągnięto w [poniedziałek](time).
+- [FTC](org) stwierdziła, że [Microsoft](org) naruszył ustawę o ochronie prywatności dzieci w internecie, nie uzyskując w odpowiedni sposób lub w ogóle zgody rodziców i przechowując dane osobowe dzieci poniżej 13. roku życia dłużej niż było to konieczne.
+- Prawo wymaga od serwisów internetowych i stron internetowych skierowanych do dzieci uzyskania zgody rodzica oraz poinformowania rodzica o gromadzeniu danych osobowych jego dziecka.
+- Użytkownicy konsoli Xbox muszą utworzyć konto w sieci Xbox, aby móc korzystać z części usług.
+- Gromadzone są takie informacje jak imię i nazwisko, adres e-mail i data urodzenia.
+- Dopiero po uzyskaniu danych osobowych, takich jak numer telefonu dziecka, firma [Microsoft](org) poprosiła rodzica o wyrażenie zgody.
+- Od [2015](time) do [2020](time) roku [Microsoft](org) przechowywał dane z założonego konta "czasami przez lata" - jak napisała [FTC](org) w oświadczeniu - nawet jeśli rodzic ostatecznie nie zatwierdził procesu.
+- Firma nie poinformowała również rodziców o wszystkich gromadzonych przez siebie danych, w tym, że zapisuje zdjęcie profilowe użytkownika, a informacje są udostępniane stronom trzecim.
+- W ramach ugody [Microsoft](org) musi także wprowadzić nowe zabezpieczenia, co obejmuje usuwanie wszystkich danych osobowych po dwóch tygodniach, jeśli nie uzyskano zgody rodziców.
+- Nakaz musi zostać zatwierdzony przez sędziego federalnego, zanim wejdzie w życie.
+- W ubiegłym tygodniu firma [Amazon](org) zgodziła się zapłacić 25 mln dolarów kary po tym, jak [FTC](org) odkryła, że przez lata przechowywała wrażliwe dane, w tym nagrania głosów dzieci.
+- 31 lat temu, późnym wieczorem [4 czerwca](time) [1992](time) r., upadł rząd [Jana Olszewskiego](per), pierwszy gabinet po II wojnie światowej wyłoniony przez [Sejm](org) po całkowicie wolnych wyborach.
+- Przyczyną jego odwołania była sprawa lustracji polityków.
+- O jego upadku zadecydowały również podziały w środowisku [„Solidarności”](org).
+- Pierwsze od kilkudziesięciu lat w pełni wolne wybory odbyły się [27 października](time) [1991](time) r. O ich wyniku w dużej mierze zadecydowała przyjęta przez [Sejm](org) kontraktowy ordynacja proporcjonalna, nieprzewidująca ogólnopolskiego progu wyborczego.
+- Takie prawo wyborcze w połączeniu z kształtującym się systemem partyjnym zaowocowało niezwykle rozbitym składem [Sejmu](org).
+- W ławach poselskich zasiedli reprezentanci aż 24 ugrupowań, z których tylko dziesięć wprowadziło do izby więcej niż dziesięciu posłów.
+- Powołanie nowego rządu wymagało zawarcia niezwykle szerokiej koalicji, łączącej formacje o bardzo różnym programie.
+- Legitymizację nowego [Sejmu](org) osłabiała także wyjątkowo niska frekwencja wyborcza, która wyniosła zaledwie 43 proc.
+- [Jesienią](time) [1991](time) r. prezydent [Lech Wałęsa](per) powierzył misję sformowania nowego gabinetu [Bronisławowi Geremkowi](per) reprezentującemu posiadającą najwięcej mandatów [Unię Demokratyczną](org).
+- Jednak [Geremek](per) nie był w stanie utworzyć większości wystarczającej do uzyskania wotum zaufania.
+- Ostatecznie więc [Rada Ministrów](org) została skonstruowana przez [Jana Olszewskiego](per) w oparciu o koalicję [Porozumienia Centrum](org), [ZChN](org) i [Porozumienia Ludowego](org), bez trwałej większości parlamentarnej.
+- Co równie istotne, rząd nie cieszył się wsparciem głowy państwa ani sympatią zdecydowanej większości mediów.
+- W kolejnych miesiącach konflikt polityczny z ośrodkiem prezydenckim coraz bardziej się zaostrzał.
+- Spór dotyczył m.in. obsady stanowiska szefa [Sztabu Generalnego](org).
+- Mimo niestabilnej większości parlamentarnej w programie nowego gabinetu pojawiły się ambitne założenia.
+- Wśród nich na plan pierwszy wysuwało się przyspieszenie reform politycznych, dekomunizacja sfery publicznej oraz zacieśnianie kontaktów z [Unią Europejską](org).
+- Po raz pierwszy jako strategiczny cel Polski wymieniono członkostwo w [NATO](org).
+- Musimy podjąć wyzwanie szybko biegnącej historii.
+- Musimy sprostać chlubnym tradycjom naszego narodu.
+- Świadomi naszych słabości i wad, z pokorą, ale w poczuciu dziejowej odpowiedzialności musimy starać się podjąć dziedzictwo Najjaśniejszej Rzeczypospolitej” – powiedział [Olszewski](per) w exposé z [21 grudnia](time) [1991](time) r. 
+- Przedmiotem sporu z obozem prezydenckim i wspierającymi go stronnictwami parlamentarnymi były także kwestie związane z negocjowanym wycofaniem wojsk rosyjskich z terytorium [RP](loc).
+- [22 maja](time) [1992](time) r. prezydent [Lech Wałęsa](per) po raz pierwszy udał się z wizytą do niepodległej [Rosji](loc).
+- W trakcie rozmów wynegocjowano porozumienie, którego jeden z punktów mówił, że obie strony „stworzą warunki” dla zakładania mieszanych przedsiębiorstw polsko-rosyjskich na terenie baz opuszczanych przez armię rosyjską w [Polsce](loc).
+- Rząd wysłał wtedy do przebywającego w [Moskwie](loc) [Wałęsy](per) szyfrogram sprzeciwiający się podpisaniu porozumienia.
+- Zdaniem premiera [Olszewskiego](per) zapis ten czyniłby z [Polski](loc) rosyjską niesuwerenną kolonię gospodarczą, bo byłyby to dla kraju „spółki przymusowe”.
+- Po powrocie z [Moskwy](loc) prezydent [Wałęsa](per) rozpoczął konsultacje polityczne zmierzające do obalenia premiera [Olszewskiego](per).
+- [26 maja](time) napisał w liście do marszałka [Sejmu](org) [Wiesława Chrzanowskiego](per), że „stracił zaufanie” do gabinetu [Olszewskiego](per).
+- [Wiosną](time) roku [1992](time) w [MSW](org) działał kierowany przez [Piotra Woyciechowskiego](per) Wydział Studiów stworzony na polecenie [Antoniego Macierewicza](per).
+- W [maju](time) ten zespół był już w dużym stopniu gotowy do podania informacji o współpracy z komunistyczną bezpieką parlamentarzystów i najwyższych rangą urzędników.
+- [28 maja](time) w dzienniku [„Nowy Świat”](org) ukazał się wywiad z działaczem opozycji [Krzysztofem Wyszkowskim](per), który stwierdził, że w [Sejmie](org) zasiada 60 posłów będących tajnymi współpracownikami [SB](org).
+- Pod wrażeniem tego wywiadu i w obliczu groźby odwołania rządu [28 maja](time) [1992](time) r. poseł [Unii Polityki Realnej](org) [Janusz Korwin-Mikke](per) zgłosił wniosek o przyjęcie uchwały ujawniającej nazwiska posłów, senatorów, ministrów, wojewodów, sędziów i prokuratorów będących tajnymi współpracownikami [Urzędu Bezpieczeństwa](org) i [Służby Bezpieczeństwa](org).
+- Po upadku [Rady Ministrów](org) [Korwin-Mikke](per) zaznaczył, że celem jego działań było przerwanie serii oskarżeń o agenturalność, wysuwanych wobec wielu osób publicznych, m.in. szefa [MSZ](org) prof. [Krzysztofa Skubiszewskiego](per).
+- Nie powiodła się podjęta przez opozycję próba zerwania quorum.
+- W głosowaniu wzięło udział 233 posłów.
+- Wykonując sejmową uchwałę lustracyjną, szef [MSW](org) [Antoni Macierewicz](per) o poranku [4 czerwca](time) przekazał szefom klubów parlamentarnych listę zawierającą nazwiska 64 posłów, senatorów i członków rządu, których nazwiska widniały w zasobach archiwalnych [MSW](org).
+- Wśród nich byli m.in. prezydent [Wałęsa](per), marszałek [Sejmu](org) [Wiesław Chrzanowski](per), minister spraw zagranicznych prof. [Skubiszewski](per) i minister finansów [Andrzej Olechowski](per).
+- Po przyjęciu przez [Sejm](org) uchwały lustracyjnej, podczas spotkania z ministrem [Macierewiczem](per), [Wałęsa](per) skrytykował próbę ujawnienia agentury, a także poprosił o przekazanie mu „jego teczki”.
+- [Macierewicz](per) argumentował, że głównym celem jego działań jest nie tylko ujawnienie tajnych współpracowników bezpieki.
+- „Rzecz nie w oskarżeniu, ale w tym, aby ludzie, których dotknęło to nieszczęście, sami się usunęli” – odpowiedział szef [MSW](org).
+- W dniu ujawnienia tzw. listy [Macierewicza](per), [4 czerwca](time), w południe [Kancelaria Prezydenta](org) przesłała do [PAP](org) oświadczenie, w którym [Lech Wałęsa](per) przyznawał się do współpracy z bezpieką.
+- Aresztowano mnie wiele razy.
+- Za pierwszym razem, w [grudniu](time) [1970](time) roku, podpisałem 3 albo 4 dokumenty.
+- Podpisałbym prawdopodobnie wtedy wszystko, oprócz zgody na zdradę Boga i Ojczyzny, by wyjść i móc walczyć.
+- Nigdy mnie nie złamano i nigdy nie zdradziłem ideałów ani kolegów – napisał prezydent.
+- Po kilkudziesięciu minutach oświadczenie zostało wycofane, a [Wałęsa](per) uznał materiały [SB](org) za „sfabrykowane”.
+- Zastosowana procedura na podstawie uchwały [Sejmu](org) jest działaniem pozaprawnym.
+- Umożliwia polityczny szantaż.
+- Całkowicie destabilizuje struktury państwa i partii politycznych.
+- Kwestie etyczne związane z całą tą operacją, mającą już w swoim założeniu charakter manipulacji pozostawiam bez komentarza – oświadczył prezydent.
+- Nie da się tworzyć nowej historii [Polski](loc) bez odtworzenia jej moralnych fundamentów.
+- Istniejemy jako państwo tylko dzięki temu, że przez pokolenia umieliśmy sprostać wielkim wymaganiom.
+- Chwila obecna stawia nas przed nowym egzaminem.
+- Wolnym narodem, niepodległym państwem, nie mogą rządzić ludzie zniewoleni własną przeszłością – mówił premier [Jan Olszewski](per) w wystąpieniu telewizyjnym wyemitowanym w obu programach [TVP](org) wieczorem [4 czerwca](time) [1992](time) r. Była to ostatnia, skazana na niepowodzenie, próba uchronienia jego gabinetu przed odwołaniem.
+- W tym samym czasie w [Sejmie](org) trwały gorączkowe konsultacje prezydenta [Wałęsy](per) z liderami ugrupowań postsolidarnościowych przeciwnych rządowi [Kongresu Liberalno-Demokratycznego](org), [Unii Demokratycznej](org), [Konfederacji Polski Niepodległej](org) oraz [Polskiego Stronnictwa Ludowego](org).
+- W ich trakcie ukształtowała się tymczasowa koalicja zdolna (przy poparciu posłów klubów postkomunistycznych – [PSL](org) i [SLD](org)) do odwołania rządu [Olszewskiego](per).
+- [Wałęsa](per) naciskał na głosowanie wniosku o wotum nieufności jeszcze tej samej nocy.
+- Tuż przed głosowaniem premier [Olszewski](per) po raz ostatni zabrał głos z trybuny sejmowej.
+- Chciałbym mianowicie, wtedy, kiedy ten gmach opuszczę, kiedy skończy się dla mnie ten – nie ukrywam – strasznie dolegliwy czas, kiedy po ulicach mojego miasta mogę się poruszać tylko samochodem albo w towarzystwie torującej mi drogę i chroniącej mnie od kontaktu z ludźmi eskorty, że wtedy, kiedy się to wreszcie skończy – będę mógł wyjść na ulice tego miasta, wyjść i popatrzeć ludziom w oczy.
+- I tego wam – Panie Posłanki i Panowie Posłowie – życzę po tym głosowaniu – mówił.
+- Za wotum nieufności głosowało 273 posłów przy 119 przeciw i 33 wstrzymujących się.
+- Rząd [Jana Olszewskiego](per), gdyby nie podjął tematu lustracji, to i tak zostałby obalony.
+- Być może stałoby się to kilka lub kilkanaście dni później.
+- Ten rząd nie miał większości, a to sprawiało, że w warunkach braku mechanizmu konstruktywnego wotum zaufania musiał zostać odwołany.
+- W podobny sposób upadł rząd [Hanny Suchockiej](per) – podkreślił w rozmowie z [PAP](org) historyk prof. [Antoni Dudek](per).
+- Konflikt i upadek gabinetu [Olszewskiego](per) zaostrzył dotychczasowe podziały ideowe, szczególnie widoczne w przestrzeni medialnej.
+- Jednoznacznie przeciwko lustracji opowiedziało się środowisko [„Gazety Wyborczej”](org).
+- Na łamach tego dziennika popularna była także teza o przygotowywanym przez rząd [Olszewskiego](per) zamachu stanu.
+- Plan ten miał zakładać m.in. aresztowanie prezydenta [Wałęsy](per).
+- Podnoszono argumenty niekompletności archiwum, sfałszowania części materiałów [SB](org) oraz konieczności ochrony praworządności.
+- Pisano, że lustracja byłaby „pośmiertnym zwycięstwem esbecji” lub kompromitacją [Polski](loc) na arenie międzynarodowej.
+- Po stronie [Olszewskiego](per) opowiadała się prasa związana z prawicą.
+- „[Olszewski](per) odchodzi – agenci pozostają” – zwrócono uwagę w dzienniku [„Nowy Świat”](org), podsumowując wydarzenia z „nocy teczek”.
+- [Czerwiec](time) [1992](time) r. nie przerwał jednak gry teczkami toczonej przez tych, którzy dokonali „prywatyzacji” materiałów bezpieki.
+- Wielu myśli, że kupili sobie milczenie i że ich tajemnice spoczywają w archiwach [MSW](org).
+- Ale być może nie wszystko znajduje się na [Rakowieckiej](loc) – mówił w wywiadzie dla [„Trybuny”](org) jeden z liderów [SdRP](org), [Leszek Miller](per).
+- Zdaniem prof. [Antoniego Dudka](per) sprawa lustracji była jednak głównie przedmiotem sporu politycznego, a nie społecznego.
+- Przypomniał o apatii społecznej, która była wynikiem fatalnej sytuacji gospodarczej.
+- Większość pozostawała obojętna.
+- Dowodem tego jest fakt, że po upadku rządu nie było żadnej reakcji w postaci manifestacji w jego obronie.
+- Przestrzeń publiczną zdominowały dwie radykalne mniejszości – antylustracyjna i prolustracyjna – ocenił historyk.
+- [5 czerwca](time) nowym pełniącym obowiązki premiera został przedstawiciel [PSL](org) [Waldemar Pawlak](per).
+- Był pierwszym po [1989](time) r. członkiem formacji postkomunistycznej na czele [Rady Ministrów](org).
+- Trzeba docenić odwagę prezydenta [Lecha Wałęsy](per), który zgłaszając kandydaturę [Pawlaka](per), dokonał kroku rzeczywiście historycznego – argumentował lider [SdRP](org) [Aleksander Kwaśniewski](per).
+- Po nieskutecznej próbie powołania rządu [Pawlak](per) podał się do dymisji.
+- Obóz ugrupowań postsolidarnościowych w [lipcu](time) [1992](time) r. stworzył nową większość, która wyłoniła gabinet [Hanny Suchockiej](per).
+- [Latem](time) [1992](time) r. w [Sejmie](org) przedstawiono kilka projektów ustaw lustracyjnych, ale nie zostały one rozpatrzone.
+- „Musiało upłynąć kilka lat, aby [Sejm](org) uchwalił ustawę lustracyjną” – przypomniał w rozmowie z [PAP](org) prof. [Dudek](per).
+- Dyrektor [Biura Lustracyjnego IPN](org), prokurator [Jarosława Skrok](per), ocenił, że fakt, iż [Polska](loc) była jednym z ostatnich krajów bloku komunistycznego, który przyjął procedury lustracyjne, negatywnie wpłynął na funkcjonowanie państwa.
+- Powodem takiego stanu rzeczy był silny i skuteczny opór ze strony wpływowych wówczas grup i środowisk, skierowany na nieujawnianie kompromitującej - agenturalnej przeszłości wielu osób pełniących eksponowane funkcje publiczne.
+- Skutki opóźnienia procesów lustracjach są trudne do oszacowania, tym niemniej takie opóźnienie – z punktu interesów państwa – należy ocenić jednoznacznie krytycznie – zauważył w rozmowie z [PAP](org).
+- W jego opinii celem lustracji jest nie tylko poznawanie przeszłości, lecz i doprowadzenie do samooczyszczenia polskiego życia publicznego.
+- Jednym z ważnych efektów ustawy lustracyjnej z [1997](time) r. było doprowadzenie do sytuacji, w której wiele osób, które miały kontakty z organami bezpieczeństwa państwa, postanawia zrezygnować z pełnienia funkcji publicznych.
+- Taki sam efekt prewencyjny obserwujemy w związku z aktualnie obowiązującą ustawą lustracyjna z [2006](time) r. – zauważył.
+- Wydarzenia, które do historii przeszły jako „nocna zmiana”, wciąż są przedmiotem licznych dyskusji historyków i publicystów.
+- Większość z nich niezależnie od poglądów politycznych podkreśla, że działania [Jana Olszewskiego](per) w tamtych dniach nie miały na celu utrzymania władzy, lecz realizację jego wizji oczyszczenia życia publicznego w [Polsce](loc).
+- W wywiadzie rzece opublikowanym przez dziennikarzy [„Tygodnika Solidarność”](org) trzy miesiące po wydarzeniach [czerwca](time) [1992](time) r. były premier bronił swojej decyzji o ujawnieniu listy agentów [SB](org) oraz wyjaśniał, jakie czynniki zdecydowały o jego odwołaniu.
+- Jego zdaniem o upadku rządu przesądził wspólny interes całej sfery nomenklaturowej i okrągłostołowej, który przez ujawnienie teczek i proces lustracji zostałby zburzony.
+- Bo po rzetelnym przeprowadzeniu lustracji układ ten poniósłby tak olbrzymie straty personalne, że nie dałoby się go utrzymać.
+- W opinii prof. [Antoniego Dudka](per) ówczesne podziały polityczne mają swoją kontynuację na dzisiejszej scenie politycznej.
+- Obszar sporów był nieco inny.
+- Przesłaniała je sprawa lustracji, ale w tle były m.in. kwestie dotyczące polityki zagranicznej oraz kontroli nad siłami zbrojnymi – zaznaczył.
+- Według historyka na pozycję gabinetu [Olszewskiego](per) wpływały również ambicje prezydenta [Wałęsy](per), który w okresie premierostwa [Jana Krzysztofa Bieleckiego](per) dominował na polskiej scenie politycznej.
+- [Jan Olszewski](per), w zgodzie z konstytucją, uważał, że pozycja rządu musi być niezależna.
+- To było podstawą tego konfliktu.
+- Dopiero w maju pojawiła się sprawa lustracji, która przesądziła upadek rządu.
+- Gdyby [Olszewski](per) miał większość parlamentarną lub poparcie prezydenta [Wałęsy](per), to funkcjonowałby dłużej – dodał prof.[Dudek](per).
+- Minister obrony [Egiptu](loc) [Mohamed Zaki](per) i jego izraelski odpowiednik [Joaw Galant](per) omówili w [sobotę](time) "niezbędne środki, aby zapobiec powtórzeniu się" incydentu, w którym trzech izraelskich żołnierzy zostało zabitych przez egipskiego policjanta - podał [Reuters](org).
+- Funkcjonariusz, który przekroczył granice podążając za przemytnikami narkotyków został ostatecznie zabity przez izraelskie wojsko.
+- W rozmowie telefonicznej ministrowie omówili podjęcie niezbędnych środków w celu zapobieżenia powtórzeniu się incydentów na granicy - ponformowano w oświadczeniu egipskiego wojska.
+- Biuro [Galanta](per) przekazało, że minister wyraził uznanie dla zaangażowania egipskiego ministra obrony we wspólne dochodzenie w sprawie zdarzenia, a [Siły Obronne Izraela](org) poinformowały, że egipska armia w pełni współpracuje w dochodzeniu.
+- Rzecznik [Sił Obrony Izraela](org) (IDF) [Daniel Hagari](per) powiedział dziennikarzom, że egipski funkcjonariusz, podążając za przemytnikami narkotyków, wszedł przez bramę znajdującą się w barierze dzielącej oba kraje we wczesnych godzinach porannych w [sobotę](time).
+- Egipska armia przekazała, że oficer odpowiedzialny za bezpieczeństwo granicy podczas pościgu przekroczył barierę bezpieczeństwa i rozpoczęła się wymiana ognia, w której zginęło trzech izraelskich żołnierzy".
+- Przekazano "szczere kondolencje" rodzinom ofiar.
+- [“Times of Israel”](org) pisze, że na granicy między obu państwami często dochodzi do szmuglu narkotyków.
+- Kilka godzin przed strzelaniną izraelskie wojsko przechwyciło taki transport o szacunkowej wartości czarnorynkowej 1,5 mln szekli (400 tys. dolarów).
+- Izraelskie media zaznaczają, że sobotni incydent był jednym z najpoważniejszych od czasu podpisania umowy pokojowej między obu krajami.
+- [Izrael](loc) i [Egipt](loc) zawarły porozumienie pokojowe w [1979](time) r., ale wzajemne stosunki pozostają nadal chłodne.
+- Mimo to w ostatnich latach władze obu krajów utrzymywały bliskie kontakty w dziedzinie bezpieczeństwa ze względu na wspólne interesy w tym zakresie w [Strefie Gazy](loc), a także na [Półwyspie Synaj](loc) i we wschodniej części [Morza Śródziemnego](loc).
+- W najnowszych sondażach politycznych [Alternatywa dla Niemiec](org) może liczyć na prawie 20 proc. poparcia.
+- Jedną z przyczyn jest większy napływ migrantów.
+- Dwie pracownie socjologiczne opublikowały w ubiegły weekend nowe dane dotyczące preferencji wyborczych.
+- I tak w sondażu [Kantar](org) największym poparciem cieszy się opozycyjna chadecja z [CDU/CSU](org), która może liczyć na 27 proc. głosujących, na drugim miejscu są socjaldemokraci z [SPD](org) (20 proc.).
+- Na ta trzeciej pozycji jest radykalnie prawicowa [AfD](org) (17 proc.).
+- Jeszcze lepiej [Alternatywa](org) wypada w sondażu [INSA](org), gdzie może liczyć na 19 proc. poparcia, czyli dokładnie tyle, ile przewodząca rządzącej koalicji partia kanclerza [Olafa Scholza](per).
+- Drugiego koalicjanta pod względem liczby posłów, czyli [Zielonych](org), [Alternatywa](org) wyprzedziła już dawno.
+- Wyniki z ostatnich miesięcy pokazują, że trend jest jasny – radykalna prawica zyskuje poparcie wśród Niemców i wkrótce może ono być rekordowo wysokie.
+- Z czego wynika ta zmiana?
+- Powody są co najmniej dwa.
+- Po pierwsze, Niemcy są niezadowoleni z rządu kanclerza [Olafa Scholza](per).
+- Prawie 80 proc. uważa, że sobie nie radzi.
+- Szef rządu jest postrzegany jako słaby lider, którego przywództwo nie jest zadowalające.
+- Ale ta niechęć do rządzącej koalicji nie przekłada się na wzrost poparcia dla chadecji, tylko właśnie na zyski dla [Alternatywy](org) – tłumaczy [Kamil Frymark](per), analityk w [Ośrodku Studiów Wschodnich](org).
+- Rządząca koalicja złożona z socjaldemokratów, liberałów i [Zielonych](org) jest pełna konfliktów.
+- Tak opisuje to [„Tagesspiegel”](org): [AfD](org) jest karmiona przez partie demokratyczne.
+- Koalicja sygnalizacji świetlnej przypomina skłócony kurnik: [Zieloni](org) angażują się w misyjny aktywizm, [SPD](org) oddała pole kanclerzowi, który jest słabym liderem, a liberalna [FDP](org) gra jednocześnie w opozycji i rządzie.
+- Drugim kluczowym czynnikiem jest kwestia uchodźców.
+- I wcale nie chodzi tu o migrantów z [Ukrainy](loc).
+- Tylko od [stycznia](time) do końca [kwietnia](time) u naszych sąsiadów pojawiło się 100 tys. wniosków o azyl.
+- To znacznie więcej niż w roku ubiegłym.
+- Są to przybysze głównie z [Bliskiego Wschodu](loc) i [Afryki](loc).
+- W to nie są wliczani Ukraińcy, których jest obecnie w [Niemczech](loc) około miliona, ale są oni traktowani pod względem świadczeń jak obywatele [UE](org).
+- Tak duża liczba powoduje, że odpowiedzialne samorządy, które pomagają tym ludziom, nie są w stanie sobie poradzić.
+- Nawet te, które są zarządzane przez [Zielonych], mówią, że trzeba ograniczyć imigrację z południa – wyjaśnia [Frymark](per).
+- Aby rozwiązać problem samorządów, [10 maja](time) doszło do spotkania przedstawicieli krajów związkowych, które w [Niemczech](loc) odpowiadają za przyjęcie uchodźców, z kanclerzem [Olafem Scholzem](per).
+- Polityk [SPD](org) zapowiedział, że regiony otrzymają dodatkowy miliard euro na przyjmowanie migrantów, a cały system migracyjny zostanie zdigitalizowany, by przyspieszyć biurokrację.
+- Ale nacisk położony został również na wzmocnienie ochrony zewnętrznych granic [UE](org).
+- W ten trend wpisuje się ubiegłotygodniowe spotkanie przedstawicieli resortów spraw wewnętrznych [Polski](loc) i [Niemiec](loc) w [Świecku](loc), po którym [Nancy Faeser](per) i [Bartosz Grodecki](per) oświadczyli, że doszło do porozumienia „w sprawie dalszego zacieśnienia współpracy w celu ograniczania wtórnej nieregularnej migracji”.
+- Ma być więcej wspólnych patroli straży granicznych, ale też np. więcej kontroli pociągów.
+- Przyczyna takiego wzmożenia jest jasna – według badań dla [ARD-DeutschlandTrend](org) połowa Niemców chce ograniczenia przyjmowania migrantów.
+- Na razie sondażowe wzrosty nie przekładają się na mandat do rządzenia.
+- Ale choć w tym roku za [Odrą](loc) nie ma zaplanowanych istotnych wyborów, to w [2024](time) r. odbędą się elekcje regionalne w krajach związkowych, które wchodziły w skład dawnej [NRD](loc) – [Brandenburgii](loc), [Turyngii](loc) i [Saksonii](loc).
+- A na wschodzie, pomijając stolicę, [Alternatywa dla Niemiec](org) jest zdecydowanie najbardziej popularną partią polityczną.
+- Bardzo prawdopodobne, że dojdzie do sytuacji, w której wygra radykalna prawica, ale pozostałe odgrodzą ją „kordonem sanitarnym” i będą tworzyć nawet najbardziej egzotyczne koalicje, by [AfD](org) nie rządziła.
+- Brak jakiejkolwiek kolaboracji między chadekami a [Alternatywą](org) wczoraj potwierdził lider [CDU](org) [Friedrich Merz](per).
+- Niemniej jednak takie wykluczenie polityczne po przyszłorocznych wyborach regionalnych na pewno będzie głośnym i nośnym tematem, na którym prawica może zyskać.
+- Wybory parlamentarne odbędą się w [Niemczech](loc) planowo jesienią [2025](time) r.
+- W [przyszłym roku](time) [Niemcy](loc) wyślą dwa okręty wojenne w rejon [Indo-Pacyfiku](loc) – zapowiedział w niedzielę przebywający w [Singapurze](loc) szef niemieckiego resortu obrony [Boris Pistorius](per).
+- Przemawiając w trakcie forum bezpieczeństwa Shangri-La w [Singapurze](loc), [Pistorius](per) stwierdził, że należy stanąć w obronie międzynarodowego porządku opartego na zasadach, oraz ochrony głównych szlaków morskich – "czy to na [Morzu Śródziemnym](loc), w [Zatoce Bengalskiej](loc), czy na [Morzu Południowochińskim](loc)".
+- W tym celu niemiecki rząd federalny wysłał w [2021](time) roku fregatę na [Indo-Pacyfik](loc), i ponownie w [2024 roku](loc) rozmieści tam fregatę i statek zaopatrzeniowy" – poinformował niemiecki minister.
+- Jak dodał, krok ten "nie jest skierowany przeciwko żadnemu narodowi".
+- "Pokazując większą obecność wojskową w regionie, [Niemcy](loc) kroczą po cienkiej granicy pomiędzy własnym bezpieczeństwem a interesami gospodarczymi, ponieważ [Chiny](loc) są najważniejszym partnerem handlowym [Berlina](loc)" – podkreśliła agencja [Reutera](org), przypominając, że prawie 40 proc. europejskiego handlu zagranicznego odbywa się przez [Morze Południowochińskie](loc).
+- Prezydent [Emmanuel Macron](per) wyznał "mea culpa" wobec krajów [Europy Wschodniej](loc) podczas szczytu [Globsec](org) na [Słowacji](org), korygując dawne słowa prezydenta [Jacques’a Chiraca](per) - ocenia w [czwartek](time) dziennik [„Le Figaro”](org).
+- „Jest tylko jedna [Europa](loc)” – powiedział [Emmanuel Macron](per).
+- Odniósł się do twórczości [Milana Kundery](per) i obiecał, że [Europa](loc) nie zostanie po raz drugi podzielona – pisze [„Le Figaro”](org).
+- „Nie zawsze słyszeliśmy wasz głos” – przyznał [Macron](per).
+- Nawiązał bezpośrednio do słów [Jacquesa Chiraca](per), który krytykując poparcie [Polski](loc) dla amerykańskiej obecności w [Iraku](loc) w [2003](time) roku, stwierdził wówczas, że [Polska](loc) i kraje [Europy Wschodniej](loc) „straciły okazję do milczenia”.
+- Macron pokornie – jak pisze „Le Figaro” - przyznał: „Straciliśmy okazję do wysłuchania was”.
+- „Tym krajom, które nigdy nie zapomniały pogardy, z jaką były traktowane”, [Macron](per) „wyznał swoje mea culpa”- ocenia francuski dziennik.
+- Możecie liczyć na [Francję](loc).
+- Czasami była postrzegana jako arogancka lub niezainteresowana tym regionem.
+- Ustalmy wspólnie, jaka powinna być nasza [Europa](loc), wielka demokratyczna potęga” – apelował [Macron](per).
+- Od początku wojny na [Ukrainie](loc) - ocenia [„Le Figaro”](org) - pragnienie „nieupokarzania [Rosji](loc)”, dania jej „gwarancji bezpieczeństwa”, zbyt długi dialog, który [Macron](per) prowadził z [Władimirem Putinem](per) mimo braku rezultatów, sprawiły, że polityka zagraniczna [Francji](loc) stała się nieczytelna.
+- Dwuznaczność rosyjskiej polityki prezydenta [Francji](per) zniweczyła także jego ambicje stania się liderem [Unii Europejskiej](org).
+- Zobacz również [Macron](per) mówił w [Bratysławie](loc) również o [Ukrainie](loc).
+- Obiecał, że [Ukraina](loc) „nie zostanie podbita” i nie będzie kompromisowego pokoju między [Moskwą](loc) a [Kijowem](loc).
+- „Może być tylko jeden pokój, ten wybrany przez naród ukraiński” – powiedział prezydent, odrzucając wszelkie idee „zawieszenia broni” czy „zamrożonego konfliktu”, które tylko podsycałyby nowe wojny.
+- Musimy być przygotowani na to, że ten konflikt będzie trwał, i musimy być przygotowani na wsparcie [Ukrainy](loc) w (dłuższym) czasie.
+- To znaczy zapewnienie jej niezbędnych gwarancji bezpieczeństwa” – podkreślił [Macron](per).
+- W [2008](time) roku [Francja](loc) wraz z [Niemcami](loc) zawetowała wejście [Ukrainy](loc) i [Gruzji](loc) do [NATO](org).
+- W tamtym czasie nie byliśmy w stanie zapewnić europejskiej odpowiedzi.
+- Sprowokowaliśmy rosyjską zemstę, nie dając tym krajom wystarczających gwarancji – przyznał [Macron](per).
+- „Chcę odłożyć na bok wszelkie fantazje: nie chcę zastąpić [NATO](org) francusko-niemieckim kondominium” – stwierdził też prezydent [Francji](loc).
+- Prawdopodobieństwo ataku terrorystycznego w [Holandii](loc) znacznie wzrosło w ostatnich miesiącach, ocenia w najnowszym raporcie [Pieter-Jaap Aalbersberg](per), Krajowy Koordynatorr ds. [Zwalczania Terroryzmu i Bezpieczeństwa](org) (NCTV).
+- Zdaniem służb powodem jest m.in. podarcie Koranu przez działacza antyislamskiej [Pegidy](org).
+- Pojawia się coraz więcej sygnałów, że organizacje dżihadystów przygotowują się do przeprowadzenia ataków terrorystycznych w [Europie](loc).
+- Grupy te wyraźnie wymieniają [Holandię](loc) jako cel – czytamy w raporcie koordynatora.
+- [Edwin Wagensveld](per), przywódca antyislamskiej grupy [Pegida](org), w ostatnich miesiącach czterokrotnie podarł Koran.
+- Pierwszy raz zrobił to w [Hadze](loc), następnie w ratuszu w [Amsterdamie](loc) oraz podczas demonstracji w [Utrechcie](loc) i [Leiden](loc).
+- Akcja [Pegidy](org) doprowadziła do kontrmanifestacji muzułmanów w [Holandii](loc).
+- Media informowały o gniewnych reakcjach w [Pakistanie](loc), [Turcji](loc) oraz [Indonezji](loc).
+- [NCTV](org) przypomina, że afgański oddział [Państwa Islamskiego](loc) w opublikowanym pod koniec [lutego](time) [2023](time) roku filmie groził „niewiernym”, szczególnie koncentrując się na [Holandii](loc).
+- Wymieniał również holenderskiego lidera [Pegidy](org).
+- Anglojęzyczny magazyn [ISIS](org) opublikował plakat z flagami holenderską i szwedzką oraz wezwaniem do przeprowadzania ataków m.in. na sklepy, funkcjonariuszy policji i koncerty muzyczne – czytamy w raporcie.
+- Według [Aalbersberga](per) wielu zwolenników [ISIS](org) mieszka m.in. w [Holandii](loc).
+- Oni zamierzają przeprowadzić ataki w [Europie](loc).
+- Co więcej, [ISIS](org) jest w stanie wysyłać ludzi do [Europy](loc) i wspierać na odległość swoich zwolenników w przygotowywaniu ataków – ocenia koordynator.
+- Jego zdaniem zagrożenie pochodzi głównie ze struktur [ISIS](org) w [Syrii](loc) i [Afganistanie](loc) oraz powiązanych z nimi sieci w [Turcji](loc).
+- Liczba mieszkańców [Ameryki Łacińskiej](loc) i [Karaibów](loc), którzy cierpią głód, wzrosła od [2019](time) roku w następstwie pandemii Covid-19, kryzysu klimatycznego i zakłóceń rynkowych spowodowanych wojną na [Ukrainie](loc) o 30 proc. i wynosi dziś 56 milionów osób - wynika z raportu [Organizacja Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa](org) (FAO).
+- Wicedyrektor generalny [FAO](org) [Mario Lubetkin](per), w wywiadzie dla agencji [EFE](org), wskazał jako główną przyczynę klęski głodu gwałtowny wzrost cen żywności wywołany suszami występującymi na przemian z powodziami.
+- W [Argentynie](loc), będącej jednym z większych światowych producentów zbóż i mięsa, całkowitemu spustoszeniu uległy rozległe uprawy.
+- Według najnowszego raportu [Obserwatorium Długu Społecznego](org) przy [Uniwersytecie Katolickim Argentyny](org) (UCA), głód lub ostre niedożywienie stały się w tym roku udziałem ponad 8 milionów argentyńskich dzieci do 17 roku życia.
+- 1 milion 600 tysięcy spośród nich "żyje w nędzy i niepewności, czy i kiedy zje następny posiłek" – czytamy w raporcie.
+- Według badań 4,2 miliona Argentyńczyków wskutek kryzysu gospodarczego odżywia się gorzej niż dotąd.
+# wirtualnemedia.pl
+- Platforma sprzedażowa [Wszystko.pl](org) firmy [Comarch](org) zostanie uruchomiona [29 czerwca](time).
+- Ma konkurować z [Allegro](org) czy [Amazonem](org).
+- Oczywiście nie zdominujemy rynku w kilka miesięcy.
+- Naszym celem jest zbudowania zaufanie sprzedawców i klientów oraz regularne budowanie pozycji w e-commerce - mówi [Wirtualnemedia.pl](org) [Mariola Barzyk-Libura](per), dyrektorka [Wszystko.pl](org).
+- Informacje o platformie [Wszystko.pl](org) pojawiły się niemal dwa lata temu.
+- W opublikowanej pod koniec [kwietnia](time) rozmowie z [„Forbesem”](org) prezes [Comarchu](org) [Janusz Filipak](per) mówił: „Chcemy wykorzystać to, jak się zmienił rynek.
+- Dostawcy korzystający z [Allegro](org) narzekają na coraz wyższe opłaty i konkurowanie z [Allegro](org).
+- Platforma, podobnie jak [Amazon](org), wystawia coraz więcej własnych towarów.
+- Na czym ma zarabiać serwis [Wszystko.pl](org)?
+- Jesteśmy w fazie beta, a co miesiąc liczba wystawionych na [Wszystko.pl](org) towarów rośnie o 100 tysięcy.
+- W [czerwcu](time), kiedy wystartujemy, chcemy mieć milion pozycji.
+- Naszym atutem jest 100 tys. klientów korzystających już z naszego oprogramowania - dodawał [Filipiak](per).
+- Od [grudnia](time) ub.r. oprogramowanie było testowane przez pracowników [Comarchu](org).
+- Start marketplace planujemy na [29 czerwca](time) - mówi w rozmowie z [Wirtualnemedia.pl](org) [Mariola Barzyk-Libura](per), dyrektor [Wszystko.pl](org).
+- Atutem [wszystko.pl](org) dla konsumentów ma być m.in. przejrzysty wygląd strony, proste procesy zakupowe i brak uczucia przeładowania.
+- Naszym celem jest zapewnienie użytkownikom pozytywnych doświadczeń.
+- Na [wszystko.pl](org) klient powinien prosto i szybko kupować ulubione produkty, nie irytując się przy tym wyskakującymi co chwilę reklamami czy dużą liczbą komunikatów.
+- Proces zakupowy będzie sprawny, a wyszukiwanie produktów intuicyjne – zapowiada [Mariola Barzyk-Libura](per).
+- Niedługo po starcie planowane jest udostępnienie konsumentom dedykowanej aplikacji mobilnej do zakupów.
+- Ile osób zaangażowanych jest w prace nad stroną?
+- Cały czas rozwijamy zespół o nowych specjalistów, zarówno z obszaru biznesu (sprzedaż, konsulting, marketing), jak i dewelopmentu i produkcji IT.
+- Zachęcamy zresztą do śledzenia naszej strony kariera.comarch.pl, gdzie regularnie pojawiają się nowe oferty pracy.
+- Nad projektem pracuje dedykowany zespół złożony z osób z dużym doświadczeniem w e-commerce i rozwojem platform zakupowych oraz sklepów internetowych – mówi [Barzyk-Libura](per).
+- O koszcie uruchomienia projektu na razie nie chcemy mówić, [Comarch](org) jednak inwestuje adekwatne pieniądze co do oczekiwań rozwoju platformy – ucina dyrektorka platformy.
+- [Peek & Cloppenburg](org) odświeża e-sklep w [Polsce](loc).
+- Jak pokonać [Allegro](org)?
+- W jaki sposób [Comarch](org) chce konkurować ze starymi graczami na rynku, takimi jak [Allegro](org) czy [Amazon](org)?
+- [Comarch](org) to jedna z największych firm z sektora IT i nowych technologii w [Polsce](loc), mająca już dużo produktów e-commerce w portfolio, m.in. Comarch eSale, Comarch e-Sklep czy oprogramowania do zarządzania procesami Comarch ERP - zaznacza [Barzyk-Libura](per).
+- Choćby te ostatnie mają duże znaczenie dla naszych sprzedawców, wśród których jest sporo klientów oprogramowania [Comarch](org) i dla których systemy ERP stanowią integrator sprzedaży na [wszystko.pl](org).
+- Co więcej, jednym z naszych największych benefitów jest 0 procent prowizji od sprzedaży bez względu na kategorię, co jest ewenementem na polskim rynku marketplace.
+- Dzięki temu sprzedawcy mogą realnie oszczędzać i w bardziej przewidywalnych warunkach planować sprzedaż online – podkreśla.
+- Oczywiście nie zdominujemy rynku w kilka miesięcy, [Allegro](org) i [Amazon](org) mają już duże doświadczenie w branży i ogromną bazę danych, naszym celem jest zbudowania zaufanie sprzedawców i klientów oraz regularne budowanie pozycji w e-commerce – mówi [Barzyk-Libura](per).
+- Do tej pory na portalu zarejestrowało się już ponad 11 tys. sprzedawców.
+- Wśród nich znalazły się znane marki w swoich kategoriach, m.in. [Bielenda](org), [Krosno](org), [Trefl](org), [BAT PSB](org) czy [Homla](org).
+- W dniu premiery na platformie aktywnych będzie kilka milionów ofert.
+- Sprzedający, którzy dołączą do [wszystko.pl](org), mogą liczyć na pakiet benefitów, m.in.: 0% prowizji od sprzedaży, brak opłat za wystawianie ofert i utrzymanie konta, sprzedaż w każdej kategorii, integracje Comarch ERP, BaseLinker, Open API czy indywidualny opiekun klienta.
+- W [kwietniu](time) strony Grupy [Allegro](org) odwiedziło 20,4 mln użytkowników (68,9 proc. zasięgu), którzy spędzali tam średnio 1 godzinę, 46 minut i 25 sekund (dane [Mediapanel](org)).
+- Sieć [Biedronka](org) to najważniejszy filar portugalskiej [Grupy Jeronimo Martins](org).
+- Jednak poza [Polską](loc) i [Portugalią](loc) prowadzi ona też działalność w [Kolumbii](loc).
+- Tam działa najmłodsza sieć supermarketów, która liczy już ponad 1000 sklepów.
+- Jej nazwa również pochodzi od gatunku zwierzęcia.
+- Sieć dyskontów [Biedronka](org) od [9 czerwca](time) w ofercie sezonowej zaoferuje klientom produkty z [Kolumbii](loc).
+- Jak informuje biuro prasowe firmy będą to znane i lubiane produkty markowe, które kupić można w wielu sklepach w tym południowoamerykańskim kraju.
+- Będą to m.in. kolumbijskie kawy arabika, w tym znana marka [Juan Valdez](org), marakuje, awokado [Hass](org), chipsy z platanów czy z manioku czy ciasteczka kawowe.
+- Jednak z [Kolumbią](loc) [Biedronkę](org) łączy o wiele więcej niż tylko oferta sezonowa.
+- [Polska](loc) sieć istnieje od [1995](time) r., a jest we władaniu portugalskiej grupy [Jeronimo Martins](org) od [1997](time) r. 
+- Firma na macierzystym rynku prowadzi sieć supermarketów [Pingo Doce](org) oraz sieć hurtowni [Recheio](org).
+- Najmłodszym biznesem [Jeronimo Martims](org) jest sieć [Ara](org), która działa w [Ameryce Południowej](loc), a dokładniej w [Kolumbii](loc).
+- Jej nazwa wzięła się od ary, czyli rodzaju dużych ptaków z podrodziny papug neotropikalnych w obrębie rodziny papugowatych.
+- Spotka je można w [Ameryce Południowej](loc) czy w [Meksyku](loc).
+- Co klienci znajdą w sklepach [Ara](org)?
+- Papuga znajduje się logo sieci.
+- Składa się ona ze sklepów z charakterystyczną pomarańczową fasadą.
+- Ara to sieć sklepów osiedlowych, stąd jej placówki są mniejsze od [Biedronek](org), liczą bowiem od 300 do 600 metrów kw., podczas gdy polskie sklepy mają zwykle od 600 do nawet ponad 1000 metrów kw. (są też mniejsze sklepy).
+- Podstawowymi filarami kolumbijskiej sieci są konkurencyjne ceny, bliskość i wysokiej jakości asortyment, który zaspokaja podstawowe potrzeby przeciętnej kolumbijskiej rodziny.
+- W sklepie znajdziemy podstawowe produkty spożywcze.
+- Są produkty świeże, sypkie i mrożone.
+- Są artykuły marki własnej, a także ograniczona oferta non-food.
+- Podobnie jak w [Biedronce](org) wybór marek jest ograniczony, a część towarów wystawiona jest w kartonach.
+- Ara współpracuje z ponad 500 kolumbijskimi dostawcami.
+- Co kupują klienci kolumbijskiej sieci?
+- Typowy koszyk żywnościowy [Ary](org) zdominowany jest rzez ryż, rośliny strączkowe, olej, cukier, mąkę pszenną i chleb.
+- Mięso stanowi 20 proc. przeciętnego koszyka żywności, podczas gdy owoce stanowią 30 proc.
+- Zasadniczo zamiast okresowych promocji [Ara](org) stosuje politykę stałych, przystępnych cen.
+- [Ara](org) to nie tylko produkty kolumbijskie.
+- Do tej jej sklepów trafiły kilka lat temu wybrane produkty z [Polski](loc).
+- Jak pisał [„Puls Biznesu”](org), były to m.in. żelki produkowane przez [Grupę Otmuchów](org), kawy rozpuszczalne firmy [Instanta](org) oraz słodycze i kawy cappuccino [Maspeksu](org).
+- Sieć [Ara](org) powstała w [2013](time) r.
+- Było to drugie podejście [Jeronimo Martins](org) do podboju [Ameryki Południowej](loc).
+- Wcześniej portugalska grupa próbowała rozwijać biznes w [Brazylii](loc), ale szybko się z niego wycofała.
+- Dyskonty coraz chętniej sprzedają prasę.
+- W [2015](time) r. sieć miała już 86 sklepów.
+- Tysięczny sklep otwarto [6 listopada](time) ub.r. w mieście [Cartagena](loc).
+- Na jego otwarcie czekały tłumy.
+- Chociaż drzwi do nowej placówki zostały otwarte dopiero o [10.00](time) rano, pierwszy klient stał w kolejce od [3.00](time) nad ranem, aby skorzystać ze specjalnej promocji.
+- Każde otwarcie sklepu jest dla nas kolejnym krokiem w naszym zaangażowaniu na rzecz kolumbijskich rodzin: chcemy stać się częścią sąsiedztwa, być coraz bliżej domów ludzi, wnosząc jakość i różnorodność do ich codziennych zakupów, zawsze po najniższych cenach - mówił wtedy [Pedro Leandro](per), dyrektor zarządzający [Ara](org).
+- W [Arze](org) kupują zresztą nie tylko Kolumbijczycy.
+- Jeden ze sklepów, zlokalizowany niedaleko granicy z [Wenezuelą](loc) swego czasu odwiedzali Wenezuelczycy, który pogrążony jest w ogromnym kryzysie.
+- Na koniec ub.r. [Ara](org) miała już 1093 sklepy.
+- Jej przychody ze sprzedaży wyniosły 1,8 mld euro, po wzroście w lokalnej walucie o 62,1 proc.
+- Wzrost sprzedaży w sklepach porównywalnych wyniósł 35,7 proc., co było głównie efektem wysokiej inflacji.
+- W rozwój firmy [Grupa Jeronimo Martins](org) zainwestowała w [2022](time) r. 156 mln euro.
+- W całym ub.r. EBITDA [Grupy Jeronimo Marrtins](org) wzrosła o 17 proc. rok do roku do 1,85 mld euro przy przychodach na poziomie 25,39 mld euro (wzrost o 21,5 proc.).
+- Koncern tytoniowy [Philip Morris International](org) ma zamiar wycofać się z produkcji tradycyjnych papierosów marki [Marlboro](org).
+- Zapowiedzi o zakończeniu sprzedaży klasycznych papierosów przez [Philip Morris International](org) pojawiały się w mediach od co najmniej kilku lat.
+- Dyrektor generalny koncernu [Jacek Olczak](per) w [2021](time) roku w wywiadzie dla brytyjskiego ["Mail on Sunday"](org) powiedział, że koniec wygasanie sprzedaży i produkcji tradycyjnych papierosów to dla firmy kwestia najbliższej dekady.
+- Na pytanie, czy oznacza to, że firma zaprzestanie sprzedaży tradycyjnych papierosów w [Wielkiej Brytanii](loc) w tym terminie, [Olczak](per) odpowiedział: "Absolutnie".
+- Zamiast papierosów produkty niskiego ryzyka.
+- Teraz podobną deklarację na łamach niemieckiego ["Welt"](org) złożył [Markus Essing](per), dyrektor generalny [Philip Morris](org) w [Niemczech](loc) i [Austrii](loc).
+- Zapowiedział, że koncern na dobre zamierza wycofać się z branży klasycznych wyrobów tytoniowej na rzecz produktów "niskiego ryzyka", czyli podgrzewaczy tytoniu IQOS i papierosów elektronicznych.
+- W ten segment [PMI](org) zainwestowało już łącznie ok. 10 mld euro.
+- Opuścimy branżę tytoniową i przerzucimy się na produkty o obniżonym ryzyku - powiedział [Markus Essing](per) podczas konferencji w [Berlinie](loc).
+- Nie podał jednak przy tym konkretnej daty.
+- Jedną z bardziej znanych marek papierosów [PMI](org) jest [Marlboro](org), obecna na rynkach od [1902](time) roku.
+- Po 121 latach papierosy [Marlboro](org) mają doczekać końca produkcji.
+- Według danych podawanych w tym roku przez ["Wall Street Journal"](org), sprzedaż [Marlboro](org) spada, gdyż palacze przerzucają się na tańsze papierosy.
+- [Altria Group](org) poinformowała, że wolumen sprzedaży papierosów w [USA](loc) spadł o 12 proc., a tanie marki zwiększyły swój udział w rynku.
+- [Ilona Kachniarz](per) objęła stanowisko kierowniczki zespołu prasowego koncernu [PKN Orlen](org) - wynika z informacji [Wirtualnemedia.pl](org).
+- Poprzednio pracowała w [Polskiej Grupie Zbrojeniowej](org).
+- [Ilona Kachniarz](per) z [Polską Grupą Zbrojeniową](org) była związana ponad trzy lata.
+- Była tam dyrektorką departamentu komunikacji i marketingu.
+- W tym czasie, przez niespełna dwa lata pełniła też funkcję prezeski zarządu Fundacji [Polskiej Grupy Zbrojeniowej](org).
+- W latach [2015-2020](time) pracowała w [Agencji Rozwoju Przemysłu](org).
+- Zaczynała jako stażystka w departamencie komunikacji i relacji inwestorskich.
+- Po kilku miesiącach objęła w nim stanowisko specjalistki.
+- Następnie awansowała na główną specjalistkę w biurze komunikacji korporacyjnej i marketingu.
+- W latach [2017-2020](time) pełniła w tym departamencie funkcję ekspertki.
+- Od [czerwca 2018](time) roku do [lutego 2020](time) roku była również rzeczniczką prasową [ARP](org).
+- Funkcję rzecznika prasowego oraz dyrektora marketingu i komunikacji w [Polskim Komitecie Olimpijskim](org) objęła dr [Katarzyna Kochaniak-Roman](per).
+- Będzie odpowiadała za całość działań związanych z promocją oraz marketingiem [PKOl](org), a także komunikacją z dziennikarzami.
+- [Katarzyna Kochaniak-Roman](org) w ostatnich latach związana z komunikacją i marketingiem w agencjach sportowych: [InsideOutside PR](org) oraz [Arskom](org), realizując projekty dla polskich i międzynarodowych partnerów (m.in.: [Nestle Polska](org), [PZLA](org), [PZMot](org), [HMD Global](org), [Biofarm](org), [Louvre Hotels Group](org), [PZPN](org), [Budimex](org), [Vastint](org), [ING](org)).
+- [Katarzyna Kochaniak-Roman](per) współpracowała z redakcją sportową radia [BBC](org), gdzie współtworzyła cotygodniowy 3-godzinny program jako dziennikarz i wydawca oraz komentowała wydarzenia z boisk siatkarskich i koszykarskich.
+- Następnie przez cztery lata współpracowała z ["Magazynem Olimpijskim"](org) – miesięcznikiem [Polskiego Komitetu Olimpijskiego](org) jako dziennikarz i sekretarz redakcji.
+- Była rzecznikiem prasowym i specjalistą ds. PR [Polskiego Związku Koszykówki](org).
+- Zmieniając dyscyplinę w [2006](time) roku została specjalistą ds. PR [Polskiego Związku Piłki Siatkowej](org).
+- Przez półtora roku była również zastępcą redaktora naczelnego miesięcznika ["Polska Siatkówka"](org).
+- Była także PR managerem Mistrzostw Europy Koszykarzy – EuroBasket [2009](time) Poland oraz rzecznikiem prasowym [Polskiego Związku Motorowodnego i Narciarstwa Wodnego](org).
+- Przez trzy lata pełniła również funkcję rzecznika prasowego [Ministerstwa Sportu i Turystyki](org) oraz doradcy Ministra Sportu i Turystyki.
+- Jest absolwentką [Instytutu Dziennikarstwa WDiNP UW](org) i doktorem nauk humanistycznych; obroniła pracę doktorską z zakresu PR-u w sporcie.
+- Liderem oglądalności wśród kanałów informacyjnych w [maju](time) była telewizja [TVN24](org).
+- Największym wzrostem pochwalić się mogła stacja [TVP3](org), a najwięcej straciły [Polsat News](org) i [TV Republika](org).
+- Zerowy udział miał [News24](org) - wynika z raportu [Wirtualnemedia.pl](org).
+- Średni dobowy udział [TVN24](org) w [maju 2023](time) roku wyniósł 4,68 proc., po spadku względem analogicznego okresu rok wcześniej o 4,40 proc. - wynika z danych [Nielsen Audience Measurement](org), do których dotarł portal [Wirtualnemedia.pl](org).
+- Wiceliderem było [TVP Info](org).
+- Podium uzupełnia [Polsat News](org).
+- W [maju](time) kanał miał 1,65 proc. udziału, po spadku względem [maja 2022](time) roku o 16,67 proc.
+- Tuż za podium znalazł się kanał [TVP3](org), którego udział wyniósł 0,95 proc.
+- Czołową piątkę uzupełnia kanał [Wydarzenia24](org).
+- Średni rynkowy udział stacji w [maju](time) wyniósł 0,67 proc. 
+- Stacja względem [maja 2022](time) roku zanotowała wzrost o 3,08 proc. 
+- Ostatni w zestawieniu był nowy kanał [News24](org) uruchomiony przez [Astro](org), który nadaje od [marca](time).
+- Stację w [maju](time) śledziło średnio zaledwie 68 widzów.
+- Największy udział wśród grup kanałów newsowych w [maju](time) miała [Telewizja TVN](org), mająca w portfolio stacje [TVN24](org) oraz [TVN24 BiS](org) i notująca spadek o 3,67 proc.
+- Kanały wyprzedziły anteny newsowe [Telewizji Polskiej](org), których udział zmniejszył się o 8,90 proc. do 5,63 proc. (łączne dane dla [TVP Info](org) i [TVP3](org)).
+- Łączny rynkowy udział wszystkich dostępnych na rynku stacji informacyjnych w [maju 2023](time) roku wyniósł 13,99 proc.
+- Wśród widzów w grupie komercyjnej na pozycji zdecydowanego lidera wśród stacji informacyjnych w [maju 2023](time) roku znalazło się [TVN24](org) z wynikiem 3,28 proc., po wzroście o 0,31 proc.
+- Drugie miejsce zajęło [TVP Info](org).
+- Udział trzeciego [Polsat News](org) wyniósł 1,16 proc.
+- [Uniwersytet Mikołaja Kopernika](org) w [Toruniu](loc) na zlecenie [Krajowej Rady Radiofonii i Telewizji](org) przeprowadził badanie dotyczące modelu rodziny w serialach [TVP](org), [TVN](org) i [Polsatu](org).
+- Autorzy raportu twierdzą, że generalnie rodziny są pokazywane pozytywnie, a problemy dotyczą najczęściej nastoletnich bohaterów - wynika z analizy portalu [Wirtualnemedia.pl](org).
+- O badaniu modelu rodziny było głośno rok temu.
+- Wówczas [KRRiT](org) zapytała o szacunkową wartość monitoringu modeli rodziny, które występują w wybranych produkcjach nadawcy publicznego i stacji komercyjnych.
+- Spośród produkcji [Telewizji Polskiej](org) objęte nim miało być 10 odcinków seriali „Stulecie Winnych”, „Leśniczówka” oraz „Na dobre i na złe”.
+- W przypadku [TVN](org) regulator chciał oceny filmu „Tylko mnie kochaj” oraz po 10 odcinków seriali „Na Wspólnej” i „Skazana”.
+- W [Polsacie](org) kontroli podlegał film fabularny „Miłość nie słucha” i seriale „Kowalscy kontra Kowalscy”, „Komisarz Mama” (po 10 odcinków).
+- Wartość badania nie okazała się wysoka, więc [KRRiT](org) nie musiała organizować przetargu w celu jego przeprowadzenia.
+- Umowa została zawarta zgodnie z przepisami ustawy – Prawo Zamówień Publicznych, tzn. z uwagi na wartość zamówienia niższą niż próg 130 000 złotych (art. 2 ust. 1 pkt 1 ustawy), na podstawie oferty złożonej przez Wykonawcę - informowała we [wrześniu](time) [Wirtualnemedia.pl](org) [Teresa Brykczyńska](per), rzecznik prasowy [KRRiT](org).
+- Analiza została przeprowadzona przez toruńską uczelnię.
+- Umowa została zawarta z [Uniwersytetem Mikołaja Kopernika](org) w [Toruniu](loc), a więc z tym samym wykonawcą, który przeprowadził badanie wizerunku kobiet w polskich serialach, z zastosowaniem tej samej metodologii badawczej.
+- Można więc uznać, że badanie rodziny przedstawionej w polskich serialach i filmach będzie kontynuacją poprzedniej analizy - zdradziła [Brykczyńska](per).
+- Regulator informował, że raport powinien zawierać częstotliwość występowania wątków tematycznych w podziale na: pracę zawodową, wypoczynek i aktywność sportową, kultywowanie tradycji rodzinnych (np. urodziny, święta), uczestnictwo w kulturze, uczestnictwo w życiu religijnym, zajmowanie się dziećmi i domem, czas spędzony w kontakcie z technologią (telefonem lub komputerem), konflikty, działalność społeczna i zakupy.
+- Regulatora interesowały m.in. sceny zbliżeń intymnych [KRRiT](org) w wymiarze ilościowym interesowały też nałogi w filmowych i serialowych rodzinach, sytuacje trudne (wypadek, choroba, rozwód) i uczucia.
+- Sceny bezpośrednio dotyczące kultywowania relacji uczuciowych, np. sceny zbliżeń intymnych, przytulania się, całowania, rozmów na tematy intymne - można było przeczytać w zapytaniu ofertowym.
+- Badaniu miałaby podlegać częstotliwość występowania postaci kobiecych, męskich i dzieci oraz ekspozycję czynną i bierną tych postaci (ile proc. czasu milczą, ile proc. czasu wypowiadają się).
+- Regulator chciał też sprawdzić jakie są rodzaje prezentowanych rodzin w poszczególnych produkcjach (pełne, niepełne, patchworkowe, bezdzietne, wielodzietne, jedno czy wielopokoleniowe).
+- [RRiT](org) chciała zweryfikować czy role poszczególnych płci i dzieci są pokazywane w sposób stereotypowy.
+- Rada nadmieniła, że podane kryteria mają charakter przykładowy i mogą ulec zmianie w porozumieniu ze zleceniodawcą.
+- Zdaniem przedstawicielki regulatora, raport był kontynuacją przeprowadzonego wcześniej badania.
+- Wyniki są bowiem porównywane z innymi krajami [Unii Europejskiej](org).
+- Podobna analiza na zlecenie [KRRiT](org) została przeprowadzona w [2020](time) r. i dotyczyła wizerunku kobiet w polskich serialach.
+- Wówczas badanie zostało zrealizowane w związku z pracami - w ramach [Europejskiej Grupy Regulatorów](org) (ERGA) - nad wskaźnikami dla państw członkowskich [UE](org) mierzącymi obecność kobiet w różnych rodzajach audycji.
+- Badanie obecności modeli rodziny ma być realizowane wedle tej samej metodologii.
+- W tym aspekcie stanowi kontynuację, a zarazem poszerzenie obszaru badań o nowe konteksty i relacje - tłumaczyła [Brykczyńska](per).
+- Wyniki badania opublikowano razem ze sprawozdaniem [KRRiT](org) za [2022](time) rok.
+- Najczęściej prezentowanym modelem rodziny była klasyczna rodzina składająca się z rodziców i nieletnich dzieci.
+- Drugim pod względem częstotliwości występowania, był model rodziny bezdzietnej lub z dziećmi dorosłymi i usamodzielnionymi.
+- Większość analizowanych seriali i filmów nie różnicowała wizerunku klasycznego modelu rodziny ze względu na charakter i stopień formalizacji leżącego u jej podstaw związku partnerskiego.
+- Narzeczeństwa, trwałe małżeństwa monogamiczne i małżeństwa rekonstruowane w sensie wydźwięku emocjonalnego scen i sposobu funkcjonowania były prezentowane podobnie.
+- W zasadzie nie odnotowano szczególnie negatywnego wizerunku rodzin rekonstruowanych, ani nawet byłych małżonków.
+- Bohaterowie po rozwodach żyli w swoich nowych rodzinach harmonijnie, w stopniu podobnym do rodzin nierekonstruowanych - czytamy w dokumencie.
+- Ekspertyza wykazała, że wielu bohaterów samodzielnie wychowuje dzieci.
+- Pojawiającym się regularnie modelem rodziny było samotne rodzicielstwo.
+- Sposoby prezentacji samotnego rodzicielstwa miały najczęściej charakter skrajny, albo sielankowo-harmonijny, albo wyraźnie negatywny.
+- W wątkach epizodycznych i serialach kryminalnych obraz tego typu rodzicielstwa służy jako łatwy sposób wprowadzania do fabuły zagadnień związanych z patologiami życia rodzinnego, takimi jak przemoc, znęcanie psychiczne czy uzależnienie.
+- Wizerunek rodzin wielopokoleniowych nie odbiegał zasadniczo od wizerunku rodzin innego typu - relacjonuje wyniki raportu [KRRiT](org).
+- Zdaniem regulatora, produkcje [TVP](org), [TVN](org) i [Polsatu](org) najczęściej dobrze pokazywały rodziny.
+- Generalny obraz rodziny w analizowanym materiale należy uznać za pozytywny, chociaż największa część czasu ekspozycji miała wymowę neutralną.
+- W dalszej kolejności, ok. 26% czasu zajęły sceny o wydźwięku pozytywnym w stosunku do rodziny, małżeństwa, rodzeństwa lub rodzicielstwa.
+- W połączeniu z faktem, że sceny o wymowie negatywnej zajmowały mniej niż połowę tego czasu, można ocenić całą próbę seriali i filmów jako ukazujące rodzinę w pozytywnym świetle.
+- Dodatkowo warto zaznaczyć, że udział scen o wymowie negatywnej został podwyższony przez jeden, wyjątkowo mroczny serial o charakterze kryminalnym, ale nawet w nim, wydźwięki pozytywne górowały nad negatywnymi - informuje [KRRiT](org) w sprawozdaniu.
+- Niekiedy negatywny wydźwięk miały sceny dotyczące małżeństw, zwłaszcza byłych.
+- Na ogólny pozytywny wizerunek rodziny składało się przede wszystkim przesłanie, iż relacje rodzinne stanowią bazę bezwarunkowego wsparcia i akceptacji dla członków rodzin.
+- Niezależnie od fabularnych perypetii i ewentualnych przemian bohaterów, to w rodzinie znajdowali oni ostatecznie najważniejsze źródło pomocy.
+- Jako najbardziej pozytywne przedstawiono te relacje, w których występowały dzieci nieletnie.
+- Dotyczyło to zarówno relacji rodziców lub dziadków, jak też rodzeństwa między sobą.
+- Rodzeństwa ogółem przedstawiane były w dobrym świetle, poza rodzeństwami nastolatków, gdzie wydźwięków negatywnych było najwięcej.
+- Role dziadków wplatane były w sceny zarówno bardzo pozytywne, z udziałem dzieci, jak i tam, gdzie odnotowano negatywny wydźwięk, ale ten wydźwięk nie dotyczył samych dziadków, tylko dziadkowie występowali w takich scenach.
+- Z kategorii ogólnych najmniej korzystnie ukazywane były małżeństwa, w tym najgorzej małżeństwa byłe - przekonuje regulator.
+- W kontekście relacji rodzinnych, częściej były pokazywane kobiety niż mężczyźni.
+- W wymiarze ilościowym w wątkach dotyczących relacji rodzinnych między kobietami i mężczyznami, role kobiece zajmowały nieznacznie więcej czasu w stosunku do ról męskich.
+- W warstwie wizualnej analizowane seriale prezentowały równowagę ról płciowych.
+- Była ona jednak nieco fasadowa ponieważ po uwzględnieniu jakościowego ciężaru tych ról i ich znaczenia w prowadzeniu fabuły, to role kobiece zdecydowanie wybijały się na pierwszy plan.
+- Nawet w serialach, w których role męskie były istotne narracyjnie, to role kobiece stanowiły oś fabuły, a mężczyźni często pełnili funkcję swoistego tła dla prezentowanych wydarzeń - wyjaśnia [KRRiT](org).
+- W [piątek](time) zmarła [Barbara Borys-Damięcka](per), senator [Platformy Obywatelskiej](org).
+- W wyższej izbie parlamentu zasiadala od [2007](time) roku wcześniej m.in. przez 35 lat była związana z [Telewizją Polską](org).
+- Dziś odeszła od nas [Barbara Borys-Damięcka](per), reżyser teatralna i telewizyjna, od [2007](time) roku senator [RP](loc).
+- Postać nietuzinkowa, oddana kulturze i drugiemu człowiekowi.
+- Cześć Jej Pamięci - napisał na [Twitterze](org) [Borys Budka](per), szef klubu parlamentarnego [Koalicji Obywatelskiej](org).
+- Pierwszy raz do [Senatu](org) została wybrana [jesienią](time) [2007](time) roku, z listy [Platformy Obywatelskiej](org) w okręgu warszawskim.
+- Mandaty na kolejne kadencje uzyskiwała w [2011](time), [2015](time) i [2019](time) roku.
+- W bieżącej kadencji jako najstarszy senator została powołana na marszałka seniora, tę funkcję przyznano jej już po wyborach w [2015](time) roku, ale odmówiła ze względu na stan zdrowia.
+- W [2004](time) roku bez powodzenia startowała do [Parlamentu Europejskiego](org) z listy [Inicjatywy dla Polski](org) (ugrupowanie nie osiągnęło progu wyborczego).
+- Żegnaj [Basiu](per) - napisał marszałek [Senatu](org) [Tomasz Grodzki](per).
+- [Barbara Borys-Damięcka](per) była osobą obdarzoną niezwykła energią, wielkim talentem do tego, żeby przewodzić różnym ideom i pomysłom - powiedział reżyser, dyrektor [Teatru Biuro Podróży](org) oraz prezes [Stowarzyszenia Dyrektorów Teatrów](org) (SDT) [Paweł Szkotak](per).
+- "Była wieloletnią prezeską [Stowarzyszenia Dyrektorów Teatrów](org) i bardzo wiele zrobiła dla naszego środowiska" - podkreślił [Paweł Szkotak](per), dodając, że [Borys-Damięcka](per) "była twórczynią obdarzoną autorytetem i charyzmą".
+- "W kontakcie osobistym była człowiekiem serdecznym, zawsze otwartym, chętnym do pomocy" - ocenił.
+- "Wielki smutek dzisiaj zapanował w teatralnych sercach" - powiedział prezes [SDT](org).
+- "Ja miałem ten zaszczyt i szczęście, że blisko współpracowałem z [Barbarą](per) przez wiele lat, bo kiedy ona była naszą prezeską, to ja najpierw byłem w Zarządzie [SDT](org), potem byłem wiceprezesem, a następnie w [2015](time) r. namaściła mnie na swojego następcę" - przypomniał.
+- Pozostanie w naszej pamięci na pewno na wiele, wiele lat - powiedział [Paweł Szkotak](per).
+- Od [1958](time) do [1993](time) [Barbara Borys-Damięcka](per) była zawodowo związana z [Telewizją Polską](org).
+- Reżyserowała i realizowała od strony telewizyjnej przedstawienia [Teatru Telewizji](org).
+- Współtworzyła ponadto takie programy jak m.in. „Tele-Echo” i „5-10-15” oraz większość programów telewizyjnych [Kabaretu Starszych Panów](org).
+- Wyreżyserowała i zrealizowała ponad 200 spektakli [Teatru Telewizji](org), takich jak „Ruy Blas” [Victora Hugo](per), „Don Juan” [Moliera](per), „Matka” [Witkacego](per) czy „Warszawianka” [Wyspiańskiego](per).
+- W [Telewizji Polskiej](org) zajmowała też stanowiska doradcy zarządu, szefowej zespołu i wiceprezesa.
+- W latach [1997-2007](time) pełniła funkcję dyrektora naczelnego i artystycznego [Teatru Syrena](org) w [Warszawie](loc).
+- W [1959](time) roku ukończyła studia na Wydziale Organizacji Produkcji Filmowej w [Szkole Filmowej](org) w [Łodzi](loc).
+- W [2002](time) roku otrzymała statuetkę Gwiazda [Telewizji Polskiej](org).
+- [Barbara Borys-Damięcka](per) zmarła w wieku 85 lat.
+- [Sąd najwyższy](org) w [Hongkongu](loc) uchylił w [poniedziałek](time) wyrok skazujący dziennikarkę [Bao Choy](per) za składanie fałszywych oświadczeń w celu uzyskania dostępu do rejestrów pojazdów na potrzeby filmu dokumentalnego, dotyczącego brutalnego ataku na prodemokratycznych demonstrantów w [2019]()time roku.
+- [Choy](per), wcześniej związana z publicznym hongkońskim nadawcą [RTHK](org), została w [kwietniu 2021](time) r. ukarana grzywną w wysokości 6 tys. dolarów hongkońskich (3,2 tys. PLN) po oskarżeniu o świadome składanie fałszywych oświadczeń w celu uzyskania dostępu do rejestrów pojazdów na potrzeby filmu dokumentalnego.
+- Odcinek programu Hong Kong Connect, którego [Choy](per) była producentką, dotyczył brutalnej napaści na prodemokratycznych demonstrantów na stacji metra [Yuen Long](loc) z [21 lipca](time) [2019](time) roku.
+- Atak, w którym rannych zostało kilkadziesiąt osób, uznawany jest za jedno z najbardziej kontrowersyjnych wydarzeń serii protestów z [2019](time) roku.
+- [Choy](per) dwukrotnie w połowie [2020](time) r. korzystała z bazy danych w celu odnalezienia właściciela furgonetki, którą prawdopodobnie dostarczono broń ponad 100 mężczyznom w białych strojach.
+- Ci następnie zaatakowali demonstrantów, osoby postronne i dziennikarzy, znajdujących się na stacji.
+- W programie wskazywano także na powolną reakcję policji.
+- W swoim wniosku o dostęp do publicznej bazy danych tablic rejestracyjnych producentka zadeklarowała, że jej poszukiwania należą do kategorii "inne sprawy związane z ruchem drogowym i transportem".
+- Sądy dwóch instancji uznały, że deklaracje [Choy](per) były niezgodne z prawdą.
+- Jednak w [poniedziałek](time) pięciu sędziów [Sądu Najwyższego](org) jednomyślnie uwzględniło apelację i uchyliło wyroki skazujące.
+- Sędziowie uznali, że korzystanie przez [Choy](per) z bazy danych rzeczywiście mieściło się w wybranej przez nią kategorii i wyrządzono [Choy](per) "znaczną i poważną niesprawiedliwość", wnioskując, że świadomie złożyła fałszywe oświadczenia - podano w uzasadnieniu wyroku.
+- Należy wziąć pod uwagę fakt, że skarżąca korzystała z wolności słowa i prasy w związku ze śledztwem w sprawie wydarzeń z [21 lipca](time) [2019](time) roku - dodano.
+- Dziennikarka z zadowoleniem przyjęła wygraną po ponad dwuletniej walce o oczyszczenie swojego nazwiska i zapewnienie dziennikarzom prawa do korzystania z bazy danych pojazdów w ich pracy.
+- Program [Bao Choy](per) zdobył nagrodę Human Rights Press Award przyznawaną przez [Klub Korespondentów Zagranicznych](org) oraz nagrodę Kam Yiu-yu Press Freedom Award przyznawaną z kolei przez [Stowarzyszenie Dziennikarzy Hongkongu](org).
+- W reakcji na wyrok [Stowarzyszenie Dziennikarzy Hongkongu](org) podkreśliło, że dziennikarze dążący do prawdy nie powinni być ścigani.
+- Gazeta ["USA Today"](org) mianowała na redaktora naczelnego [Terence'a Samuela](per), wiceprezesa szefa publicznego radia [NPR](org).
+- Zastąpił [Nicole Carroll](per), która w [maju](time) po pięciu latach współpracy złożyła wypowiedzenie.
+- [Terence Samuel](per) obejmie stanowisko redaktora naczelnego ["USA Today"](org) [10 lipca](time).
+- Wydawca pisma, [Gannett Co](org)., wskazuje w komunikacie, że nowy szef "pomoże poprowadzić dziennik przez następną fazę wzrostu i innowacji".
+- To zaszczyt dołączyć do tak znakomitej grupy dziennikarzy, aby pomóc poprowadzić tę kultową markę w cyfrową przyszłość, która jest równie ekscytująca, co wymagająca - powiedział [Samuel](per) w komunikacie prasowym.
+- W [NPR News](org) Samuel nadzorował pion informacyjny.
+- W przeszłości zajmował również wysokie stanowiska w ["Washington Post"](org) i ["National Journal"](org).
+- Samuel zastępuje [Nicole Carroll](per), która ustąpiła [1 maja](time) po ponad pięciu latach kierowania redakcją.
+- [Michael McCarter](per), kierujący tymczasowo redakcją po odejściu [Carrol](per), otrzymał awans na wiceprezes ds. opinii.
+- Zajmie się strategią rozwoju sieci medialnej [USA Today Network](org), obejmującej 200 mediów lokalnych w całych [Stanach Zjednoczonych](loc).
+- [Nicole Carroll](per) po odejściu z gazety została szefową lokalnej inicjatywy dziennikarskiej na [Arizona State University](org).
+# rmf24.pl
+- [Zamek Lubomirskich](loc), gdzie siedzibę ma [Sąd Okręgowy](org) w [Rzeszowie](loc), czeka na turystów.
+- Budynek będzie można zwiedzić w towarzystwie przewodników w trzy wakacyjne weekendy.
+- Turyści będą mogli wejść do zamku [17](time) i [18 czerwca](time), [15](time) i [16 lipca](time) oraz [19](time) i [20 sierpnia](time).
+- Aby zobaczyć jego wnętrza, trzeba odebrać bezpłatną wejściówkę w siedzibie rzeszowskiego oddziału [Instytutu Pamięci Narodowej](org) przy ul. [Słowackiego](loc).
+- Bilety będą dostępne od [12 czerwca](time).
+- Grupy zwiedzających mogą liczyć do 15 osób.
+- Każda będzie miała godzinę na poznanie historii zamku.
+- Pierwsze wejście będzie o godzinie [12.00](time), kolejne o [13.00](time), [14:00](time) i ostatnie o [15.00](time).
+- Rzeszowski zamek, w którym mieści się teraz [sąd okręgowy](org), jest dość młody, ma nieco ponad 100 lat.
+- Został wybudowany na miejscu dawnego [Zamku Lubomirskich](loc), którego historia sięga [XVI](time) wieku.
+- Z rezydencji mieszkalnej stał się instytucją, w której Austriacy ulokowali sąd i więzienie.
+- Przewodnicy [PTTK](org) opowiedzą o początkach zamku i jego losach pod rządami cesarstwa austriackiego.
+- Na drugim piętrze pokażą dwie sale.
+- W jednej była kiedyś sala balowa, w drugiej kaplica, o czym świadczą polichromie na suficie.
+- Z kolei historycy [IPN](org) zejdą z turystami do suteren zamku, gdzie mieści się "Sali Pamięci".
+- Przypomina m.in. o czasach, kiedy w zamku było więzienie niemieckie, a następnie komunistyczne.
+- Pomiędzy [1944](time) a [1956](time) r. wykonano tam ponad 400 wyroków śmierci, zginęło m.in. ponad 100 żołnierzy polskiego podziemia niepodległościowego.
+- Przypominamy [Łukasza Cieplińskiego](per), który dowodził atakiem na to więzienie w październiku [1944](time) roku.
+- Są też zdjęcia oraz inne materiały z archiwum [IPN](org), które także dotyczą zamku i jego historii - powiedział historyk rzeszowskiego oddziału [IPN](org) dr [Mirosław Surdej](per).
+- To są drzwi z siedziby [Wojewódzkiego Urzędu Bezpieczeństwa Publicznego](org), które mieściło się przy ul. [Jagiellońskiej w Rzeszowie](loc).
+- Dziś jest tam komenda miejska policji.
+- Schwytano rekina, który zaatakował i zabił Rosjanina w pobliżu plaży w kurorcie [Hurghada](loc) - podała agencja [Reutera](org), powołując się na oświadczenie egipskich władz.
+- Do tragicznego zdarzenia doszło w [czwartek](time).
+- Według oświadczenia egipskich władz rekin został schwytany i przetransportowany do laboratorium w celu badań i ustalenia przyczyn ataku.
+- Do śmiertelnego ataku rekina doszło w [czwartek](time) w popularnym egipskim kurorcie nad [Morzem Czerwonym](loc) w [Hurgadzie](loc).
+- Na oczach świadków rekin zaatakował i pożarł młodego mężczyznę.
+- Jego dziewczynie udało się uciec.
+- Konsulat [Rosji](loc) potwierdził, że ofiarą ataku był Rosjanin urodzony w [1999](time) roku, który na stałe mieszkał w [Egipcie](loc) i nie był turystą.
+- Według niektórych mediów mężczyzna przebywał w [Egipcie](loc), prawdopodobnie unikając poboru na wojnę na [Ukrainie](loc).
+- Turyści mogli z przerażeniem obserwować z brzegu, jak zwierzę zraniło mężczyznę, zanim wciągnęło go pod wodę.
+- Na moich oczach rekin zjadł faceta, dziewczynie udało się uciec.
+- Wziął na siebie atak rekina - mówi jeden ze świadków słyszanych na filmie.
+- Lokalne zamknęły plaże w pobliżu miejsca ataku.
+- W ciągu minionych 30 lat intensywnego wykorzystywania tych regionów na potrzeby turystyki zarejestrowano 28 niesprowokowanych ataków rekinów, w wyniku których zginęło dziewięć osób - podaje [Międzynarodowy Spis Ataków Rekinów](org) (ISAF).
+- W [2022](time) roku w [Hurghadzie](loc) w ciągu kilku dni doszło do dwóch śmiertelnych ataków, w których życie stracili turyści z [Austrii](loc) i [Rumunii](loc).
+- [Kanada](loc) walczy z gigantycznymi pożarami lasów.
+- ​Dym, który wcześniej okrył miasta wschodniego wybrzeża [Ameryki Północnej](loc), dotarł do [Skandynawii](loc) - poinformowali naukowcy z norweskiego [Instytutu Badań Klimatu i Środowiska](org) (NILU).
+- Naukowcy wykryli dym przy użyciu precyzyjnej aparatury.
+- Ludzkie oko może zauważyć go tylko jako lekką mgłę - opisuje portal stacji [CNN](org).
+- W najbliższych dniach dym prawdopodobnie rozprzestrzeni się po całej [Europie](loc), ale będzie już tak rozproszony, że ludzie nie będą mogli go ani wyczuć, ani zobaczyć.
+- Według [Kanadyjskiego Międzyagencyjnego Centrum Pożarów Lasów](org) (CIFFC) w tym roku doszło już do 2372 pożarów, które spopieliły 4,3 miliony hektarów - około 15 razy więcej niż wynosiła średnia roczna w ciągu ostatniej dekady.
+- Atrakcją turystyczną [Wrocławia](loc) są krasnale.
+- Jeden z nich - Życzliwek na stałe zamieszkał w [Sopocie](loc), na molo.
+- Ma zachęcać wszystkich tych, którzy odwiedzą obchodzący 200-lecie nadmorski kurort, by przyjechali do stolicy [Dolnego Śląska](loc).
+- Krasnale to jeden z symboli [Wrocławia](loc).
+- Nikt nie wie ile ich już dokładnie jest, ale z pewnością ponad tysiąc.
+- Czasem nasze magiczne skrzaty pojawiają się również w innych miastach.
+- Stąd krasnala Życzliwka nie mogło zabraknąć w zaprzyjaźnionym [Sopocie](loc).
+- Jestem przekonany, że będzie mu tutaj dobrze i zachęci turystów, którzy odwiedzają nadmorski kurort, aby przyjechali także do naszego miasta - mówi [Jacek Sutryk](per), prezydent [Wrocławia](loc).
+- Wrocławskie krasnale poza [Polską](loc) możemy spotkać w m.in. w [Wilnie](loc), [Lwowie](loc), [Waszyngtonie](loc), [Reykjaviku](loc), [Dreźnie](loc), [Guadalajarze](loc) w [Meksyku](loc) i w czeskim [Hradcu Kralove](loc).
+- Teraz krasnal zagościł na stałe w [Sopocie](loc).
+- Nad morze przyjechali też młodzi wrocławscy artyści lalkarze z plenerowymi spektaklami.
+- Figurkę Życzliwka na molo odsłonili wspólnie prezydent [Sopotu](loc) [Jacek Karnowski](per) i prezydent [Wrocławia](loc) [Jacek Sutryk](per).
+- [Sopot](loc) ma się promować we [Wrocławiu](loc) podczas Jarmarku Świętojańskiego oraz Wrocławskiego Jarmarku Bożonarodzeniowego.
+- Z badań wynika, że często turyści odwiedzając jedno miasto w [Polsce](loc) zaczynają planować kolejną podróż, stąd pomysł promocji [Wrocławia](loc) w [Sopocie](loc) i zachęcenia turystów do przyjazdu z [Pomorza](loc) na [Dolny Śląsk](loc).
+- Niektóre z lotów miały opóźnienia po kolizji dwóch samolotów na płycie lotniska [Tokio-Haneda](loc) w [Japonii](loc).
+- Nie ma osób rannych.
+- Do kolizji doszło w piątek około godziny [11](time) czasu lokalnego (ok. g. [18](time) czasu polskiego).
+- Jak podaje agencja Reutera, dwa samoloty zderzyły się na drodze do kołowania.
+- W kolizji brały udział maszyny należące do linii lotniczych [Taiwan's Eva Airways](org) i [Thai Airways](org).
+- Linie lotnicze [Thai Airways](org) poinformowały, że w trakcie podchodzenia do startu fragment prawego skrzydła zderzył się z tyłem maszyny [Eva Airways](org).
+- Część skrzydła samolotu [Thai Airways](org) prawdopodobnie została złamana.
+- W wyniku zdarzenia tymczasowo wyłączony z użytkowania został jeden z czterech pasów startowych lotniska.
+- W [poniedziałek](time) na [Morzu Bałtyckim](loc) rozpoczęły się dziesięciodniowe ćwiczenia rosyjskiej [Floty Bałtyckiej](org).
+- Rosjanie przekazali, że celem manewrów jest opracowanie ochrony szlaków morskich i baz floty.
+- W [niedzielę](time) ćwiczenia na [Bałtyku](loc) rozpoczęły z kolei państwa członkowskie [NATO](org).
+- W dniach [5-15 czerwca](time) odbędą się ćwiczenia operacyjne zgrupowań [Floty Bałtyckiej](org) pod dowództwem dowódcy [Floty Bałtyckiej](org) wiceadmirała [Władimira Worobiowa](per) na [Morzu Bałtyckim](loc) i na poligonach w [obwodzie kaliningradzkim](loc) - przekazała służba prasowa [Floty Bałtyckiej](org), cytowana przez agencję [RIA Nowosti](org).
+- Jak poinformowano, w pierwszym etapie manewrów morskie grupy taktyczne opuściły swoje bazy i rozmieściły zgrupowania w wyznaczonych obszarach.
+- W ćwiczeniach weźmie udział ok. 40 nawodnych okrętów wojennych, łodzi i jednostek pomocniczych, w tym okręty patrolowe i korwety, małe okręty rakietowe, trałowce, małe poduszkowce desantowe i okręty logistyczne.
+- Ponadto zaangażowanych jest ponad 3,5 tys. żołnierzy, ok. 25 samolotów i śmigłowców i 500 jednostek sprzętu wojskowego.
+- Celem manewrów jest opracowanie ochrony szlaków morskich i baz [Floty Bałtyckiej](org).
+- [Flota Bałtycka](org) rozpoczęła ćwiczenia dzień po tym, jak podobne działania na [Bałtyku](loc) zaczęły prowadzić kraje członkowskie [NATO](org).
+- Po stronie [Sojuszu Północnoatlantyckiego](org) w manewrach uczestniczy 50 okrętów, ponad 45 samolotów i ok. 6 tys. żołnierzy.
+- Co ważne, w corocznych ćwiczeniach po raz pierwszy uczestniczy Finlandia, która [4 kwietnia](time) stała się 31. członkiem [NATO](org).
+- Swoje ćwiczenia rozpoczęła także rosyjska [Flota Pacyfiku](org).
+- Resort obrony poinformował, że manewry na wodach [Morza Japońskiego](loc) i [Morza Ochockiego](loc) potrwają do [20 czerwca](time).
+- Ponad 60 okrętów wojennych i jednostek pomocniczych, ok. 35 samolotów i ponad 11 tys. żołnierzy weźmie udział w ćwiczeniach zgrupowania sił [Floty Pacyfiku](org) - poinformowało ministerstwo przez aplikację [Telegram](org).
+- [Polska](loc) odpowiedziała na wczorajszy list komisarza ds. sprawiedliwości - przekazały dziennikarce [RMF FM](org) polskie źródła dyplomatyczne.
+- Wpłynięcie pisma potwierdza także rzecznik [Komisji Europejskiej](org).
+- [Didier Reynders](per) wysłał list do ministra [vel Sęka](per) z prośbą o dodatkowe wyjaśnienia w sprawie ustawy powołującej komisję ds. badania rosyjskich wpływów.
+- Nasze obszerne wyjaśnienia odpowiadające na wszystkie wątpliwości [KE](org) trafiły dziś rano do sekretariatu komisarza [Reyndersa](per) - usłyszała nasza brukselska korespondentka [Katarzyna Szymańska-Borginon](per).
+- Dziennikarka [RMF FM](org) dowiedziała się, że list, który jest odpowiedzią na pismo [Didiera Reyndersa](per), zawiera wyjaśnienia w sprawie ustawy; tłumaczy, dlaczego komisja ds. badania rosyjskich wpływów powstała.
+- Minister pisze w nim, że skala wpływów Rosji na bezpieczeństwo wewnętrzne [UE](org) należy do największych obecnie wyzwań.
+- W liście [Szymon Szynkowski vel Sęk](per) zapewnia między innymi, że komisja nie będzie mogła ograniczyć prawa startu w wyborach parlamentarnych; zapewnia, że istnieje kontrola sądowa komisji, a od jej decyzji przysługuje odwołanie do sądu administracyjnego, a następnie do [Naczelnego Sądu Administracyjnego](org).
+- Zapewnia także, że można wstrzymać wydanie decyzji do czasu uprawomocnienia się wyroku sądu.
+- Nasza brukselska korespondentka przypomina, że komisarz [Reynders](per) prosił w swoim liście także o przekazanie wszystkich istotnych dokumentów związanych z procesem legislacyjnym, między innymi o opinie biur legislacyjnych [Sejmu](org) i [Senatu](org), czy Rzecznika Praw Obywatelskich.
+- Dotarcie listu potwierdził [RMF FM](org) także rzecznik [Komisji Europejskiej](org) [Christian Wiegand](per).
+- Dzisiaj rano otrzymaliśmy odpowiedź [Polski](loc) na list komisarza ds. sprawiedliwości [Didier Reyndersa](per) - przekazał.
+- W oświadczeniu rzecznika czytamy także, że list ten "dodatkowo przyczyni się do analizy tej ustawy".
+- "Nie zawahamy się przed podjęciem natychmiastowych działań w razie potrzeby" - czytamy.
+- Nowa ustawa do badania rosyjskiej ingerencji w bezpieczeństwo wewnętrzne [Polski](loc) w latach [2007-2022](time) "jest sprawą, którą [Komisja Europejska](org) śledzi z dużym niepokojem" - poinformował rzecznik.
+- I sprecyzował, że "budzi poważne obawy co do zgodności z prawem [UE](org), ponieważ, jak rozumiemy, nadaje organowi administracyjnemu znaczne uprawnienia, które mogłyby zostać wykorzystane do pozbawiania jednostek funkcji publicznych, a tym samym ograniczania ich praw".
+- W [środę](time) w [Parlamencie Europejskim](org) odbyła się debata w sprawie ustawy powołującej komisję do badania rosyjskich wpływów w [Polsce](loc).
+- Była pełna emocji i wzajemnych oskarżeń o uleganie rosyjskim wpływom - podkreślała w swojej korespondencji dziennikarka [RMF FM](org) [Szymańska-Borginon](per).
+- Choć ustawa dotyczy powołania komisji weryfikacyjnej mającej zbadać, w jakim stopniu [Rosja](loc) wpływała na polskich polityków, jej popularna nazwa to "lex Tusk".
+- Komisja będzie mogła wezwać każdego, ale nie jest tajemnicą, że główny ciężar polityczny tkwi w możliwych zeznaniach [Donalda Tuska](per).
+- Opozycja głośno protestuje przeciw ustawie, argumentując, że głównym zadaniem komisji nie jest badanie rosyjskich wpływów, a pozbycie się politycznych przeciwników.
+- Zapisy o możliwym wnioskowaniu zespołu komisji o odsunięcie szczególnie podejrzanych polityków od pełnienia stanowisk publicznych (do 10 lat) - budzą ogromne kontrowersje, a zaniepokojenie ustawą wyraził nawet ambasador [USA](loc) [Mark Brzeziński](per) i dyplomaci z [UE](org).
+- Kolejnym groźnie brzmiącym zapisem jest ten, według którego żadnego z członków komisji nie będzie można pociągnąć do odpowiedzialności za ich działalność w ramach zespołu weryfikacyjnego.
+- Mimo tych kontrowersyjnych punktów [Andrzej Duda](per) ogłosił w [poniedziałek](time), że podpisze ustawę, ale skieruje ją też do [Trybunału Konstytucyjnego](org), który ma wyjaśnić zgodność poszczególnych zapisów z konstytucją.
+- ​Wirusolog [Harald zur Hausen](per), zdobywca medycznego Nobla, zmarł w niedzielę w wieku 87 lat - poinformowało w [poniedziałek](time) wieczorem [Niemieckie Centrum Badań nad Rakiem](org) (DKFZ) w [Heidelbergu](loc).
+- Tracimy wybitnego naukowca, który dokonał przełomowych osiągnięć w dziedzinie wirusologii nowotworów - powiedział [Michael Baumann](per), prezes i dyrektor naukowy [DKFZ](org).
+- [Harald Zur Hausen](per) kierował tą placówką badawczą przez 20 lat.
+- Badania [zur Hausena](per) dotyczyły etiologii raka szyjki macicy.
+- Naukowiec ustalił, że jest on powodowany przez wirus brodawczaka ludzkiego (HPV).
+- Jego badania pozwoliły na opracowanie szczepionki, obniżającej ryzyko zachorowania na ten nowotwór.
+- Za to odkrycie został w [2008](time) roku uhonorowany Nagrodą Nobla w dziedzinie medycyny.
+- [Zur Hausen](per) był laureatem blisko 40 doktoratów honoris causa i licznych profesur honoris causa.
+- W [2009](time) roku otrzymał duży Federalny Krzyż Zasługi z Gwiazdą Orderu Zasługi Republiki Federalnej.
+- [Izrael](loc) dokonał uderzeń z powietrza na rejon stolicy [Syrii](loc) - [Damaszku](loc) - podają syrjskie media.
+- Agencja [SANA](org) poinformowała, że część pocisków została zestrzelona i że nie był ofiar w ludziach, a jedynie "straty materialne".
+- Ataki rakietowe miały zostać dokonane z rejonu okupowanych przez [Izrael](loc) [Wzgórz Golan](loc), a ich cele, których nie określono bliżej, znajdowały się w rejonie [Damaszku](loc).
+- Brak potwierdzenia tych doniesień ze strony izraelskiej i z innych niezależnych źródeł.
+- Byłby to pierwszy atak izraelski na rejon [Damaszku](loc) od końca [marca](time).
+- [2 maja](time) [Izrael](loc) zaatakował północ [Syrii](loc) powodując siedem ofiar śmiertelnych.
+- [Izrael](loc) regularnie atakuje cele w [Syrii](loc) od początku wojny domowej w tym kraju w roku [2011](time).
+- Ataki mają być wymierzone w pozycje wojsk reżimu prezydenta [Baszara el-Asada](per) oraz oraz sojuszniczych ugrupowań związanych z [Iranem](loc), w tym libańskiego [Hezbollahu](org).
+- Na [Filipinach](loc) rozpoczęła się ewakuacja tysięcy mieszkańców północnych regionów kraju, gdzie zamknięto szkoły i biura oraz zakazano wypływania w morze.
+- Do wybrzeża zbliża się tajfun Mawar.
+- W [ubiegłym tygodniu](time) Mawar uderzył w będącą pod jurysdykcją [USA](loc) wyspę [Guam](loc) w [Mikronezji](loc), przewracając samochody, zrywając dachy domów i odcinając prąd.
+- Obecne prognozy przewidują, że tajfun może oszczędzić północne [Filipiny](loc) i przesunąć się w kierunku [Tajwanu](loc) lub na południe [Japonii](loc).
+- Mimo to władze ostrzegają przed niebezpiecznymi falami, gwałtownymi powodziami i osuwaniem się ziemi.
+- Filipińscy meteorolodzy oceniają, że kurs tajfunu może nagle się zmienić, więc należy pozostać ostrożnym.
+- Pogoda jest obecnie nieprzewidywalna i może się zmienić w każdej chwili - powiedział [Raffy Alejandro](per) z filipińskiego [Biura Obrony Cywilnej](org).
+- [Alejandro](per) poinformował, że ponad 4800 osób zostało już ewakuowanych w bezpieczne miejsca w kilku prowincjach kraju, oddalonych od zagrożonej północnej części [Filipin](loc).
+- Każdego roku około 20 tajfunów i burz nawiedza [Filipiny](loc), gdzie występują także erupcje wulkanów i trzęsienia ziemi, co czyni ten kraj [Azji Południowo-Wschodniej](loc) jednym z najbardziej podatnych na katastrofy naturalne na świecie.
