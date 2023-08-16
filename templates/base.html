@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
   <title>{% block title %}NER tagger{% endblock %}</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
 </head>
 <body>
@@ -14,16 +13,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item {% if active == 'home' %}active{% endif %}">
-          <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="/">Strona główna</a>
         </li>
         <li class="nav-item {% if active == 'annotate' %}active{% endif %}">
-          <a class="nav-link" href="/annotate_test">Annotate</a>
-        </li>
-        <li class="nav-item {% if active == 'train' %}active{% endif %}">
-          <a class="nav-link" href="/train">Train Model</a>
+          <a class="nav-link" href="/annotate">Adnotuj</a>
         </li>
         <li class="nav-item {% if active == 'description' %}active{% endif %}">
-          <a class="nav-link" href="/description">API Description</a>
+          <a class="nav-link" href="/description">Opis modelu</a>
         </li>
       </ul>
     </div>

@@ -1,32 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Processing App</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/css/bootstrap.min.css">
-</head>
+{% extends 'base.html' %}
+
+{% block title %}
+  Adnotuj
+{% endblock %}
+
+{% block content %}
 <body>
     <div class="container mt-5">
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="card">
                     <div class="card-header">
-                        Text Processing
+                        Adnotacja tekstu z artykułów prasowych
                     </div>
                     <div class="card-body">
-                        <form method="POST" action="/process-text">
+                        <form method="POST" action="/annotate">
                             <div class="form-floating mb-3">
                                 <textarea class="form-control" id="text-input" name="text" rows="10"></textarea>
-                                <label for="text-input">Enter your text here</label>
+                                <label for="text-input">Wklej tekst to adnotacji</label>
                             </div>
-                            <button type="submit" class="btn btn-primary">Process</button>
+                            <input type="radio", name="model", value="standard">Standardowy model spacy<br>
+                            <input type="radio", name="model", value="custom">Wytrenowany model NER CRF<br>
+                            <br>
+                            <button type="submit" class="btn btn-primary">Adnotuj</button>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <div class="result">
+      {% if result %}
+        <h2>Rezultat:</h2>
+        {{ result|safe }}
+      {% endif %}
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/js/bootstrap.min.js"></script>
 </body>
-</html>
+{% endblock %}
+
+{% set active = 'annotate' %}

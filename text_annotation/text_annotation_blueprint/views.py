@@ -11,7 +11,7 @@ text_annotation_blueprint = Blueprint('text_annotation', __name__)
 
 @Language.factory("ner_crf")
 def create_component(nlp, name):
-    crf_extractor = CRFExtractor().from_disk("C:\\Users\\Ostap\\PycharmProjects\\annotation_web_service\\model.pkl")
+    crf_extractor = CRFExtractor().from_disk("path_to_crf_model")
     return CRFEntityExtractor(nlp, crf_extractor=crf_extractor)
 
 
@@ -39,19 +39,17 @@ class TextAnnotator:
         return html
 
 
-@text_annotation_blueprint.route("/annotate_test", methods=['GET', 'POST'])
+@text_annotation_blueprint.route("/annotate", methods=['GET', 'POST'])
 def annotate():
     if request.method == 'POST':
         text = request.form.get('text')
         model = request.form.get('model')
 
-        # check if both text and model are provided
         if not text or not model:
-            return render_template("annotate_test.html")
+            return render_template("annotate.html")
 
         annotator = TextAnnotator()
         html = annotator.annotate(text, model)
-        return render_template("annotate_test.html", result=html)
+        return render_template("annotate.html", result=html)
     else:
-        return render_template("annotate_test.html")
-
+        return render_template("annotate.html")

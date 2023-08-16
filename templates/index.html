@@ -1,12 +1,47 @@
 {% extends 'base.html' %}
 
 {% block title %}
-  Home - My Flask App
+  Indeks
 {% endblock %}
 
 {% block content %}
-  <h1>Welcome to My Flask App</h1>
-  <p>This is the home page.</p>
+<section class="py-5 text-center">
+  <div class="container">
+    <h1>Rozpoznawanie nazwanych jednostek</h1>
+    <p>Rozpoznawanie nazwanych jednostek to jedno z zadań przetwarzania języka naturalnego. Polega ono na wydobywaniu ważnej
+  informacji dotyczącej na przykład nazw osób, organizacji lokacji z danych niustrukturyzowanych takich jak tekst.</p>
+  </div>
+</section>
+
+<section class="py-5">
+  <div class="container text-center">
+    <img src="{{ url_for('static', filename='/img/ner_example_img.png') }}" alt="Center Image" class="img-fluid">
+  </div>
+</section>
+
+<section class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Podejścia do tworzenia NER</h2>
+        <ul>
+          <li>Systemy oparte na słownikach</li>
+          <li>Systemy oparte na regułach</li>
+          <li>Systemy oparte na uczeniu maszynowym</li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <h2>Zastosowanie systemów NER</h2>
+        <ul>
+          <li>Obsługa klienta</li>
+          <li>Przyspieszenie procesu rekrutacji</li>
+          <li>Optymalna rekomendacja treści</li>
+          <li>Optymalizacja wyszukiwarek</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 {% endblock %}
 
 {% set active = 'home' %}

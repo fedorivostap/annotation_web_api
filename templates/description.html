@@ -1,12 +1,38 @@
 {% extends 'base.html' %}
 
 {% block title %}
-  API Description - My Flask App
+  Opis modelu
 {% endblock %}
 
 {% block content %}
-  <h1>API Description</h1>
-  <p>This is the API description page.</p>
+<div class="container">
+  <h1 class="text-center">Opis modelu NER</h1>
+  <p class="text-center">
+    Model NER został wytrenowany używając liniowego modelu CRF, który korzysta z tak zwanych cech przejść oraz stanów.
+  </p>
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="{{ url_for('static', filename='/img/transition_features.jpg') }}" alt="Big Image 1" class="img-fluid mb-4">
+      <h4 class="text-center">Wagi dla cech przejść</h4>
+    </div>
+    <div class="col-lg-12">
+      <img src="{{ url_for('static', filename='/img/per_features.jpg') }}" alt="Big Image 2" class="img-fluid mb-4">
+      <h4 class="text-center">Wagi dla cech stanów nazwanych jednostek dotyczących nazw osób</h4>
+    </div>
+    <div class="col-lg-12">
+      <img src="{{ url_for('static', filename='/img/org_features.jpg') }}" alt="Big Image 3" class="img-fluid mb-4">
+      <h4 class="text-center">Wagi dla cech stanów nazwanych jednostek dotyczących nazw organizacji</h4>
+    </div>
+    <div class="col-lg-12">
+      <img src="{{ url_for('static', filename='/img/loc_features.jpg') }}" alt="Big Image 4" class="img-fluid mb-4">
+      <h4 class="text-center">Wagi dla cech stanów nazwanych jednostek dotyczących nazw lokacji</h4>
+    </div>
+    <div class="col-lg-12">
+      <img src="{{ url_for('static', filename='/img/time_features.jpg') }}" alt="Big Image 5" class="img-fluid mb-4">
+      <h4 class="text-center">Wagi dla cech stanów nazwanych jednostek dotyczących czasu</h4>
+    </div>
+  </div>
+</div>
 {% endblock %}
 
 {% set active = 'description' %}

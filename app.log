@@ -607,3 +607,69 @@ Traceback (most recent call last):
   File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\joblib\numpy_pickle.py", line 650, in load
     with open(filename, 'rb') as f:
 FileNotFoundError: [Errno 2] No such file or directory: '/model.pkl'
+2023-08-15 23:40:54,596 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 25, in home
+    return render_template("index.html")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\index.html", line 47, in top-level template code
+    {% set active = 'home' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\index.html", line 17, in block 'content'
+    <img src="{{ url_for('templates', filename='ner_example_img.png') }}" alt="Center Image" class="img-fluid">
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2028, in url_for
+    force_external=_external,
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'templates' with values ['filename']. Did you mean 'static' instead?
+2023-08-15 23:40:57,167 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\app.py", line 25, in home
+    return render_template("index.html")
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\index.html", line 47, in top-level template code
+    {% set active = 'home' %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\base.html", line 31, in top-level template code
+    {% block content %}
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service\templates\index.html", line 17, in block 'content'
+    <img src="{{ url_for('templates', filename='ner_example_img.png') }}" alt="Center Image" class="img-fluid">
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2034, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\flask\app.py", line 2028, in url_for
+    force_external=_external,
+  File "C:\Users\Ostap\PycharmProjects\annotation_web_service_venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'templates' with values ['filename']. Did you mean 'static' instead?

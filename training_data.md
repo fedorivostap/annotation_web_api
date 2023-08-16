@@ -133,7 +133,7 @@
 - Wcześniej utknęły na etapie wyboru pełnomocników finansowych.
 - Pierwotnie [Ludowcy](org) i [Polska 2050](org) mieli ogłosić dobicie targu w sprawie wspólnych list jeszcze przed Wielkanocą.
 - Wtedy wzmogła się presja na obydwa ugrupowania.
-- Z sondaży wynikało wówczas, że opozycja jako całość traci na rzecz ewentualnej koalicji [PiS-Konfederacja](org).
+- Z sondaży wynikało wówczas, że opozycja jako całość traci na rzecz ewentualnej koalicji [PiS](org) - [Konfederacja](org).
 - Jedną z przyczyn takiej sytuacji była przedłużająca się dyskusja na temat formuły ewentualnej współpracy partii opozycyjnych.
 - [Szymon Hołownia](per) w ciągu ostatnich miesięcy nie zmienił zdania i nie chce już słyszeć o wspólnej liście opozycji w nadchodzących wyborach parlamentarnych.
 - Oskarżał polityków [Platformy](org) o wywieranie presji, za którą ma stać chęć dominacji [Donalda Tuska](per) nad resztą partii opozycyjnych.
@@ -149,7 +149,7 @@
 - Dalsza część tekstu znajduje się pod wideo W [czerwcu 2022](time) r. agenci [Centralnego Biura Antykorupcyjnego](org) przeszukali mieszkanie [Rafińskiej](per) w [Zielonej Górze](loc) i zabezpieczyli dokumenty firmy ["Good Solutions"](org) — informuje [Wirtualna Polska](org).
 - W tym samym czasie podobne czynności przeprowadzono również w domu rodzinnym [Łukasza Mejzy](per).
 - Sprawa miała związek ze śledztwem dotyczącym podejrzenia oszustw przy rozliczaniu pieniędzy z programu "Lubuskie Bony Rozwojowe".
-- [Rafińska](per) miała własną działalność gospodarczą pod nazwą ["Good Solutions"](org) i podobnie jak firma [Łukasza Mejzy](per) [(Future Wolves)](org) prowadziła szkolenia.
+- [Rafińska](per) miała własną działalność gospodarczą pod nazwą ["Good Solutions"](org) i podobnie jak firma [Łukasza Mejzy](per) [Future Wolves](org) prowadziła szkolenia.
 - Urzędnicy, którzy skontrolowali ich działalność, ocenili, że "wydatki poniesione na szkolenia e-learningowe przeprowadzone przez firmy [Future Wolves](org) [Łukasz Mejza](per) oraz [Good Solutions](org) [Marcelina Rafińska](per) zostały dokonane w sposób nieracjonalny, nieprzejrzysty i nieefektywny".
 - Podejrzewali, że szkolenia były fikcją i nigdy się nie odbyły.
 - Urzędnicy zakwestionowali 100 proc. środków na szkolenia, które prowadzili [Mejza](per) i jego asystentka oraz złożyli zawiadomienie do prokuratury.
@@ -310,8 +310,8 @@
 - "No ale skoro doniesienie na mnie złożył neofaszysta [Jacek Międlar](per), który publicznie dziękował ministrowi [Ziobrze](per) za wypuszczenie z więzienia drugiego neofaszysty - [Piotra Rybaka](per), no to nie ma się co dziwić, że pani prokurator [Pilarczyk](per) mocno się sprawą przejmuje.
 - I że 4 razy ściągała mnie z [Warszawy](loc) do [Wrocławia](loc), żeby się dopytać do protokołu, czy aby na pewno się nie przyznaję" - wskazała.
 - W ocenie [Lempart](per) "ta sprawa jest ostrzeżeniem dla wszystkich aktywistek i aktywistów, że służby [PiS](org) przeszukują wszystkie państwowe rejestry, wszystkie państwowe bazy danych, żeby znaleźć, co się da - opóźnienia, niedopatrzenia, zaległe sprawy bez znaczenia."
-- Niepozorna żółta kartka papieru wydaje się dowodzić szpiegostwa [USA](loc) przeciwko [Federalnemu Ministerstwu Obrony](org) – pisze [Georg Heil](per) z [RBB](org) ([Rundfunk Berlin Brandenburg](org), część [ARD](org)) na portalu [tagesschau.de](org).
-- Dokument, który znalazł się w posiadaniu tygodnika ["Die Zeit"](org) i magazynu politycznego [ARD "Kontraste"](org), pochodzi z tak zwanych "Pentagon Leaks", zestawu raportów amerykańskiego wywiadu krążących w internecie i opublikowanych przypuszczalnie przez 21-letniego członka [Gwardii Narodowej](org) [USA](loc).
+- Niepozorna żółta kartka papieru wydaje się dowodzić szpiegostwa [USA](loc) przeciwko [Federalnemu Ministerstwu Obrony](org) – pisze [Georg Heil](per) z [RBB](org) [Rundfunk Berlin Brandenburg](org), część [ARD](org)) na portalu [tagesschau.de](org).
+- Dokument, który znalazł się w posiadaniu tygodnika ["Die Zeit"](org) i magazynu politycznego ARD ["Kontraste"](org), pochodzi z tak zwanych "Pentagon Leaks", zestawu raportów amerykańskiego wywiadu krążących w internecie i opublikowanych przypuszczalnie przez 21-letniego członka [Gwardii Narodowej](org) [USA](loc).
 - "[Niemieckie Ministerstwo Obrony](org) odrzuca głębszą współpracę z [Chińską Republiką Ludową](loc), dopóki [Chiny](loc) nie staną się bardziej przejrzyste" – to tłumaczenie angielskiego nagłówka krótkiego raportu, który najprawdopodobniej pochodzi z amerykańskiej agencji wywiadowczej.
 - Raport ten po krótkim czasie zniknął z sieci.
 - ["Kontraste"](org) i ["Die Zeit"](org) przeanalizowały dokument i uznają go za autentyczny, ale ostateczne potwierdzenie autentyczności mogłoby przyjść tylko od amerykańskich agencji rządowych.
@@ -336,9 +336,9 @@
 - Zdaniem dziennikarzy obu niemieckich mediów, będzie to zależało od tego, jak na ten incydent zareaguje rząd [USA](loc).
 - "Niemiecki rząd zdaje sobie sprawę z tego, że Niemcy są zależne od amerykańskiego wywiadu, a w obliczu wojny na [Ukrainie](loc) stara się w miarę możliwości nie nadwyrężać stosunków z [USA](loc)" – komentuje [Heil](per).
 - Sfałszowane dzienniki [Hitlera](per) wywołały skandal.
-- Teraz trafiły do sieci "To jest istona sprawa i obowiązuje wypowiedź pani [Merkel](per): podsłuchiwanie między przyjaciółmi jest niedopuszczalne" – powiedział [Konstantin von Notz](per), członek [grupy Zielonych](org) ds. polityki wewnętrznej.
+- Teraz trafiły do sieci "To jest istona sprawa i obowiązuje wypowiedź pani [Merkel](per): podsłuchiwanie między przyjaciółmi jest niedopuszczalne" – powiedział [Konstantin von Notz](per), członek grupy [Zielonych](org) ds. polityki wewnętrznej.
 - [Von Notz](per) podkreśla jednak, że najpierw trzeba porozmawiać z Amerykanami i wyjaśnić, jak mogło dojść do rzekomego szpiegostwa.
-- [Gustav Gressel](per) z [Europejskiej Rady Stosunków Zagranicznych](org) [(ECFR)](org) uważa, że rzekome szpiegostwo [USA](loc) przeciwko [Republice Federalnej Niemiec](loc) nie jest zaskakujące, a wręcz jest tradycją.
+- [Gustav Gressel](per) z [Europejskiej Rady Stosunków Zagranicznych](org) [ECFR](org) uważa, że rzekome szpiegostwo [USA](loc) przeciwko [Republice Federalnej Niemiec](loc) nie jest zaskakujące, a wręcz jest tradycją.
 - [Sam Gressel](per) spotkał się z przypuszczalnie tą samą chińską delegacją dzień po spotkaniu w [Federalnym Ministerstwie Obrony](org).
 - "Tutaj Amerykanie klasyfikują jako 'ściśle tajne' informacje, które można było równie dobrze uzyskać, dzwoniąc do [Fundacji Nauka i Polityka](org) lub gdyby bardzo ładnie poprosić w [Ministerstwie Obrony](org)" – stwierdził [Gressel](per) w rozmowie z ["Kontraste"](org) i ["Die Zeit"](org).
 - Redaktor naczelna zwolniona za "niesmaczny wywiad" z [Schumacherem Gressel](per) uważa jednak za problematyczne to, że Niemcy, które jego zdaniem "nie mają płynności w obszarze wywiadu", nie potrafią się lepiej chronić.
@@ -404,7 +404,7 @@
 - Przed wtorkowym losowaniem główną nagrodę zdobyło łącznie pięciu graczy z [Polski](loc).
 - Pierwszy był mieszkaniec powiatu piotrkowskiego, który w [maju 2019](time) wygrał ponad 193 mln złotych.
 - Jego historię na łamach [WP](org) opisał dziennikarz [Mateusz Ratajczak](per).
-- Rekord kwotowy padł w [sierpniu 2022](time), kiedy gracz z [powiatu krotoszyńskiego](loc) wygrał ponad 213,5 mln złotych.
+- Rekord kwotowy padł w [sierpniu 2022](time), kiedy gracz z powiatu [krotoszyńskiego](loc) wygrał ponad 213,5 mln złotych.
 - [12 maja 1926](time) roku [Józef Piłsudski](per) zdecydował się przekreślić demokratyczną drogę [Polski](loc).
 - Zwolennicy tego rozwiązania powiedzieliby, że ratował kraj przed endecką dyktaturą.
 - Przeciwnicy, że napędzało go głównie własne ego.
@@ -417,7 +417,7 @@
 - Tak było też tym razem.
 - Uznający siebie za wcielenie króla-ducha z dramatu [Słowackiego](per), marszałek był przekonany, że wystarczy siła jego nazwiska i oddziały zgrupowane na [Pradze](loc), a rząd w obliczu szturmu na lewy brzeg [Wisły](loc) sam poda się do dymisji.
 - Zderzenie z rzeczywistością miało być dla niego szokiem.
-- Podczas spotkania na [moście Poniatowskiego](loc) prezydent [Stanisław Wojciechowski](per) oznajmił mu, że to on reprezentuje wojsko polskie.
+- Podczas spotkania na moście [Poniatowskiego](loc) prezydent [Stanisław Wojciechowski](per) oznajmił mu, że to on reprezentuje wojsko polskie.
 - Następnie niedowierzający [Piłsudski](per) zapytał młodego oficera, czy ten "będzie do niego strzelać".
 - Młody odpowiedział, że jeśli dostanie odpowiedni rozkaz, to się nie zawaha.
 - Starcia na ulicach [Warszawy](loc) potrwały trzy dni.
@@ -473,7 +473,7 @@
 - Trudno, żeby w tym czasie zasłużył sobie na taki los.
 - Marszałek występował więc raczej przeciwko historycznym zaszłościom, własnym lękom i fobiom.
 - Ostatecznie zbudowane po zamachu państwo okazało się słabe.
-- Zdeptało demokrację w [Polsce](loc) (odmawiano rejestracji list wyborczych, tysiące ludzi aresztowano bez wyroku sądowego), nie rozwiązało najbardziej palących problemów epoki (reforma rolna), jego innowacyjność była rozczarowująca [Centralny Okręg Przemysłowy](loc), a kariery robiło się w nim raczej przez znajomości i układy niż dzięki kompetencjom.
+- Zdeptało demokrację w [Polsce](loc) (odmawiano rejestracji list wyborczych, tysiące ludzi aresztowano bez wyroku sądowego), nie rozwiązało najbardziej palących problemów epoki (reforma rolna), jego innowacyjność była rozczarowująca Centralny Okręg Przemysłowy, a kariery robiło się w nim raczej przez znajomości i układy niż dzięki kompetencjom.
 - W momencie próby przetrwało ledwie 17 dni.
 - Inna władza też pewnie nie dałaby rady wobec agresji z [września 1939](time) roku, ale to już gdybanie i historia alternatywna.
 - [Rząd USA](org) może nie być w stanie spłacać wszystkich swoich zobowiązań już od początku czerwca, jeśli [Kongres](org) nie podniesie limitu zadłużenia - ostrzegła w poniedziałek szefowa resortu finansów [Janet Yellen](per).
@@ -526,7 +526,7 @@
 - Amerykańskie służby oceniły wyciek jako "bardzo poważny".
 - W [czwartek](time) uzbrojeni agenci [FBI](org) aresztowali 21-letniego [Jacka Teixeirę](per), żołnierza jednostki wywiadowczej [Sił Powietrznych Gwardii Narodowej](org).
 - Na filmie z aresztowania widać prowadzonego przez dwóch funkcjonariuszy młodego mężczyznę z krótkimi, ciemnymi włosami, ubranego w oliwkowy T-shirt i czerwone szorty. "
-- Według ["Washington Post"](org), 21-latek miał się chwalić pracą w [bazie wojskowej Otwis](loc), gdzie część dnia spędzał w pomieszczeniach z tajnymi danymi.
+- Według ["Washington Post"](org), 21-latek miał się chwalić pracą w bazie wojskowej [Otwis](loc), gdzie część dnia spędzał w pomieszczeniach z tajnymi danymi.
 - Był odpowiedzialny za sieci internetowe swojej jednostki.
 - 21-latek ma stanąć w piątek przed sądem, już usłyszał zarzuty.
 - Grozi mu wieloletnie więzienie.
@@ -584,7 +584,7 @@
 - Trzeba było ponad siedemdziesięciu lat, by odwrócić zły los.
 - Jeszcze kilka dekad temu nikt za odrodzenie się pałacu [Marianny Orańskiej](per) nie dałby złamanego grosza.
 - Na pałacu ponownie pojawi się wspaniały lew wraz z [Herkulesem](per) i koroną wieńczącą fasadę.
-- [Gmina Kamieniec Ząbkowicki](loc) na remont piątego co do wielkości pałacu w [Polsce](loc), który zbudowała królewna niderlandzka [Marianna Orańska](per), zdobyła rekordowe dotacje.
+- Gmina [Kamieniec Ząbkowicki](loc) na remont piątego co do wielkości pałacu w [Polsce](loc), który zbudowała królewna niderlandzka [Marianna Orańska](per), zdobyła rekordowe dotacje.
 - Obiekt w bardzo złym stanie został własnością lokalnego samorządu w [2012](time) roku.
 - Od [2013](time) roku obiekt odradza się systematycznie dzięki pieniądzom gminy, środkom pozabudżetowym z [Ministerstwa Kultury i Dziedzictwa Narodowego](org) i ogromnym dotacjom z [Unii Europejskiej](org).
 - Pałac w [Kamieńcu Ząbkowickim](loc) jest jednym z najpiękniejszych obiektów tego typu nie tylko na [Dolnym Śląsku](loc), ale i w [Polsce](loc).
@@ -595,7 +595,7 @@
 - Nic więc dziwnego, że gdy [9 lutego 1946](time) roku [Kamieniec Ząbkowicki](loc) opuszczają Rosjanie, kolej na następnych eksploratorów.
 - Drewno przyda się na opał, każda wyrwana cegła, fragment stolarki to dobro materialne, darmowy materiał budowlany po Niemcu.
 - Najlepsze zastosowanie znajdą ocalałe jeszcze płyty marmurowe.
-- Dziś podziwiać je można w Sali Kongresowej [Pałacu Kultury i Nauki](loc).
+- Dziś podziwiać je można w Sali Kongresowej Pałacu Kultury i Nauki.
 - Zanim narodzi się świadomość, odpowiedzialność za wspólne dobro i poszanowanie dla dziedzictwa wieków, a także przekonanie, że [Dolny Śląsk](loc) będzie na trwałe miejscem życia kolejnych pokoleń Polaków, miną całe dekady.
 - W wielu wypadkach te zjawiska nie nastaną nigdy.
 - Ale wiele lat później zdarzać się zacznie coś, co wydawało się już niemożliwe.
@@ -631,11 +631,11 @@
 - [Franciszek](per) odpowiedział wtedy, że nie ma wiadomości na ten temat, ale zadeklarował zarazem, że gotów jest udać się do [Chin](loc).
 - Pani [Anna](per) mieszka pod [Dęblinem](loc).
 - Pracuje w szpitalu i dodatkowo w prywatnej przychodni w [Lublinie](loc), a jej mama mieszka w [Łukowie](loc).
-- Swoje regularne podróże po [województwie lubelskim](loc), które odbywa od czasów studiów, opisuje krótko: "Kiedyś gehenna, teraz luksus".
+- Swoje regularne podróże po województwie [lubelskim](loc), które odbywa od czasów studiów, opisuje krótko: "Kiedyś gehenna, teraz luksus".
 - W [XXI](time) wiek przeniosły mnie elektryczne pociągi, żałuję że nie było ich wcześniej, bo tyle zdrowia i nerwów straciłam na tych dojazdach – mówi 38-letnia lekarka.
 - [Anna](per) przez lata przetestowała różne metody transportu.
 - Mam wiedzę z własnego doświadczenia i z czystym sercem potwierdzam, że wyłącznie nowoczesny pociąg jest rozwiązaniem bez wad – uśmiecha się kobieta.
-- Kiedyś trasę [Dęblin](loc) -[Lublin](loc) [Anna](per) pokonywała własnym samochodem.
+- Kiedyś trasę [Dęblin](loc) - [Lublin](loc) [Anna](per) pokonywała własnym samochodem.
 - Można było zrobić przy okazji zakupy, jechało się w cieple, ale do zmęczenia pracą dochodziło zmęczenie przejazdem.
 - Zawsze towarzyszył mi za kółkiem stres, czy zdążę na dyżur, bo a to korek, a to wypadek, a to droga śliska.
 - Po dobowych dyżurach i dojazdach w dwie strony czułam się jakbym przepracowała dodatkowe 5 godzin – ocenia.
@@ -705,7 +705,7 @@
 - Szczegóły opisano w czasopiśmie naukowym ["Animals"](org).
 - Samiec musi nakłonić samicę do współpracy.
 - Jeśli ta odmówi, samiec będzie wiedział, że nie ma dla niego przyszłości - mówi prof. [Lynette Hart](per) z [Uniwersytetu Kalifornijskiego](org), główna autorka badania.
-- [Hart](per) i jej mąż, [Benjamin](per), emerytowany profesor tego samego uniwersytetu, wielokrotnie byli świadkami "rytuału" żyraf podczas wypraw badawczych do [Parku Narodowego Etosha](loc) w [Namibii](loc).
+- [Hart](per) i jej mąż, [Benjamin](per), emerytowany profesor tego samego uniwersytetu, wielokrotnie byli świadkami "rytuału" żyraf podczas wypraw badawczych do Parku Narodowego [Etosha](loc) w [Namibii](loc).
 - Po jego zachodniej stronie znajdowały się duże wodopoje, przy których gromadziły się dziesiątki żyraf.
 - Prof. [Lynette](per) nazwała to "spełnieniem marzeń" w obserwowaniu żyraf.
 - Naukowcy przy okazji odnotowali nieudokumentowane wcześniej zachowania żyraf, m.in. żucie kości (osteofagię), kilkudniowe procesje do ciała osobnika zabitego przez lwy, a także głośne warczenie samców.
@@ -787,7 +787,7 @@
 - Według świadków statek ten w końcu zaczął zawracać do portu, zdecydował się na to jednak zbyt późno, by uniknąć burzy.
 - Wysoki talibski dowódca zagroził w niedzielnym nagraniu, że siły [Talibanu](org) mogą zająć stolicę [Iranu](loc), [Teheran](loc), w ciągu kilku godzin, jeżeli tylko zgodzi się na to najwyższy przywódca talibów.
 - W [sobotę](time) na granicy [Iranu](loc) i [Afganistanu](loc) doszło do starć, w których życie straciło kilku pograniczników.
-- Nagranie powstało po starciach, do których doszło w [sobotę](time) na [granicy irańsko-afgańskiej](loc), gdzie w wymianie ognia zginęło po obu stronach przynajmniej trzech pograniczników - zauważa portal [Jerusalem Post](org).
+- Nagranie powstało po starciach, do których doszło w [sobotę](time) na granicy [irańsko](loc) - [afgańskiej](loc), gdzie w wymianie ognia zginęło po obu stronach przynajmniej trzech pograniczników - zauważa portal [Jerusalem Post](org).
 - Będziemy walczyć z [Iranem](loc) z większą werwą niż walczyliśmy z [USA](loc).
 - Jeżeli nasza starszyzna wezwie nas do dżihadu, zajmiemy cały [Iran](loc) w 24 godziny - mówił wysoko postawiony dowódca sił [Talibanu](org), [Abdul Hamid Khorasani](per).
 - Zajmiemy [Teheran](loc) w ciągu kilku godzin, jeżeli tylko pozwoli na to najwyższy przywódca [Talibanu](org) – dodał.
@@ -960,7 +960,7 @@
 - [Elizabeth Holmes](per), założycielka nieistniejącego już startupu [Theranos](org), stawiła się w więzieniu we [wtorek](time) - informują zagraniczne media.
 - Kobieta, niegdyś okrzyknięta przez media "najmłodszą miliarderką na świecie", pod koniec ubiegłego roku została skazana na ponad 11 lat pozbawienia wolności za oszukanie inwestorów.
 - [Holmes](per) stawiła się w więzieniu we [wtorek](time).
-- Możemy potwierdzić, że [Elizabeth Holmes](per) przybyła do [federalnego więzienia Bryan](loc) w [Teksasie](loc) - powiedział rzecznik ośrodka w odpowiedzi na pytania [CNN](org).
+- Możemy potwierdzić, że [Elizabeth Holmes](per) przybyła do federalnego więzienia [Bryan](loc) w [Teksasie](loc) - powiedział rzecznik ośrodka w odpowiedzi na pytania [CNN](org).
 - [Elizabeth Holmes](per) została skazana pod koniec [listopada 2022](time) roku na 11 lat i trzy miesiące więzienia za oszukanie inwestorów.
 - Prokuratura zarzucała jej fałszywe przedstawianie technologii i finansów [Theranosu](org).
 - To startup, który miał zmienić system opieki zdrowotnej w [Stanach Zjednoczonych](loc) i pomóc milionom Amerykanów.
@@ -1023,7 +1023,7 @@
 - Ze względu na awarię, 3. osobom zapewniono przejazd taksówką!
 - Połamanie pantografu lokomotywy zatrzymało przejazd pociągu [IC](org) Asnyk.
 - Opóźnienie składu było gigantyczne, więc [PKP Intercity](org) zaoferowało podróżnym nietypowe i ponadstandardowe rozwiązanie tego problemu.
-- Ze względu na wynikające z awarii opóźnienie 3. osobom zapewniono przejazd taksówką na [Lotnisko Chopina w Warszawie](loc).
+- Ze względu na wynikające z awarii opóźnienie 3. osobom zapewniono przejazd taksówką na [Lotnisko Chopina](loc) w [Warszawie](loc).
 - Natomiast pasażerowi poruszającemu się na wózku inwalidzkim umożliwiono w porozumieniu z [Kolejami Dolnośląskimi](org) przejazd ze stacji [Wrocław Nadodrze](loc) do stacji [Wrocław Główny](loc).
 - W mieście wynajęto pokój hotelowy przystosowany do potrzeb osoby z niepełnosprawnością – poinformowała [„Rynek Kolejowy”](org) [Agnieszka Serbeńska](per) z zespołu prasowego [PKP Intercity](org).
 - Pasażerowie feralnego dnia otrzymali również skromny poczęstunek z wagonu gastronomicznego.
@@ -1031,7 +1031,7 @@
 - W pociągu było 90 osób.
 - Co ciekawe i zarazem szokujące, planowy odjazd pociągu ze stacji zaplanowany był na godzinę [19:17](time).
 - [IC](org) Asnyk ruszył z niej dopiero o… północy!
-- Została zadysponowana lokomotywa zastępcza z [Wrocławia Gł.](loc) i oczekiwała na wymianę, co było możliwe dopiero po załączeniu napięcia w sieci trakcyjnej – dodała w rozmowie z [„Rynkiem Kolejowym”](org) [Agnieszka Serbeńska](per).
+- Została zadysponowana lokomotywa zastępcza z [Wrocławia Głównego](loc) i oczekiwała na wymianę, co było możliwe dopiero po załączeniu napięcia w sieci trakcyjnej – dodała w rozmowie z [„Rynkiem Kolejowym”](org) [Agnieszka Serbeńska](per).
 - "Dajemy jasno do zrozumienia, że jesteśmy przygotowani do obrony każdego centymetra kwadratowego terytorium Sojuszu" - powiedział sekretarz generalny [NATO](org) [Jens Stoltenberg](per) w kwaterze głównej [Sojuszu Północnoatlantyckiego](org) w [Brukseli](loc).
 - "Goliat się chwieje, bo Dawid wykazał się wyjątkową odpornością i kunsztem taktycznym" - dodawał Przewodniczący [Komitetu Wojskowego NATO](org).
 - Wojna na [Ukrainie](loc) wywołuje obawy o eskalację.
@@ -1114,7 +1114,7 @@
 - Pierwszy pogląd podziela 59 proc. badanych, drugi – 41 proc.
 - [Europejskie Śródziemnomorskie Centrum Sejsmologiczne](org) [(EMSC)](org) poinformowało we [wtorek](time) [14 lutego](time) po południu, że [Rumunię](loc) nawiedziło trzęsienie ziemi o sile 5,7 stopnia w skali [Richtera](per).
 - Wstrząsy były jednak odczuwalne także w [Serbii](loc), [Bułgarii](loc) i na [Węgrzech](loc), a nawet w odleglejszych krajach, takich jak [Słowacja](loc), [Bośnia i Hercegowina](loc) oraz [Kosowo](loc).
-- Jak informuje agencja [Reutera](org), trzęsienie miało miejsce na głębokości 40 km, a epicentrum znajdowało się 56 km na północny wschód od [Drobeta-Turnu Severin](loc) w [Rumunii](loc).
+- Jak informuje agencja [Reutera](org), trzęsienie miało miejsce na głębokości 40 km, a epicentrum znajdowało się 56 km na północny wschód od [Drobeta Turnu-Severin](loc) w [Rumunii](loc).
 - Rumuńskie media podają tymczasem, że służby państwowe zostały zaalarmowane już w [poniedziałek](time), [13 lutego](time), bo wtedy ziemia zatrzęsła się tam z siłą 5,2 w skali [Richtera](per).
 - Epicentrum poniedziałkowych wstrząsów znajdowało się w okręgu [Gorj](loc) na południowym zachodzie kraju.
 - Wtorkowe wstrząsy były odczuwalne nie tylko w [Rumunii](loc), ale także w [Serbii](loc), [Bułgarii](loc) i na [Węgrzech](loc), jak również w odleglejszych krajach, takich jak [Słowacja](loc), [Bośnia i Hercegowina](loc) oraz [Kosowo](loc).
@@ -1436,7 +1436,7 @@
 - [Ukraińskie MSZ](org) wezwało we [wtorek](time) w oświadczeniu do zorganizowania pilnego spotkania [Rady Bezpieczeństwa ONZ](org) w sprawie "rosyjskiego ataku terrorystycznego", w którym zniszczono tamę na [Dnieprze](loc) w [Nowej Kachowce](loc) na południu [Ukrainy](loc), oraz do nałożenia kolejnych dotkliwych sankcji na [Rosję](loc).
 - Ukraiński resort zażądał nałożenia nowych międzynarodowych sankcji w szczególności na rosyjski przemysł rakietowy i atomowy.
 - "Uważamy wysadzenie przez [Federację Rosyjską](loc) tamy [Kachowskiej Elektrowni Wodnej](loc) za akt terroru skierowanego przeciwko infrastrukturze krytycznej [Ukrainy](loc), który ma na celu spowodowanie tak wielu ofiar cywilnych i zniszczeń, jak to tylko możliwe" - napisano.
-- Jak dodał ukraiński resort, "atak terrorystyczny" był wcześniej przedmiotem dyskusji na szczeblu sił okupacyjnych w [obwodzie chersońskim](loc) oraz propagandzistów w rosyjskiej telewizji, co oznacza, że był on zaplanowany z wyprzedzeniem.
+- Jak dodał ukraiński resort, "atak terrorystyczny" był wcześniej przedmiotem dyskusji na szczeblu sił okupacyjnych w obwodzie [chersońskim](loc) oraz propagandzistów w rosyjskiej telewizji, co oznacza, że był on zaplanowany z wyprzedzeniem.
 - Eksplozja tamy to "ekologiczny i technologiczny akt terroru, największa katastrofa technologiczna w [Europie](loc) w ostatnich dekadach" - twierdzi [ukraińskie MSZ](org).
 - Jak podkreśla resort, w związku z wysadzeniem tamy w zagrożeniu znalazła się również [Zaporoska Elektrownia Atomowa](loc).
 - "[Rosja](loc) będzie musiała zrekompensować wszystkie swoje zbrodnie: wobec ludzi, infrastruktury i środowiska" - uważa [ukraińskie MSZ](org).
@@ -1971,7 +1971,7 @@
 - W [poniedziałek](time) na [Morzu Bałtyckim](loc) rozpoczęły się dziesięciodniowe ćwiczenia rosyjskiej [Floty Bałtyckiej](org).
 - Rosjanie przekazali, że celem manewrów jest opracowanie ochrony szlaków morskich i baz floty.
 - W [niedzielę](time) ćwiczenia na [Bałtyku](loc) rozpoczęły z kolei państwa członkowskie [NATO](org).
-- W dniach [5](time) - [15 czerwca](time) odbędą się ćwiczenia operacyjne zgrupowań [Floty Bałtyckiej](org) pod dowództwem dowódcy [Floty Bałtyckiej](org) wiceadmirała [Władimira Worobiowa](per) na [Morzu Bałtyckim](loc) i na poligonach w [obwodzie kaliningradzkim](loc) - przekazała służba prasowa [Floty Bałtyckiej](org), cytowana przez agencję [RIA Nowosti](org).
+- W dniach [5](time) - [15 czerwca](time) odbędą się ćwiczenia operacyjne zgrupowań [Floty Bałtyckiej](org) pod dowództwem dowódcy [Floty Bałtyckiej](org) wiceadmirała [Władimira Worobiowa](per) na [Morzu Bałtyckim](loc) i na poligonach w obwodzie [kaliningradzkim](loc) - przekazała służba prasowa [Floty Bałtyckiej](org), cytowana przez agencję [RIA Nowosti](org).
 - Jak poinformowano, w pierwszym etapie manewrów morskie grupy taktyczne opuściły swoje bazy i rozmieściły zgrupowania w wyznaczonych obszarach.
 - W ćwiczeniach weźmie udział ok. 40 nawodnych okrętów wojennych, łodzi i jednostek pomocniczych, w tym okręty patrolowe i korwety, małe okręty rakietowe, trałowce, małe poduszkowce desantowe i okręty logistyczne.
 - Ponadto zaangażowanych jest ponad 3,5 tys. żołnierzy, ok. 25 samolotów i śmigłowców i 500 jednostek sprzętu wojskowego.
